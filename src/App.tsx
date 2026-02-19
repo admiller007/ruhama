@@ -52,9 +52,13 @@ export default function App({
 
   return (
     <main className="app-shell">
-      <header>
-        <h1>Ruhama&apos;s Recipe Search</h1>
-        <p>
+      <header className="site-header">
+        <div className="header-decoration" aria-hidden="true"></div>
+        <h1 className="site-title">
+          <span className="title-script">Ruhama&apos;s</span>
+          <span className="title-main">Recipe Search</span>
+        </h1>
+        <p className="recipe-count">
           Showing {visibleResults.length} of {allResults.length} recipes
         </p>
       </header>
@@ -70,8 +74,12 @@ export default function App({
       ) : (
         <>
           <section className="results-grid" aria-label="Recipe search results">
-            {visibleResults.map((recipe) => (
-              <RecipeCard key={recipe.shortcode ?? recipe.name} recipe={recipe} />
+            {visibleResults.map((recipe, index) => (
+              <RecipeCard
+                key={recipe.shortcode ?? recipe.name}
+                recipe={recipe}
+                animationDelay={Math.min(index * 30, 600)}
+              />
             ))}
           </section>
           {canLoadMore ? (

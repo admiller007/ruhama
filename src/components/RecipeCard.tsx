@@ -2,6 +2,7 @@ import type { SearchableRecipe } from '../lib/types';
 
 interface RecipeCardProps {
   recipe: SearchableRecipe;
+  animationDelay?: number;
 }
 
 function ingredientPreview(ingredients: string[]): string {
@@ -16,48 +17,95 @@ function ingredientPreview(ingredients: string[]): string {
   return extra > 0 ? `${preview} | +${extra} more` : preview;
 }
 
-export function RecipeCard({ recipe }: RecipeCardProps) {
+export function RecipeCard({ recipe, animationDelay = 0 }: RecipeCardProps) {
   const instructions = recipe.instructions ?? [];
   const recipeKey = recipe.shortcode ?? recipe.name;
+  const ingredientCount = recipe.cleanIngredients.length;
 
   return (
-    <article className="recipe-card">
+    <article
+      className="recipe-card"
+      style={{ animationDelay: `${animationDelay}ms` }}
+    >
       <details>
         <summary>
-          <h2>{recipe.name}</h2>
-          <p>{ingredientPreview(recipe.cleanIngredients)}</p>
+          <div className="card-summary-content">
+            <h2>{recipe.name}</h2>
+            <p className="ingredient-preview">
+              {ingredientPreview(recipe.cleanIngredients)}
+            </p>
+            {ingredientCount > 0 && (
+              <span className="ingredient-count-badge">
+                {ingredientCount} ingredient{ingredientCount !== 1 ? 's' : ''}
+              </span>
+            )}
+          </div>
+          <span className="expand-chevron" aria-hidden="true">
+            <svg
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+            >
+              <polyline points="6 9 12 15 18 9" />
+            </svg>
+          </span>
         </summary>
 
         <section className="recipe-details">
-          <h3>Ingredients</h3>
-          {recipe.cleanIngredients.length === 0 ? (
-            <p>No ingredients listed.</p>
-          ) : (
-            <ul>
-              {recipe.cleanIngredients.map((ingredient, index) => (
-                <li key={`${recipeKey}-ingredient-${index}`}>{ingredient}</li>
-              ))}
-            </ul>
-          )}
+          <div className="recipe-details-inner">
+            <div className="details-divider"></div>
 
-          <h3>Instructions</h3>
-          {instructions.length === 0 ? (
-            <p>No instructions listed.</p>
-          ) : (
-            <ol>
-              {instructions.map((step, index) => (
-                <li key={`${recipeKey}-step-${index}`}>{step}</li>
-              ))}
-            </ol>
-          )}
+            <h3>Ingredients</h3>
+            {recipe.cleanIngredients.length === 0 ? (
+              <p className="empty-note">No ingredients listed.</p>
+            ) : (
+              <ul>
+                {recipe.cleanIngredients.map((ingredient, index) => (
+                  <li key={`${recipeKey}-ingredient-${index}`}>{ingredient}</li>
+                ))}
+              </ul>
+            )}
 
-          {recipe.url ? (
-            <p>
-              <a href={recipe.url} target="_blank" rel="noreferrer">
-                View source post
+            <h3>Instructions</h3>
+            {instructions.length === 0 ? (
+              <p className="empty-note">No instructions listed.</p>
+            ) : (
+              <ol>
+                {instructions.map((step, index) => (
+                  <li key={`${recipeKey}-step-${index}`}>{step}</li>
+                ))}
+              </ol>
+            )}
+
+            {recipe.url ? (
+              <a
+                className="source-link"
+                href={recipe.url}
+                target="_blank"
+                rel="noreferrer"
+              >
+                View on Instagram
+                <svg
+                  width="14"
+                  height="14"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  aria-hidden="true"
+                >
+                  <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
+                  <polyline points="15 3 21 3 21 9" />
+                  <line x1="10" y1="14" x2="21" y2="3" />
+                </svg>
               </a>
-            </p>
-          ) : null}
+            ) : null}
+          </div>
         </section>
       </details>
     </article>
