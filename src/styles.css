@@ -213,14 +213,28 @@ body {
   background: var(--card-bg);
   backdrop-filter: blur(2px);
   box-shadow: var(--shadow-sm), inset 0 1px 0 rgba(255, 255, 255, 0.4);
-  transition: box-shadow 300ms ease, border-color 300ms ease, transform 300ms ease;
+  opacity: 0;
+  transform: translateY(14px);
+  transition:
+    opacity 420ms ease-out,
+    transform 420ms ease-out,
+    box-shadow 300ms ease,
+    border-color 300ms ease;
   overflow: hidden;
-  animation: card-enter 400ms ease-out both;
+  will-change: opacity, transform;
+}
+
+.recipe-card.is-visible {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .recipe-card:hover {
   box-shadow: var(--shadow-card-hover);
   border-color: var(--card-border-hover);
+}
+
+.recipe-card.is-visible:hover {
   transform: translateY(-2px);
 }
 
@@ -427,17 +441,6 @@ details[open] > .recipe-details > .recipe-details-inner {
   from {
     opacity: 0;
     transform: translateY(4px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes card-enter {
-  from {
-    opacity: 0;
-    transform: translateY(12px);
   }
   to {
     opacity: 1;
