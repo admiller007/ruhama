@@ -1,0 +1,162 @@
+:root {
+  --bg-top: #f0eadf;
+  --bg-bottom: #f7f4ec;
+  --text: #1f1c17;
+  --muted: #5f594e;
+  --card-bg: #fffdf8;
+  --card-border: #d7cebf;
+  --button-bg: #735a3a;
+  --button-text: #ffffff;
+  --input-border: #cfc4b3;
+
+  font-family: 'Avenir Next', 'Trebuchet MS', 'Gill Sans', sans-serif;
+  color: var(--text);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: radial-gradient(circle at 15% 0%, var(--bg-top), var(--bg-bottom) 55%);
+}
+
+.app-shell {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+  animation: fade-in 260ms ease-out;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+header p {
+  margin: 8px 0 20px;
+  color: var(--muted);
+}
+
+.search-bar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.search-bar input {
+  flex: 1;
+  min-width: 0;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid var(--input-border);
+  font-size: 1rem;
+  background: #fffdfa;
+}
+
+.search-bar button {
+  padding: 12px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--button-bg);
+  background: var(--button-bg);
+  color: var(--button-text);
+  cursor: pointer;
+}
+
+.search-bar button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.results-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.recipe-card {
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  background: var(--card-bg);
+  box-shadow: 0 1px 0 rgba(50, 40, 24, 0.04);
+}
+
+.recipe-card details {
+  padding: 0;
+}
+
+.recipe-card summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 14px 16px;
+}
+
+.recipe-card summary::-webkit-details-marker {
+  display: none;
+}
+
+.recipe-card summary h2 {
+  margin: 0 0 6px;
+  font-size: 1.1rem;
+}
+
+.recipe-card summary p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
+.recipe-details {
+  padding: 0 16px 16px;
+}
+
+.recipe-details h3 {
+  margin-bottom: 6px;
+}
+
+.recipe-details ul,
+.recipe-details ol {
+  margin-top: 0;
+  padding-left: 20px;
+}
+
+.empty-state {
+  padding: 16px;
+  border: 1px dashed #a79f90;
+  border-radius: 10px;
+  background: #fffdfa;
+}
+
+.load-more-button {
+  margin: 16px auto 0;
+  display: block;
+  padding: 10px 18px;
+  border-radius: 8px;
+  border: 1px solid var(--button-bg);
+  background: var(--button-bg);
+  color: var(--button-text);
+  cursor: pointer;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 640px) {
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  .search-bar {
+    flex-direction: column;
+  }
+}
