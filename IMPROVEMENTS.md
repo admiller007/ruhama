@@ -9,7 +9,7 @@
 ## Interactions & Motion
 
 - [x] **Scroll-triggered card reveals** — Use `IntersectionObserver` to animate cards as they scroll into view instead of all at once on page load.
-- [ ] **Search term highlighting** — Bold/highlight matched query text in recipe names and ingredient previews.
+- [x] **Search term highlighting** — Bold/highlight matched query text in recipe names and ingredient previews.
 - [ ] **Scroll-to-top button** — Floating "back to top" button that fades in after scrolling down.
 - [ ] **Skeleton loading state** — Placeholder card shapes during initial data load/search transitions.
 

@@ -1,8 +1,10 @@
 import { useEffect, useRef, useState } from 'react';
+import { splitHighlightSegments } from '../lib/highlight';
 import type { SearchableRecipe } from '../lib/types';
 
 interface RecipeCardProps {
   recipe: SearchableRecipe;
+  searchQuery?: string;
   animationDelay?: number;
 }
 
@@ -18,12 +20,28 @@ function ingredientPreview(ingredients: string[]): string {
   return extra > 0 ? `${preview} | +${extra} more` : preview;
 }
 
-export function RecipeCard({ recipe, animationDelay = 0 }: RecipeCardProps) {
+export function RecipeCard({
+  recipe,
+  searchQuery = '',
+  animationDelay = 0
+}: RecipeCardProps) {
   const [isVisible, setIsVisible] = useState(false);
   const cardRef = useRef<HTMLElement | null>(null);
   const instructions = recipe.instructions ?? [];
   const recipeKey = recipe.shortcode ?? recipe.name;
   const ingredientCount = recipe.cleanIngredients.length;
+  const ingredientPreviewText = ingredientPreview(recipe.cleanIngredients);
+
+  const renderHighlightedText = (text: string) =>
+    splitHighlightSegments(text, searchQuery).map((segment, index) =>
+      segment.isMatch ? (
+        <mark key={`${text}-${index}`} className="search-highlight">
+          {segment.text}
+        </mark>
+      ) : (
+        <span key={`${text}-${index}`}>{segment.text}</span>
+      )
+    );
 
   useEffect(() => {
     const cardElement = cardRef.current;
@@ -69,9 +87,9 @@ export function RecipeCard({ recipe, animationDelay = 0 }: RecipeCardProps) {
       <details>
         <summary>
           <div className="card-summary-content">
-            <h2>{recipe.name}</h2>
+            <h2>{renderHighlightedText(recipe.name)}</h2>
             <p className="ingredient-preview">
-              {ingredientPreview(recipe.cleanIngredients)}
+              {renderHighlightedText(ingredientPreviewText)}
             </p>
             {ingredientCount > 0 && (
               <span className="ingredient-count-badge">
