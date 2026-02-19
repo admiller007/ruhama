@@ -20,6 +20,7 @@ export default function App({
   const [query, setQuery] = useState('');
   const [debouncedQuery, setDebouncedQuery] = useState('');
   const [visibleCount, setVisibleCount] = useState(resultLimit);
+  const [isSearchElevated, setIsSearchElevated] = useState(false);
 
   const searchableRecipes = useMemo(
     () => buildSearchableRecipes(initialRecipes),
@@ -37,6 +38,17 @@ export default function App({
   useEffect(() => {
     setVisibleCount(resultLimit);
   }, [debouncedQuery, resultLimit]);
+
+  useEffect(() => {
+    const onScroll = () => {
+      setIsSearchElevated(window.scrollY > 72);
+    };
+
+    onScroll();
+    window.addEventListener('scroll', onScroll, { passive: true });
+
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
 
   const allResults = useMemo(
     () => searchRecipes(searchableRecipes, debouncedQuery, searchableRecipes.length),
@@ -63,11 +75,13 @@ export default function App({
         </p>
       </header>
 
-      <SearchBar
-        query={query}
-        onChange={setQuery}
-        onClear={() => setQuery('')}
-      />
+      <div className={`search-bar-sticky${isSearchElevated ? ' is-elevated' : ''}`}>
+        <SearchBar
+          query={query}
+          onChange={setQuery}
+          onClear={() => setQuery('')}
+        />
+      </div>
 
       {allResults.length === 0 ? (
         <p className="empty-state">No recipes matched your search.</p>

@@ -42,6 +42,15 @@ describe('App', () => {
     expect(highlights).toHaveLength(2);
   });
 
+  it('renders the search bar inside a sticky container', () => {
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+
+    const search = screen.getByLabelText('Search recipes');
+    const stickyContainer = search.closest('.search-bar-sticky');
+
+    expect(stickyContainer).toBeInTheDocument();
+  });
+
   it('shows details when a recipe is expanded', async () => {
     render(<App initialRecipes={sampleData} debounceMs={0} />);
 
