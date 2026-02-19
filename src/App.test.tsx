@@ -29,6 +29,19 @@ describe('App', () => {
     expect(screen.queryByText('Beef Stew')).not.toBeInTheDocument();
   });
 
+  it('highlights query matches in recipe names and ingredient previews', async () => {
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+
+    const search = screen.getByLabelText('Search recipes');
+    await userEvent.type(search, 'chick');
+
+    const highlights = screen.getAllByText(/chick/i, {
+      selector: 'mark.search-highlight'
+    });
+
+    expect(highlights).toHaveLength(2);
+  });
+
   it('shows details when a recipe is expanded', async () => {
     render(<App initialRecipes={sampleData} debounceMs={0} />);
 

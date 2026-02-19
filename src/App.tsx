@@ -78,6 +78,7 @@ export default function App({
               <RecipeCard
                 key={recipe.shortcode ?? recipe.name}
                 recipe={recipe}
+                searchQuery={debouncedQuery}
                 animationDelay={Math.min(index * 30, 600)}
               />
             ))}
