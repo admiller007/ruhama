@@ -49,17 +49,16 @@ body {
   margin: 0;
   min-height: 100vh;
   background-color: #d9cdb8;
-  background-image: url('/paper-texture.jpg');
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
 }
 
-@media (max-width: 719px) {
-  body {
-    background-attachment: scroll;
-  }
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url('/paper-texture.jpg');
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
 }
 
 .app-shell {
