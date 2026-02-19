@@ -119,8 +119,17 @@ body {
 
 /* ── Search Bar ── */
 
+.search-bar-sticky {
+  position: sticky;
+  top: max(6px, env(safe-area-inset-top));
+  z-index: 30;
+  margin-bottom: 28px;
+  padding: 6px 0;
+  transition: padding 220ms ease;
+}
+
 .search-bar {
-  margin-bottom: 32px;
+  margin-bottom: 0;
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -130,6 +139,22 @@ body {
   position: relative;
   display: flex;
   align-items: center;
+  border-radius: 4px;
+  transition: box-shadow 220ms ease, transform 220ms ease;
+}
+
+.search-bar-sticky.is-elevated {
+  padding: 8px 0 10px;
+}
+
+.search-bar-sticky.is-elevated .search-input-wrapper {
+  box-shadow: 0 12px 26px rgba(44, 36, 24, 0.16);
+  transform: translateY(0);
+}
+
+.search-bar-sticky.is-elevated .search-bar input {
+  border-color: rgba(176, 141, 98, 0.4);
+  background: rgba(253, 248, 238, 0.97);
 }
 
 .search-icon {

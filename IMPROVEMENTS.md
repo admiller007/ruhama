@@ -22,7 +22,7 @@
 ## Typography & Layout
 
 - [ ] **Pull-quote style recipe names** — Drop cap, decorative quotes, or thin left-border accent for longer recipe names.
-- [ ] **Sticky search bar** — Pin search bar to the top on scroll so users can refine without scrolling back up.
+- [x] **Sticky search bar** — Pin search bar to the top on scroll so users can refine without scrolling back up.
 
 ## Polish
 
