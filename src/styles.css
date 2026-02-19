@@ -56,6 +56,12 @@ body {
   background-repeat: no-repeat;
 }
 
+@media (max-width: 719px) {
+  body {
+    background-attachment: scroll;
+  }
+}
+
 .app-shell {
   max-width: 880px;
   margin: 0 auto;
