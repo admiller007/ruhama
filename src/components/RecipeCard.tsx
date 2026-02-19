@@ -1,3 +1,4 @@
+import { useEffect, useRef, useState } from 'react';
 import type { SearchableRecipe } from '../lib/types';
 
 interface RecipeCardProps {
@@ -18,14 +19,52 @@ function ingredientPreview(ingredients: string[]): string {
 }
 
 export function RecipeCard({ recipe, animationDelay = 0 }: RecipeCardProps) {
+  const [isVisible, setIsVisible] = useState(false);
+  const cardRef = useRef<HTMLElement | null>(null);
   const instructions = recipe.instructions ?? [];
   const recipeKey = recipe.shortcode ?? recipe.name;
   const ingredientCount = recipe.cleanIngredients.length;
 
+  useEffect(() => {
+    const cardElement = cardRef.current;
+    if (!cardElement || isVisible) {
+      return;
+    }
+
+    const prefersReducedMotion =
+      typeof window.matchMedia === 'function' &&
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    if (prefersReducedMotion || typeof window.IntersectionObserver === 'undefined') {
+      setIsVisible(true);
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setIsVisible(true);
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      {
+        threshold: 0.15,
+        rootMargin: '0px 0px -6% 0px'
+      }
+    );
+
+    observer.observe(cardElement);
+
+    return () => observer.disconnect();
+  }, [isVisible]);
+
   return (
     <article
-      className="recipe-card"
-      style={{ animationDelay: `${animationDelay}ms` }}
+      ref={cardRef}
+      className={`recipe-card${isVisible ? ' is-visible' : ''}`}
+      style={{ transitionDelay: `${animationDelay}ms` }}
     >
       <details>
         <summary>
