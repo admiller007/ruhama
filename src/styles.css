@@ -4,9 +4,9 @@
   --font-body: 'DM Sans', 'Avenir Next', system-ui, sans-serif;
 
   /* Backgrounds */
-  --bg-top: #ece5d8;
-  --bg-bottom: #f5f1e8;
-  --card-bg: #fffcf5;
+  --bg-top: #e6ddd0;
+  --bg-bottom: #ede7da;
+  --card-bg: rgba(253, 248, 238, 0.75);
 
   /* Text */
   --text: #2c2418;
@@ -48,10 +48,12 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background-color: var(--bg-bottom);
-  background-image:
-    radial-gradient(circle at 10% 0%, var(--bg-top), transparent 50%),
-    radial-gradient(circle at 90% 100%, #e8dece, transparent 40%);
+  background-color: #d9cdb8;
+  background-image: url('/paper-texture.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .app-shell {
@@ -145,11 +147,12 @@ body {
 .search-bar input {
   width: 100%;
   padding: 16px 48px 16px 48px;
-  border-radius: 14px;
-  border: 1.5px solid var(--input-border);
+  border-radius: 4px;
+  border: 1.5px solid rgba(180, 160, 130, 0.5);
   font-size: 1rem;
   font-family: var(--font-body);
   background: var(--card-bg);
+  backdrop-filter: blur(2px);
   color: var(--text);
   box-shadow: var(--shadow-sm);
   transition: border-color 200ms ease, box-shadow 200ms ease;
@@ -205,10 +208,11 @@ body {
 /* ── Recipe Card ── */
 
 .recipe-card {
-  border: 1px solid var(--card-border);
-  border-radius: 14px;
+  border: 1px solid rgba(180, 160, 130, 0.5);
+  border-radius: 4px;
   background: var(--card-bg);
-  box-shadow: var(--shadow-sm);
+  backdrop-filter: blur(2px);
+  box-shadow: var(--shadow-sm), inset 0 1px 0 rgba(255, 255, 255, 0.4);
   transition: box-shadow 300ms ease, border-color 300ms ease, transform 300ms ease;
   overflow: hidden;
   animation: card-enter 400ms ease-out both;
@@ -383,7 +387,7 @@ details[open] > .recipe-details > .recipe-details-inner {
   text-align: center;
   padding: 48px 24px;
   border: 1.5px dashed var(--card-border);
-  border-radius: 14px;
+  border-radius: 4px;
   background: var(--card-bg);
   color: var(--muted);
   font-size: 1rem;
@@ -396,7 +400,7 @@ details[open] > .recipe-details > .recipe-details-inner {
   margin: 28px auto 0;
   display: block;
   padding: 12px 28px;
-  border-radius: 10px;
+  border-radius: 4px;
   border: 1.5px solid var(--accent);
   background: transparent;
   color: var(--accent);
