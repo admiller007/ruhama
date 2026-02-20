@@ -250,10 +250,18 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
-.filter-chip:hover {
-  border-color: var(--accent);
-  color: var(--accent);
-  background: var(--accent-light);
+@media (hover: hover) {
+  .filter-chip:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-light);
+  }
+
+  .filter-chip.is-active:hover {
+    background: var(--accent-hover);
+    border-color: var(--accent-hover);
+    color: var(--accent-text);
+  }
 }
 
 .filter-chip:active {
@@ -265,12 +273,6 @@ body {
   color: var(--accent-text);
   border-color: var(--accent);
   box-shadow: var(--shadow-sm);
-}
-
-.filter-chip.is-active:hover {
-  background: var(--accent-hover);
-  border-color: var(--accent-hover);
-  color: var(--accent-text);
 }
 
 /* ── Results Grid ── */
