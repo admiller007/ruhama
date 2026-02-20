@@ -15,7 +15,7 @@
 
 ## Functional Enhancements
 
-- [ ] **Quick filter chips** — Tappable tags below search bar for common ingredients ("Chicken", "Pasta", "Salmon") or dietary categories.
+- [x] **Quick filter chips** — Tappable tags below search bar for common ingredients ("Chicken", "Pasta", "Salmon") or dietary categories.
 - [ ] **Show macros/servings** — Display serving count and key macros (calories, protein) on the card.
 - [ ] **Keyboard navigation** — Arrow keys to move between cards, Enter to expand/collapse.
 

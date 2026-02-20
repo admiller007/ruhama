@@ -215,6 +215,64 @@ body {
   color: var(--text);
 }
 
+/* ── Filter Chips ── */
+
+.filter-chips {
+  max-width: 600px;
+  margin: 0 auto 24px;
+}
+
+.filter-chips-track {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 2px 0;
+}
+
+.filter-chip {
+  flex-shrink: 0;
+  padding: 7px 16px;
+  border-radius: 20px;
+  border: 1.5px solid var(--card-border);
+  background: var(--card-bg);
+  backdrop-filter: blur(2px);
+  color: var(--muted);
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 200ms ease, color 200ms ease, border-color 200ms ease,
+    box-shadow 200ms ease, transform 150ms ease;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.filter-chip:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-light);
+}
+
+.filter-chip:active {
+  transform: scale(0.96);
+}
+
+.filter-chip.is-active {
+  background: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--accent);
+  box-shadow: var(--shadow-sm);
+}
+
+.filter-chip.is-active:hover {
+  background: var(--accent-hover);
+  border-color: var(--accent-hover);
+  color: var(--accent-text);
+}
+
 /* ── Results Grid ── */
 
 .results-grid {
@@ -500,6 +558,29 @@ details[open] > .recipe-details > .recipe-details-inner {
   .search-bar input {
     padding: 14px 44px 14px 44px;
     font-size: 1rem;
+  }
+
+  .filter-chips {
+    max-width: none;
+    margin: 0 -20px 20px;
+  }
+
+  .filter-chips-track {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    justify-content: flex-start;
+    padding: 2px 20px;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .filter-chips-track::-webkit-scrollbar {
+    display: none;
+  }
+
+  .filter-chip {
+    padding: 8px 14px;
+    font-size: 0.82rem;
   }
 
   .recipe-card summary {
