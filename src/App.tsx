@@ -1,15 +1,31 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import rawRecipes from './data/recipes.json';
 import { RecipeCard } from './components/RecipeCard';
 import { SearchBar } from './components/SearchBar';
+import { FilterChips, FILTER_CHIP_DEFS } from './components/FilterChips';
 import { buildSearchableRecipes } from './lib/normalize';
 import { searchRecipes } from './lib/search';
-import type { Recipe } from './lib/types';
+import type { Recipe, SearchableRecipe } from './lib/types';
 
 interface AppProps {
   initialRecipes?: Recipe[];
   resultLimit?: number;
   debounceMs?: number;
+}
+
+function matchesAllFilters(
+  recipe: SearchableRecipe,
+  activeFilters: string[]
+): boolean {
+  return activeFilters.every((label) => {
+    const chip = FILTER_CHIP_DEFS.find((c) => c.label === label);
+    if (!chip) return true;
+    return chip.terms.some(
+      (term) =>
+        recipe.normalizedName.includes(term) ||
+        recipe.normalizedIngredientText.includes(term)
+    );
+  });
 }
 
 export default function App({
@@ -21,6 +37,7 @@ export default function App({
   const [debouncedQuery, setDebouncedQuery] = useState('');
   const [visibleCount, setVisibleCount] = useState(resultLimit);
   const [isSearchElevated, setIsSearchElevated] = useState(false);
+  const [activeFilters, setActiveFilters] = useState<string[]>([]);
 
   const searchableRecipes = useMemo(
     () => buildSearchableRecipes(initialRecipes),
@@ -37,7 +54,7 @@ export default function App({
 
   useEffect(() => {
     setVisibleCount(resultLimit);
-  }, [debouncedQuery, resultLimit]);
+  }, [debouncedQuery, activeFilters, resultLimit]);
 
   useEffect(() => {
     const onScroll = () => {
@@ -50,9 +67,19 @@ export default function App({
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
-  const allResults = useMemo(
+  const searchResults = useMemo(
     () => searchRecipes(searchableRecipes, debouncedQuery, searchableRecipes.length),
     [searchableRecipes, debouncedQuery]
+  );
+
+  const allResults = useMemo(
+    () =>
+      activeFilters.length === 0
+        ? searchResults
+        : searchResults.filter((recipe) =>
+            matchesAllFilters(recipe, activeFilters)
+          ),
+    [searchResults, activeFilters]
   );
 
   const visibleResults = useMemo(
@@ -61,6 +88,14 @@ export default function App({
   );
 
   const canLoadMore = visibleResults.length < allResults.length;
+
+  const toggleFilter = useCallback((label: string) => {
+    setActiveFilters((prev) =>
+      prev.includes(label)
+        ? prev.filter((f) => f !== label)
+        : [...prev, label]
+    );
+  }, []);
 
   return (
     <main className="app-shell">
@@ -82,6 +117,8 @@ export default function App({
           onClear={() => setQuery('')}
         />
       </div>
+
+      <FilterChips activeFilters={activeFilters} onToggle={toggleFilter} />
 
       {allResults.length === 0 ? (
         <p className="empty-state">No recipes matched your search.</p>
