@@ -20,10 +20,10 @@ function matchesAllFilters(
   return activeFilters.every((label) => {
     const chip = FILTER_CHIP_DEFS.find((c) => c.label === label);
     if (!chip) return true;
-    return chip.terms.some(
-      (term) =>
-        recipe.normalizedName.includes(term) ||
-        recipe.normalizedIngredientText.includes(term)
+    return chip.patterns.some(
+      (pattern) =>
+        pattern.test(recipe.normalizedName) ||
+        pattern.test(recipe.normalizedIngredientText)
     );
   });
 }
@@ -105,10 +105,10 @@ export default function App({
     const counts: Record<string, number> = {};
     for (const chip of FILTER_CHIP_DEFS) {
       counts[chip.label] = searchResults.filter((r) =>
-        chip.terms.some(
-          (term) =>
-            r.normalizedName.includes(term) ||
-            r.normalizedIngredientText.includes(term)
+        chip.patterns.some(
+          (pattern) =>
+            pattern.test(r.normalizedName) ||
+            pattern.test(r.normalizedIngredientText)
         )
       ).length;
     }

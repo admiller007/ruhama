@@ -1,50 +1,43 @@
 export interface FilterChipDef {
   label: string;
   terms: string[];
+  /** Pre-compiled word-boundary patterns for each term (avoids false substring hits). */
+  patterns: RegExp[];
+}
+
+function buildPattern(term: string): RegExp {
+  const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return new RegExp(`\\b${escaped}\\b`);
+}
+
+function defineChip(label: string, terms: string[]): FilterChipDef {
+  return { label, terms, patterns: terms.map(buildPattern) };
 }
 
 export const FILTER_CHIP_DEFS: FilterChipDef[] = [
-  { label: 'Chicken', terms: ['chicken'] },
-  { label: 'Beef', terms: ['beef'] },
-  { label: 'Lamb', terms: ['lamb'] },
-  {
-    label: 'Fish',
-    terms: [
-      'fish', 'salmon', 'tuna', 'tilapia', 'cod', 'trout',
-      'shrimp', 'prawn', 'halibut', 'sea bass', 'sardine', 'anchovy',
-    ],
-  },
-  {
-    label: 'Pasta',
-    terms: [
-      'pasta', 'spaghetti', 'noodle', 'linguine', 'penne',
-      'fettuccine', 'rigatoni', 'orzo', 'lasagna', 'tagliatelle',
-    ],
-  },
-  { label: 'Rice', terms: ['rice'] },
-  { label: 'Potato', terms: ['potato'] },
-  {
-    label: 'Bread',
-    terms: ['bread', 'pita', 'flatbread', 'focaccia', 'loaf', 'baguette', 'naan'],
-  },
-  { label: 'Salad', terms: ['salad'] },
-  {
-    label: 'Soup',
-    terms: ['soup', 'stew', 'broth', 'chowder', 'bisque'],
-  },
-  {
-    label: 'Dessert',
-    terms: [
-      'cake', 'cookie', 'chocolate', 'brownie', 'halva', 'dessert',
-      'pie', 'tart', 'pudding', 'fudge', 'mousse', 'sweet',
-    ],
-  },
-  { label: 'Egg', terms: ['egg', 'omelette', 'frittata'] },
-  { label: 'Chickpeas', terms: ['chickpea'] },
-  {
-    label: 'One-Pan',
-    terms: ['one-pan', 'one pan', 'one-pot', 'one pot', 'one-skillet', 'sheet pan'],
-  },
+  defineChip('Chicken', ['chicken']),
+  defineChip('Beef', ['beef']),
+  defineChip('Lamb', ['lamb']),
+  defineChip('Fish', [
+    'fish', 'salmon', 'tuna', 'tilapia', 'cod', 'trout',
+    'shrimp', 'prawn', 'halibut', 'sea bass', 'sardine', 'anchovy',
+  ]),
+  defineChip('Pasta', [
+    'pasta', 'spaghetti', 'noodle', 'linguine', 'penne',
+    'fettuccine', 'rigatoni', 'orzo', 'lasagna', 'tagliatelle',
+  ]),
+  defineChip('Rice', ['rice']),
+  defineChip('Potato', ['potato']),
+  defineChip('Bread', ['bread', 'pita', 'flatbread', 'focaccia', 'loaf', 'baguette', 'naan']),
+  defineChip('Salad', ['salad']),
+  defineChip('Soup', ['soup', 'stew', 'broth', 'chowder', 'bisque']),
+  defineChip('Dessert', [
+    'cake', 'cookie', 'chocolate', 'brownie', 'halva', 'dessert',
+    'pie', 'tart', 'pudding', 'fudge', 'mousse',
+  ]),
+  defineChip('Egg', ['egg', 'omelette', 'frittata']),
+  defineChip('Chickpeas', ['chickpea']),
+  defineChip('One-Pan', ['one-pan', 'one pan', 'one-pot', 'one pot', 'one-skillet', 'sheet pan']),
 ];
 
 interface FilterChipsProps {
