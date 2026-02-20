@@ -97,6 +97,24 @@ export default function App({
     );
   }, []);
 
+  const clearFilters = useCallback(() => {
+    setActiveFilters([]);
+  }, []);
+
+  const filterCounts = useMemo(() => {
+    const counts: Record<string, number> = {};
+    for (const chip of FILTER_CHIP_DEFS) {
+      counts[chip.label] = searchResults.filter((r) =>
+        chip.terms.some(
+          (term) =>
+            r.normalizedName.includes(term) ||
+            r.normalizedIngredientText.includes(term)
+        )
+      ).length;
+    }
+    return counts;
+  }, [searchResults]);
+
   return (
     <main className="app-shell">
       <header className="site-header">
@@ -118,7 +136,12 @@ export default function App({
         />
       </div>
 
-      <FilterChips activeFilters={activeFilters} onToggle={toggleFilter} />
+      <FilterChips
+        activeFilters={activeFilters}
+        onToggle={toggleFilter}
+        onClearAll={clearFilters}
+        counts={filterCounts}
+      />
 
       {allResults.length === 0 ? (
         <p className="empty-state">No recipes matched your search.</p>
