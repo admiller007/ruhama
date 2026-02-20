@@ -20,10 +20,10 @@ function matchesAllFilters(
   return activeFilters.every((label) => {
     const chip = FILTER_CHIP_DEFS.find((c) => c.label === label);
     if (!chip) return true;
-    return chip.terms.some(
-      (term) =>
-        recipe.normalizedName.includes(term) ||
-        recipe.normalizedIngredientText.includes(term)
+    return chip.patterns.some(
+      (pattern) =>
+        pattern.test(recipe.normalizedName) ||
+        pattern.test(recipe.normalizedIngredientText)
     );
   });
 }
@@ -97,6 +97,24 @@ export default function App({
     );
   }, []);
 
+  const clearFilters = useCallback(() => {
+    setActiveFilters([]);
+  }, []);
+
+  const filterCounts = useMemo(() => {
+    const counts: Record<string, number> = {};
+    for (const chip of FILTER_CHIP_DEFS) {
+      counts[chip.label] = searchResults.filter((r) =>
+        chip.patterns.some(
+          (pattern) =>
+            pattern.test(r.normalizedName) ||
+            pattern.test(r.normalizedIngredientText)
+        )
+      ).length;
+    }
+    return counts;
+  }, [searchResults]);
+
   return (
     <main className="app-shell">
       <header className="site-header">
@@ -118,7 +136,12 @@ export default function App({
         />
       </div>
 
-      <FilterChips activeFilters={activeFilters} onToggle={toggleFilter} />
+      <FilterChips
+        activeFilters={activeFilters}
+        onToggle={toggleFilter}
+        onClearAll={clearFilters}
+        counts={filterCounts}
+      />
 
       {allResults.length === 0 ? (
         <p className="empty-state">No recipes matched your search.</p>

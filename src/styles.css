@@ -273,6 +273,58 @@ body {
   color: var(--accent-text);
 }
 
+.filter-chip.is-empty {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.filter-chip.is-empty:hover {
+  border-color: var(--border);
+  color: var(--text-muted);
+  background: transparent;
+}
+
+.filter-chip-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5px;
+  padding: 0 5px;
+  min-width: 18px;
+  height: 16px;
+  border-radius: 8px;
+  font-size: 0.68rem;
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.12);
+  color: inherit;
+  opacity: 0.75;
+  line-height: 1;
+}
+
+.filter-chip.is-active .filter-chip-count {
+  background: rgba(255, 255, 255, 0.25);
+  opacity: 1;
+}
+
+.filter-chips-clear {
+  display: block;
+  margin: 8px auto 0;
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: color 0.15s;
+}
+
+.filter-chips-clear:hover {
+  color: var(--accent);
+}
+
 /* ── Results Grid ── */
 
 .results-grid {
