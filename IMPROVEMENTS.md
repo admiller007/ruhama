@@ -3,14 +3,14 @@
 ## Visual Polish & Atmosphere
 
 - [x] **Background grain/noise texture** — Vintage parchment paper texture for aged cookbook feel
-- [ ] **Ornamental dividers** — Replace simple header decoration with expressive editorial flourishes (botanical SVGs, typographic ornaments, hand-drawn rules). Add dividers between card batches.
-- [ ] **Richer empty state** — Illustration or warm message like "Nothing here yet — try searching for 'chicken' or 'pasta'" with suggested search chips.
+- [x] **Ornamental dividers** — Replace simple header decoration with expressive editorial flourishes (botanical SVGs, typographic ornaments, hand-drawn rules).
+- [x] **Richer empty state** — Illustration or warm message like "Nothing here yet — try searching for 'chicken' or 'pasta'" with suggested search chips.
 
 ## Interactions & Motion
 
 - [x] **Scroll-triggered card reveals** — Use `IntersectionObserver` to animate cards as they scroll into view instead of all at once on page load.
 - [x] **Search term highlighting** — Bold/highlight matched query text in recipe names and ingredient previews.
-- [ ] **Scroll-to-top button** — Floating "back to top" button that fades in after scrolling down.
+- [x] **Scroll-to-top button** — Floating "back to top" button that fades in after scrolling down.
 - [ ] **Skeleton loading state** — Placeholder card shapes during initial data load/search transitions.
 
 ## Functional Enhancements
@@ -26,5 +26,5 @@
 
 ## Polish
 
-- [ ] **Dark mode toggle** — CSS variable system is already set up for this. Small sun/moon toggle in header.
-- [ ] **Footer** — Minimal footer with attribution ("Recipes from @ruhamas_food").
+- [x] **Dark mode toggle** — CSS variable system is already set up for this. Small sun/moon toggle in header.
+- [x] **Footer** — Minimal footer with attribution ("Recipes from @ruhamas_food").

@@ -7,6 +7,7 @@
   --bg-top: #e6ddd0;
   --bg-bottom: #ede7da;
   --card-bg: rgba(253, 248, 238, 0.75);
+  --body-bg: #d9cdb8;
 
   /* Text */
   --text: #2c2418;
@@ -37,8 +38,62 @@
   --shadow-lg: 0 8px 24px rgba(44, 36, 24, 0.1);
   --shadow-card-hover: 0 8px 20px rgba(44, 36, 24, 0.12);
 
+  /* Card specific */
+  --card-inset-highlight: rgba(255, 255, 255, 0.4);
+  --card-border-raw: rgba(180, 160, 130, 0.5);
+  --search-elevated-shadow: rgba(44, 36, 24, 0.16);
+  --search-elevated-border: rgba(176, 141, 98, 0.4);
+  --search-elevated-bg: rgba(253, 248, 238, 0.97);
+  --search-border: rgba(180, 160, 130, 0.5);
+  --focus-ring: rgba(192, 112, 58, 0.1);
+  --highlight-bg: rgba(192, 112, 58, 0.22);
+  --chip-count-bg: rgba(0, 0, 0, 0.12);
+
   font-family: var(--font-body);
   color: var(--text);
+}
+
+/* ── Dark Mode ── */
+
+[data-theme="dark"] {
+  --bg-top: #1a1612;
+  --bg-bottom: #1e1a15;
+  --card-bg: rgba(42, 36, 28, 0.85);
+  --body-bg: #141210;
+
+  --text: #e8dece;
+  --muted: #a89a86;
+  --text-light: #7a6f5f;
+
+  --card-border: #3d342a;
+  --card-border-hover: #564a3c;
+  --input-border: #4a3f33;
+  --input-border-focus: #c0703a;
+  --divider: #3d342a;
+
+  --accent: #d4854a;
+  --accent-hover: #e09560;
+  --accent-light: rgba(192, 112, 58, 0.15);
+  --accent-text: #1a1612;
+
+  --button-bg: #d4854a;
+  --button-bg-hover: #e09560;
+  --button-text: #1a1612;
+
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.25);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.3);
+  --shadow-card-hover: 0 8px 20px rgba(0, 0, 0, 0.35);
+
+  --card-inset-highlight: rgba(255, 255, 255, 0.05);
+  --card-border-raw: rgba(61, 52, 42, 0.8);
+  --search-elevated-shadow: rgba(0, 0, 0, 0.4);
+  --search-elevated-border: rgba(192, 112, 58, 0.3);
+  --search-elevated-bg: rgba(42, 36, 28, 0.97);
+  --search-border: rgba(61, 52, 42, 0.8);
+  --focus-ring: rgba(212, 133, 74, 0.2);
+  --highlight-bg: rgba(212, 133, 74, 0.25);
+  --chip-count-bg: rgba(255, 255, 255, 0.12);
 }
 
 * {
@@ -48,12 +103,17 @@
 body {
   margin: 0;
   min-height: 100vh;
-  background-color: #d9cdb8;
+  background-color: var(--body-bg);
   background-image: url('/paper-texture.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
+  transition: background-color 300ms ease;
+}
+
+[data-theme="dark"] body {
+  background-image: none;
 }
 
 .app-shell {
@@ -78,11 +138,9 @@ body {
 }
 
 .header-decoration {
-  width: 60px;
-  height: 3px;
-  background: var(--accent);
   margin: 0 auto 20px;
-  border-radius: 2px;
+  color: var(--accent);
+  line-height: 0;
 }
 
 .site-title {
@@ -148,13 +206,13 @@ body {
 }
 
 .search-bar-sticky.is-elevated .search-input-wrapper {
-  box-shadow: 0 12px 26px rgba(44, 36, 24, 0.16);
+  box-shadow: 0 12px 26px var(--search-elevated-shadow);
   transform: translateY(0);
 }
 
 .search-bar-sticky.is-elevated .search-bar input {
-  border-color: rgba(176, 141, 98, 0.4);
-  background: rgba(253, 248, 238, 0.97);
+  border-color: var(--search-elevated-border);
+  background: var(--search-elevated-bg);
 }
 
 .search-icon {
@@ -173,7 +231,7 @@ body {
   width: 100%;
   padding: 16px 48px 16px 48px;
   border-radius: 4px;
-  border: 1.5px solid rgba(180, 160, 130, 0.5);
+  border: 1.5px solid var(--search-border);
   font-size: 1rem;
   font-family: var(--font-body);
   background: var(--card-bg);
@@ -190,7 +248,7 @@ body {
 
 .search-bar input:focus {
   border-color: var(--input-border-focus);
-  box-shadow: var(--shadow-md), 0 0 0 3px rgba(192, 112, 58, 0.1);
+  box-shadow: var(--shadow-md), 0 0 0 3px var(--focus-ring);
 }
 
 .search-clear {
@@ -295,7 +353,7 @@ body {
   border-radius: 8px;
   font-size: 0.68rem;
   font-weight: 600;
-  background: rgba(0, 0, 0, 0.12);
+  background: var(--chip-count-bg);
   color: inherit;
   opacity: 0.75;
   line-height: 1;
@@ -343,11 +401,11 @@ body {
 /* ── Recipe Card ── */
 
 .recipe-card {
-  border: 1px solid rgba(180, 160, 130, 0.5);
+  border: 1px solid var(--card-border-raw);
   border-radius: 4px;
   background: var(--card-bg);
   backdrop-filter: blur(2px);
-  box-shadow: var(--shadow-sm), inset 0 1px 0 rgba(255, 255, 255, 0.4);
+  box-shadow: var(--shadow-sm), inset 0 1px 0 var(--card-inset-highlight);
   opacity: 0;
   transform: translateY(14px);
   transition:
@@ -414,7 +472,7 @@ body {
 }
 
 .search-highlight {
-  background: rgba(192, 112, 58, 0.22);
+  background: var(--highlight-bg);
   color: inherit;
   font-weight: 700;
   font-style: inherit;
@@ -543,13 +601,50 @@ details[open] > .recipe-details > .recipe-details-inner {
 
 .empty-state {
   text-align: center;
-  padding: 48px 24px;
+  padding: 56px 24px 48px;
   border: 1.5px dashed var(--card-border);
   border-radius: 4px;
   background: var(--card-bg);
   color: var(--muted);
-  font-size: 1rem;
+}
+
+.empty-state-icon {
+  margin-bottom: 16px;
+  color: var(--text-light);
+  opacity: 0.6;
+}
+
+.empty-state-text {
+  margin: 0 0 20px;
+  font-size: 1.05rem;
   font-style: italic;
+  color: var(--muted);
+}
+
+.empty-state-suggestions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.empty-state-chip {
+  padding: 7px 16px;
+  border-radius: 20px;
+  border: 1.5px solid var(--card-border);
+  background: var(--card-bg);
+  color: var(--accent);
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 200ms ease, color 200ms ease, border-color 200ms ease;
+}
+
+.empty-state-chip:hover {
+  background: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--accent);
 }
 
 /* ── Load More ── */
@@ -590,6 +685,104 @@ details[open] > .recipe-details > .recipe-details-inner {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+/* ── Dark Mode Toggle ── */
+
+.dark-mode-toggle {
+  position: absolute;
+  top: 16px;
+  right: 0;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1.5px solid var(--card-border);
+  background: var(--card-bg);
+  color: var(--muted);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 200ms ease, color 200ms ease, border-color 200ms ease, transform 150ms ease;
+  padding: 0;
+  z-index: 10;
+}
+
+.dark-mode-toggle:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-light);
+  transform: scale(1.08);
+}
+
+.dark-mode-toggle:active {
+  transform: scale(0.95);
+}
+
+/* ── Scroll to Top ── */
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 28px;
+  right: 28px;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1.5px solid var(--card-border);
+  background: var(--card-bg);
+  backdrop-filter: blur(8px);
+  color: var(--muted);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-md);
+  opacity: 0;
+  transform: translateY(12px);
+  pointer-events: none;
+  transition: opacity 300ms ease, transform 300ms ease, background 200ms ease,
+    color 200ms ease, border-color 200ms ease;
+  z-index: 40;
+  padding: 0;
+}
+
+.scroll-to-top.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.scroll-to-top:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-light);
+}
+
+.scroll-to-top:active {
+  transform: scale(0.94);
+}
+
+/* ── Footer ── */
+
+.site-footer {
+  text-align: center;
+  padding: 48px 0 8px;
+  color: var(--text-light);
+  font-size: 0.82rem;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+.site-footer a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
 }
 
 /* ── Mobile ── */
@@ -645,5 +838,18 @@ details[open] > .recipe-details > .recipe-details-inner {
 
   details[open] > .recipe-details > .recipe-details-inner {
     padding-bottom: 16px;
+  }
+
+  .dark-mode-toggle {
+    top: 8px;
+    width: 36px;
+    height: 36px;
+  }
+
+  .scroll-to-top {
+    bottom: 20px;
+    right: 20px;
+    width: 40px;
+    height: 40px;
   }
 }
