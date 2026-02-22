@@ -29,4 +29,23 @@ describe('normalize helpers', () => {
     expect(recipe.cleanIngredients).toEqual(['1 cup rice']);
     expect(recipe.normalizedIngredientText).toBe('1 cup rice');
   });
+
+  it('returns empty array from cleanIngredients when input is undefined', () => {
+    expect(cleanIngredients(undefined)).toEqual([]);
+  });
+
+  it('returns empty array from cleanIngredients when input is empty', () => {
+    expect(cleanIngredients([])).toEqual([]);
+  });
+
+  it('returns empty array from buildSearchableRecipes when given no recipes', () => {
+    expect(buildSearchableRecipes([])).toEqual([]);
+  });
+
+  it('handles a recipe with no ingredients field', () => {
+    const [recipe] = buildSearchableRecipes([{ name: 'Plain Recipe' }]);
+
+    expect(recipe.cleanIngredients).toEqual([]);
+    expect(recipe.normalizedIngredientText).toBe('');
+  });
 });
