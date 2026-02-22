@@ -28,6 +28,8 @@ function matchesAllFilters(
   });
 }
 
+const SUGGESTIONS = ['chicken', 'pasta', 'salmon', 'beef', 'potato'];
+
 export default function App({
   initialRecipes = rawRecipes as Recipe[],
   resultLimit = 100,
@@ -38,6 +40,14 @@ export default function App({
   const [visibleCount, setVisibleCount] = useState(resultLimit);
   const [isSearchElevated, setIsSearchElevated] = useState(false);
   const [activeFilters, setActiveFilters] = useState<string[]>([]);
+  const [showScrollTop, setShowScrollTop] = useState(false);
+  const [darkMode, setDarkMode] = useState(() => {
+    try {
+      return localStorage.getItem('theme') === 'dark';
+    } catch {
+      return false;
+    }
+  });
 
   const searchableRecipes = useMemo(
     () => buildSearchableRecipes(initialRecipes),
@@ -58,7 +68,9 @@ export default function App({
 
   useEffect(() => {
     const onScroll = () => {
-      setIsSearchElevated(window.scrollY > 72);
+      const scrolled = window.scrollY;
+      setIsSearchElevated(scrolled > 72);
+      setShowScrollTop(scrolled > 300);
     };
 
     onScroll();
@@ -66,6 +78,15 @@ export default function App({
 
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
+
+  useEffect(() => {
+    document.documentElement.dataset.theme = darkMode ? 'dark' : 'light';
+    try {
+      localStorage.setItem('theme', darkMode ? 'dark' : 'light');
+    } catch {
+      // ignore storage errors
+    }
+  }, [darkMode]);
 
   const searchResults = useMemo(
     () => searchRecipes(searchableRecipes, debouncedQuery, searchableRecipes.length),
@@ -119,6 +140,51 @@ export default function App({
     <main className="app-shell">
       <header className="site-header">
         <div className="header-decoration" aria-hidden="true"></div>
+        <button
+          type="button"
+          className="dark-mode-toggle"
+          onClick={() => setDarkMode((d) => !d)}
+          aria-label={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}
+          title={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}
+        >
+          {darkMode ? (
+            <svg
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden="true"
+            >
+              <circle cx="12" cy="12" r="5" />
+              <line x1="12" y1="1" x2="12" y2="3" />
+              <line x1="12" y1="21" x2="12" y2="23" />
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+              <line x1="1" y1="12" x2="3" y2="12" />
+              <line x1="21" y1="12" x2="23" y2="12" />
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+            </svg>
+          ) : (
+            <svg
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              aria-hidden="true"
+            >
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+            </svg>
+          )}
+        </button>
         <h1 className="site-title">
           <span className="title-script">Ruhama&apos;s</span>
           <span className="title-main">Recipe Search</span>
@@ -144,7 +210,29 @@ export default function App({
       />
 
       {allResults.length === 0 ? (
-        <p className="empty-state">No recipes matched your search.</p>
+        <div className="empty-state" role="status">
+          <p className="empty-state-heading">No recipes found</p>
+          <p className="empty-state-hint">
+            {query
+              ? `Nothing matched "${query}" — try a different search term.`
+              : 'No recipes match the selected filters.'}
+          </p>
+          <div className="empty-state-suggestions">
+            {SUGGESTIONS.map((suggestion) => (
+              <button
+                key={suggestion}
+                type="button"
+                className="empty-state-suggestion"
+                onClick={() => {
+                  setQuery(suggestion);
+                  clearFilters();
+                }}
+              >
+                {suggestion}
+              </button>
+            ))}
+          </div>
+        </div>
       ) : (
         <>
           <section className="results-grid" aria-label="Recipe search results">
@@ -168,6 +256,41 @@ export default function App({
           ) : null}
         </>
       )}
+
+      <footer className="site-footer">
+        <p>
+          Recipes from{' '}
+          <a
+            href="https://www.instagram.com/ruhamasfood/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            @ruhamas_food
+          </a>
+        </p>
+      </footer>
+
+      <button
+        type="button"
+        className={`scroll-top-button${showScrollTop ? ' is-visible' : ''}`}
+        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+        aria-label="Scroll to top"
+        aria-hidden={!showScrollTop}
+        tabIndex={showScrollTop ? 0 : -1}
+      >
+        <svg
+          width="20"
+          height="20"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2.5"
+          strokeLinecap="round"
+          aria-hidden="true"
+        >
+          <polyline points="18 15 12 9 6 15" />
+        </svg>
+      </button>
     </main>
   );
 }
