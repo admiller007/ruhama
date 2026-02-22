@@ -77,4 +77,51 @@ describe('App', () => {
     expect(screen.getAllByRole('heading', { level: 2 })).toHaveLength(120);
     expect(screen.queryByRole('button', { name: 'Load more' })).not.toBeInTheDocument();
   });
+
+  it('shows empty state message when no recipes match the query', async () => {
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+    await userEvent.type(screen.getByLabelText('Search recipes'), 'zzznomatch');
+    expect(screen.getByText('No recipes matched your search.')).toBeInTheDocument();
+  });
+
+  it('displays correct "Showing X of Y" count in the header', () => {
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+    expect(screen.getByText('Showing 2 of 2 recipes')).toBeInTheDocument();
+  });
+
+  it('filters recipes when a filter chip is activated', async () => {
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+    await userEvent.click(screen.getByRole('button', { name: 'Beef' }));
+    expect(screen.getByText('Beef Stew')).toBeInTheDocument();
+    expect(screen.queryByText('Chickpea Rice')).not.toBeInTheDocument();
+  });
+
+  it('applies AND logic when multiple filter chips are active', async () => {
+    const multiData: Recipe[] = [
+      { name: 'Chicken Rice', shortcode: 'cr1', ingredients: ['chicken', 'rice'], instructions: [] },
+      { name: 'Chicken Pasta', shortcode: 'cp1', ingredients: ['chicken', 'pasta'], instructions: [] },
+      { name: 'Beef Rice', shortcode: 'br1', ingredients: ['beef', 'rice'], instructions: [] }
+    ];
+
+    render(<App initialRecipes={multiData} debounceMs={0} />);
+
+    await userEvent.click(screen.getByRole('button', { name: 'Chicken' }));
+    await userEvent.click(screen.getByRole('button', { name: 'Rice' }));
+
+    expect(screen.getByText('Chicken Rice')).toBeInTheDocument();
+    expect(screen.queryByText('Chicken Pasta')).not.toBeInTheDocument();
+    expect(screen.queryByText('Beef Rice')).not.toBeInTheDocument();
+  });
+
+  it('restores all results when active filters are cleared', async () => {
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+
+    await userEvent.click(screen.getByRole('button', { name: 'Beef' }));
+    expect(screen.queryByText('Chickpea Rice')).not.toBeInTheDocument();
+
+    await userEvent.click(screen.getByRole('button', { name: 'Clear all filters' }));
+
+    expect(screen.getByText('Chickpea Rice')).toBeInTheDocument();
+    expect(screen.getByText('Beef Stew')).toBeInTheDocument();
+  });
 });
