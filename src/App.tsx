@@ -5,6 +5,7 @@ import { SearchBar } from './components/SearchBar';
 import { FilterChips, FILTER_CHIP_DEFS } from './components/FilterChips';
 import { buildSearchableRecipes } from './lib/normalize';
 import { searchRecipes } from './lib/search';
+import { useFavorites } from './hooks/useFavorites';
 import type { Recipe, SearchableRecipe } from './lib/types';
 
 interface AppProps {
@@ -41,6 +42,8 @@ export default function App({
   const [isSearchElevated, setIsSearchElevated] = useState(false);
   const [activeFilters, setActiveFilters] = useState<string[]>([]);
   const [showScrollTop, setShowScrollTop] = useState(false);
+  const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
+  const { toggleFavorite, isFavorite, count: favoritesCount } = useFavorites();
   const [darkMode, setDarkMode] = useState(() => {
     try {
       return localStorage.getItem('theme') === 'dark';
@@ -64,7 +67,7 @@ export default function App({
 
   useEffect(() => {
     setVisibleCount(resultLimit);
-  }, [debouncedQuery, activeFilters, resultLimit]);
+  }, [debouncedQuery, activeFilters, showFavoritesOnly, resultLimit]);
 
   useEffect(() => {
     const onScroll = () => {
@@ -93,7 +96,7 @@ export default function App({
     [searchableRecipes, debouncedQuery]
   );
 
-  const allResults = useMemo(
+  const filteredResults = useMemo(
     () =>
       activeFilters.length === 0
         ? searchResults
@@ -101,6 +104,14 @@ export default function App({
             matchesAllFilters(recipe, activeFilters)
           ),
     [searchResults, activeFilters]
+  );
+
+  const allResults = useMemo(
+    () =>
+      showFavoritesOnly
+        ? filteredResults.filter((r) => isFavorite(r.shortcode ?? r.name))
+        : filteredResults,
+    [filteredResults, showFavoritesOnly, isFavorite]
   );
 
   const visibleResults = useMemo(
@@ -209,13 +220,32 @@ export default function App({
         counts={filterCounts}
       />
 
+      {favoritesCount > 0 && (
+        <div className="favorites-toggle-bar">
+          <button
+            type="button"
+            className={`favorites-toggle${showFavoritesOnly ? ' is-active' : ''}`}
+            onClick={() => setShowFavoritesOnly((v) => !v)}
+            aria-pressed={showFavoritesOnly}
+          >
+            <svg width="16" height="16" viewBox="0 0 24 24" fill={showFavoritesOnly ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+              <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" />
+            </svg>
+            Favorites
+            <span className="favorites-toggle-count">{favoritesCount}</span>
+          </button>
+        </div>
+      )}
+
       {allResults.length === 0 ? (
         <div className="empty-state" role="status">
           <p className="empty-state-heading">No recipes found</p>
           <p className="empty-state-hint">
-            {query
-              ? `Nothing matched "${query}" — try a different search term.`
-              : 'No recipes match the selected filters.'}
+            {showFavoritesOnly
+              ? 'No favorites match the current search or filters.'
+              : query
+                ? `Nothing matched "${query}" — try a different search term.`
+                : 'No recipes match the selected filters.'}
           </p>
           <div className="empty-state-suggestions">
             {SUGGESTIONS.map((suggestion) => (
@@ -242,6 +272,8 @@ export default function App({
                 recipe={recipe}
                 searchQuery={debouncedQuery}
                 animationDelay={Math.min(index * 30, 600)}
+                isFavorite={isFavorite(recipe.shortcode ?? recipe.name)}
+                onToggleFavorite={toggleFavorite}
               />
             ))}
           </section>

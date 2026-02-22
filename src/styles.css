@@ -500,6 +500,110 @@ body {
   border-radius: 20px;
 }
 
+/* ── Favorite Button ── */
+
+.favorite-button {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+  color: var(--text-light);
+  cursor: pointer;
+  padding: 0;
+  margin-top: 0;
+  transition: color 200ms ease, background 200ms ease, transform 200ms ease;
+}
+
+.favorite-button:hover {
+  background: rgba(220, 80, 80, 0.1);
+  color: #d05050;
+  transform: scale(1.15);
+}
+
+.favorite-button:active {
+  transform: scale(0.9);
+}
+
+.favorite-button.is-favorited {
+  color: #d05050;
+}
+
+.favorite-button.is-favorited:hover {
+  color: #c04040;
+  background: rgba(220, 80, 80, 0.1);
+}
+
+/* ── Favorites Toggle Bar ── */
+
+.favorites-toggle-bar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.favorites-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 18px;
+  border-radius: 20px;
+  border: 1.5px solid var(--card-border);
+  background: var(--card-bg);
+  backdrop-filter: blur(2px);
+  color: var(--muted);
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 200ms ease, color 200ms ease, border-color 200ms ease,
+    box-shadow 200ms ease;
+  user-select: none;
+}
+
+.favorites-toggle:hover {
+  border-color: #d05050;
+  color: #d05050;
+  background: rgba(220, 80, 80, 0.08);
+}
+
+.favorites-toggle.is-active {
+  background: #d05050;
+  color: #fff;
+  border-color: #d05050;
+  box-shadow: var(--shadow-sm);
+}
+
+.favorites-toggle.is-active:hover {
+  background: #c04040;
+  border-color: #c04040;
+}
+
+.favorites-toggle-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 5px;
+  min-width: 18px;
+  height: 16px;
+  border-radius: 8px;
+  font-size: 0.68rem;
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.12);
+  color: inherit;
+  opacity: 0.75;
+  line-height: 1;
+}
+
+.favorites-toggle.is-active .favorites-toggle-count {
+  background: rgba(255, 255, 255, 0.25);
+  opacity: 1;
+}
+
 .expand-chevron {
   flex-shrink: 0;
   width: 28px;
