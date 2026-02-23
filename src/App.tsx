@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import rawRecipes from './data/recipes.json';
 import { RecipeCard } from './components/RecipeCard';
 import { SearchBar } from './components/SearchBar';
@@ -44,6 +44,7 @@ export default function App({
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
   const { toggleFavorite, isFavorite, count: favoritesCount } = useFavorites();
+  const focusedCardIndexRef = useRef(-1);
   const [darkMode, setDarkMode] = useState(() => {
     try {
       return localStorage.getItem('theme') === 'dark';
@@ -67,6 +68,7 @@ export default function App({
 
   useEffect(() => {
     setVisibleCount(resultLimit);
+    focusedCardIndexRef.current = -1;
   }, [debouncedQuery, activeFilters, showFavoritesOnly, resultLimit]);
 
   useEffect(() => {
@@ -80,6 +82,57 @@ export default function App({
     window.addEventListener('scroll', onScroll, { passive: true });
 
     return () => window.removeEventListener('scroll', onScroll);
+  }, []);
+
+  useEffect(() => {
+    const getSummaries = () =>
+      Array.from(document.querySelectorAll<HTMLElement>('.recipe-card details > summary'));
+
+    const onKeyDown = (e: KeyboardEvent) => {
+      const target = e.target as HTMLElement;
+      const isTyping = target.tagName === 'INPUT' || target.tagName === 'TEXTAREA';
+
+      if (isTyping) {
+        if (e.key === 'Escape') target.blur();
+        return;
+      }
+
+      if (e.key === '/') {
+        e.preventDefault();
+        document.querySelector<HTMLInputElement>('[aria-label="Search recipes"]')?.focus();
+        return;
+      }
+
+      if (e.key !== 'ArrowDown' && e.key !== 'ArrowUp') return;
+      e.preventDefault();
+
+      const summaries = getSummaries();
+      if (summaries.length === 0) return;
+
+      const next =
+        e.key === 'ArrowDown'
+          ? Math.min(focusedCardIndexRef.current + 1, summaries.length - 1)
+          : Math.max(focusedCardIndexRef.current - 1, 0);
+
+      focusedCardIndexRef.current = next;
+      summaries[next].focus();
+      summaries[next].scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+    };
+
+    const onFocusIn = (e: FocusEvent) => {
+      const target = e.target as HTMLElement;
+      if (target.matches('.recipe-card details > summary')) {
+        const idx = getSummaries().indexOf(target);
+        if (idx !== -1) focusedCardIndexRef.current = idx;
+      }
+    };
+
+    document.addEventListener('keydown', onKeyDown);
+    document.addEventListener('focusin', onFocusIn);
+    return () => {
+      document.removeEventListener('keydown', onKeyDown);
+      document.removeEventListener('focusin', onFocusIn);
+    };
   }, []);
 
   useEffect(() => {

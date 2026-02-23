@@ -3,6 +3,11 @@ import userEvent from '@testing-library/user-event';
 import App from './App';
 import type { Recipe } from './lib/types';
 
+beforeEach(() => {
+  // jsdom does not implement scrollIntoView
+  Element.prototype.scrollIntoView = vi.fn();
+});
+
 const sampleData: Recipe[] = [
   {
     name: 'Chickpea Rice',
@@ -60,6 +65,33 @@ describe('App', () => {
     await userEvent.click(screen.getByText('Chickpea Rice'));
 
     expect(screen.getByText('Cook rice')).toBeVisible();
+  });
+
+  it('navigates between cards with ArrowDown / ArrowUp', async () => {
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+
+    const summaries = document.querySelectorAll<HTMLElement>('.recipe-card details > summary');
+    expect(summaries).toHaveLength(2);
+
+    await userEvent.keyboard('{ArrowDown}');
+    expect(summaries[0]).toHaveFocus();
+
+    await userEvent.keyboard('{ArrowDown}');
+    expect(summaries[1]).toHaveFocus();
+
+    // ArrowDown at the last card stays on the last card
+    await userEvent.keyboard('{ArrowDown}');
+    expect(summaries[1]).toHaveFocus();
+
+    await userEvent.keyboard('{ArrowUp}');
+    expect(summaries[0]).toHaveFocus();
+  });
+
+  it('focuses the search input when / is pressed outside an input', async () => {
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+
+    await userEvent.keyboard('/');
+    expect(screen.getByLabelText('Search recipes')).toHaveFocus();
   });
 
   it('shows 100 recipes first and loads more on demand', async () => {
