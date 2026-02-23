@@ -20,4 +20,22 @@ describe('splitHighlightSegments', () => {
       { text: ' sugar', isMatch: false }
     ]);
   });
+
+  it('highlights multiple tokens independently', () => {
+    expect(splitHighlightSegments('Chicken Rice Bowl', 'chicken rice')).toEqual([
+      { text: 'Chicken', isMatch: true },
+      { text: ' ', isMatch: false },
+      { text: 'Rice', isMatch: true },
+      { text: ' Bowl', isMatch: false }
+    ]);
+  });
+
+  it('highlights tokens regardless of query order', () => {
+    expect(splitHighlightSegments('Beef and Potato Stew', 'potato beef')).toEqual([
+      { text: 'Beef', isMatch: true },
+      { text: ' and ', isMatch: false },
+      { text: 'Potato', isMatch: true },
+      { text: ' Stew', isMatch: false }
+    ]);
+  });
 });
