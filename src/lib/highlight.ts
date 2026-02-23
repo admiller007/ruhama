@@ -10,18 +10,25 @@ function escapeRegex(text: string): string {
 }
 
 export function splitHighlightSegments(text: string, query: string): HighlightSegment[] {
-  const normalizedQuery = query.trim();
+  const trimmed = query.trim();
 
-  if (!text || !normalizedQuery) {
+  if (!text || !trimmed) {
     return text ? [{ text, isMatch: false }] : [];
   }
 
-  const matcher = new RegExp(`(${escapeRegex(normalizedQuery)})`, 'ig');
+  const tokens = trimmed.split(/\s+/).filter((t) => t.length > 0);
+
+  // Build a single alternation pattern that matches any token, longest first
+  // to avoid partial matches when one token is a prefix of another.
+  const sorted = [...tokens].sort((a, b) => b.length - a.length);
+  const pattern = sorted.map(escapeRegex).join('|');
+  const matcher = new RegExp(`(${pattern})`, 'ig');
+
   const segments = text.split(matcher).filter((segment) => segment.length > 0);
-  const normalizedLower = normalizedQuery.toLowerCase();
+  const lowerTokens = tokens.map((t) => t.toLowerCase());
 
   return segments.map((segment) => ({
     text: segment,
-    isMatch: segment.toLowerCase() === normalizedLower
+    isMatch: lowerTokens.includes(segment.toLowerCase())
   }));
 }

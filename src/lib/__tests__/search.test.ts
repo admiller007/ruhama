@@ -47,4 +47,23 @@ describe('searchRecipes', () => {
   it('respects result limits', () => {
     expect(searchRecipes(recipes, 'apple', 1)).toHaveLength(1);
   });
+
+  it('matches multiple tokens across name and ingredients', () => {
+    // "apple flour" should match Apple Pie (name has "apple", ingredients have "flour")
+    // but not Pie Apple Crumble (no "flour") or Savory Bake (no "flour")
+    expect(searchRecipes(recipes, 'apple flour').map((r) => r.name)).toEqual([
+      'Apple Pie'
+    ]);
+  });
+
+  it('requires all tokens to match somewhere', () => {
+    // "apple butter" should only match Pie Apple Crumble (name has "apple", ingredients have "butter")
+    expect(searchRecipes(recipes, 'apple butter').map((r) => r.name)).toEqual([
+      'Pie Apple Crumble'
+    ]);
+  });
+
+  it('returns no results when a token matches nothing', () => {
+    expect(searchRecipes(recipes, 'apple mango')).toEqual([]);
+  });
 });

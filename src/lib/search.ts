@@ -7,8 +7,30 @@ interface RankedResult {
 
 const DEFAULT_LIMIT = 100;
 
-function normalizeQuery(query: string): string {
-  return query.trim().toLowerCase();
+function tokenize(query: string): string[] {
+  return query
+    .trim()
+    .toLowerCase()
+    .split(/\s+/)
+    .filter((t) => t.length > 0);
+}
+
+function scoreRecipe(recipe: SearchableRecipe, tokens: string[]): number | null {
+  let total = 0;
+
+  for (const token of tokens) {
+    const nameContains = recipe.normalizedName.includes(token);
+    const ingredientContains = recipe.normalizedIngredientText.includes(token);
+
+    if (!nameContains && !ingredientContains) {
+      return null; // all tokens must match somewhere
+    }
+
+    const startsWith = recipe.normalizedName.startsWith(token);
+    total += startsWith ? 0 : nameContains ? 1 : 2;
+  }
+
+  return total;
 }
 
 export function searchRecipes(
@@ -16,25 +38,19 @@ export function searchRecipes(
   query: string,
   limit = DEFAULT_LIMIT
 ): SearchableRecipe[] {
-  const normalized = normalizeQuery(query);
+  const tokens = tokenize(query);
 
-  if (!normalized) {
+  if (tokens.length === 0) {
     return recipes.slice(0, limit);
   }
 
   const ranked: RankedResult[] = [];
 
   for (const recipe of recipes) {
-    const startsWith = recipe.normalizedName.startsWith(normalized);
-    const nameContains = recipe.normalizedName.includes(normalized);
-    const ingredientContains = recipe.normalizedIngredientText.includes(normalized);
-
-    if (!nameContains && !ingredientContains) {
-      continue;
+    const score = scoreRecipe(recipe, tokens);
+    if (score !== null) {
+      ranked.push({ recipe, score });
     }
-
-    const score = startsWith ? 0 : nameContains ? 1 : 2;
-    ranked.push({ recipe, score });
   }
 
   ranked.sort((a, b) => {
