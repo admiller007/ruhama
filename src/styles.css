@@ -622,6 +622,17 @@ body {
   color: var(--accent);
 }
 
+.recipe-card summary:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+  border-radius: 12px;
+}
+
+.recipe-card summary:focus-visible .expand-chevron {
+  background: var(--accent-light);
+  color: var(--accent);
+}
+
 details[open] > summary .expand-chevron {
   transform: rotate(180deg);
 }
