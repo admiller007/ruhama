@@ -47,10 +47,12 @@ export default function App({
   const focusedCardIndexRef = useRef(-1);
   const [darkMode, setDarkMode] = useState(() => {
     try {
-      return localStorage.getItem('theme') === 'dark';
+      const stored = localStorage.getItem('theme');
+      if (stored) return stored === 'dark';
     } catch {
-      return false;
+      // ignore storage errors
     }
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
   });
 
   const searchableRecipes = useMemo(

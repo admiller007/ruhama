@@ -6,6 +6,18 @@ import type { Recipe } from './lib/types';
 beforeEach(() => {
   // jsdom does not implement scrollIntoView
   Element.prototype.scrollIntoView = vi.fn();
+  localStorage.clear();
+  // jsdom does not implement matchMedia; default to light mode
+  window.matchMedia = vi.fn().mockImplementation((query: string) => ({
+    matches: false,
+    media: query,
+    addEventListener: vi.fn(),
+    removeEventListener: vi.fn(),
+    addListener: vi.fn(),
+    removeListener: vi.fn(),
+    onchange: null,
+    dispatchEvent: vi.fn()
+  }));
 });
 
 const sampleData: Recipe[] = [
@@ -92,6 +104,41 @@ describe('App', () => {
 
     await userEvent.keyboard('/');
     expect(screen.getByLabelText('Search recipes')).toHaveFocus();
+  });
+
+  it('respects prefers-color-scheme when no theme is stored', () => {
+    window.matchMedia = vi.fn().mockImplementation((query: string) => ({
+      matches: query === '(prefers-color-scheme: dark)',
+      media: query,
+      addEventListener: vi.fn(),
+      removeEventListener: vi.fn(),
+      addListener: vi.fn(),
+      removeListener: vi.fn(),
+      onchange: null,
+      dispatchEvent: vi.fn()
+    }));
+
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+
+    expect(document.documentElement.dataset.theme).toBe('dark');
+  });
+
+  it('uses stored theme preference over system preference', () => {
+    localStorage.setItem('theme', 'light');
+    window.matchMedia = vi.fn().mockImplementation((query: string) => ({
+      matches: query === '(prefers-color-scheme: dark)',
+      media: query,
+      addEventListener: vi.fn(),
+      removeEventListener: vi.fn(),
+      addListener: vi.fn(),
+      removeListener: vi.fn(),
+      onchange: null,
+      dispatchEvent: vi.fn()
+    }));
+
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+
+    expect(document.documentElement.dataset.theme).toBe('light');
   });
 
   it('shows 100 recipes first and loads more on demand', async () => {
