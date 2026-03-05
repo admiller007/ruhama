@@ -74,8 +74,14 @@ export default function App({
   useEffect(() => {
     const onScroll = () => {
       const scrolled = window.scrollY;
-      setIsSearchElevated(scrolled > 72);
-      setShowScrollTop(scrolled > 300);
+      setIsSearchElevated(prev => {
+        const next = scrolled > 72;
+        return prev === next ? prev : next;
+      });
+      setShowScrollTop(prev => {
+        const next = scrolled > 300;
+        return prev === next ? prev : next;
+      });
     };
 
     onScroll();
