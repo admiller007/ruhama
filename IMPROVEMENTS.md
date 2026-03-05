@@ -3,7 +3,7 @@
 ## Visual Polish & Atmosphere
 
 - [x] **Background grain/noise texture** — Vintage parchment paper texture for aged cookbook feel
-- [ ] **Ornamental dividers** — Replace simple header decoration with expressive editorial flourishes (botanical SVGs, typographic ornaments, hand-drawn rules). Add dividers between card batches.
+- [x] **Ornamental dividers** — Replace simple header decoration with expressive editorial flourishes (botanical SVGs, typographic ornaments, hand-drawn rules). Add dividers between card batches.
 - [ ] **Richer empty state** — Illustration or warm message like "Nothing here yet — try searching for 'chicken' or 'pasta'" with suggested search chips.
 
 ## Interactions & Motion

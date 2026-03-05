@@ -116,11 +116,16 @@ body {
 }
 
 .header-decoration {
-  width: 60px;
-  height: 3px;
-  background: var(--accent);
   margin: 0 auto 20px;
-  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+}
+
+.header-ornament {
+  width: 160px;
+  height: 16px;
+  color: var(--accent);
+  opacity: 0.7;
 }
 
 .dark-mode-toggle {
@@ -770,6 +775,21 @@ details[open] > .recipe-details > .recipe-details-inner {
   border-color: var(--accent);
   color: var(--accent);
   background: var(--accent-light);
+}
+
+/* ── Section Divider ── */
+
+.section-divider {
+  display: flex;
+  justify-content: center;
+  margin: 28px 0 0;
+}
+
+.section-ornament {
+  width: 140px;
+  height: 14px;
+  color: var(--text-light);
+  opacity: 0.5;
 }
 
 /* ── Load More ── */
