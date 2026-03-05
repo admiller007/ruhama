@@ -203,7 +203,15 @@ export default function App({
   return (
     <main className="app-shell">
       <header className="site-header">
-        <div className="header-decoration" aria-hidden="true"></div>
+        <div className="header-decoration" aria-hidden="true">
+          <svg className="header-ornament" viewBox="0 0 200 20" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <line x1="0" y1="10" x2="78" y2="10" stroke="currentColor" strokeWidth="1" />
+            <path d="M86 10 L90 5 L94 10 L90 15 Z" fill="currentColor" />
+            <circle cx="100" cy="10" r="2.5" fill="currentColor" />
+            <path d="M106 10 L110 5 L114 10 L110 15 Z" fill="currentColor" />
+            <line x1="122" y1="10" x2="200" y2="10" stroke="currentColor" strokeWidth="1" />
+          </svg>
+        </div>
         <button
           type="button"
           className="dark-mode-toggle"
@@ -331,13 +339,22 @@ export default function App({
             ))}
           </section>
           {canLoadMore ? (
-            <button
-              type="button"
-              className="load-more-button"
-              onClick={() => setVisibleCount((current) => current + resultLimit)}
-            >
-              Load more
-            </button>
+            <>
+              <div className="section-divider" aria-hidden="true">
+                <svg className="section-ornament" viewBox="0 0 200 20" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                  <line x1="0" y1="10" x2="85" y2="10" stroke="currentColor" strokeWidth="1" strokeDasharray="4 3" />
+                  <circle cx="100" cy="10" r="3" fill="currentColor" />
+                  <line x1="115" y1="10" x2="200" y2="10" stroke="currentColor" strokeWidth="1" strokeDasharray="4 3" />
+                </svg>
+              </div>
+              <button
+                type="button"
+                className="load-more-button"
+                onClick={() => setVisibleCount((current) => current + resultLimit)}
+              >
+                Load more
+              </button>
+            </>
           ) : null}
         </>
       )}
