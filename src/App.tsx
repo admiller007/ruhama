@@ -189,13 +189,20 @@ export default function App({
   const filterCounts = useMemo(() => {
     const counts: Record<string, number> = {};
     for (const chip of FILTER_CHIP_DEFS) {
-      counts[chip.label] = searchResults.filter((r) =>
-        chip.patterns.some(
-          (pattern) =>
-            pattern.test(r.normalizedName) ||
-            pattern.test(r.normalizedIngredientText)
-        )
-      ).length;
+      counts[chip.label] = 0;
+    }
+    for (const r of searchResults) {
+      for (const chip of FILTER_CHIP_DEFS) {
+        if (
+          chip.patterns.some(
+            (pattern) =>
+              pattern.test(r.normalizedName) ||
+              pattern.test(r.normalizedIngredientText)
+          )
+        ) {
+          counts[chip.label]++;
+        }
+      }
     }
     return counts;
   }, [searchResults]);

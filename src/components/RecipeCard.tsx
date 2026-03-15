@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { memo, useEffect, useRef, useState } from 'react';
 import { splitHighlightSegments } from '../lib/highlight';
 import type { SearchableRecipe } from '../lib/types';
 
@@ -22,7 +22,7 @@ function ingredientPreview(ingredients: string[]): string {
   return extra > 0 ? `${preview} | +${extra} more` : preview;
 }
 
-export function RecipeCard({
+export const RecipeCard = memo(function RecipeCard({
   recipe,
   searchQuery = '',
   animationDelay = 0,
@@ -193,4 +193,4 @@ export function RecipeCard({
       </details>
     </article>
   );
-}
+});
