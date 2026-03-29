@@ -4,9 +4,7 @@ import App from './App';
 import './styles.css';
 
 if (import.meta.env.DEV) {
-  const { default: theatre } = await import('@theatre/core')
   const { default: studio } = await import('@theatre/studio')
-  theatre.init({ studio: true })
   studio.initialize()
 }
 
