@@ -45,7 +45,7 @@ export default function App({
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
   const { toggleFavorite, isFavorite, count: favoritesCount } = useFavorites();
-  const { headerRef, searchBarRef, filterChipsRef } = useIntroAnimation();
+  const { headerRef, searchBarRef, filterChipsRef, resultsRef } = useIntroAnimation();
   const focusedCardIndexRef = useRef(-1);
   const [darkMode, setDarkMode] = useState(() => {
     try {
@@ -321,7 +321,7 @@ export default function App({
           </div>
         </div>
       ) : (
-        <>
+        <div ref={resultsRef}>
           <section className="results-grid" aria-label="Recipe search results">
             {visibleResults.map((recipe, index) => (
               <RecipeCard
@@ -343,7 +343,7 @@ export default function App({
               Load more
             </button>
           ) : null}
-        </>
+        </div>
       )}
 
       <footer className="site-footer">

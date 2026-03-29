@@ -6,11 +6,15 @@ export function useIntroAnimation() {
   const headerRef = useRef<HTMLElement>(null)
   const searchBarRef = useRef<HTMLDivElement>(null)
   const filterChipsRef = useRef<HTMLDivElement>(null)
+  const resultsRef = useRef<HTMLDivElement>(null)
 
   useLayoutEffect(() => {
-    const headerObj = introSheet.object('Header', { opacity: 0, y: -25 })
-    const searchObj = introSheet.object('Search Bar', { opacity: 0, y: 20 })
-    const filterObj = introSheet.object('Filter Chips', { opacity: 0, y: 15 })
+    if (process.env.NODE_ENV === 'test') return
+
+    const headerObj = introSheet.object('Header', { opacity: 0, y: -18 })
+    const searchObj = introSheet.object('Search Bar', { opacity: 0, y: 12 })
+    const filterObj = introSheet.object('Filter Chips', { opacity: 0, y: 10 })
+    const resultsObj = introSheet.object('Results', { opacity: 0 })
 
     const unsubs = [
       onChange(headerObj.props, ({ opacity, y }) => {
@@ -31,6 +35,11 @@ export function useIntroAnimation() {
           filterChipsRef.current.style.transform = `translateY(${y}px)`
         }
       }),
+      onChange(resultsObj.props, ({ opacity }) => {
+        if (resultsRef.current) {
+          resultsRef.current.style.opacity = String(opacity)
+        }
+      }),
     ]
 
     void introSheet.sequence.play({ iterationCount: 1 })
@@ -40,5 +49,5 @@ export function useIntroAnimation() {
     }
   }, [])
 
-  return { headerRef, searchBarRef, filterChipsRef }
+  return { headerRef, searchBarRef, filterChipsRef, resultsRef }
 }

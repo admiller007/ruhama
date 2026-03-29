@@ -6,7 +6,7 @@
       },
       "sequence": {
         "subUnitsPerUnit": 30,
-        "length": 1.5,
+        "length": 1.0,
         "type": "PositionalSequence",
         "tracksByObject": {
           "Header": {
@@ -15,16 +15,16 @@
                 "type": "BasicKeyframedTrack",
                 "__debugName": "Header:[\"opacity\"]",
                 "keyframes": [
-                  {"id": "h_op_0", "position": 0, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0},
-                  {"id": "h_op_1", "position": 15, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 1}
+                  {"id": "h_op_0", "position": 0,   "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0},
+                  {"id": "h_op_1", "position": 0.35, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 1}
                 ]
               },
               "header_y": {
                 "type": "BasicKeyframedTrack",
                 "__debugName": "Header:[\"y\"]",
                 "keyframes": [
-                  {"id": "h_y_0", "position": 0, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": -25},
-                  {"id": "h_y_1", "position": 15, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0}
+                  {"id": "h_y_0", "position": 0,   "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": -18},
+                  {"id": "h_y_1", "position": 0.35, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0}
                 ]
               }
             },
@@ -39,16 +39,16 @@
                 "type": "BasicKeyframedTrack",
                 "__debugName": "Search Bar:[\"opacity\"]",
                 "keyframes": [
-                  {"id": "sb_op_0", "position": 8, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0},
-                  {"id": "sb_op_1", "position": 23, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 1}
+                  {"id": "sb_op_0", "position": 0.15, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0},
+                  {"id": "sb_op_1", "position": 0.5,  "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 1}
                 ]
               },
               "sb_y": {
                 "type": "BasicKeyframedTrack",
                 "__debugName": "Search Bar:[\"y\"]",
                 "keyframes": [
-                  {"id": "sb_y_0", "position": 8, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 20},
-                  {"id": "sb_y_1", "position": 23, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0}
+                  {"id": "sb_y_0", "position": 0.15, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 12},
+                  {"id": "sb_y_1", "position": 0.5,  "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0}
                 ]
               }
             },
@@ -63,16 +63,16 @@
                 "type": "BasicKeyframedTrack",
                 "__debugName": "Filter Chips:[\"opacity\"]",
                 "keyframes": [
-                  {"id": "fc_op_0", "position": 15, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0},
-                  {"id": "fc_op_1", "position": 30, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 1}
+                  {"id": "fc_op_0", "position": 0.28, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0},
+                  {"id": "fc_op_1", "position": 0.62, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 1}
                 ]
               },
               "fc_y": {
                 "type": "BasicKeyframedTrack",
                 "__debugName": "Filter Chips:[\"y\"]",
                 "keyframes": [
-                  {"id": "fc_y_0", "position": 15, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 15},
-                  {"id": "fc_y_1", "position": 30, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0}
+                  {"id": "fc_y_0", "position": 0.28, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 10},
+                  {"id": "fc_y_1", "position": 0.62, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0}
                 ]
               }
             },
@@ -80,11 +80,26 @@
               "[\"opacity\"]": "fc_opacity",
               "[\"y\"]": "fc_y"
             }
+          },
+          "Results": {
+            "trackData": {
+              "res_opacity": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "Results:[\"opacity\"]",
+                "keyframes": [
+                  {"id": "res_op_0", "position": 0.4, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 0},
+                  {"id": "res_op_1", "position": 0.85, "connectedRight": true, "handles": [0.5, 1, 0.5, 0], "type": "bezier", "value": 1}
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"opacity\"]": "res_opacity"
+            }
           }
         }
       }
     }
   },
   "definitionVersion": "0.4.0",
-  "revisionHistory": ["ruhama_intro_v1"]
+  "revisionHistory": ["ruhama_intro_v2"]
 }
