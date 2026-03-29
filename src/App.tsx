@@ -6,6 +6,7 @@ import { FilterChips, FILTER_CHIP_DEFS } from './components/FilterChips';
 import { buildSearchableRecipes } from './lib/normalize';
 import { searchRecipes } from './lib/search';
 import { useFavorites } from './hooks/useFavorites';
+import { useIntroAnimation } from './hooks/useIntroAnimation';
 import type { Recipe, SearchableRecipe } from './lib/types';
 
 interface AppProps {
@@ -44,6 +45,7 @@ export default function App({
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
   const { toggleFavorite, isFavorite, count: favoritesCount } = useFavorites();
+  const { headerRef, searchBarRef, filterChipsRef } = useIntroAnimation();
   const focusedCardIndexRef = useRef(-1);
   const [darkMode, setDarkMode] = useState(() => {
     try {
@@ -202,7 +204,7 @@ export default function App({
 
   return (
     <main className="app-shell">
-      <header className="site-header">
+      <header className="site-header" ref={headerRef}>
         <div className="header-decoration" aria-hidden="true"></div>
         <button
           type="button"
@@ -258,7 +260,7 @@ export default function App({
         </p>
       </header>
 
-      <div className={`search-bar-sticky${isSearchElevated ? ' is-elevated' : ''}`}>
+      <div className={`search-bar-sticky${isSearchElevated ? ' is-elevated' : ''}`} ref={searchBarRef}>
         <SearchBar
           query={query}
           onChange={setQuery}
@@ -266,12 +268,14 @@ export default function App({
         />
       </div>
 
-      <FilterChips
-        activeFilters={activeFilters}
-        onToggle={toggleFilter}
-        onClearAll={clearFilters}
-        counts={filterCounts}
-      />
+      <div ref={filterChipsRef}>
+        <FilterChips
+          activeFilters={activeFilters}
+          onToggle={toggleFilter}
+          onClearAll={clearFilters}
+          counts={filterCounts}
+        />
+      </div>
 
       {favoritesCount > 0 && (
         <div className="favorites-toggle-bar">
