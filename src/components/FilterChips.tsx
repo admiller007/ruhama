@@ -7,7 +7,8 @@ export interface FilterChipDef {
 
 function buildPattern(term: string): RegExp {
   const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  return new RegExp(`\\b${escaped}\\b`);
+  const plural = /s$/i.test(term) ? '' : '(?:es|s)?';
+  return new RegExp(`\\b${escaped}${plural}\\b`);
 }
 
 function defineChip(label: string, terms: string[]): FilterChipDef {

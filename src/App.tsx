@@ -1,10 +1,10 @@
 import { useCallback, useEffect, useMemo, useRef, useState, type MouseEvent } from 'react';
-import rawRecipes from './data/recipes.json';
+import recipesUrl from './data/recipes.json?url';
 import { RecipeCard } from './components/RecipeCard';
 import { SearchBar } from './components/SearchBar';
 import { FilterChips, FILTER_CHIP_DEFS } from './components/FilterChips';
 import { buildSearchableRecipes } from './lib/normalize';
-import { searchRecipes } from './lib/search';
+import { searchRecipes, suggestQueries } from './lib/search';
 import { useFavorites } from './hooks/useFavorites';
 import type { Recipe, SearchableRecipe } from './lib/types';
 
@@ -29,7 +29,7 @@ function matchesAllFilters(
   });
 }
 
-const SUGGESTIONS = ['chicken', 'pasta', 'salmon', 'beef', 'potato'];
+const SUGGESTIONS = ['chicken', 'shakshuka', 'soup', 'pasta', 'potatoes'];
 
 function readStoredTheme(): 'dark' | 'light' | null {
   try {
@@ -66,9 +66,9 @@ function applyTheme(dark: boolean) {
 }
 
 export default function App({
-  initialRecipes = rawRecipes as Recipe[],
+  initialRecipes,
   resultLimit = 100,
-  debounceMs = 150
+  debounceMs = 0
 }: AppProps) {
   const [query, setQuery] = useState('');
   const [debouncedQuery, setDebouncedQuery] = useState('');
@@ -77,6 +77,8 @@ export default function App({
   const [activeFilters, setActiveFilters] = useState<string[]>([]);
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
+  const [remoteRecipes, setRemoteRecipes] = useState<Recipe[] | null>(null);
+  const [loadError, setLoadError] = useState(false);
   const { toggleFavorite, isFavorite, count: favoritesCount } = useFavorites();
   const focusedCardIndexRef = useRef(-1);
   const themeChosenRef = useRef(readStoredTheme() !== null);
@@ -86,12 +88,36 @@ export default function App({
     return systemPrefersDark();
   });
 
+  const sourceRecipes = initialRecipes ?? remoteRecipes;
+
   const searchableRecipes = useMemo(
-    () => buildSearchableRecipes(initialRecipes),
-    [initialRecipes]
+    () => (sourceRecipes ? buildSearchableRecipes(sourceRecipes) : []),
+    [sourceRecipes]
   );
 
   useEffect(() => {
+    if (initialRecipes) return;
+    let cancelled = false;
+
+    fetch(recipesUrl)
+      .then((response) => {
+        if (!response.ok) throw new Error(`Recipe request failed (${response.status})`);
+        return response.json() as Promise<Recipe[]>;
+      })
+      .then((data) => {
+        if (!cancelled) setRemoteRecipes(data);
+      })
+      .catch(() => {
+        if (!cancelled) setLoadError(true);
+      });
+
+    return () => {
+      cancelled = true;
+    };
+  }, [initialRecipes]);
+
+  useEffect(() => {
+    if (debounceMs <= 0) return;
     const timeout = window.setTimeout(() => {
       setDebouncedQuery(query);
     }, debounceMs);
@@ -99,10 +125,12 @@ export default function App({
     return () => window.clearTimeout(timeout);
   }, [query, debounceMs]);
 
+  const activeQuery = debounceMs > 0 ? debouncedQuery : query;
+
   useEffect(() => {
     setVisibleCount(resultLimit);
     focusedCardIndexRef.current = -1;
-  }, [debouncedQuery, activeFilters, showFavoritesOnly, resultLimit]);
+  }, [activeQuery, activeFilters, showFavoritesOnly, resultLimit]);
 
   useEffect(() => {
     const onScroll = () => {
@@ -197,9 +225,21 @@ export default function App({
   };
 
   const searchResults = useMemo(
-    () => searchRecipes(searchableRecipes, debouncedQuery, searchableRecipes.length),
-    [searchableRecipes, debouncedQuery]
+    () => searchRecipes(searchableRecipes, activeQuery, searchableRecipes.length),
+    [searchableRecipes, activeQuery]
   );
+
+  const suggestions = useMemo(() => {
+    const corrections =
+      activeQuery.trim() && searchResults.length === 0
+        ? suggestQueries(searchableRecipes, activeQuery)
+        : [];
+    const merged = [...corrections];
+    for (const suggestion of SUGGESTIONS) {
+      if (!merged.some((item) => item.toLowerCase() === suggestion)) merged.push(suggestion);
+    }
+    return merged.slice(0, 6);
+  }, [activeQuery, searchResults.length, searchableRecipes]);
 
   const filteredResults = useMemo(
     () =>
@@ -343,22 +383,33 @@ export default function App({
         </div>
       )}
 
+      {sourceRecipes === null && !loadError ? (
+        <p className="recipe-count" role="status">Loading recipes…</p>
+      ) : loadError ? (
+        <div className="empty-state" role="alert">
+          <p className="empty-state-heading">Recipes didn’t load</p>
+          <p className="empty-state-hint">Refresh the page to try again.</p>
+        </div>
+      ) : (
+      <>
       <p className="recipe-count">
         Showing {visibleResults.length} of {allResults.length} recipes
       </p>
 
       {allResults.length === 0 ? (
         <div className="empty-state" role="status">
-          <p className="empty-state-heading">No recipes found</p>
+          <p className="empty-state-heading">
+            {query.trim() ? 'Nothing matches' : 'No recipes found'}
+          </p>
           <p className="empty-state-hint">
             {showFavoritesOnly
               ? 'No favorites match the current search or filters.'
-              : query
-                ? `Nothing matched "${query}" — try a different search term.`
+              : query.trim()
+                ? `Nothing matched "${query.trim()}". Try a dish, an ingredient, or one of these.`
                 : 'No recipes match the selected filters.'}
           </p>
           <div className="empty-state-suggestions">
-            {SUGGESTIONS.map((suggestion) => (
+            {suggestions.map((suggestion) => (
               <button
                 key={suggestion}
                 type="button"
@@ -380,7 +431,7 @@ export default function App({
               <RecipeCard
                 key={recipe.shortcode ?? recipe.name}
                 recipe={recipe}
-                searchQuery={debouncedQuery}
+                searchQuery={activeQuery}
                 isFavorite={isFavorite(recipe.shortcode ?? recipe.name)}
                 onToggleFavorite={toggleFavorite}
               />
@@ -396,6 +447,8 @@ export default function App({
             </button>
           ) : null}
         </>
+      )}
+      </>
       )}
 
       <footer className="site-footer">

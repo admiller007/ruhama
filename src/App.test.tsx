@@ -30,8 +30,8 @@ describe('App', () => {
     const search = screen.getByLabelText('Search recipes');
     await userEvent.type(search, 'chickpeas');
 
-    expect(screen.getByText('Chickpea Rice')).toBeInTheDocument();
-    expect(screen.queryByText('Beef Stew')).not.toBeInTheDocument();
+    expect(screen.getByRole('heading', { level: 2, name: 'Chickpea Rice' })).toBeInTheDocument();
+    expect(screen.queryByRole('heading', { level: 2, name: 'Beef Stew' })).not.toBeInTheDocument();
   });
 
   it('highlights query matches in recipe names and ingredient previews', async () => {

@@ -1,4 +1,5 @@
 import { splitHighlightSegments } from '../lib/highlight';
+import { cardMeta } from '../lib/meta';
 import type { SearchableRecipe } from '../lib/types';
 
 interface RecipeCardProps {
@@ -11,18 +12,6 @@ interface RecipeCardProps {
 interface RecipeFact {
   label: string;
   value: string;
-}
-
-function ingredientPreview(ingredients: string[]): string {
-  if (ingredients.length === 0) {
-    return 'No ingredients listed';
-  }
-
-  const previewCount = 4;
-  const preview = ingredients.slice(0, previewCount).join(' · ');
-  const extra = ingredients.length - previewCount;
-
-  return extra > 0 ? `${preview} · +${extra} more` : preview;
 }
 
 function formatFactValue(value: unknown): string | null {
@@ -67,12 +56,12 @@ export function RecipeCard({
 }: RecipeCardProps) {
   const instructions = recipe.instructions ?? [];
   const recipeKey = recipe.shortcode ?? recipe.name;
-  const ingredientCount = recipe.cleanIngredients.length;
-  const ingredientPreviewText = ingredientPreview(recipe.cleanIngredients);
+  const highlightQuery = recipe.highlightTerms || searchQuery;
+  const meta = cardMeta(recipe.cleanIngredients, recipe.macros, highlightQuery);
   const facts = recipeFacts(recipe);
 
   const renderHighlightedText = (text: string) =>
-    splitHighlightSegments(text, searchQuery).map((segment, index) =>
+    splitHighlightSegments(text, highlightQuery).map((segment, index) =>
       segment.isMatch ? (
         <mark key={`${text}-${index}`} className="search-highlight">
           {segment.text}
@@ -90,13 +79,12 @@ export function RecipeCard({
           <div className="card-summary-content">
             <h2>{renderHighlightedText(recipe.name)}</h2>
             <p className="ingredient-preview">
-              {renderHighlightedText(ingredientPreviewText)}
+              {recipe.matchLabel ? (
+                <span className="match-reason">{recipe.matchLabel}</span>
+              ) : null}
+              {recipe.matchLabel && meta ? <span className="meta-dot"> · </span> : null}
+              {meta ? renderHighlightedText(meta) : recipe.matchLabel ? null : 'No ingredients listed'}
             </p>
-            {ingredientCount > 0 && (
-              <span className="ingredient-count-badge">
-                {ingredientCount} ingredient{ingredientCount !== 1 ? 's' : ''}
-              </span>
-            )}
           </div>
           <div className="card-actions">
             {onToggleFavorite && (

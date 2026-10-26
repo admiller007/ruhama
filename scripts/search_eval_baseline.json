@@ -1,0 +1,64 @@
+{
+  "recipeCount": 1012,
+  "caseCount": 36,
+  "passed": 29,
+  "failed": 7,
+  "passRate": 0.8056,
+  "failures": [
+    {
+      "id": "ingredient-ground-beef",
+      "query": "ground beef",
+      "kind": "ingredient",
+      "top": [
+        "Beef Kebab with sumac onions and lots of Tahina on top! Delish!  On top of the kebab -",
+        "BEEF KEBABS With a SECRET INGREDIENT",
+        "BEEF SIRLOIN AND BEAN STEW!"
+      ]
+    },
+    {
+      "id": "multi-chicken-rice",
+      "query": "chicken rice",
+      "kind": "multi",
+      "top": [
+        "CHICKEN MEATBALLS AND RICE NOODLES!",
+        "CHICKEN MEATBALLS AND RICE NOODLES!",
+        "AMBA CHICKEN AND RICE!"
+      ]
+    },
+    {
+      "id": "multi-chicken-rice-phrase",
+      "query": "what can I make with chicken and rice",
+      "kind": "multi",
+      "top": []
+    },
+    {
+      "id": "typo-shnitzel",
+      "query": "shnitzel",
+      "kind": "typo",
+      "top": []
+    },
+    {
+      "id": "typo-chiken",
+      "query": "chiken",
+      "kind": "typo",
+      "top": []
+    },
+    {
+      "id": "category-dessert",
+      "query": "dessert",
+      "kind": "category",
+      "top": [
+        "One of my weaknesses is definitely apple desserts!",
+        "Semolina Strawberry Chocolate Muffins! dairyfreedessert",
+        "When I was visiting Israel my talented sister Maya made an amazing desserts! One of them was this in"
+      ]
+    },
+    {
+      "id": "intent-high-protein",
+      "query": "high protein",
+      "kind": "intent",
+      "top": []
+    }
+  ],
+  "label": "Baseline on the original 1,012 recipes and the original substring ranker, recorded before data cleanup or ranking changes."
+}
