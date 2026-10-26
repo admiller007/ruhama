@@ -1,4 +1,4 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen, waitFor } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import App from './App';
 import type { Recipe } from './lib/types';
@@ -6,6 +6,7 @@ import type { Recipe } from './lib/types';
 beforeEach(() => {
   // jsdom does not implement scrollIntoView
   Element.prototype.scrollIntoView = vi.fn();
+  window.history.replaceState(null, '', '/');
 });
 
 const sampleData: Recipe[] = [
@@ -54,6 +55,52 @@ describe('App', () => {
     const stickyContainer = search.closest('.search-bar-sticky');
 
     expect(stickyContainer).toBeInTheDocument();
+  });
+
+  it('shares the open recipe and the search in the URL', async () => {
+    render(<App initialRecipes={sampleData} debounceMs={0} />);
+
+    await userEvent.type(screen.getByLabelText('Search recipes'), 'chickpeas');
+    expect(window.location.search).toContain('q=chickpeas');
+
+    await userEvent.click(screen.getByRole('heading', { level: 2, name: 'Chickpea Rice' }));
+    expect(window.location.search).toContain('r=a1');
+    expect(screen.getByText('Cook rice')).toBeVisible();
+
+    window.history.back();
+    await waitFor(() => {
+      expect(screen.getByText('Cook rice')).not.toBeVisible();
+    });
+    expect(window.location.search).not.toContain('r=');
+    expect(window.location.search).toContain('q=chickpeas');
+  });
+
+  it('opens a recipe from a shared link and offers browse chips', async () => {
+    window.history.replaceState(null, '', '/?r=b2&q=beef');
+    const withShabbat: Recipe[] = [
+      ...sampleData,
+      {
+        name: 'Shabbat Chicken',
+        shortcode: 'sh1',
+        ingredients: ['chicken'],
+        instructions: ['Roast for dinner']
+      }
+    ];
+    render(<App initialRecipes={withShabbat} debounceMs={0} />);
+
+    expect(screen.getByText('Simmer')).toBeVisible();
+    expect(window.location.search).toContain('r=b2');
+
+    window.history.back();
+    await waitFor(() => {
+      expect(screen.getByText('Simmer')).not.toBeVisible();
+    });
+
+    await userEvent.clear(screen.getByLabelText('Search recipes'));
+    expect(screen.getByText('Newest from Ruhama')).toBeInTheDocument();
+    await userEvent.click(screen.getByRole('button', { name: 'Shabbat' }));
+    expect(screen.getByRole('heading', { level: 2, name: 'Shabbat Chicken' })).toBeInTheDocument();
+    expect(window.location.search).toContain('q=shabbat');
   });
 
   it('shows details when a recipe is expanded', async () => {

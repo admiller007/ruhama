@@ -392,6 +392,50 @@ button {
   min-height: 100vh;
 }
 
+.browse {
+  margin-top: 1.35rem;
+}
+
+.browse-kicker,
+.browse-newest {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.browse-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.7rem;
+}
+
+.browse-chip {
+  min-height: 40px;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--hairline);
+  border-radius: 999px;
+  color: var(--text);
+  font-size: 0.84rem;
+  font-weight: 500;
+  transition: color 180ms ease, border-color 180ms ease;
+}
+
+.browse-chip:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.browse-newest {
+  margin-top: 1.35rem;
+}
+
+.empty-browse {
+  margin-bottom: 0.85rem;
+}
+
 .recipe-count {
   margin: 1.5rem 0 0;
   color: var(--muted);

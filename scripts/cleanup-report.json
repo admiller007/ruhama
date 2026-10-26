@@ -1,5 +1,5 @@
 {
-  "inputCount": 1012,
+  "inputCount": 852,
   "outputCount": 852,
   "duplicates": {
     "clustersMerged": 121,
@@ -2581,14 +2581,161 @@
     ]
   },
   "ingredients": {
-    "recordsWithNumberedSteps": 445,
-    "numberedStepLinesRemovedFromIngredients": 3277,
+    "recordsWithNumberedSteps": 0,
+    "numberedStepLinesRemovedFromIngredients": 0,
     "numberedStepLinesAppendedToInstructions": 0,
-    "numberedStepLinesAlreadyInInstructions": 3277,
-    "emojiOnlyLinesRemoved": 0
+    "numberedStepLinesAlreadyInInstructions": 0,
+    "emojiOnlyLinesRemoved": 0,
+    "linesWithEmojiStripped": 428
+  },
+  "instructionSplits": {
+    "recordsSplit": 86,
+    "ingredientLinesAdded": 190,
+    "methodBleedLinesRemoved": 11,
+    "rule": "An instruction contains an Ingredients- label and a later Method- label. Lines between them join ingredients when not already present. Lines after Method- become the instructions. A line in ingredients that repeats a method sentence is removed. Blocks without both labels are left alone.",
+    "examples": [
+      {
+        "before": {
+          "name": "Latkes Full Of Love!",
+          "shortcode": "CW4Lr-AL6Pt",
+          "ingredientCount": 16,
+          "instructionCount": 5,
+          "ingredients": [
+            "4 shredded russet potatoes( drain the liquid)🥔🥔",
+            "1/2 shredded sweet onion 🧅",
+            "1 tablespoon of chopped dill",
+            "1 egg",
+            "3 tablespoons of all purpose flour",
+            "1 teaspoon of baking powder",
+            "1.5 teaspoon of salt",
+            "1/4 teaspoon of black pepper"
+          ],
+          "instructions": [
+            "Ingredients- \n4 shredded russet potatoes( drain the liquid)🥔🥔\n1/2 shredded sweet onion 🧅\n1 tablespoon of chopped dill \n1 egg\n3 tablespoons of all purpose flour \n1 teaspoon of baking powder\n1.5 teaspoon of salt \n1/4 teaspoon of black pepper \n\nMethod- \nMix all the ingredients in a bowl",
+            "🌟Frying- \nIn a pan on a low medium heat, pour 3/4 cup of vegetable oil",
+            "When the oil is hot, \nuse a spoon to scoop from the latke mixture, put in the oil and fry the latkes from both sides until they are golden",
+            "🌟Baking- \nOn a baking sheet put parchment paper, spray the parchment paper with oil, place the latkes  and spray oil on top"
+          ]
+        },
+        "after": {
+          "name": "Latkes Full Of Love!",
+          "shortcode": "CW4Lr-AL6Pt",
+          "ingredientCount": 15,
+          "instructionCount": 8,
+          "ingredients": [
+            "4 shredded russet potatoes( drain the liquid)",
+            "1/2 shredded sweet onion",
+            "1 tablespoon of chopped dill",
+            "1 egg",
+            "3 tablespoons of all purpose flour",
+            "1 teaspoon of baking powder",
+            "1.5 teaspoon of salt",
+            "1/4 teaspoon of black pepper"
+          ],
+          "instructions": [
+            "Mix all the ingredients in a bowl",
+            "Frying-",
+            "In a pan on a low medium heat, pour 3/4 cup of vegetable oil",
+            "When the oil is hot,"
+          ]
+        }
+      },
+      {
+        "before": {
+          "name": "SHAWARMA SPICED SALMON CUBES!",
+          "shortcode": "C0zmPSSRUzt",
+          "ingredientCount": 12,
+          "instructionCount": 7,
+          "ingredients": [
+            "2.5 pounds of fresh salmon, cut to thick cubes",
+            "1 cup of cherry tomatoes",
+            "1 sliced shallot",
+            "1/4 sliced jalapeño pepper",
+            "1/4 cup of olive oil",
+            "1 teaspoon of paprika",
+            "1 teaspoon of sumac",
+            "4 minced garlic cloves"
+          ],
+          "instructions": [
+            "Recipe:\nIngredients-\n2.5 pounds of fresh salmon, cut to thick cubes \n1 cup of cherry tomatoes \nHandful of chopped parsley and mint leaves \n1 sliced shallot \nSlices of 1/2 Lemon \n1/4 sliced jalapeño pepper\n\nSeasoning-\n1/4 cup of olive oil\nJuice from 1/2 lemon\n1 teaspoon of paprika \n1 teaspoon of sumac \n4 minced garlic cloves \n1 teaspoon of salt\n1 teaspoon of shawarma spice \n1 tablespoon of Dijon mustard \n1 tablespoon of honey \nPut all the ingredients in a bowl and mix it well",
+            "Method-\nPreheat the oven to 400F\nIn an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalapeños, cherry tomatoes and lemon slices",
+            "Pour the sauce on top and mix it all well",
+            "Cover with wet parchment paper"
+          ]
+        },
+        "after": {
+          "name": "SHAWARMA SPICED SALMON CUBES!",
+          "shortcode": "C0zmPSSRUzt",
+          "ingredientCount": 16,
+          "instructionCount": 7,
+          "ingredients": [
+            "2.5 pounds of fresh salmon, cut to thick cubes",
+            "1 cup of cherry tomatoes",
+            "1 sliced shallot",
+            "1/4 sliced jalapeño pepper",
+            "1/4 cup of olive oil",
+            "1 teaspoon of paprika",
+            "1 teaspoon of sumac",
+            "4 minced garlic cloves"
+          ],
+          "instructions": [
+            "Preheat the oven to 400F",
+            "In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalapeños, cherry tomatoes and lemon slices",
+            "Pour the sauce on top and mix it all well",
+            "Cover with wet parchment paper"
+          ]
+        }
+      },
+      {
+        "before": {
+          "name": "MOROCCAN CARROT SALAD!",
+          "shortcode": "CwlW2JoIw24",
+          "ingredientCount": 10,
+          "instructionCount": 6,
+          "ingredients": [
+            "10-12 carrots, peeled and washed",
+            "1 teaspoon of salt",
+            "1/4 cup of olive oil",
+            "1 tablespoon of honey",
+            "1 teaspoon of ground coriander",
+            "1/2 teaspoon of Ras El Hanut",
+            "1 teaspoon of salt",
+            "2 minced garlic cloves"
+          ],
+          "instructions": [
+            "Recipe:\nIngredients- \n10-12 carrots, peeled and washed \n1 teaspoon of salt \n\nDressing-\n1/4 cup of olive oil\n1 tablespoon of honey\n1 teaspoon of ground coriander \n1/2 teaspoon of Ras El Hanut \n1 teaspoon of salt \nJuice from 1/2 lemon \n2 minced garlic cloves \n1/2 teaspoon of harissa paste \nPut all the ingredients in a bowl and mix well",
+            "Garnish-\nHandful of chopped cilantro \n1 slice of lemon, cut to quarters with no seeds\nHandful of chopped walnuts \n\nMethod- \nIn a large pot, place the carrots and the salt",
+            "On the stove on high heat, boil the carrots for 10 minutes or until they’re soft but still have some bite to them",
+            "Drain, let it dry and cool"
+          ]
+        },
+        "after": {
+          "name": "MOROCCAN CARROT SALAD!",
+          "shortcode": "CwlW2JoIw24",
+          "ingredientCount": 14,
+          "instructionCount": 5,
+          "ingredients": [
+            "10-12 carrots, peeled and washed",
+            "1 teaspoon of salt",
+            "1/4 cup of olive oil",
+            "1 tablespoon of honey",
+            "1 teaspoon of ground coriander",
+            "1/2 teaspoon of Ras El Hanut",
+            "1 teaspoon of salt",
+            "2 minced garlic cloves"
+          ],
+          "instructions": [
+            "In a large pot, place the carrots and the salt",
+            "On the stove on high heat, boil the carrots for 10 minutes or until they’re soft but still have some bite to them",
+            "Drain, let it dry and cool",
+            "Transfer to a nice bowl, add the cilantro, lemon slices and pour the dressing"
+          ]
+        }
+      }
+    ]
   },
   "text": {
-    "doubledFunctionWordsCollapsed": 30,
+    "doubledFunctionWordsCollapsed": 0,
     "pattern": "of of | with with | the the | it it"
   },
   "examples": [

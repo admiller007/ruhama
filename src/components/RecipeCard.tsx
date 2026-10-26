@@ -7,6 +7,8 @@ interface RecipeCardProps {
   searchQuery?: string;
   isFavorite?: boolean;
   onToggleFavorite?: (key: string) => void;
+  open?: boolean;
+  onOpenChange?: (open: boolean) => void;
 }
 
 interface RecipeFact {
@@ -52,7 +54,9 @@ export function RecipeCard({
   recipe,
   searchQuery = '',
   isFavorite = false,
-  onToggleFavorite
+  onToggleFavorite,
+  open = false,
+  onOpenChange
 }: RecipeCardProps) {
   const instructions = recipe.instructions ?? [];
   const recipeKey = recipe.shortcode ?? recipe.name;
@@ -72,9 +76,15 @@ export function RecipeCard({
     );
 
   return (
-    <article className="recipe-card">
-      <details>
-        <summary>
+    <article className="recipe-card" id={`recipe-${recipeKey}`}>
+      <details open={onOpenChange ? open : undefined}>
+        <summary
+          onClick={(event) => {
+            if (!onOpenChange) return;
+            event.preventDefault();
+            onOpenChange(!open);
+          }}
+        >
           <span className="recipe-index" aria-hidden="true" />
           <div className="card-summary-content">
             <h2>{renderHighlightedText(recipe.name)}</h2>

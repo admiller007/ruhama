@@ -6,7 +6,7 @@ const DEFAULT_LIMIT = 100;
 const STOPWORDS = new Set([
   "a", "an", "the", "and", "or", "with", "of", "for", "to", "in", "on", "from",
   "what", "whats", "can", "i", "im", "make", "me", "something", "using", "do",
-  "how", "should", "some", "my", "your", "this", "that", "it", "dish", "dishes",
+  "how", "should", "some", "my", "your", "this", "that", "it",
   "recipe", "recipes", "food", "please", "want", "need", "into", "over"
 ]);
 
@@ -29,6 +29,12 @@ const INSTRUCTION_EXACT = 5;
 const INSTRUCTION_PREFIX = 2;
 const CAPTION_EXACT = 6;
 const CAPTION_PREFIX = 2;
+const PHRASE_BONUS: Record<FieldName, number> = {
+  title: 28,
+  ingredients: 40,
+  instructions: 12,
+  caption: 88
+};
 
 type FieldName = "title" | "ingredients" | "instructions" | "caption";
 
@@ -209,6 +215,33 @@ function queryIncludes(resolved: ResolvedToken[], docToken: string): boolean {
   return resolved.some((token) => tokenHit(token, docToken) !== null);
 }
 
+const PHRASE_SKIP = new Set(["a", "an", "the", "and", "or", "with", "of", "for", "to"]);
+
+function hasAdjacentPhrase(docTokens: string[], resolved: ResolvedToken[]): boolean {
+  if (resolved.length < 2) return false;
+
+  for (let start = 0; start < docTokens.length; start += 1) {
+    if (!tokenHit(resolved[0], docTokens[start])) continue;
+    let matched = 1;
+    let index = start + 1;
+    while (index < docTokens.length && matched < resolved.length) {
+      if (tokenHit(resolved[matched], docTokens[index])) {
+        matched += 1;
+        index += 1;
+        continue;
+      }
+      if (PHRASE_SKIP.has(docTokens[index])) {
+        index += 1;
+        continue;
+      }
+      break;
+    }
+    if (matched === resolved.length) return true;
+  }
+
+  return false;
+}
+
 function scoreFields(fields: Fields, resolved: ResolvedToken[]): Hit | null {
   let score = 0;
   let matched = 0;
@@ -282,6 +315,14 @@ function scoreFields(fields: Fields, resolved: ResolvedToken[]): Hit | null {
   if (fields.title.length > 14) {
     score -= Math.min(8, fields.title.length - 14);
   }
+
+  let phraseBonus = 0;
+  for (const field of fieldNames) {
+    if (hasAdjacentPhrase(fields[field], resolved)) {
+      phraseBonus = Math.max(phraseBonus, PHRASE_BONUS[field]);
+    }
+  }
+  score += phraseBonus;
 
   return {
     score,

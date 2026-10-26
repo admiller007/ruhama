@@ -12,8 +12,13 @@
  * 2. Clearly accidental doubled function words ("of of", "with with", "the the",
  *    "it it") are collapsed. Recipe wording is otherwise left alone.
  * 3. Ingredient or instruction lines that contain no letters or numbers
- *    (emoji-only leftovers) are removed.
- * 4. Near-duplicate reposts are merged. Two records are the same recipe only when
+ *    (emoji-only leftovers) are removed. Emoji stuck to a real line are stripped
+ *    and the words are left as written.
+ * 4. An instruction block that is clearly "Ingredients- … Method- …" is split.
+ *    Ingredient lines move into `ingredients` only when they are not already
+ *    there. Method lines become `instructions`. Lines that are not part of that
+ *    labeled block are left alone.
+ * 5. Near-duplicate reposts are merged. Two records are the same recipe only when
  *    their normalized titles match and their ingredient lists overlap strongly.
  *    The newest record is kept when it is roughly as complete as the fullest copy;
  *    otherwise the fullest copy is kept. Unsure pairs are left untouched.
@@ -145,9 +150,18 @@ function isEmojiOnly(line) {
   return !/[\p{L}\p{N}]/u.test(trimmed);
 }
 
+function stripEmoji(text) {
+  return text
+    .replace(/\p{Extended_Pictographic}/gu, "")
+    .replace(/[\uFE0F\u200D]/g, "")
+    .replace(/[ \t]{2,}/g, " ")
+    .trim();
+}
+
 function cleanTextFields(recipe) {
   let doubledWords = 0;
   let emojiLines = 0;
+  let emojiStripped = 0;
 
   const cleanString = (value) => {
     if (typeof value !== "string" || !value) return value;
@@ -168,7 +182,13 @@ function cleanTextFields(recipe) {
         emojiLines += 1;
         continue;
       }
-      const result = collapseDoubledWords(line);
+      const withoutEmoji = stripEmoji(line);
+      if (withoutEmoji !== line.trim()) emojiStripped += 1;
+      if (!withoutEmoji || isEmojiOnly(withoutEmoji)) {
+        if (withoutEmoji !== line.trim()) emojiLines += 1;
+        continue;
+      }
+      const result = collapseDoubledWords(withoutEmoji);
       doubledWords += result.count;
       kept.push(result.text);
     }
@@ -184,7 +204,8 @@ function cleanTextFields(recipe) {
       caption_snippet: cleanString(recipe.caption_snippet)
     },
     doubledWords,
-    emojiLines
+    emojiLines,
+    emojiStripped
   };
 }
 
@@ -222,6 +243,93 @@ function relocateSteps(recipe) {
     recipe: { ...recipe, ingredients, instructions },
     stepLines: steps.length,
     appended
+  };
+}
+
+const INGREDIENT_LABEL = /^ingredients?\s*[-–:]\s*(.*)$/i;
+const METHOD_LABEL = /^method\s*[-–:]\s*(.*)$/i;
+const GROUP_LABEL = /^(?:recipe|dressing|seasoning|sauce|topping|filling|garnish|ingredients?)\s*[-–:]\s*$/i;
+const FOR_THE_LABEL = /^for the [\p{L}\s'’-]*[-–:]\s*$/iu;
+
+function instructionLines(instructions) {
+  const lines = [];
+  for (const block of instructions || []) {
+    if (typeof block !== "string") continue;
+    for (const piece of block.split(/\n/)) {
+      const trimmed = piece.trim();
+      if (trimmed) lines.push(trimmed);
+    }
+  }
+  return lines;
+}
+
+function isMethodBleed(line, methodKeys) {
+  const key = compareText(line);
+  if (key.length < 40) return false;
+  return methodKeys.some((step) => {
+    if (!step) return false;
+    if (sameStep(step, key)) return true;
+    const shorter = key.length <= step.length ? key : step;
+    const longer = key.length <= step.length ? step : key;
+    return shorter.length >= 40 && longer.startsWith(shorter);
+  });
+}
+
+function splitJammedInstructions(recipe) {
+  const lines = instructionLines(recipe.instructions);
+  const ingredientAt = lines.findIndex((line) => INGREDIENT_LABEL.test(line));
+  if (ingredientAt < 0) return { recipe, split: false, added: 0, bleed: 0 };
+  const methodAt = lines.findIndex((line, index) => index > ingredientAt && METHOD_LABEL.test(line));
+  if (methodAt < 0) return { recipe, split: false, added: 0, bleed: 0 };
+
+  const ingredientLines = [];
+  const ingredientRest = lines[ingredientAt].match(INGREDIENT_LABEL)[1].trim();
+  if (ingredientRest) ingredientLines.push(ingredientRest);
+  for (const line of lines.slice(ingredientAt + 1, methodAt)) {
+    if (GROUP_LABEL.test(line) || FOR_THE_LABEL.test(line)) continue;
+    ingredientLines.push(line);
+  }
+
+  const methodLines = [];
+  const methodRest = lines[methodAt].match(METHOD_LABEL)[1].trim();
+  if (methodRest) methodLines.push(methodRest);
+  for (const line of lines.slice(methodAt + 1)) {
+    if (/^recipe\s*[-–:]\s*$/i.test(line)) continue;
+    methodLines.push(line);
+  }
+
+  if (ingredientLines.length < 2 || methodLines.length < 1) {
+    return { recipe, split: false, added: 0, bleed: 0 };
+  }
+  if (ingredientLines.some((line) => line.length > 160 && !/^\d/.test(line))) {
+    return { recipe, split: false, added: 0, bleed: 0 };
+  }
+
+  const ingredients = [...(recipe.ingredients || [])];
+  const known = ingredients.map((line) => compareText(line));
+  let added = 0;
+  for (const line of ingredientLines) {
+    const key = compareText(line);
+    if (!key) continue;
+    if (known.some((existing) => existing === key || sameStep(existing, key))) continue;
+    ingredients.push(line);
+    known.push(key);
+    added += 1;
+  }
+
+  const methodKeys = methodLines.map((line) => compareText(line));
+  let bleed = 0;
+  const keptIngredients = ingredients.filter((line) => {
+    if (!isMethodBleed(line, methodKeys)) return true;
+    bleed += 1;
+    return false;
+  });
+
+  return {
+    recipe: { ...recipe, ingredients: keptIngredients, instructions: methodLines },
+    split: true,
+    added,
+    bleed
   };
 }
 
@@ -367,19 +475,38 @@ export function cleanRecipes(recipes) {
   const originals = recipes.map((recipe) => structuredClone(recipe));
   let doubledWords = 0;
   let emojiLines = 0;
+  let emojiStripped = 0;
   let recordsWithSteps = 0;
   let stepLines = 0;
   let stepsAppended = 0;
+  let recordsSplit = 0;
+  let ingredientLinesAdded = 0;
+  let methodBleedRemoved = 0;
+  const preferredSplits = new Map();
+  const otherSplits = [];
+  const preferredPatterns = [/latkes full of love/i, /^shawarma spiced salmon cubes!/i, /^moroccan carrot salad!/i];
 
   const cleaned = recipes.map((recipe) => {
     const text = cleanTextFields(recipe);
     doubledWords += text.doubledWords;
     emojiLines += text.emojiLines;
+    emojiStripped += text.emojiStripped;
     const steps = relocateSteps(text.recipe);
     if (steps.stepLines > 0) recordsWithSteps += 1;
     stepLines += steps.stepLines;
     stepsAppended += steps.appended;
-    return steps.recipe;
+    const jammed = splitJammedInstructions(steps.recipe);
+    if (jammed.split) {
+      recordsSplit += 1;
+      ingredientLinesAdded += jammed.added;
+      methodBleedRemoved += jammed.bleed;
+      const example = { before: snapshot(recipe), after: snapshot(jammed.recipe) };
+      const preferredAt = preferredPatterns.findIndex((pattern) => pattern.test(recipe.name));
+      if (preferredAt >= 0) {
+        if (!preferredSplits.has(preferredAt)) preferredSplits.set(preferredAt, example);
+      } else if (otherSplits.length < 3) otherSplits.push(example);
+    }
+    return jammed.recipe;
   });
 
   const { merges, dropped } = clusterDuplicates(cleaned);
@@ -402,7 +529,18 @@ export function cleanRecipes(recipes) {
         numberedStepLinesRemovedFromIngredients: stepLines,
         numberedStepLinesAppendedToInstructions: stepsAppended,
         numberedStepLinesAlreadyInInstructions: stepLines - stepsAppended,
-        emojiOnlyLinesRemoved: emojiLines
+        emojiOnlyLinesRemoved: emojiLines,
+        linesWithEmojiStripped: emojiStripped
+      },
+      instructionSplits: {
+        recordsSplit,
+        ingredientLinesAdded,
+        methodBleedLinesRemoved: methodBleedRemoved,
+        rule: "An instruction contains an Ingredients- label and a later Method- label. Lines between them join ingredients when not already present. Lines after Method- become the instructions. A line in ingredients that repeats a method sentence is removed. Blocks without both labels are left alone.",
+        examples: [...preferredPatterns.keys()].flatMap((index) => {
+          const example = preferredSplits.get(index);
+          return example ? [example] : [];
+        }).concat(otherSplits).slice(0, 3)
       },
       text: {
         doubledFunctionWordsCollapsed: doubledWords,
@@ -418,6 +556,19 @@ function main() {
   const raw = readFileSync(PATHS[0], "utf8");
   const recipes = JSON.parse(raw);
   const { recipes: cleaned, report } = cleanRecipes(recipes);
+
+  if (report.duplicates.recordsRemoved === 0) {
+    try {
+      const previous = JSON.parse(readFileSync(REPORT_PATH, "utf8"));
+      if (previous?.duplicates?.recordsRemoved > 0) {
+        report.duplicates = previous.duplicates;
+        report.examples = previous.examples || report.examples;
+      }
+    } catch {
+      // no earlier report to keep
+    }
+  }
+
   const body = `${JSON.stringify(cleaned, null, 2)}\n`;
   const reportBody = `${JSON.stringify(report, null, 2)}\n`;
 
@@ -436,7 +587,11 @@ function main() {
     stepLines: report.ingredients.numberedStepLinesRemovedFromIngredients,
     stepsAppended: report.ingredients.numberedStepLinesAppendedToInstructions,
     doubledWords: report.text.doubledFunctionWordsCollapsed,
-    emojiLines: report.ingredients.emojiOnlyLinesRemoved
+    emojiLines: report.ingredients.emojiOnlyLinesRemoved,
+    emojiStripped: report.ingredients.linesWithEmojiStripped,
+    recordsSplit: report.instructionSplits.recordsSplit,
+    ingredientLinesAdded: report.instructionSplits.ingredientLinesAdded,
+    methodBleedRemoved: report.instructionSplits.methodBleedLinesRemoved
   };
   process.stdout.write(`${JSON.stringify(summary, null, 2)}\n`);
 }

@@ -18,7 +18,9 @@ export interface EvalCase {
   query: string;
   kind: string;
   /** Top result must satisfy this. Predicates use fields that survive dedupe. */
-  accept: (recipe: SearchableRecipe) => boolean;
+  accept?: (recipe: SearchableRecipe) => boolean;
+  /** The query has no matching recipe in the archive, so the top of the list must be empty. */
+  expectEmpty?: boolean;
 }
 
 function nameHas(pattern: RegExp) {
@@ -110,14 +112,17 @@ export interface EvalReport {
   failures: EvalFailure[];
 }
 
-export function evaluateSearch(recipes: Recipe[], limit = 5): EvalReport {
+export function evaluateCases(recipes: Recipe[], cases: EvalCase[], limit = 5): EvalReport {
   const searchable = buildSearchableRecipes(recipes);
   const failures: EvalFailure[] = [];
 
-  for (const testCase of SEARCH_EVAL_CASES) {
+  for (const testCase of cases) {
     const results = searchRecipes(searchable, testCase.query, limit);
     const top = results[0];
-    if (!top || !testCase.accept(top)) {
+    const passed = testCase.expectEmpty
+      ? !top
+      : Boolean(top && testCase.accept?.(top));
+    if (!passed) {
       failures.push({
         id: testCase.id,
         query: testCase.query,
@@ -127,7 +132,7 @@ export function evaluateSearch(recipes: Recipe[], limit = 5): EvalReport {
     }
   }
 
-  const caseCount = SEARCH_EVAL_CASES.length;
+  const caseCount = cases.length;
   const failed = failures.length;
   const passed = caseCount - failed;
 
@@ -136,9 +141,13 @@ export function evaluateSearch(recipes: Recipe[], limit = 5): EvalReport {
     caseCount,
     passed,
     failed,
-    passRate: caseCount === 0 ? 0 : passed / caseCount,
+    passRate: caseCount === 0 ? 0 : Number((passed / caseCount).toFixed(4)),
     failures
   };
+}
+
+export function evaluateSearch(recipes: Recipe[], limit = 5): EvalReport {
+  return evaluateCases(recipes, SEARCH_EVAL_CASES, limit);
 }
 
 function loadRecipes(): Recipe[] {

@@ -17,8 +17,10 @@ python3 scripts/update_recipes.py \
 
 ## Cleaning a local copy
 
-`scripts/clean_recipes.mjs` rewrites both JSON files in place. It drops reposts when the normalized title and ingredient lists clearly match, moves numbered steps out of the ingredient list, and collapses accidental doubled words (`of of`). Run `node scripts/clean_recipes.mjs --dry-run` to preview. The merge log is `scripts/cleanup-report.json`.
+`scripts/clean_recipes.mjs` rewrites both JSON files in place. It drops reposts when the normalized title and ingredient lists clearly match, moves numbered steps out of the ingredient list, splits an instruction that is clearly labeled Ingredients and Method, strips emoji clutter from those lines, and collapses accidental doubled words (`of of`). Run `node scripts/clean_recipes.mjs --dry-run` to preview. The merge log is `scripts/cleanup-report.json`.
 
 ## Search eval
 
-`npm run eval:search` scores about 30 queries (dish names, ingredients, typos, plurals, and “what can I make with…”) against the top result. `scripts/search_eval_baseline.json` is the score from before this ranking work.
+`npm run eval:search` scores the original queries (dish names, ingredients, typos, plurals, and “what can I make with…”). `npm run eval:search:hard` scores a second set of holiday, diet, and leftover questions. The baseline files next to those scripts are the scores from before the ranking work.
+
+A search is `/?q=chicken+rice`. An open recipe is `/?r=<shortcode>`. Both survive a reload, and the back button closes the recipe.

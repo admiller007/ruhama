@@ -1,0 +1,19 @@
+{
+  "recipeCount": 852,
+  "caseCount": 30,
+  "passed": 29,
+  "failed": 1,
+  "passRate": 0.9667,
+  "failures": [
+    {
+      "id": "meal-side",
+      "query": "side dish",
+      "kind": "meal",
+      "top": [
+        "IRAQI POTATO SALAD!",
+        "FESTIVE KEBAB CASSEROLE!",
+        "ROASTED NAPA CABBAGE!"
+      ]
+    }
+  ]
+}
