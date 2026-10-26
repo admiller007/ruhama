@@ -69,7 +69,33 @@ SERV = re.compile(r"\b(?:serves|servings?|makes)\s*[:\-]?\s*(\d+)", re.I)
 END = re.compile(r"^\s*(enjoy|ruhama|#|\.\s*$)", re.I)
 
 
-def caption_to_record(code, caption):
+# --- cleaning rules (applied inside caption_to_record) ---
+PREP = re.compile(r"^(place|put|mix|combine|whisk|blend|grease|stir|add all|in a (small |large |medium )?(bowl|food processor|measuring cup|pot|pan)|using a)\b", re.I)
+EQUIP = re.compile(r"^(pan|pot|dish|baking dish|baking pan|skillet|equipment|tools?)( size| used)?\s*:", re.I)
+SERVES = re.compile(r"^(serves|servings?|makes|yields?)\b", re.I)
+SIGNOFF = re.compile(r"\s*(enjoy\b|ruhama\b|#).*$", re.I | re.S)
+TIP = re.compile(r"^\W*(small |quick |pro )?(tip|note|important)\b", re.I)
+
+
+def ingredient_category(line):
+    """Return why a line in the ingredients block is not an ingredient, or None to keep it."""
+    if SERVES.match(line): return "serves"
+    if EQUIP.match(line): return "equipment"
+    if PREP.match(line): return "prep_instruction"
+    return None
+
+
+def clean_step(text):
+    """Strip trailing sign-off ("Enjoy! Ruhama🤍", "Enjoy, Adeena and Ruhama"), hashtags, emoji.
+    A mid-sentence "...and enjoy!" is kept; only the signature after it is dropped."""
+    t = re.sub(r"\s#.*$", "", text, flags=re.S)
+    t = re.sub(r"(^|(?<=[.!?])\s+)Enjoy\b.*$", "", t, flags=re.S)  # sentence starting with Enjoy
+    t = re.sub(r"\s*\bRuhama\b[^A-Za-z0-9]*$", "", t)  # bare signature
+    t = re.sub(r"[^\w.!?)\]%\"”']+$", "", t).strip()  # trailing emoji
+    return t if re.search(r"[A-Za-z0-9]", t) else ""
+
+
+def caption_to_record(code, caption, removed=None):
     """Turn one raw caption into a record in the site's shape. Never raises on odd captions."""
     caption = (caption or "").replace("\r", "")
     lines = [l.strip() for l in caption.split("\n")]
@@ -97,17 +123,30 @@ def caption_to_record(code, caption):
             if not l: continue
         if mode is None:
             continue
-        if END.match(l) and mode == "ins":
-            break
+        if mode == "ins" and (END.match(l) or TIP.match(l)):
+            if TIP.match(l) and removed is not None: removed.append(("tip", l))
+            break  # sign-off or appended tip ends the method
         if STEP.match(l):  # numbered step always goes to instructions
             mode = "ins"
-            instructions.append(STEP.sub("", l).strip()); continue
+            step = STEP.sub("", l).strip()
+            cleaned = clean_step(step)
+            if cleaned != step and removed is not None: removed.append(("signoff", step[len(cleaned):].strip()))
+            if cleaned: instructions.append(cleaned)
+            if cleaned != step: break  # step ended with a sign-off: method is over
+            continue
         if mode == "ing":
-            if re.match(r"^(serves|servings?|makes|yield)\b", l, re.I): continue
+            cat = ingredient_category(l)
+            if cat:
+                if removed is not None: removed.append((cat, l))
+                continue
             ingredients.append(l)
         elif mode == "ins":
-            if instructions: instructions[-1] += " " + l
-            else: instructions.append(l)
+            cleaned = clean_step(l)
+            if cleaned != l and removed is not None: removed.append(("signoff", l[len(cleaned):].strip()))
+            if cleaned:
+                if instructions: instructions[-1] += " " + cleaned
+                else: instructions.append(cleaned)
+            if cleaned != l: break
     sv = SERV.search(caption)
     return {
         "name": name,
