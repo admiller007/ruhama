@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState, type MouseEvent } from 'react';
 import rawRecipes from './data/recipes.json';
 import { RecipeCard } from './components/RecipeCard';
 import { SearchBar } from './components/SearchBar';
@@ -31,6 +31,40 @@ function matchesAllFilters(
 
 const SUGGESTIONS = ['chicken', 'pasta', 'salmon', 'beef', 'potato'];
 
+function readStoredTheme(): 'dark' | 'light' | null {
+  try {
+    const value = localStorage.getItem('theme');
+    if (value === 'dark' || value === 'light') return value;
+  } catch {
+    // ignore storage errors
+  }
+  return null;
+}
+
+function systemPrefersDark(): boolean {
+  return (
+    typeof window.matchMedia === 'function' &&
+    window.matchMedia('(prefers-color-scheme: dark)').matches
+  );
+}
+
+function scrollBehavior(): ScrollBehavior {
+  if (
+    typeof window.matchMedia === 'function' &&
+    window.matchMedia('(prefers-reduced-motion: reduce)').matches
+  ) {
+    return 'auto';
+  }
+  return 'smooth';
+}
+
+function applyTheme(dark: boolean) {
+  document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+  document
+    .querySelector('meta[name="theme-color"]')
+    ?.setAttribute('content', dark ? '#131311' : '#f3efe6');
+}
+
 export default function App({
   initialRecipes = rawRecipes as Recipe[],
   resultLimit = 100,
@@ -45,12 +79,11 @@ export default function App({
   const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
   const { toggleFavorite, isFavorite, count: favoritesCount } = useFavorites();
   const focusedCardIndexRef = useRef(-1);
+  const themeChosenRef = useRef(readStoredTheme() !== null);
   const [darkMode, setDarkMode] = useState(() => {
-    try {
-      return localStorage.getItem('theme') === 'dark';
-    } catch {
-      return false;
-    }
+    const stored = readStoredTheme();
+    if (stored) return stored === 'dark';
+    return systemPrefersDark();
   });
 
   const searchableRecipes = useMemo(
@@ -116,7 +149,7 @@ export default function App({
 
       focusedCardIndexRef.current = next;
       summaries[next].focus();
-      summaries[next].scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+      summaries[next].scrollIntoView({ block: 'nearest', behavior: scrollBehavior() });
     };
 
     const onFocusIn = (e: FocusEvent) => {
@@ -136,13 +169,32 @@ export default function App({
   }, []);
 
   useEffect(() => {
-    document.documentElement.dataset.theme = darkMode ? 'dark' : 'light';
+    applyTheme(darkMode);
+    if (!themeChosenRef.current) return;
     try {
       localStorage.setItem('theme', darkMode ? 'dark' : 'light');
     } catch {
       // ignore storage errors
     }
   }, [darkMode]);
+
+  useEffect(() => {
+    if (typeof window.matchMedia !== 'function') return;
+    const media = window.matchMedia('(prefers-color-scheme: dark)');
+    const onChange = (event: MediaQueryListEvent) => {
+      if (themeChosenRef.current) return;
+      setDarkMode(event.matches);
+    };
+    if (typeof media.addEventListener !== 'function') return;
+    media.addEventListener('change', onChange);
+    return () => media.removeEventListener('change', onChange);
+  }, []);
+
+  const chooseTheme = (event: MouseEvent<HTMLButtonElement>) => {
+    event.preventDefault();
+    themeChosenRef.current = true;
+    setDarkMode((value) => !value);
+  };
 
   const searchResults = useMemo(
     () => searchRecipes(searchableRecipes, debouncedQuery, searchableRecipes.length),
@@ -203,14 +255,21 @@ export default function App({
   return (
     <main className="app-shell">
       <header className="site-header">
-        <div className="header-decoration" aria-hidden="true"></div>
-        <button
-          type="button"
-          className="dark-mode-toggle"
-          onClick={() => setDarkMode((d) => !d)}
-          aria-label={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}
-          title={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}
-        >
+        <div className="masthead">
+          <div className="masthead-titles">
+            <h1 className="site-title">
+              <span className="title-script">Ruhama’s</span>
+              <span className="title-main">Recipe Search</span>
+            </h1>
+            <span className="masthead-rule" aria-hidden="true" />
+          </div>
+          <button
+            type="button"
+            className="dark-mode-toggle"
+            onClick={chooseTheme}
+            aria-label={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}
+            title={darkMode ? 'Switch to light mode' : 'Switch to dark mode'}
+          >
           {darkMode ? (
             <svg
               width="18"
@@ -248,14 +307,8 @@ export default function App({
               <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
             </svg>
           )}
-        </button>
-        <h1 className="site-title">
-          <span className="title-script">Ruhama&apos;s</span>
-          <span className="title-main">Recipe Search</span>
-        </h1>
-        <p className="recipe-count">
-          Showing {visibleResults.length} of {allResults.length} recipes
-        </p>
+          </button>
+        </div>
       </header>
 
       <div className={`search-bar-sticky${isSearchElevated ? ' is-elevated' : ''}`}>
@@ -290,6 +343,10 @@ export default function App({
         </div>
       )}
 
+      <p className="recipe-count">
+        Showing {visibleResults.length} of {allResults.length} recipes
+      </p>
+
       {allResults.length === 0 ? (
         <div className="empty-state" role="status">
           <p className="empty-state-heading">No recipes found</p>
@@ -319,12 +376,11 @@ export default function App({
       ) : (
         <>
           <section className="results-grid" aria-label="Recipe search results">
-            {visibleResults.map((recipe, index) => (
+            {visibleResults.map((recipe) => (
               <RecipeCard
                 key={recipe.shortcode ?? recipe.name}
                 recipe={recipe}
                 searchQuery={debouncedQuery}
-                animationDelay={Math.min(index * 30, 600)}
                 isFavorite={isFavorite(recipe.shortcode ?? recipe.name)}
                 onToggleFavorite={toggleFavorite}
               />
@@ -351,6 +407,7 @@ export default function App({
             rel="noreferrer"
           >
             @ruhamas_food
+            <span className="visually-hidden"> (opens in a new tab)</span>
           </a>
         </p>
       </footer>
@@ -358,7 +415,7 @@ export default function App({
       <button
         type="button"
         className={`scroll-top-button${showScrollTop ? ' is-visible' : ''}`}
-        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+        onClick={() => window.scrollTo({ top: 0, behavior: scrollBehavior() })}
         aria-label="Scroll to top"
         aria-hidden={!showScrollTop}
         tabIndex={showScrollTop ? 0 : -1}

@@ -10,12 +10,12 @@ export function SearchBar({ query, onChange, onClear }: SearchBarProps) {
       <div className="search-input-wrapper">
         <svg
           className="search-icon"
-          width="20"
-          height="20"
+          width="22"
+          height="22"
           viewBox="0 0 24 24"
           fill="none"
           stroke="currentColor"
-          strokeWidth="2"
+          strokeWidth="1.75"
           strokeLinecap="round"
           strokeLinejoin="round"
           aria-hidden="true"
@@ -27,8 +27,9 @@ export function SearchBar({ query, onChange, onClear }: SearchBarProps) {
           type="search"
           value={query}
           onChange={(event) => onChange(event.target.value)}
-          placeholder="Search by recipe name or ingredient..."
+          placeholder="Search by recipe or ingredient"
           aria-label="Search recipes"
+          enterKeyHint="search"
         />
         {query.trim() && (
           <button
@@ -43,7 +44,7 @@ export function SearchBar({ query, onChange, onClear }: SearchBarProps) {
               viewBox="0 0 24 24"
               fill="none"
               stroke="currentColor"
-              strokeWidth="2.5"
+              strokeWidth="1.75"
               strokeLinecap="round"
               aria-hidden="true"
             >
