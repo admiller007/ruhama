@@ -326,9 +326,12 @@ button {
 }
 
 .filter-chip-count {
+  display: inline-block;
+  min-width: 2.25rem;
   margin-left: 0.4rem;
   font-weight: 400;
   font-variant-numeric: tabular-nums;
+  text-align: end;
 }
 
 .filter-chips-clear {
@@ -381,6 +384,12 @@ button {
 .favorites-toggle-count {
   font-variant-numeric: tabular-nums;
   font-weight: 400;
+}
+
+.results-slot {
+  /* Keeps the footer below the first screen while recipes load, so the
+     list appearing does not shove a visible footer down the page. */
+  min-height: 100vh;
 }
 
 .recipe-count {

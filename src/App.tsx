@@ -383,6 +383,7 @@ export default function App({
         </div>
       )}
 
+      <div className="results-slot">
       {sourceRecipes === null && !loadError ? (
         <p className="recipe-count" role="status">Loading recipes…</p>
       ) : loadError ? (
@@ -450,6 +451,7 @@ export default function App({
       )}
       </>
       )}
+      </div>
 
       <footer className="site-footer">
         <p>

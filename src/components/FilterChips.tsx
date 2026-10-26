@@ -64,11 +64,9 @@ export function FilterChips({ activeFilters, onToggle, onClearAll, counts }: Fil
               aria-pressed={isActive}
             >
               {chip.label}
-              {count > 0 && (
-                <span className="filter-chip-count" aria-hidden="true">
-                  {count}
-                </span>
-              )}
+              <span className="filter-chip-count" aria-hidden="true">
+                {count > 0 ? count : ''}
+              </span>
             </button>
           );
         })}
