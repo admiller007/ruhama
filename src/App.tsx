@@ -365,9 +365,13 @@ export default function App({
 
   const browseLinks = useMemo(
     () =>
-      BROWSE_QUERIES.filter(
-        (link) => searchRecipes(searchableRecipes, link.query, 1).length > 0
-      ),
+      BROWSE_QUERIES.filter((link) => {
+        const tokens = link.query.split(/\s+/);
+        return searchableRecipes.some((recipe) => {
+          const haystack = `${recipe.normalizedName} ${recipe.caption_snippet ?? ""}`.toLowerCase();
+          return tokens.every((token) => haystack.includes(token));
+        });
+      }),
     [searchableRecipes]
   );
 
