@@ -471,7 +471,11 @@ button {
 .recipe-card summary {
   display: grid;
   grid-template-columns: 2.15rem minmax(0, 1fr) auto;
+  grid-template-areas:
+    "index title actions"
+    "index meta meta";
   column-gap: 0.75rem;
+  row-gap: 0.35rem;
   align-items: start;
   padding: 1.15rem 0;
   list-style: none;
@@ -488,6 +492,7 @@ button {
 }
 
 .recipe-index {
+  grid-area: index;
   padding-top: 0.28rem;
   font-family: var(--font-heading);
   font-size: 0.92rem;
@@ -500,6 +505,11 @@ button {
 }
 
 .card-summary-content {
+  display: contents;
+}
+
+.card-summary-content h2 {
+  grid-area: title;
   min-width: 0;
 }
 
@@ -515,13 +525,13 @@ button {
 }
 
 .ingredient-preview {
-  margin: 0.35rem 0 0;
+  grid-area: meta;
+  margin: 0;
   color: var(--muted);
   font-size: 0.92rem;
   line-height: 1.45;
   white-space: nowrap;
   overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 .match-reason {
@@ -542,6 +552,7 @@ button {
 }
 
 .card-actions {
+  grid-area: actions;
   display: flex;
   align-items: center;
   margin-top: -0.15rem;
@@ -672,6 +683,34 @@ details[open] > .recipe-details > .recipe-details-inner {
   padding: 0;
 }
 
+.ingredient-list > .line-group {
+  padding: 0;
+  border-top: 0;
+}
+
+.ingredient-list > .line-group::before {
+  display: none;
+}
+
+.ingredient-list > .line-group > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.recipe-subhead {
+  margin: 0.85rem 0 0;
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.instruction-flow {
+  counter-reset: step;
+}
+
 .ingredient-list li,
 .instruction-list li {
   overflow-wrap: break-word;
@@ -698,7 +737,7 @@ details[open] > .recipe-details > .recipe-details-inner {
 }
 
 .instruction-list {
-  counter-reset: step;
+  counter-reset: none;
 }
 
 .instruction-list li {

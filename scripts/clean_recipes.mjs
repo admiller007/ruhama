@@ -22,6 +22,12 @@
  *    their normalized titles match and their ingredient lists overlap strongly.
  *    The newest record is kept when it is roughly as complete as the fullest copy;
  *    otherwise the fullest copy is kept. Unsure pairs are left untouched.
+ * 6. A title that is a sign-off, a call to action, or a sentence rather than a
+ *    dish name is replaced with the first dish-like line already in that title
+ *    or, when the title has none, in the caption. Nothing is invented. A title
+ *    that is already a dish name is left alone, even when it is long.
+ * 7. Standalone section labels ("Frying-", "For the sauce:") stay in the lists.
+ *    The report counts them; the UI renders them as subheadings.
  *
  * The Recipe object keeps its original 11 keys. Both
  * `src/data/recipes.json` and `ruhamasfood_recipes.json` are written from the
@@ -333,6 +339,194 @@ function splitJammedInstructions(recipe) {
   };
 }
 
+const CTA_IN_TITLE = /\bfollow\b[^.]{0,48}ruhama|\bfollow\b[^.]{0,32}for more|\bsave this\b|\bfull recipe (?:below|in the caption)\b|\blink in bio\b/i;
+const SENTENCE_START = /^(this|when|are|so|do|want|lets|let's|i|i'm|im|as|if|you|we|our|today|hello|hey|wow|here|check|please|enjoy|made|try|growing|have|did|can|who|what|why|how|just|ever|after|before|because|since|there)\b/i;
+
+function textSegments(text) {
+  return stripEmoji(String(text || ""))
+    .replace(/[@#][\p{L}\p{N}_]+/gu, " ")
+    .split(/[!?\n]|⬇️|👇/u)
+    .map((part) => part.replace(/^[\s.👇⬇️\-–:,]+/u, "").replace(/\s+/g, " ").trim())
+    .filter(Boolean);
+}
+
+function isCtaSegment(segment) {
+  return (/\bfollow\b/i.test(segment) && /ruhama|for more|recipe/i.test(segment))
+    || /^save this\b/i.test(segment)
+    || /^save\b/i.test(segment)
+    || /^full recipe\b/i.test(segment)
+    || /^save my\b/i.test(segment)
+    || /^save the recipe\b/i.test(segment)
+    || /^comment\b/i.test(segment)
+    || /^follow\b/i.test(segment)
+    || /^tag\b/i.test(segment)
+    || /\brecipe below\b/i.test(segment)
+    || /^here (?:is|are)\b/i.test(segment);
+}
+
+const DISH_BAN = /\b(friend|family|below|tips|shalom|colorful|caption|bio|yummy|delicious|healthy|perfect|favorite|mixture|flavors|comfort|bonus|love|happy|favor|watch|everyday|again|kids|mom|allergic|secret is)\b/i;
+const DISH_PRONOUN = /\b(it|it's|its|you|your|my|me|we|our|them|they|this|that|i)\b/i;
+const DISH_START = /^(drizzle|score|tag|follow|make|mix|add|pour|preheat|bake|fry|slice|chop|place|put|serve|enjoy|watch|try|use|take|cut|heat|cook|whisk|stir|combine|spread|finely|thinly|lots|buttery|shabbat|recipe|link|full|save|comment|golden|one|it|here|and|so|you|do|are|this|lets|let's|swipe|click|share)\b/i;
+const DANGLING_END = /\b(with|and|or|of|the|a|an|to|for|in|on|over|from|into|by|fresh|more|put|your|my)$/i;
+const LEAD_IN = /^(?:you|must|try|this|what|can|make|with|two|how|to|the|do|want|so|please|check|just|my|new|here|is|are|for|it|and|all|need|your|some|that|will|be|of|in|on|these|those|get|got|have|has|our|we|i|im|lets|let's)\s+/i;
+
+function isDishSegment(segment) {
+  const text = segment.replace(/\s+/g, " ").trim();
+  if (!text || isCtaSegment(text)) return false;
+  if (SENTENCE_START.test(text)) return false;
+  if (/^\d/.test(text)) return false;
+  if (/\b(cups?|teaspoons?|tablespoons?|tsp|tbsp|pounds?|ounces?|oz|grams?|kilograms?|ml|kg|lb|lbs)\b/i.test(text)) return false;
+  if (/\b(it's|its|this is|don't|dont|going to|will be|must try|i am|i'm|you can|we're|we are)\b/i.test(text)) return false;
+  if (/\b(ingredients|method|instructions|directions|caption)\b/i.test(text)) return false;
+  const words = text.split(/\s+/).filter((word) => /\p{L}/u.test(word));
+  if (words.length < 2 || words.length > 10) return false;
+  if (text.length > 72) return false;
+  return true;
+}
+
+function isCleanDish(segment) {
+  const text = segment.replace(/\s+/g, " ").trim();
+  if (!text || isCtaSegment(text) || !isDishSegment(text)) return false;
+  if (!/[A-Za-z]/.test(text)) return false;
+  if (/[?:]/.test(text) || /,/.test(text) || /["“”']/.test(text)) return false;
+  if (DISH_BAN.test(text) || DISH_PRONOUN.test(text) || DISH_START.test(text)) return false;
+  if (DANGLING_END.test(text)) return false;
+  if (/^(a|an|the)\s+\S+$/i.test(text)) return false;
+  const words = text.split(/\s+/).filter((word) => /\p{L}/u.test(word));
+  if (words.length > 8) return false;
+  return true;
+}
+
+function stripLeadIn(text) {
+  let next = text.trim();
+  for (let pass = 0; pass < 8; pass += 1) {
+    const stripped = next.replace(LEAD_IN, "").trim();
+    if (stripped === next) break;
+    next = stripped;
+  }
+  return next;
+}
+
+function trailingDish(segment) {
+  const match = segment.match(/(\p{Lu}[\p{L}0-9'’\-]*(?:\s+(?:with|and|or|over|of|a|the|in|on|&)\s+\p{Lu}[\p{L}0-9'’\-]*|\s+\p{Lu}[\p{L}0-9'’\-]*){1,7})\s*$/u);
+  if (!match || !isCleanDish(match[1])) return null;
+  const before = segment.slice(0, match.index).trim();
+  if (!before) return match[1];
+  if (/(?:\brecipe of|\bthis)\s*[-–:]?$/i.test(before)) return match[1];
+  if (/\p{L}[-–:]\s*$/u.test(before)) return match[1];
+  const prose = before.split(/\s+/).filter((word) => /\p{L}/u.test(word));
+  const leadWord = /^(try|this|my|the|a|an|our|so|just|homemade|yummy|easy|new|these|those|some|get|you)$/i;
+  if (prose.length > 0 && prose.length <= 4 && prose.every((word) => word === word.toLowerCase() || leadWord.test(word))) {
+    return match[1];
+  }
+  return null;
+}
+
+function firstDish(text) {
+  const raw = String(text || "");
+  const segments = textSegments(raw);
+  const tailIsCutOff = segments.length > 0 && raw.trim().length > 40 && !/[!?.…]\s*$/.test(raw.trim());
+  const usable = tailIsCutOff ? segments.slice(0, -1) : segments;
+
+  for (const segment of usable) {
+    const whole = segment.replace(/[.\s]+$/g, "").trim();
+    if (isCleanDish(whole)) return whole;
+
+    const commaParts = segment.split(",");
+    if (commaParts.length === 2 && !/ [-–] /.test(segment)) {
+      const clause = commaParts[0].replace(/[.\s]+$/g, "").trim();
+      if (clause.split(/\s+/).filter(Boolean).length >= 3 && isCleanDish(clause)) return clause;
+    }
+
+    const caps = segment.match(/\b\p{Lu}[\p{Lu}0-9'’\-]+(?:\s+\p{Lu}[\p{Lu}0-9'’\-]+){1,7}\b/u);
+    if (caps) {
+      const at = segment.indexOf(caps[0]);
+      const before = at >= 0 ? segment.slice(0, at) : "";
+      const leadOk = before.trim().length === 0
+        || /(?:\brecipe of|\bthis|\bmake)\s*[-–:]?\s*$/i.test(before)
+        || /\p{L}[-–:]\s*$/u.test(before);
+      if (leadOk && /try this/i.test(caps[0])) {
+        const stripped = stripLeadIn(caps[0]);
+        if (stripped !== caps[0] && isCleanDish(stripped)) return stripped;
+      }
+      if (leadOk && isCleanDish(caps[0])) return caps[0];
+    }
+
+    const trailing = trailingDish(segment);
+    if (trailing) return trailing;
+  }
+  return null;
+}
+
+function stripSignOff(name) {
+  const stripped = name
+    .replace(/[!?.\s]*(?:save this|follow\b|full recipe\b|link in bio\b)[\s\S]*$/i, "")
+    .replace(/[!?.\s]+$/g, "")
+    .trim();
+  if (!stripped || CTA_IN_TITLE.test(stripped) || SENTENCE_START.test(stripped)) return null;
+  const words = stripped.split(/\s+/).filter((word) => /\p{L}/u.test(word));
+  if (words.length < 2 || words.length > 14 || stripped.length > 80) return null;
+  return stripped;
+}
+
+function titleNeedsRepair(name) {
+  if (CTA_IN_TITLE.test(name)) return true;
+  const bare = name.replace(/[!?.\s]+$/g, "").trim();
+  if (!bare) return true;
+  if (SENTENCE_START.test(bare)) return true;
+  if (/\?/.test(name)) return true;
+  return false;
+}
+
+function repairTitle(recipe) {
+  const name = String(recipe.name || "").replace(/\s+/g, " ").trim();
+  if (!titleNeedsRepair(name)) return null;
+
+  const bare = name.replace(/[!?.]+$/g, "").trim();
+  const fromSignOff = stripSignOff(name);
+  const fromTitle = firstDish(name);
+  const fromCaption = firstDish(recipe.caption_snippet || "");
+  const replacement = fromSignOff || fromTitle || fromCaption;
+  if (!replacement) return null;
+  if (normalizeTitle(replacement) === normalizeTitle(bare)) return null;
+  let source = "caption";
+  if (fromSignOff) source = "title";
+  else if (fromTitle) source = "title";
+  return {
+    before: name,
+    after: replacement,
+    source,
+    shortcode: recipe.shortcode
+  };
+}
+
+function countSectionHeadings(recipes) {
+  const heading = /^[\p{L}\p{N}][\p{L}\p{N}\s'’&/-]{0,42}[-–:]$/u;
+  let ingredients = 0;
+  let instructions = 0;
+  const lines = [];
+  for (const recipe of recipes) {
+    for (const field of ["ingredients", "instructions"]) {
+      for (const line of recipe[field] || []) {
+        const trimmed = String(line).trim();
+        if (!heading.test(trimmed) || /[,.!;?\d]/.test(trimmed.slice(0, -1))) continue;
+        const words = trimmed.slice(0, -1).trim().split(/\s+/);
+        if (words.length < 1 || words.length > 6) continue;
+        if (field === "ingredients") ingredients += 1;
+        else instructions += 1;
+        lines.push({ where: field, name: recipe.name, shortcode: recipe.shortcode, line: trimmed });
+      }
+    }
+  }
+  return {
+    ingredients,
+    instructions,
+    total: ingredients + instructions,
+    examples: lines.slice(0, 8),
+    lines
+  };
+}
+
 function orderRecord(recipe) {
   const ordered = {};
   for (const key of KEYS) {
@@ -510,8 +704,22 @@ export function cleanRecipes(recipes) {
   });
 
   const { merges, dropped } = clusterDuplicates(cleaned);
-  const kept = cleaned.filter((_, index) => !dropped.has(index)).map(orderRecord);
+  const titled = cleaned
+    .filter((_, index) => !dropped.has(index))
+    .map((recipe) => {
+      const fix = repairTitle(recipe);
+      return { recipe: fix ? { ...recipe, name: fix.after } : recipe, fix };
+    });
+  const revealed = clusterDuplicates(titled.map((item) => item.recipe));
+  const titleFixes = [];
+  const kept = titled
+    .filter((_, index) => !revealed.dropped.has(index))
+    .map((item) => {
+      if (item.fix) titleFixes.push(item.fix);
+      return orderRecord(item.recipe);
+    });
   const examples = buildExamples(originals, kept, merges);
+  const sectionHeadings = countSectionHeadings(kept);
 
   return {
     recipes: kept,
@@ -546,6 +754,16 @@ export function cleanRecipes(recipes) {
         doubledFunctionWordsCollapsed: doubledWords,
         pattern: "of of | with with | the the | it it"
       },
+      titleFixes: {
+        count: titleFixes.length,
+        rule: "A title is replaced only when it is a sign-off, a call to action, or a sentence rather than a dish name, and the title or caption already contains one unambiguous dish line. The new title is that line. No title is invented. A renamed record that then matches a newer copy of the same recipe (same title rule, ingredient containment 1) is dropped instead of shown twice.",
+        changes: titleFixes,
+        duplicatesRemoved: {
+          count: revealed.dropped.size,
+          merges: revealed.merges
+        }
+      },
+      sectionHeadings,
       examples
     }
   };
@@ -557,16 +775,20 @@ function main() {
   const recipes = JSON.parse(raw);
   const { recipes: cleaned, report } = cleanRecipes(recipes);
 
-  if (report.duplicates.recordsRemoved === 0) {
-    try {
-      const previous = JSON.parse(readFileSync(REPORT_PATH, "utf8"));
-      if (previous?.duplicates?.recordsRemoved > 0) {
-        report.duplicates = previous.duplicates;
-        report.examples = previous.examples || report.examples;
-      }
-    } catch {
-      // no earlier report to keep
+  try {
+    const previous = JSON.parse(readFileSync(REPORT_PATH, "utf8"));
+    if (report.duplicates.recordsRemoved === 0 && previous?.duplicates?.recordsRemoved > 0) {
+      report.duplicates = previous.duplicates;
+      report.examples = previous.examples || report.examples;
     }
+    if (report.instructionSplits.recordsSplit === 0 && previous?.instructionSplits?.recordsSplit > 0) {
+      report.instructionSplits = previous.instructionSplits;
+    }
+    if (report.titleFixes.count === 0 && previous?.titleFixes?.count > 0) {
+      report.titleFixes = previous.titleFixes;
+    }
+  } catch {
+    // no earlier report to keep
   }
 
   const body = `${JSON.stringify(cleaned, null, 2)}\n`;
@@ -591,7 +813,14 @@ function main() {
     emojiStripped: report.ingredients.linesWithEmojiStripped,
     recordsSplit: report.instructionSplits.recordsSplit,
     ingredientLinesAdded: report.instructionSplits.ingredientLinesAdded,
-    methodBleedRemoved: report.instructionSplits.methodBleedLinesRemoved
+    methodBleedRemoved: report.instructionSplits.methodBleedLinesRemoved,
+    titleFixes: report.titleFixes.changes,
+    titleDuplicatesRemoved: report.titleFixes.duplicatesRemoved,
+    sectionHeadings: {
+      ingredients: report.sectionHeadings.ingredients,
+      instructions: report.sectionHeadings.instructions,
+      lines: report.sectionHeadings.lines.map((item) => `${item.where}: ${item.line}`)
+    }
   };
   process.stdout.write(`${JSON.stringify(summary, null, 2)}\n`);
 }

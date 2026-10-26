@@ -1,6 +1,6 @@
 {
   "inputCount": 852,
-  "outputCount": 852,
+  "outputCount": 848,
   "duplicates": {
     "clustersMerged": 121,
     "recordsRemoved": 160,
@@ -2585,8 +2585,8 @@
     "numberedStepLinesRemovedFromIngredients": 0,
     "numberedStepLinesAppendedToInstructions": 0,
     "numberedStepLinesAlreadyInInstructions": 0,
-    "emojiOnlyLinesRemoved": 0,
-    "linesWithEmojiStripped": 428
+    "emojiOnlyLinesRemoved": 1,
+    "linesWithEmojiStripped": 0
   },
   "instructionSplits": {
     "recordsSplit": 86,
@@ -2737,6 +2737,612 @@
   "text": {
     "doubledFunctionWordsCollapsed": 0,
     "pattern": "of of | with with | the the | it it"
+  },
+  "titleFixes": {
+    "count": 35,
+    "rule": "A title is replaced only when it is a sign-off, a call to action, or a sentence rather than a dish name, and the title or caption already contains one unambiguous dish line. The new title is that line. No title is invented. A renamed record that then matches a newer copy of the same recipe (same title rule, ingredient containment 1) is dropped instead of shown twice.",
+    "changes": [
+      {
+        "before": "YOU MUST TRY THIS EGG SALAD!",
+        "after": "EGG SALAD",
+        "source": "title",
+        "shortcode": "DJuYrO3xAF0"
+      },
+      {
+        "before": "MAKLUBA- IRQI RICE! follow ruhamasfood for more!",
+        "after": "MAKLUBA- IRQI RICE",
+        "source": "title",
+        "shortcode": "CpdwD5og4wy"
+      },
+      {
+        "before": "MOZZARELLA WITH PESTO AVOCADO CREAM! Follow ruhamasfood for more recipes!",
+        "after": "MOZZARELLA WITH PESTO AVOCADO CREAM",
+        "source": "title",
+        "shortcode": "CoA8RD-g4Ji"
+      },
+      {
+        "before": "ROASTED EGGPLANTS OVER GREEN YOGURT TAHINI! Follow ruhamasfood for more",
+        "after": "ROASTED EGGPLANTS OVER GREEN YOGURT TAHINI",
+        "source": "title",
+        "shortcode": "Clt4WVjgu1i"
+      },
+      {
+        "before": "ROASTED FALL VEGGIES! Follow ruhamasfood for more recipes!",
+        "after": "ROASTED FALL VEGGIES",
+        "source": "title",
+        "shortcode": "CjlwtSuJEnB"
+      },
+      {
+        "before": "ROASTED SWEET POTATOES WITH A SECRET INGREDIENT! Follow ruhamasfood for more",
+        "after": "ROASTED SWEET POTATOES WITH A SECRET INGREDIENT",
+        "source": "title",
+        "shortcode": "CjRCJiqA1S-"
+      },
+      {
+        "before": "ZAATAR ROASTED CAULIFLOWER WITH FETA DRESSING! Follow ruhamasfood for more recipes!",
+        "after": "ZAATAR ROASTED CAULIFLOWER WITH FETA DRESSING",
+        "source": "title",
+        "shortcode": "Ch3Whf3Ab8L"
+      },
+      {
+        "before": "Follow ruhamasfood for more delicious recipes! SUMMERY ROASTED CORN AND ZUCCHINI!",
+        "after": "SUMMERY ROASTED CORN AND ZUCCHINI",
+        "source": "title",
+        "shortcode": "Ch0Xr_9JFb9"
+      },
+      {
+        "before": "MEDITERRANEAN TOMATO CONFIT! Follow ruhamasfood for easy recipes!",
+        "after": "MEDITERRANEAN TOMATO CONFIT",
+        "source": "title",
+        "shortcode": "ChnYSnHgaac"
+      },
+      {
+        "before": "CAULIFLOWER FETA SALAD! follow ruhamasfood for more recipes!",
+        "after": "CAULIFLOWER FETA SALAD",
+        "source": "title",
+        "shortcode": "ChH-WLDoeo1"
+      },
+      {
+        "before": "Follow ruhamasfood for more recipes! Full recipe below",
+        "after": "WHOLE ROASTED CAULIFLOWER with Mustard- Honey dressing",
+        "source": "caption",
+        "shortcode": "Cg2bh2eosEF"
+      },
+      {
+        "before": "Follow ruhamasfood for more recipes! Full recipe below",
+        "after": "Mediterranean Feta Pasta",
+        "source": "caption",
+        "shortcode": "CgwoJjbIxqj"
+      },
+      {
+        "before": "Follow ruhamasfood for more recipes,Full recipe in the caption below",
+        "after": "CHEESE SAMBUSAK",
+        "source": "caption",
+        "shortcode": "CgsMr_coJDO"
+      },
+      {
+        "before": "Follow ruhamasfood for more recipes!",
+        "after": "NO MESS SCHNITZEL",
+        "source": "caption",
+        "shortcode": "CgkOZ0KojqM"
+      },
+      {
+        "before": "Follow ruhamasfood for more recipes!",
+        "after": "FILLO TART WITH ROASTED PEPPERS AND MOZZARELLA",
+        "source": "caption",
+        "shortcode": "CgVOCbAgf3-"
+      },
+      {
+        "before": "Follow ruhamasfood for more recipes!",
+        "after": "AVOCADO HALLOUMI SALAD",
+        "source": "caption",
+        "shortcode": "CgSOIy6gIwy"
+      },
+      {
+        "before": "Follow ruhamasfood for more delicious recipes!",
+        "after": "SAVORY MOZZARELLA CORN MUFFINS WITH NIGELLA SEEDS",
+        "source": "caption",
+        "shortcode": "CgLANweAWAT"
+      },
+      {
+        "before": "Follow ruhamasfood for more delicious recipes!",
+        "after": "BBQ MANGO HARISSA CHICKEN THIGHS",
+        "source": "caption",
+        "shortcode": "CgIRIveA19C"
+      },
+      {
+        "before": "Follow ruhamasfood for more recipes!",
+        "after": "RED CABBAGE STEAKS WITH TAHINI YOGURT",
+        "source": "caption",
+        "shortcode": "CgCvVN7gXeI"
+      },
+      {
+        "before": "Follow ruhamasfood for more yummy recipes!",
+        "after": "ISRAELI COUSCOUS SALAD",
+        "source": "caption",
+        "shortcode": "CgAgiCeg3w0"
+      },
+      {
+        "before": "Follow for ruhamasfood for more recipes!",
+        "after": "CHILDHOOD STUFFED PEPPERS",
+        "source": "caption",
+        "shortcode": "Cf7MdxlgoQw"
+      },
+      {
+        "before": "Follow ruhamasfood for more recipes!",
+        "after": "EGGPLANT FAN WITH TURMERIC TAHINI",
+        "source": "caption",
+        "shortcode": "Cf2ONW2pRvj"
+      },
+      {
+        "before": "Follow ruhamasfood for more recipes!",
+        "after": "KOHLRABI CARPACCIO",
+        "source": "caption",
+        "shortcode": "CfzkussJ7P6"
+      },
+      {
+        "before": "Follow ruhamasfood for more recipes!",
+        "after": "POTATO SALAD WITH MUSTARD FETA DRESSING",
+        "source": "caption",
+        "shortcode": "CfmnFUIJLVg"
+      },
+      {
+        "before": "When I was visiting Israel my talented sister Maya made an amazing desserts! One of them was this in",
+        "after": "CREAM BRÛLÉE",
+        "source": "caption",
+        "shortcode": "CbGHURXgqll"
+      },
+      {
+        "before": "SAVE THIS EASY RECIPE!!!",
+        "after": "Mediterranean roasted Delicata squash",
+        "source": "caption",
+        "shortcode": "CWZY-S1gC2g"
+      },
+      {
+        "before": "SAVE THIS! HOMEMADE GARLIC NAAN!",
+        "after": "HOMEMADE GARLIC NAAN",
+        "source": "title",
+        "shortcode": "CVagAkoAtEi"
+      },
+      {
+        "before": "Do yourself a favor and make this- KEBAB MEATBALLS!",
+        "after": "KEBAB MEATBALLS",
+        "source": "title",
+        "shortcode": "CRwXjBcnX-4"
+      },
+      {
+        "before": "Do you have some veggies that you need to use up If you do, you should make this easy and yummy rec",
+        "after": "VEGGIES FRITTERS",
+        "source": "caption",
+        "shortcode": "CRFoLfUnR5T"
+      },
+      {
+        "before": "Lets start the week with something healthy and delicious! Honey Glazed Brussels Sprouts and Broccoli",
+        "after": "Honey Glazed Brussels Sprouts and Broccoli",
+        "source": "caption",
+        "shortcode": "CJmqHiUnO5X"
+      },
+      {
+        "before": "Want to kick your rice up a notch Try this comforting Iraqi Red Rice! My family simply could not put",
+        "after": "Iraqi Red Rice",
+        "source": "caption",
+        "shortcode": "CC7Fy99jPvq"
+      },
+      {
+        "before": "Homemade Naan on a pan with Chickpea chutney and broiled Cauliflower! save this yummy recipe below",
+        "after": "Homemade Naan on a pan with Chickpea chutney and broiled Cauliflower",
+        "source": "title",
+        "shortcode": "CBtv5hFgyZ_"
+      },
+      {
+        "before": "This is so yummy and easy to make!",
+        "after": "Roasted cauliflower & cabbage with green tahini",
+        "source": "caption",
+        "shortcode": "CBjEGoCjrWI"
+      },
+      {
+        "before": "Do you like RICE",
+        "after": "Turmeric Rice with fennel",
+        "source": "caption",
+        "shortcode": "CBgR4O0A2aa"
+      },
+      {
+        "before": "Who loves Chocolate",
+        "after": "Chocolate fudge gluten free cookies",
+        "source": "caption",
+        "shortcode": "CA561aijLzG"
+      }
+    ],
+    "duplicatesRemoved": {
+      "count": 4,
+      "merges": [
+        {
+          "kept": {
+            "name": "SMASHED POTATOES!",
+            "shortcode": "Cvh9LkAAXjy",
+            "index": 401,
+            "completeness": 14
+          },
+          "dropped": [
+            {
+              "name": "SMASHED POTATOES",
+              "shortcode": "Cos3ojAgNO5",
+              "index": 474,
+              "completeness": 14,
+              "ingredientOverlap": 1
+            }
+          ],
+          "keptNewest": true,
+          "minOverlapWithKept": 1
+        },
+        {
+          "kept": {
+            "name": "ROASTED EGGPLANTS OVER HUMMUS!",
+            "shortcode": "CvV7r4SttbC",
+            "index": 405,
+            "completeness": 15
+          },
+          "dropped": [
+            {
+              "name": "ROASTED EGGPLANTS OVER HUMMUS",
+              "shortcode": "Cgcbr6WosV2",
+              "index": 575,
+              "completeness": 18,
+              "ingredientOverlap": 1
+            }
+          ],
+          "keptNewest": true,
+          "minOverlapWithKept": 1
+        },
+        {
+          "kept": {
+            "name": "SHAWARMA CAULIFLOWER STEAKS WITH TURMERIC TAHINI!",
+            "shortcode": "CqL0qRtg1Zw",
+            "index": 459,
+            "completeness": 19
+          },
+          "dropped": [
+            {
+              "name": "SHAWARMA CAULIFLOWER STEAKS WITH TURMERIC TAHINI",
+              "shortcode": "Ckb4RTCAL48",
+              "index": 531,
+              "completeness": 19,
+              "ingredientOverlap": 1
+            }
+          ],
+          "keptNewest": true,
+          "minOverlapWithKept": 1
+        },
+        {
+          "kept": {
+            "name": "ROASTED BROCCOLI WITH JALAPEÑO TAHINI!",
+            "shortcode": "CqEdz5uAdeY",
+            "index": 462,
+            "completeness": 10
+          },
+          "dropped": [
+            {
+              "name": "ROASTED BROCCOLI WITH JALAPEÑO TAHINI",
+              "shortcode": "CgNO7_HgVgU",
+              "index": 578,
+              "completeness": 10,
+              "ingredientOverlap": 1
+            }
+          ],
+          "keptNewest": true,
+          "minOverlapWithKept": 1
+        }
+      ]
+    }
+  },
+  "sectionHeadings": {
+    "ingredients": 31,
+    "instructions": 11,
+    "total": 42,
+    "examples": [
+      {
+        "where": "ingredients",
+        "name": "MY FAVORITE GREEN CABBAGE SALAD!",
+        "shortcode": "CtKPq5fARU5",
+        "line": "Avocado tahini Dressing:"
+      },
+      {
+        "where": "ingredients",
+        "name": "BEET AND PISTACHIO SALAD!",
+        "shortcode": "CqJnjNygGu2",
+        "line": "Crushed spices-"
+      },
+      {
+        "where": "ingredients",
+        "name": "RATATOUILLE STYLE VEGGIE STEW!",
+        "shortcode": "CqHA_cAALdM",
+        "line": "Red sauce-"
+      },
+      {
+        "where": "ingredients",
+        "name": "ROASTED FENNEL OVER HUMMUS!",
+        "shortcode": "CoD2HGlAbuX",
+        "line": "Hummus ingredients-"
+      },
+      {
+        "where": "ingredients",
+        "name": "BASMATI RICE STUFFED PEPPERS!",
+        "shortcode": "Cm-aNJ6qvQo",
+        "line": "Filling for the peppers-"
+      },
+      {
+        "where": "ingredients",
+        "name": "BASMATI RICE STUFFED PEPPERS!",
+        "shortcode": "Cm-aNJ6qvQo",
+        "line": "Tomatoes sauce-"
+      },
+      {
+        "where": "instructions",
+        "name": "ZANGULA-  Iraqi Spiral Fried Dough!",
+        "shortcode": "CkG1b_Mp7Vu",
+        "line": "For the dough-"
+      },
+      {
+        "where": "ingredients",
+        "name": "HONEY-THAINI BROCCOLI SALAD!!!",
+        "shortcode": "CjYQa7oAUJ5",
+        "line": "Honey-Tahini dressing-"
+      }
+    ],
+    "lines": [
+      {
+        "where": "ingredients",
+        "name": "MY FAVORITE GREEN CABBAGE SALAD!",
+        "shortcode": "CtKPq5fARU5",
+        "line": "Avocado tahini Dressing:"
+      },
+      {
+        "where": "ingredients",
+        "name": "BEET AND PISTACHIO SALAD!",
+        "shortcode": "CqJnjNygGu2",
+        "line": "Crushed spices-"
+      },
+      {
+        "where": "ingredients",
+        "name": "RATATOUILLE STYLE VEGGIE STEW!",
+        "shortcode": "CqHA_cAALdM",
+        "line": "Red sauce-"
+      },
+      {
+        "where": "ingredients",
+        "name": "ROASTED FENNEL OVER HUMMUS!",
+        "shortcode": "CoD2HGlAbuX",
+        "line": "Hummus ingredients-"
+      },
+      {
+        "where": "ingredients",
+        "name": "BASMATI RICE STUFFED PEPPERS!",
+        "shortcode": "Cm-aNJ6qvQo",
+        "line": "Filling for the peppers-"
+      },
+      {
+        "where": "ingredients",
+        "name": "BASMATI RICE STUFFED PEPPERS!",
+        "shortcode": "Cm-aNJ6qvQo",
+        "line": "Tomatoes sauce-"
+      },
+      {
+        "where": "instructions",
+        "name": "ZANGULA-  Iraqi Spiral Fried Dough!",
+        "shortcode": "CkG1b_Mp7Vu",
+        "line": "For the dough-"
+      },
+      {
+        "where": "ingredients",
+        "name": "HONEY-THAINI BROCCOLI SALAD!!!",
+        "shortcode": "CjYQa7oAUJ5",
+        "line": "Honey-Tahini dressing-"
+      },
+      {
+        "where": "ingredients",
+        "name": "ONE PAN TURMERIC CHICKEN & POTATOES!",
+        "shortcode": "Cixlf_4A7mC",
+        "line": "Turmeric sauce-"
+      },
+      {
+        "where": "ingredients",
+        "name": "CHOCOLATE BRIOCHE ROSES CAKE!",
+        "shortcode": "CilZhfnpW5a",
+        "line": "Let’s start with the yeast-"
+      },
+      {
+        "where": "ingredients",
+        "name": "CHOCOLATE BRIOCHE ROSES CAKE!",
+        "shortcode": "CilZhfnpW5a",
+        "line": "Sugar water-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Baharat Baked Chicken and Rice!",
+        "shortcode": "CiNkBLCAOGI",
+        "line": "Red sauce-"
+      },
+      {
+        "where": "ingredients",
+        "name": "ROUND PESTO CHALLAH!",
+        "shortcode": "CiDPY7vgC_e",
+        "line": "Let’s start with the yeast-"
+      },
+      {
+        "where": "ingredients",
+        "name": "ISRAELI COUSCOUS SALAD",
+        "shortcode": "CgAgiCeg3w0",
+        "line": "Lemony Za’atar Dressing-"
+      },
+      {
+        "where": "ingredients",
+        "name": "CHILDHOOD STUFFED PEPPERS",
+        "shortcode": "Cf7MdxlgoQw",
+        "line": "Filling for the pepper-"
+      },
+      {
+        "where": "ingredients",
+        "name": "CHILDHOOD STUFFED PEPPERS",
+        "shortcode": "Cf7MdxlgoQw",
+        "line": "Tomatoes sauce-"
+      },
+      {
+        "where": "ingredients",
+        "name": "EGGPLANT FAN WITH TURMERIC TAHINI",
+        "shortcode": "Cf2ONW2pRvj",
+        "line": "Seasoning for the eggplants-"
+      },
+      {
+        "where": "ingredients",
+        "name": "My kids asked for STIR-FRY!",
+        "shortcode": "CeSCCyFAba2",
+        "line": "Seasoning for the chicken-"
+      },
+      {
+        "where": "ingredients",
+        "name": "My kids asked for STIR-FRY!",
+        "shortcode": "CeSCCyFAba2",
+        "line": "Stir fry sauce-"
+      },
+      {
+        "where": "ingredients",
+        "name": "CABBAGE & CUCUMBER SALAD WITH AVOCADO DRESSING!",
+        "shortcode": "Cdysd5mA5gq",
+        "line": "Avocado tahini Dressing:"
+      },
+      {
+        "where": "ingredients",
+        "name": "EGG SALAD & GOLDEN BEETS!",
+        "shortcode": "Cb5pYLDAxbz",
+        "line": "Ingredients for the egg salad -"
+      },
+      {
+        "where": "ingredients",
+        "name": "ZANGULA- A Sweet Iraqi Spiral Fried Dough! One of my childhood favorite PURIM dessert!",
+        "shortcode": "CafbNNKA7P1",
+        "line": "Let’s start with the yeast -"
+      },
+      {
+        "where": "instructions",
+        "name": "ZANGULA- A Sweet Iraqi Spiral Fried Dough! One of my childhood favorite PURIM dessert!",
+        "shortcode": "CafbNNKA7P1",
+        "line": "For the dough-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Golden Roasted Cauliflower!",
+        "shortcode": "CZKegMuIvqb",
+        "line": "Honey mustard spread ingredients-"
+      },
+      {
+        "where": "instructions",
+        "name": "Latkes Full Of Love!",
+        "shortcode": "CW4Lr-AL6Pt",
+        "line": "Frying-"
+      },
+      {
+        "where": "instructions",
+        "name": "Latkes Full Of Love!",
+        "shortcode": "CW4Lr-AL6Pt",
+        "line": "Baking-"
+      },
+      {
+        "where": "instructions",
+        "name": "Hanukkah Potato Latkes!",
+        "shortcode": "CWi7bwyAueH",
+        "line": "Frying-"
+      },
+      {
+        "where": "instructions",
+        "name": "Hanukkah Potato Latkes!",
+        "shortcode": "CWi7bwyAueH",
+        "line": "Baking-"
+      },
+      {
+        "where": "ingredients",
+        "name": "TURMERIC RICE PILAF WITH DRIED FRUIT!",
+        "shortcode": "CWOqsZVJF-e",
+        "line": "Toppings-"
+      },
+      {
+        "where": "ingredients",
+        "name": "APPLE RICOTTA CAKE!",
+        "shortcode": "CT8EmzUgPJ2",
+        "line": "Walnut Crumble-"
+      },
+      {
+        "where": "ingredients",
+        "name": "CHICKEN THIGHS WITH PEAS & CELERY!",
+        "shortcode": "CTOCsC4Hm1C",
+        "line": "Spices for frying the chicken-"
+      },
+      {
+        "where": "ingredients",
+        "name": "CHICKEN THIGHS WITH PEAS & CELERY!",
+        "shortcode": "CTOCsC4Hm1C",
+        "line": "Date syrup sauce for the chicken-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Summery, Buttery Almond Nectarine Cake!!!",
+        "shortcode": "CQzTrbmHO1c",
+        "line": "Almond crumble-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Apple Ricotta Crumb Cake!",
+        "shortcode": "COMFF4vHewa",
+        "line": "Walnut Crumble-"
+      },
+      {
+        "where": "ingredients",
+        "name": "The cake that always makes me happy!",
+        "shortcode": "CNqYhyAnCX9",
+        "line": "Add to the bowl:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Basmati Rice Pilaf with Dried Fruit and Walnuts!",
+        "shortcode": "CKh9cbWnMuV",
+        "line": "Toppings-"
+      },
+      {
+        "where": "ingredients",
+        "name": "CITRUSY GOLDEN BEET SALAD!",
+        "shortcode": "CKKLmkiH1KC",
+        "line": "Beets-"
+      },
+      {
+        "where": "instructions",
+        "name": "CITRUSY GOLDEN BEET SALAD!",
+        "shortcode": "CKKLmkiH1KC",
+        "line": "Preparing the Beets-"
+      },
+      {
+        "where": "instructions",
+        "name": "CITRUSY GOLDEN BEET SALAD!",
+        "shortcode": "CKKLmkiH1KC",
+        "line": "Let’s make the dressing-"
+      },
+      {
+        "where": "instructions",
+        "name": "CITRUSY GOLDEN BEET SALAD!",
+        "shortcode": "CKKLmkiH1KC",
+        "line": "Building the salad-"
+      },
+      {
+        "where": "instructions",
+        "name": "Hanukkah Potato Latkes!  Made with a LATKE of love!!! yummy potato fritters that can be fried or bak",
+        "shortcode": "CIo1rLHHvsX",
+        "line": "Frying-"
+      },
+      {
+        "where": "instructions",
+        "name": "Hanukkah Potato Latkes!  Made with a LATKE of love!!! yummy potato fritters that can be fried or bak",
+        "shortcode": "CIo1rLHHvsX",
+        "line": "Baking-"
+      }
+    ]
   },
   "examples": [
     {

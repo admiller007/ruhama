@@ -1,5 +1,6 @@
 import { splitHighlightSegments } from '../lib/highlight';
 import { cardMeta } from '../lib/meta';
+import { isSectionHeading, sectionHeadingText } from '../lib/sections';
 import type { SearchableRecipe } from '../lib/types';
 
 interface RecipeCardProps {
@@ -14,6 +15,26 @@ interface RecipeCardProps {
 interface RecipeFact {
   label: string;
   value: string;
+}
+
+interface LineGroup {
+  heading: string | null;
+  items: string[];
+}
+
+function groupLines(lines: string[]): LineGroup[] {
+  const groups: LineGroup[] = [];
+  let current: LineGroup = { heading: null, items: [] };
+  for (const line of lines) {
+    if (isSectionHeading(line)) {
+      if (current.heading || current.items.length > 0) groups.push(current);
+      current = { heading: sectionHeadingText(line), items: [] };
+    } else {
+      current.items.push(line);
+    }
+  }
+  if (current.heading || current.items.length > 0) groups.push(current);
+  return groups;
 }
 
 function formatFactValue(value: unknown): string | null {
@@ -165,8 +186,17 @@ export function RecipeCard({
                   <p className="empty-note">No ingredients listed.</p>
                 ) : (
                   <ul className="ingredient-list">
-                    {recipe.cleanIngredients.map((ingredient, index) => (
-                      <li key={`${recipeKey}-ingredient-${index}`}>{ingredient}</li>
+                    {groupLines(recipe.cleanIngredients).map((group, groupIndex) => (
+                      <li key={`${recipeKey}-ingredient-group-${groupIndex}`} className="line-group">
+                        {group.heading ? <p className="recipe-subhead">{group.heading}</p> : null}
+                        {group.items.length > 0 ? (
+                          <ul>
+                            {group.items.map((ingredient, index) => (
+                              <li key={`${recipeKey}-ingredient-${groupIndex}-${index}`}>{ingredient}</li>
+                            ))}
+                          </ul>
+                        ) : null}
+                      </li>
                     ))}
                   </ul>
                 )}
@@ -177,11 +207,20 @@ export function RecipeCard({
                 {instructions.length === 0 ? (
                   <p className="empty-note">No instructions listed.</p>
                 ) : (
-                  <ol className="instruction-list">
-                    {instructions.map((step, index) => (
-                      <li key={`${recipeKey}-step-${index}`}>{step}</li>
+                  <div className="instruction-flow">
+                    {groupLines(instructions).map((group, groupIndex) => (
+                      <div key={`${recipeKey}-step-group-${groupIndex}`}>
+                        {group.heading ? <p className="recipe-subhead">{group.heading}</p> : null}
+                        {group.items.length > 0 ? (
+                          <ol className="instruction-list">
+                            {group.items.map((step, index) => (
+                              <li key={`${recipeKey}-step-${groupIndex}-${index}`}>{step}</li>
+                            ))}
+                          </ol>
+                        ) : null}
+                      </div>
                     ))}
-                  </ol>
+                  </div>
                 )}
               </div>
             </div>
