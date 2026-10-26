@@ -1,4 +1,6 @@
 import { splitHighlightSegments } from '../lib/highlight';
+import { cardMeta } from '../lib/meta';
+import { isSectionHeading, sectionHeadingText } from '../lib/sections';
 import type { SearchableRecipe } from '../lib/types';
 
 interface RecipeCardProps {
@@ -6,6 +8,8 @@ interface RecipeCardProps {
   searchQuery?: string;
   isFavorite?: boolean;
   onToggleFavorite?: (key: string) => void;
+  open?: boolean;
+  onOpenChange?: (open: boolean) => void;
 }
 
 interface RecipeFact {
@@ -13,16 +17,24 @@ interface RecipeFact {
   value: string;
 }
 
-function ingredientPreview(ingredients: string[]): string {
-  if (ingredients.length === 0) {
-    return 'No ingredients listed';
+interface LineGroup {
+  heading: string | null;
+  items: string[];
+}
+
+function groupLines(lines: string[]): LineGroup[] {
+  const groups: LineGroup[] = [];
+  let current: LineGroup = { heading: null, items: [] };
+  for (const line of lines) {
+    if (isSectionHeading(line)) {
+      if (current.heading || current.items.length > 0) groups.push(current);
+      current = { heading: sectionHeadingText(line), items: [] };
+    } else {
+      current.items.push(line);
+    }
   }
-
-  const previewCount = 4;
-  const preview = ingredients.slice(0, previewCount).join(' · ');
-  const extra = ingredients.length - previewCount;
-
-  return extra > 0 ? `${preview} · +${extra} more` : preview;
+  if (current.heading || current.items.length > 0) groups.push(current);
+  return groups;
 }
 
 function formatFactValue(value: unknown): string | null {
@@ -63,16 +75,18 @@ export function RecipeCard({
   recipe,
   searchQuery = '',
   isFavorite = false,
-  onToggleFavorite
+  onToggleFavorite,
+  open = false,
+  onOpenChange
 }: RecipeCardProps) {
   const instructions = recipe.instructions ?? [];
   const recipeKey = recipe.shortcode ?? recipe.name;
-  const ingredientCount = recipe.cleanIngredients.length;
-  const ingredientPreviewText = ingredientPreview(recipe.cleanIngredients);
+  const highlightQuery = recipe.highlightTerms || searchQuery;
+  const meta = cardMeta(recipe.cleanIngredients, recipe.macros, highlightQuery);
   const facts = recipeFacts(recipe);
 
   const renderHighlightedText = (text: string) =>
-    splitHighlightSegments(text, searchQuery).map((segment, index) =>
+    splitHighlightSegments(text, highlightQuery).map((segment, index) =>
       segment.isMatch ? (
         <mark key={`${text}-${index}`} className="search-highlight">
           {segment.text}
@@ -83,20 +97,25 @@ export function RecipeCard({
     );
 
   return (
-    <article className="recipe-card">
-      <details>
-        <summary>
+    <article className="recipe-card" id={`recipe-${recipeKey}`}>
+      <details open={onOpenChange ? open : undefined}>
+        <summary
+          onClick={(event) => {
+            if (!onOpenChange) return;
+            event.preventDefault();
+            onOpenChange(!open);
+          }}
+        >
           <span className="recipe-index" aria-hidden="true" />
           <div className="card-summary-content">
             <h2>{renderHighlightedText(recipe.name)}</h2>
             <p className="ingredient-preview">
-              {renderHighlightedText(ingredientPreviewText)}
+              {recipe.matchLabel ? (
+                <span className="match-reason">{recipe.matchLabel}</span>
+              ) : null}
+              {recipe.matchLabel && meta ? <span className="meta-dot"> · </span> : null}
+              {meta ? renderHighlightedText(meta) : recipe.matchLabel ? null : 'No ingredients listed'}
             </p>
-            {ingredientCount > 0 && (
-              <span className="ingredient-count-badge">
-                {ingredientCount} ingredient{ingredientCount !== 1 ? 's' : ''}
-              </span>
-            )}
           </div>
           <div className="card-actions">
             {onToggleFavorite && (
@@ -167,8 +186,17 @@ export function RecipeCard({
                   <p className="empty-note">No ingredients listed.</p>
                 ) : (
                   <ul className="ingredient-list">
-                    {recipe.cleanIngredients.map((ingredient, index) => (
-                      <li key={`${recipeKey}-ingredient-${index}`}>{ingredient}</li>
+                    {groupLines(recipe.cleanIngredients).map((group, groupIndex) => (
+                      <li key={`${recipeKey}-ingredient-group-${groupIndex}`} className="line-group">
+                        {group.heading ? <p className="recipe-subhead">{group.heading}</p> : null}
+                        {group.items.length > 0 ? (
+                          <ul>
+                            {group.items.map((ingredient, index) => (
+                              <li key={`${recipeKey}-ingredient-${groupIndex}-${index}`}>{ingredient}</li>
+                            ))}
+                          </ul>
+                        ) : null}
+                      </li>
                     ))}
                   </ul>
                 )}
@@ -179,11 +207,20 @@ export function RecipeCard({
                 {instructions.length === 0 ? (
                   <p className="empty-note">No instructions listed.</p>
                 ) : (
-                  <ol className="instruction-list">
-                    {instructions.map((step, index) => (
-                      <li key={`${recipeKey}-step-${index}`}>{step}</li>
+                  <div className="instruction-flow">
+                    {groupLines(instructions).map((group, groupIndex) => (
+                      <div key={`${recipeKey}-step-group-${groupIndex}`}>
+                        {group.heading ? <p className="recipe-subhead">{group.heading}</p> : null}
+                        {group.items.length > 0 ? (
+                          <ol className="instruction-list">
+                            {group.items.map((step, index) => (
+                              <li key={`${recipeKey}-step-${groupIndex}-${index}`}>{step}</li>
+                            ))}
+                          </ol>
+                        ) : null}
+                      </div>
                     ))}
-                  </ol>
+                  </div>
                 )}
               </div>
             </div>

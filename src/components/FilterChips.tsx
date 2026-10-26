@@ -7,7 +7,8 @@ export interface FilterChipDef {
 
 function buildPattern(term: string): RegExp {
   const escaped = term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  return new RegExp(`\\b${escaped}\\b`);
+  const plural = /s$/i.test(term) ? '' : '(?:es|s)?';
+  return new RegExp(`\\b${escaped}${plural}\\b`);
 }
 
 function defineChip(label: string, terms: string[]): FilterChipDef {
@@ -63,11 +64,9 @@ export function FilterChips({ activeFilters, onToggle, onClearAll, counts }: Fil
               aria-pressed={isActive}
             >
               {chip.label}
-              {count > 0 && (
-                <span className="filter-chip-count" aria-hidden="true">
-                  {count}
-                </span>
-              )}
+              <span className="filter-chip-count" aria-hidden="true">
+                {count > 0 ? count : ''}
+              </span>
             </button>
           );
         })}

@@ -8,7 +8,10 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "eval:search": "vite-node --script scripts/search_eval.ts",
+    "eval:search:hard": "vite-node --script scripts/search_eval_hard.ts",
+    "clean:recipes": "node scripts/clean_recipes.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",

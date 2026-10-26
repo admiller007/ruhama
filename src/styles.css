@@ -294,6 +294,24 @@ button {
   gap: 0.5rem;
 }
 
+@media (max-width: 720px) {
+  .filter-chips-track {
+    flex-wrap: nowrap;
+    max-width: 100%;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scrollbar-width: none;
+  }
+
+  .filter-chips-track::-webkit-scrollbar {
+    display: none;
+  }
+
+  .filter-chip {
+    flex: 0 0 auto;
+  }
+}
+
 .filter-chip {
   display: inline-flex;
   align-items: center;
@@ -326,9 +344,12 @@ button {
 }
 
 .filter-chip-count {
+  display: inline-block;
+  min-width: 2.25rem;
   margin-left: 0.4rem;
   font-weight: 400;
   font-variant-numeric: tabular-nums;
+  text-align: end;
 }
 
 .filter-chips-clear {
@@ -383,12 +404,62 @@ button {
   font-weight: 400;
 }
 
-.recipe-count {
-  margin: 1.5rem 0 0;
+.results-slot {
+  /* Keeps the footer below the first screen while recipes load, so the
+     list appearing does not shove a visible footer down the page. */
+  min-height: 100vh;
+}
+
+.browse {
+  margin-top: 1.35rem;
+}
+
+.browse-kicker,
+.browse-newest {
+  margin: 0;
   color: var(--muted);
   font-size: 0.82rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.browse-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.7rem;
+}
+
+.browse-chip {
+  min-height: 40px;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--hairline);
+  border-radius: 999px;
+  color: var(--text);
+  font-size: 0.84rem;
+  font-weight: 500;
+  transition: color 180ms ease, border-color 180ms ease;
+}
+
+.browse-chip:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.browse-newest {
+  margin-top: 1.35rem;
+}
+
+.empty-browse {
+  margin-bottom: 0.85rem;
+}
+
+.recipe-count {
+  margin: 0.85rem 0 0;
+  color: var(--muted);
+  font-size: 0.84rem;
+  letter-spacing: 0;
+  text-transform: none;
 }
 
 /* Results */
@@ -404,6 +475,7 @@ button {
 .recipe-card {
   border-bottom: 1px solid var(--hairline);
   counter-increment: recipe;
+  scroll-margin-top: 6.5rem;
   transition: background-color 180ms ease;
 }
 
@@ -418,7 +490,11 @@ button {
 .recipe-card summary {
   display: grid;
   grid-template-columns: 2.15rem minmax(0, 1fr) auto;
+  grid-template-areas:
+    "index title actions"
+    "index meta meta";
   column-gap: 0.75rem;
+  row-gap: 0.35rem;
   align-items: start;
   padding: 1.15rem 0;
   list-style: none;
@@ -435,6 +511,7 @@ button {
 }
 
 .recipe-index {
+  grid-area: index;
   padding-top: 0.28rem;
   font-family: var(--font-heading);
   font-size: 0.92rem;
@@ -447,6 +524,11 @@ button {
 }
 
 .card-summary-content {
+  display: contents;
+}
+
+.card-summary-content h2 {
+  grid-area: title;
   min-width: 0;
 }
 
@@ -462,23 +544,20 @@ button {
 }
 
 .ingredient-preview {
-  margin: 0.35rem 0 0;
+  grid-area: meta;
+  margin: 0;
   color: var(--muted);
   font-size: 0.92rem;
   line-height: 1.45;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
+  white-space: nowrap;
   overflow: hidden;
 }
 
-.ingredient-count-badge {
-  display: inline-block;
-  margin-top: 0.45rem;
-  color: var(--muted);
+.match-reason {
+  color: var(--accent);
   font-size: 0.72rem;
-  font-weight: 500;
-  letter-spacing: 0.14em;
+  font-weight: 600;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
@@ -492,6 +571,7 @@ button {
 }
 
 .card-actions {
+  grid-area: actions;
   display: flex;
   align-items: center;
   margin-top: -0.15rem;
@@ -622,6 +702,34 @@ details[open] > .recipe-details > .recipe-details-inner {
   padding: 0;
 }
 
+.ingredient-list > .line-group {
+  padding: 0;
+  border-top: 0;
+}
+
+.ingredient-list > .line-group::before {
+  display: none;
+}
+
+.ingredient-list > .line-group > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.recipe-subhead {
+  margin: 0.85rem 0 0;
+  color: var(--accent);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.instruction-flow {
+  counter-reset: step;
+}
+
 .ingredient-list li,
 .instruction-list li {
   overflow-wrap: break-word;
@@ -648,7 +756,7 @@ details[open] > .recipe-details > .recipe-details-inner {
 }
 
 .instruction-list {
-  counter-reset: step;
+  counter-reset: none;
 }
 
 .instruction-list li {

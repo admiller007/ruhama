@@ -1,3 +1,4 @@
+import { tokenize } from './text';
 import type { Recipe, SearchableRecipe } from './types';
 
 const NUMBERED_STEP_PATTERN = /^\s*\d+\.\s+/;
@@ -21,11 +22,17 @@ export function buildSearchableRecipes(recipes: Recipe[]): SearchableRecipe[] {
   return recipes.map((recipe) => {
     const clean = cleanIngredients(recipe.ingredients);
 
+    const normalizedIngredientText = clean.join(' ').toLowerCase();
+
     return {
       ...recipe,
       cleanIngredients: clean,
       normalizedName: recipe.name.toLowerCase(),
-      normalizedIngredientText: clean.join(' ').toLowerCase()
+      normalizedIngredientText,
+      titleTokens: tokenize(recipe.name),
+      ingredientTokens: tokenize(normalizedIngredientText),
+      instructionTokens: tokenize((recipe.instructions ?? []).join(' ')),
+      captionTokens: tokenize(recipe.caption_snippet ?? '')
     };
   });
 }

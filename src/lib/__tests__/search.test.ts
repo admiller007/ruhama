@@ -67,3 +67,106 @@ describe('searchRecipes', () => {
     expect(searchRecipes(recipes, 'apple mango')).toEqual([]);
   });
 });
+
+describe('searchRecipes relevance', () => {
+  const catalog: SearchableRecipe[] = [
+    {
+      name: 'Schnitzel Friday',
+      cleanIngredients: ['chicken cutlets'],
+      instructions: ['Bread and bake'],
+      normalizedName: 'schnitzel friday',
+      normalizedIngredientText: 'chicken cutlets'
+    },
+    {
+      name: 'Potato Casserole',
+      cleanIngredients: ['russet potato'],
+      instructions: ['Slice and bake'],
+      normalizedName: 'potato casserole',
+      normalizedIngredientText: 'russet potato'
+    },
+    {
+      name: 'One-Pan Ground Beef and Rice',
+      cleanIngredients: ['ground beef', 'basmati rice'],
+      instructions: ['Simmer'],
+      normalizedName: 'one-pan ground beef and rice',
+      normalizedIngredientText: 'ground beef basmati rice'
+    },
+    {
+      name: 'Beef Kebab',
+      cleanIngredients: ['ground beef', 'parsley'],
+      instructions: ['Grill'],
+      normalizedName: 'beef kebab',
+      normalizedIngredientText: 'ground beef parsley'
+    },
+    {
+      name: 'Amba Chicken and Rice',
+      cleanIngredients: ['chicken thighs', 'basmati rice'],
+      instructions: ['Bake'],
+      normalizedName: 'amba chicken and rice',
+      normalizedIngredientText: 'chicken thighs basmati rice',
+      caption_snippet: 'A one-pan chicken and rice dinner'
+    },
+    {
+      name: 'Chicken Meatballs and Rice Noodles',
+      cleanIngredients: ['chicken', 'rice noodles'],
+      instructions: ['Simmer'],
+      normalizedName: 'chicken meatballs and rice noodles',
+      normalizedIngredientText: 'chicken rice noodles'
+    },
+    {
+      name: 'Fluffy Egg Bites',
+      cleanIngredients: ['eggs'],
+      instructions: ['Bake'],
+      normalizedName: 'fluffy egg bites',
+      caption_snippet: 'Simple, high protein, gluten free breakfast',
+      normalizedIngredientText: 'eggs'
+    }
+  ];
+
+  it('corrects a one-edit dish typo', () => {
+    expect(searchRecipes(catalog, 'shnitzel').map((recipe) => recipe.name)).toEqual([
+      'Schnitzel Friday'
+    ]);
+  });
+
+  it('matches a plural query to a singular title', () => {
+    expect(searchRecipes(catalog, 'potatoes')[0]?.name).toBe('Potato Casserole');
+  });
+
+  it('ranks a title that contains every term above an ingredient-only match', () => {
+    expect(searchRecipes(catalog, 'ground beef')[0]?.name).toBe('One-Pan Ground Beef and Rice');
+  });
+
+  it('prefers chicken and rice over chicken with rice noodles', () => {
+    expect(searchRecipes(catalog, 'what can I make with chicken and rice')[0]?.name).toBe(
+      'Amba Chicken and Rice'
+    );
+  });
+
+  it('treats side dish as a phrase instead of the word side', () => {
+    const sides: SearchableRecipe[] = [
+      {
+        name: 'Iraqi Potato Salad',
+        cleanIngredients: ['fingerling potatoes cut on the long side'],
+        instructions: ['Roast'],
+        normalizedName: 'iraqi potato salad',
+        normalizedIngredientText: 'fingerling potatoes cut on the long side',
+        caption_snippet: 'A roasted potato and egg salad'
+      },
+      {
+        name: 'Smashed Potatoes',
+        cleanIngredients: ['potatoes'],
+        instructions: ['Smash and roast'],
+        normalizedName: 'smashed potatoes',
+        normalizedIngredientText: 'potatoes',
+        caption_snippet: 'This potato dish can be a perfect side dish for any meal'
+      }
+    ];
+    expect(searchRecipes(sides, 'side dish')[0]?.name).toBe('Smashed Potatoes');
+  });
+
+  it('finds a high-protein note in the caption', () => {
+    expect(searchRecipes(catalog, 'high protein')[0]?.name).toBe('Fluffy Egg Bites');
+    expect(searchRecipes(catalog, 'high protein')[0]?.matchLabel).toBe('In the post');
+  });
+});
