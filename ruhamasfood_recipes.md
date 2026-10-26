@@ -1,9 +1,1578 @@
 # @ruhamasfood — Recipe Collection
-*Scraped 2026-02-19 · 960 recipes*
+*Scraped 2026-10-26 · 1012 recipes*
 
 ---
 
-## 1. ONE-PAN BEEF, CORN AND PTITIM!
+## 1. ONE PAN GOLDEN ORZO & CABBAGE!
+*Source: [https://www.instagram.com/p/DezODG1iNLy/](https://www.instagram.com/p/DezODG1iNLy/)*
+
+### Ingredients
+- 1 green cabbage, halved and thinly sliced
+- 1/2 teaspoon flaky salt
+- 2 tablespoons olive oil, or avocado oil spray
+- 1 package orzo, 16 oz (454 g)
+- 1 teaspoon salt
+- 1 heaping teaspoon turmeric
+- 1/2 teaspoon black pepper
+- Zest of 1 lemon
+- 3 tablespoons olive oil
+- 3.5 cups boiling water
+- 1 tablespoon chopped fresh basil
+
+### Instructions
+1. Place the sliced cabbage in a wide pan over medium heat. Sprinkle with the flaky salt and drizzle with the 2 tablespoons olive oil, or coat with avocado oil spray.
+2. Cover and cook for 2 minutes.
+3. Stir, cover again, and cook for another 5 minutes, stirring occasionally, until the cabbage begins to soften.
+4. Spread the orzo over the cabbage.
+5. Add the salt, turmeric, black pepper, lemon zest, and 3 tablespoons olive oil. Stir until everything is well combined and coated in the golden seasoning.
+6. Pour in the boiling water and stir. Cover, reduce the heat to low, and cook for 25 minutes, until the water is absorbed and the orzo is tender.
+7. Garnish with fresh basil
+
+---
+
+## 2. COZY BEEF STEW!
+*Source: [https://www.instagram.com/p/DeuIxH2iFal/](https://www.instagram.com/p/DeuIxH2iFal/)*
+
+### Ingredients
+- 2.5 pounds beef stew meat, cubed and patted dry with paper towels
+- 2 large sweet onions, sliced
+- 8 whole garlic cloves
+- 2 packages precooked cannellini beans, drained (13.4oz / 380g each)
+- 8 small Yukon Gold potatoes, peeled and cut into cubes
+- 1/4 cup extra virgin olive oil
+- 2 teaspoons fine kosher salt
+- 1 teaspoon ground black pepper
+- 1 heaping teaspoon paprika
+- 1 teaspoon garlic powder
+- 2 heaping teaspoons ras el hanout
+- 3 tablespoons tomato paste
+- 1 tablespoon date syrup
+- 1/2 teaspoon Maldon flaky salt
+- 2 cups boiling water, plus more as needed
+- For garnish: Chopped parsley or cilantro
+- For the pan: A 5-quart oven-safe braiser with a lid
+
+### Instructions
+1. Preheat the oven to 350°F (175°C)
+2. Heat the olive oil in the braiser over medium-high heat. Add the onions and cook, stirring, for 1-2 minutes
+3. Add the beef, garlic cloves, kosher salt, black pepper, paprika, garlic powder, ras el hanout, tomato paste, and date syrup
+4. Cook, stirring, for 2 minutes, until everything is coated
+5. Spread the beans and potatoes over the beef. Sprinkle with the flaky salt and pour in the boiling water.
+6. Cover with the lid and cook on the stovetop for 5 minutes. Transfer the covered braiser to the oven and cook for 2.5-3 hours, until the beef is fork-tender
+7. Check every hour and add a little more boiling water if needed to keep the stew from drying out
+8. Garnish with chopped parsley or cilantro.
+
+---
+
+## 3. IRAQI CHICKEN & LUBIA!
+*Source: [https://www.instagram.com/p/Dee0LNhicmu/](https://www.instagram.com/p/Dee0LNhicmu/)*
+
+### Ingredients
+- 8 bone-in, skinless chicken thighs
+- 4 chicken drumsticks
+- Salt and black pepper, to season the chicken
+- 4 tablespoons extra virgin olive oil
+- 1 red onion, sliced
+- 1 teaspoon salt
+- 1 teaspoon paprika
+- 5 carrots, peeled and sliced into 1/2-inch-thick rounds
+- 1 package frozen cut green beans (454 g)
+- 2 garlic cloves, sliced
+- 3 tablespoons tomato paste
+- 1 tablespoon extra virgin olive oil
+- 1 tablespoon honey
+- 1.5 teaspoons baharat
+- 1 teaspoon salt
+- 1 teaspoon paprika
+- 1 cup boiling water (240 ml)
+
+### Instructions
+1. Mix all the sauce ingredients in a bowl until smooth. Set aside.
+2. Pat the chicken dry and season lightly with salt and black pepper.
+3. Heat the olive oil in a wide, deep pan over medium heat. Add the onion, salt, and paprika and cook, stirring, for 1 minute.
+4. Place the chicken pieces in the pan, with the thighs smooth side down. Sear for 4-5 minutes without moving them, until lightly browned.
+5. Flip the chicken and arrange the garlic, carrots, and frozen green beans around and on top of the pieces.
+6. Pour the sauce evenly over everything. Gently shake the pan to distribute the sauce.
+7. Cover and bring to a gentle simmer over medium heat, about 5 minutes. Reduce the heat to low and simmer for 45-50 minutes, until the chicken is cooked through and the carrots are tender. Check occasionally and add a splash of hot water if needed. Serve over warm rice!
+
+---
+
+## 4. ONE-PAN MINI MEATBALLS & PTITIM!
+*Source: [https://www.instagram.com/p/DeMojh4Ccjx/](https://www.instagram.com/p/DeMojh4Ccjx/)*
+
+### Ingredients
+- 2 pounds ground beef
+- 1 small onion, finely diced
+- 1 carrot, peeled and finely diced
+- 2 garlic cloves, minced
+- 1/2 cup chopped cilantro or parsley
+- 1 teaspoon salt
+- 1/2 teaspoon black pepper
+- 1 heaping teaspoon paprika
+- 1 teaspoon onion powder
+- 1/2 teaspoon cumin
+- 1 teaspoon date syrup
+- 1 tablespoon olive oil
+- 3 tablespoons olive oil
+- 2 packages Israeli couscous (p’titim), 500 g total
+- 3 cups boiling water
+- 2 tablespoons tomato paste
+- 1 teaspoon salt
+
+### Instructions
+1. Place all the meatball ingredients in a large bowl and mix until well combined. Shape into about 35 mini meatballs.
+2. Heat the olive oil in a 12.5 inches, nonstick pan over medium-high heat. Add the meatballs in one layer and cook for about 10 minutes total, turning gently to brown on all sides.
+3. In a large measuring cup, whisk together the boiling water, tomato paste, and salt. Mix it well.
+4. Add the p’titim to the pan, pour in the red sauce, and stir gently to distribute the p’titim around the meatballs.
+5. Cover and cook over medium heat for 3-4 minutes. Reduce the heat to low and cook for about 25 minutes, until the liquid is absorbed and the p’titim are tender. If the pan becomes dry before the p’titim are tender, add a little more boiling water.
+6. Gently fluff the p’titim and serve with Israeli salad and tahini.
+
+---
+
+## 5. CRUNCHY PURPLE SALAD!
+*Source: [https://www.instagram.com/p/DeKFAVliAA2/](https://www.instagram.com/p/DeKFAVliAA2/)*
+
+### Ingredients
+- 1/2 red cabbage, thinly sliced (preferably with a mandoline)
+- 1 English cucumber, thinly sliced (preferably with a mandoline)
+- 1 red onion, thinly sliced
+- A handful of dill leaves, chopped
+- A handful of mint leaves, chopped
+- 1/3 cup tahini paste or plain yogurt
+- Juice of 1/2 lemon
+- 1 teaspoon Maldon flaky salt
+- 2 garlic cloves, minced
+- 1/2 teaspoon honey or maple syrup
+- 1/4 cup cold water
+- Garnish: 2 tablespoons of pumpkin seeds
+
+### Instructions
+1. In a small bowl, combine all the dressing ingredients and mix well until smooth. The texture should be pourable and not too thick. Add more water or tahini if needed.
+2. In a large salad bowl, add the cabbage, cucumbers, red onion, dill, and mint.
+3. Pour the tahini dressing over the salad and toss well, ensuring the dressing coats all the vegetables.
+4. Garnish with pumpkin seeds.
+
+---
+
+## 6. ONE-POT AMBA BEEF & RICE
+*Source: [https://www.instagram.com/p/Dd9fqh5IJes/](https://www.instagram.com/p/Dd9fqh5IJes/)*
+
+### Ingredients
+- 5 tablespoons extra virgin olive oil
+- 1 large onion, thinly sliced (you can use a mandoline)
+- 1.5 teaspoons salt
+- 1 heaping teaspoon turmeric
+- 1 teaspoon lemon pepper
+- 1/2 teaspoon of cumin
+- 1/2 tablespoon onion powder
+- 2 pounds ground beef
+- 1 can (15.5 oz) chickpeas, drained
+- 2 cups basmati rice, rinsed and drained
+- 1/2 tablespoon date syrup
+- 2 garlic cloves, minced
+- 1/3 cup Amba sauce
+- 4 cups boiling water
+
+### Instructions
+1. Heat the olive oil in a large, wide pot over medium heat.
+2. Add the sliced onion, salt, turmeric, lemon pepper, cumin and onion powder.
+3. Sauté for 1 minute, stirring to coat the onion with the spices.
+4. Add the ground beef and break it up with a wooden spoon.
+5. Mix everything together and cook for 4-5 minutes, until the beef is browned.
+6. Add the chickpeas, date syrup, minced garlic, and amba sauce. Mix well.
+7. Add the basmati rice and stir to combine.
+8. Pour in the boiling water and stir gently. Cover with a lid.
+9. Cook over medium heat for 2-3 minutes, then reduce the heat to low and cook for 25-30 minutes, until the rice is tender and the water is absorbed.
+
+---
+
+## 7. ORANGE SEMOLINA CAKE!
+*Source: [https://www.instagram.com/p/Dd6oYG7qsJL/](https://www.instagram.com/p/Dd6oYG7qsJL/)*
+
+### Ingredients
+- 1 cup fine semolina
+- 1 cup unsweetened shredded coconut
+- 1.5 cups almond flour
+- 1 cup fresh orange juice
+- 1/4 cup olive oil
+- 3 eggs
+- 1/2 cup maple syrup
+- 2 tablespoons plain yogurt
+- 1 teaspoon vanilla paste
+- 1 teaspoon baking powder
+- Zest of 1 orange
+- Pinch of salt
+- 1 pint (473 ml) heavy whipping cream
+- 2 tablespoons powdered sugar
+- Olive oil or avocado oil spray
+- 2 tablespoons tahini paste
+- 3/4 cup of chopped pistachios
+- 1 cup of Pomegranate seeds
+- Lime zest
+
+### Instructions
+1. Preheat the oven to 350°F / 180°C.
+2. In a mixing bowl, whisk together the eggs, olive oil, orange juice, maple syrup, yogurt, vanilla paste, pinch of salt, and orange zest.
+3. Add the semolina, shredded coconut, almond flour and baking powder. Mix until combined.
+4. Lightly spray a round 10.5 inch cake pan with avocado oil, then spread the tahini in a thin, even layer over the bottom.
+5. Pour the cake mixture into the pan. Bake for approximately 35 minutes, or until a toothpick inserted into the center comes out clean.
+6. Let the cake cool in the pan for around 15 minutes.
+7. Whip the heavy cream and powdered sugar until soft peaks form.
+8. Sprinkle the cake with chopped pistachios.
+9. Serve each slice with a generous amount of whipped cream on top, pomegranate seeds, more chopped pistachios and lime zest.
+
+---
+
+## 8. MY VIRAL OVEN-BAKED SCHNITZEL
+*Source: [https://www.instagram.com/p/Dd2FHINiQk1/](https://www.instagram.com/p/Dd2FHINiQk1/)*
+
+### Ingredients
+- 2 pounds of of thin chicken cutlets
+- 2 eggs
+- 1 teaspoon of kosher salt
+- 1/4 teaspoon of black pepper
+- 1 teaspoon of paprika
+- 1/2 teaspoon of cumin
+- 1 tablespoon of Dijon mustard
+- 1 tablespoon of honey
+- Juice from 1/2 lemon
+- Zest from 1 lemon
+- 2 minced garlic cloves
+- 1/2 cup of panko bread crumbs
+- 1 cup of breadcrumbs
+- 1/4 cup of sesame seeds
+- 1 teaspoon of garlic powder
+- 3 tablespoons of olive oil
+- Olive oil or avocado oil spray
+
+### Instructions
+1. Preheat the oven to 420°F (220°C).
+2. In a large bowl, combine the chicken cutlets, eggs, salt, pepper, paprika, cumin, Dijon mustard, honey, lemon juice, lemon zest, and garlic. Mix until the chicken is evenly coated.
+3. In a separate dish, mix the panko, breadcrumbs, sesame seeds, and garlic powder. Coat each cutlet on both sides, pressing the crumbs gently onto the chicken.
+4. Arrange the cutlets in a single layer on a baking pan. Drizzle the olive oil over them.
+5. Bake for 15 minutes. Flip the cutlets, spray with avocado or olive oil, and bake for another 10 minutes.
+6. Spray once more, then switch the oven to convection broil at 450°F. Broil for 7-8 minutes, until golden and the chicken is cooked through. Keep an eye on it so the coating doesn’t burn.
+7. Serve with hot honey mustard, ketchup, and pickles.
+
+---
+
+## 9. ZUCCHINI CASSEROLE- PASHTIDAT ZUCCHINI!
+*Source: [https://www.instagram.com/p/DdXOah6KLrI/](https://www.instagram.com/p/DdXOah6KLrI/)*
+
+### Ingredients
+- 2 large zucchinis or 4 small zucchinis, shredded
+- 1 sweet onion, shredded
+- 2 small gold potatoes, shredded
+- 1 tablespoon of fresh chopped dill
+- 3 eggs
+- 1 teaspoon of salt
+- 1/4 teaspoon of black pepper
+- 1 teaspoon of garlic powder
+- 1 teaspoon of onion powder
+- 1/4 cup of olive oil
+- 1/4 cup of water
+- 1.5 cups of all purpose flour
+- 1 teaspoon of baking powder
+- Topping
+- 2 tablespoons of Everything But The Bagel seasoning
+- For the pan
+- Avocado oil spray
+- 1 tablespoon of bread crumbs
+
+### Instructions
+1. Preheat the oven to 400F.
+2. Place the shredded zucchinis, onion, and potatoes in a cheesecloth and squeeze out as much excess liquid as possible.
+3. Transfer the squeezed vegetables to a large bowl and add the dill.
+4. Add the salt, black pepper, garlic powder, onion powder, eggs, and olive oil. Mix well.
+5. Add the flour, baking powder, and water. Mix until everything is well combined.
+6. Spray the bottom of a ceramic baking dish with avocado oil and sprinkle the breadcrumbs evenly over the bottom.
+7. Pour in the zucchini mixture and spread it into an even layer.
+8. Sprinkle the Everything But The Bagel seasoning over the top.
+9. Bake at 400°F for 35-40 minutes, until golden and cooked through.
+
+---
+
+## 10. DIRTY CABBAGE!
+*Source: [https://www.instagram.com/p/DdSNBTnC-hu/](https://www.instagram.com/p/DdSNBTnC-hu/)*
+
+### Ingredients
+- 2 pounds ground beef
+- 1 sweet onion, finely chopped
+- 1 large green cabbage, roughly chopped
+- 4 tablespoons extra virgin olive oil
+- 1.5 teaspoons salt
+- 1/2 teaspoon black pepper
+- 1 heaping teaspoon paprika
+- 1 teaspoon garlic powder
+- 1 teaspoon onion powder
+- 1 heaping teaspoon ras el hanout
+- 1 tablespoon tomato paste
+- 2 tablespoons coconut aminos or soy sauce
+- 1 teaspoon date syrup
+- 2 minced garlic cloves
+- 1/4 cup chopped parsley
+- 2 green onions, sliced
+- Chili flakes, optional
+
+### Instructions
+1. Heat the olive oil in a large pot over high heat. Add the onion, salt, black pepper, paprika, garlic powder, onion powder, and ras el hanout. Stir and cook for 1-2 minutes.
+2. Push the onions to the sides of the pot and add the ground beef. Break it apart with a wooden spoon, then mix it with the onions. Cook for 4-5 minutes, stirring occasionally, until browned.
+3. Add the tomato paste, coconut aminos, date syrup, and minced garlic. Mix well.
+4. Add the chopped green cabbage and cover the pot. Cook for 5 minutes, until the cabbage begins to soften.
+5. Remove the lid and mix everything together. Cover again, reduce the heat to medium, and cook for another 10 minutes, or until the cabbage is tender.
+6. Garnish with chopped parsley, green onions, and chili flakes, if desired.
+
+---
+
+## 11. FESTIVE CARROT AND LEEKS RICE!
+*Source: [https://www.instagram.com/p/DdFE36-C_jz/](https://www.instagram.com/p/DdFE36-C_jz/)*
+
+### Ingredients
+- 5 tablespoons extra virgin olive oil
+- 1 onion, chopped
+- 3 carrots, shredded
+- 2 leeks, just the white part sliced
+- 1.5 teaspoons salt
+- 1/2 teaspoon black pepper
+- 1 teaspoon of garlic powder
+- 1 heaping teaspoon turmeric
+- 1/2 teaspoon ground cumin
+- 2 cups of fine egg noodles
+- 2 cups basmati rice, rinsed and drained
+- 4 cups boiling water
+- Handful of chopped cilantro and mint leaves
+- 1/4 cup of pomegranate seeds
+- 1/4 cup of sliced almonds
+
+### Instructions
+1. Heat the olive oil in a pan over medium heat. Add the onion, carrots, and leeks.
+2. Add salt, pepper, turmeric, garlic powder and cumin. Stir and fry for about 4-5 minutes.
+3. Add the egg noodles and mix it together.
+4. Add rice and mix well until everything is coated and turns a beautiful golden color.
+5. Pour in the boiling water, stir, and cook on high heat for 1 minute.
+6. Lower the heat, cover, and cook for 25 minutes. Fluff it gently with a wooden spoon .
+7. Garnish with fresh cilantro and parsley, pomegranate seeds and sliced almonds.
+
+---
+
+## 12. GREEN CUCUMBER APPLE CRUNCH SALAD!
+*Source: [https://www.instagram.com/p/DdCoOSNqbZc/](https://www.instagram.com/p/DdCoOSNqbZc/)*
+
+### Ingredients
+- 1 English cucumber or 4 small cucumbers, thinly sliced
+- 2 green apples, thinly sliced
+- 1/2 red onion, thinly sliced
+- 3 celery stalks with their leaves, finely chopped
+- Handful of fresh parsley, finely chopped
+- Handful of candied pecans, roughly chopped
+- 4 Medjool dates, pitted and chopped
+- 1 teaspoon flaky salt
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon sumac
+- Juice of 1 lemon
+- 4 tablespoons extra-virgin olive oil
+- Chopped candied pecans
+- A sprinkle of sumac
+
+### Instructions
+1. Add the cucumbers, apples, red onion, celery, parsley, dates and candied pecans to a salad bowl.
+2. Season with salt, black pepper, sumac, lemon juice, and olive oil.
+3. Toss everything together until evenly coated.
+4. Garnish with more candied pecans and a sprinkle of sumac.
+
+---
+
+## 13. GREEN HUMMUS!
+*Source: [https://www.instagram.com/p/DczQ_X_i6Hl/](https://www.instagram.com/p/DczQ_X_i6Hl/)*
+
+### Ingredients
+- 1 can of chickpeas (15.5 Oz), drained
+- Handful of fresh parsley
+- Handful of fresh cilantro
+- 2 garlic cloves
+- 1/3 cup of raw tahini paste
+- 1 teaspoon of extra virgin olive oil
+- 1/4 teaspoon of flaky salt
+- Juice from 1/2 lemon
+- 1/3 cup of iced water
+- Garnish: Sumac, a drizzle of extra virgin olive oil, pomegranate seeds, and chopped parsley.
+
+### Instructions
+1. Add the garlic, chickpeas, cilantro, and parsley to a small food processor.
+2. Process for 1 to 2 minutes.
+3. Add the salt, tahini paste, olive oil, lemon juice, and half of the ice-cold water.
+4. Process for 2 to 3 minutes, gradually adding more water as needed, until smooth and creamy.
+5. Spread the hummus evenly on a round serving plate.
+6. Garnish with a drizzle of olive oil, pomegranate seeds, chopped parsley, and sumac. Grab some pita and enjoy!
+
+---
+
+## 14. LEMONY ROASTED CABBAGE!
+*Source: [https://www.instagram.com/p/DcwKO0UC0-p/](https://www.instagram.com/p/DcwKO0UC0-p/)*
+
+### Ingredients
+- 1 green cabbage, sliced into rounds
+- 1 large sweet onion, sliced thin using a mandoline
+- 1/2 teaspoon flaky Maldon salt
+- 4 tablespoons extra-virgin olive oil
+- Handful of fresh dill
+- Handful of fresh parsley
+- 2 garlic cloves
+- 1 jalapeño pepper, sliced (seeds removed)
+- Juice of 1 lemon
+- 1/2 teaspoon salt
+- 1/2 teaspoon ground black pepper
+- 3 tablespoons extra-virgin olive oil
+- 1 tablespoon white wine vinegar
+- 1 teaspoon pure maple syrup
+- Garnish: a touch of sumac
+
+### Instructions
+1. In the bottom of a round oven-safe pan, (12 inches) drizzle 2 tablespoons of olive oil and sprinkle 1/4 teaspoon of Maldon salt. Spread it with your hands.
+2. Arrange the cabbage evenly, then spread the sliced onion on top.
+3. Drizzle the remaining 2 tablespoons of olive oil on top and sprinkle with the remaining 1/4 teaspoon of Maldon salt.
+4. Cover with wet parchment paper and aluminum foil.
+5. Bake at 420°F/220°C for 45 minutes. Remove the cover and switch to low broil for 10 more minutes, or until nicely golden brown.
+6. Use a tablespoon to spoon the green dressing evenly over the cabbage.
+7. Garnish with a touch of sumac.
+
+---
+
+## 15. ONE-PAN AMBA CHICKEN AND RICE!
+*Source: [https://www.instagram.com/p/Dcl2-DpCSV9/](https://www.instagram.com/p/Dcl2-DpCSV9/)*
+
+### Ingredients
+- 2 tablespoons of olive oil
+- 1/4 teaspoon of flaky salt
+- 2 cups of basmati rice, washed and drained
+- 8 pieces of bone-in chicken thighs
+- 1 package (10oz / 284g) of shredded carrots
+- 4 scallions / green onions, chopped
+- 1/4 cup of olive oil
+- 1.5 teaspoons of salt
+- 1/2 tablespoon of black pepper
+- 1 heaping teaspoon of turmeric
+- 1/2 teaspoon of cumin
+- 1/3 cup of Amba
+- 4 cups of boiling water
+- Garnish: Chopped scallion / green onion (just the green part)
+
+### Instructions
+1. Preheat the oven to 420F / 220C.
+2. In a 14-inch round oven-safe pan, drizzle olive oil and sprinkle flaky salt.
+3. Add the washed and drained rice, shredded carrots, and green onions to the pan. Spread it out evenly.
+4. Place the chicken thighs on top.
+5. Using a tablespoon, spoon the Amba sauce over the chicken thighs and spread it well.
+6. Gently pour in 4 cups of boiling water.
+7. Cover with wet parchment paper and then aluminum foil.
+8. Bake in a preheated oven at 420F for 55 minutes.
+9. Remove the cover and switch the oven to convection broil at 450F for 5–7 minutes, until the top is golden brown.
+10. Garnish with chopped green onion.
+
+---
+
+## 16. ROUND BEEF BOUREKAS!
+*Source: [https://www.instagram.com/p/DcjDuaDOVsf/](https://www.instagram.com/p/DcjDuaDOVsf/)*
+
+### Ingredients
+- 1 package (2.2lb/1kg) thawed @tnuvausa Maadanot rolled puff pastry
+- 4 tablespoons extra virgin olive oil
+- 1 large sweet onion, finely chopped
+- 2 pounds of ground beef
+- 4 potatoes, boiled and peeled
+- 1.5 teaspoons of salt
+- 1/2 teaspoon of black pepper
+- 1 teaspoon of paprika
+- 1 teaspoon of turmeric
+- 1 teaspoon of cumin
+- 1 teaspoon of ground cinnamon
+- Handful of fresh chopped cilantro
+- 2 minced garlic cloves
+- 1 tablespoon of date syrup
+- 1 tablespoon of soy sauce
+- Spray of olive oil or avocado oil
+- 1 beaten egg
+- Sesame seeds
+
+### Instructions
+1. Preheat the oven to 400°F / 200°C.
+2. Heat the olive oil in a skillet over medium heat. Add the chopped onion, salt, black pepper, turmeric, paprika, cumin, and cinnamon.
+3. Sauté and stir for about 2 minutes. Move the onions to the sides of the pan.
+4. Add the ground beef. Break it up with a wooden spoon and cook, stirring occasionally, for about 10-15 minutes, until fully cooked.
+5. Add the boiled potatoes and mash them into the beef mixture using a potato ricer. Add the chopped cilantro, minced garlic, date syrup, and soy sauce.
+6. Mix everything together for 2 more minutes until well combined and the excess liquid has evaporated. Let the filling cool completely.
+7. Spray the bottom of a 10-inch (26 cm) round oven-safe pan with olive oil or avocado oil.
+8. Divide the puff pastry into 2 equal parts. Roll out each piece, place half of the beef filling along one edge, and roll it into a long log, or “snake.” Stretch the log a bit.
+9. Cut into 2-inch pieces. Repeat with the remaining pastry and filling.
+10. Arrange the pieces upright, side by side, in the pan.
+11. Brush the tops with beaten egg and sprinkle with sesame seeds.
+12. Bake on 400F for 45-50 minutes, until golden and crisp.
+
+---
+
+## 17. POMEGRANATE CHICKEN & SWEET POTATOES!
+*Source: [https://www.instagram.com/p/Dcghk0KOGzU/](https://www.instagram.com/p/Dcghk0KOGzU/)*
+
+### Ingredients
+- 6 chicken leg quarters, or any chicken pieces you like
+- 2 red onions, sliced
+- 10 sweet potatoes, peeled and sliced into rounds
+- 1 teaspoon salt
+- 1/2 teaspoon black pepper
+- 1 teaspoon sumac
+- 2 tablespoons olive oil
+- 1/4 cup olive oil
+- 1/4 cup pomegranate molasses
+- 1/4 cup date syrup
+- 1 teaspoon salt
+- 1 teaspoon sweet paprika
+- 1/2 teaspoon smoked paprika
+- 1/2 teaspoon sumac
+- 1 teaspoon garlic powder
+- 1 teaspoon onion powder
+- 2 garlic cloves, minced
+- 1/4 cup chopped cilantro or parsley
+- 1 teaspoon flaky Maldon salt
+
+### Instructions
+1. Preheat the oven to 420°F / 220°C.
+2. In an oven-safe pan, add the onions, sweet potatoes, olive oil, salt, black pepper, and sumac. Mix well and spread everything into an even layer.
+3. Arrange the chicken leg quarters on top.
+4. Spoon the chicken seasoning over each piece of chicken and spread it evenly.
+5. Cover with wet parchment paper, then foil, and bake at 420°F for 1 hour.
+6. Remove the parchment and foil and bake uncovered for another 15 minutes.
+7. Set the oven to broil at 450°F and broil for 6-7 minutes, until the chicken is beautifully golden and caramelized.
+8. Garnish with chopped cilantro or parsley and flaky Maldon salt.
+
+---
+
+## 18. ChallaGanush!
+*Source: [https://www.instagram.com/p/DcbZBYLOM0S/](https://www.instagram.com/p/DcbZBYLOM0S/)*
+
+### Ingredients
+- 1 round challah
+- 2 medium eggplants
+- 1/3 cup of tahini paste
+- 1 teaspoon of date syrup
+- Juice from 1 lemon
+- 2 minced garlic cloves
+- 1/2 teaspoon of flaky salt
+- 1/2 teaspoon of ground black pepper
+- 2 tablespoons of extra virgin olive oil
+- Sumac onions
+- Chopped cilantro and mint leaves
+- 4-5 slices of jalapeño pepper
+- Drizzle of olive oil and a touch of sumac.
+
+### Instructions
+1. Preheat the oven to high broil/grill.
+2. Place the eggplants on an oven-safe pan and score them a few times with a knife.
+3. Broil for about 25 minutes, flip it midway, until the skin is dark and the eggplants are soft and collapsing.
+4. Cut open the eggplants and scoop the flesh into a bowl.
+5. Add the tahini, date syrup, lemon juice, garlic, salt, black pepper, and olive oil. Mash with a fork and mix until combined.
+6. Using a sharp knife, cut off the top of the round challah. Remove some of the bread from the center to create a hollow space.
+7. Spoon the babaganoush into the challah. Garnish with chopped cilantro and mint, jalapeño slices, a drizzle of olive oil, and a sprinkle of sumac.
+
+---
+
+## 19. Festive Iraqi-Persian Crispy Rice with Beef!
+*Source: [https://www.instagram.com/p/DcL8xaau1bd/](https://www.instagram.com/p/DcL8xaau1bd/)*
+
+### Ingredients
+- 4 cups basmati rice
+- 1 lb ground beef
+- 2 tsp ground turmeric, divided
+- 1 heaping tsp baharat
+- 5-7 scallions, chopped
+- 1 bunch cilantro or parsley, chopped
+- 2 tbsp pine nuts
+- 4-5 eggs
+- 1 tsp kosher salt, plus 6 tbsp for the rice water
+- 1/2 tsp ground black pepper
+- 1/3 cup light olive oil or neutral oil, for the baking dish
+- 1 tbsp light olive oil or neutral oil, for cooking the beef
+
+### Instructions
+1. Preheat oven to 450°F. Rinse the rice and soak in water for 30-60 minutes.
+2. Heat 1 tbsp oil in a skillet over medium heat. Add beef and cook for 3 minutes. Season with 1 tsp salt, 1/2 tsp black pepper, 1 tsp turmeric, and 1 heaping tsp baharat. Cook for 3-5 minutes. Add pine nuts, scallions, and cilantro or parsley. Cook for another 3 minutes and set aside.
+3. Bring a large pot of water to a boil and add 6 tbsp salt. Drain the soaked rice, add to the boiling water, and cook for about 7 minutes, until parboiled. Drain well.
+4. Whisk the eggs with 1 tsp turmeric in a large bowl. Add the rice and gently fold until evenly coated.
+5. Add half the rice to the oiled baking dish and spread evenly. Top with the beef mixture, then the remaining rice. Cover with parchment paper and foil.
+6. Bake for 45 minutes. Reduce heat to 420°F and bake for another hour, or until the bottom is deep golden and crispy.
+7. Remove from the oven and immediately, carefully flip onto a serving platter. Cut into squares and serve hot.
+
+---
+
+## 20. Rosh Hashanah Simanim Salad!
+*Source: [https://www.instagram.com/p/DcGobDkuRzS/](https://www.instagram.com/p/DcGobDkuRzS/)*
+
+### Ingredients
+- 1 package (250g) of Israeli pearl couscous, cooked and cooled to room temperature.
+- 2 green apples, finely chopped
+- 5 Persian cucumbers, finely chopped
+- 4 dates, pitted and chopped
+- 1 jalapeño pepper, finely chopped (optional)
+- 1 small red onion, finely chopped
+- 1 bunch of finely chopped mint leaves
+- 1 bunch of finely chopped parsley
+- 1 cup of pomegranate seeds
+- 1/4 cup of extra virgin olive oil
+- Juice from 2 small lemons
+- 2 tablespoons of pomegranate molasses
+- 1 teaspoon of honey
+- 1 tablespoon of Dijon mustard
+- 2 minced garlic cloves
+- 1 teaspoon of salt
+- 1/2 teaspoon of black pepper
+- 1 teaspoon of sumac
+- Topping: handful of pomegranate seeds and chopped parsley.
+
+### Instructions
+1. Add all the salad ingredients to a salad bowl.
+2. Pour the dressing on top and mix well.
+3. Garnish with pomegranate seeds and chopped parsley.
+4. You can store it in the refrigerator up to 3-4 days.
+
+---
+
+## 21. SUMMER SHAKSHUKA!
+*Source: [https://www.instagram.com/p/DbtDqvzORrF/](https://www.instagram.com/p/DbtDqvzORrF/)*
+
+### Ingredients
+- 6 small zucchini (a mix of green and yellow), sliced into rounds
+- 2 vine tomatoes, cut into quarters
+- 1 can chickpeas (15oz/425g), drained and rinsed
+- 4-5 fresh basil leaves
+- 3 tablespoons olive oil
+- 1 tablespoon chopped fresh dill
+- 1 heaping teaspoon salt
+- 1 teaspoon lemon pepper seasoning
+- 1/2 teaspoon turmeric
+- 2 garlic cloves, minced
+- 6 organic eggs
+- 1/2 cup crumbled feta cheese
+- 1/2 teaspoon Maldon flaky sea salt
+- 1/2 teaspoon sumac
+- 1 tablespoon chopped fresh basil
+
+### Instructions
+1. Heat the olive oil in a skillet over medium heat. Add the zucchini and sauté, stirring occasionally, for about 2 minutes, until lightly golden and just beginning to soften.
+2. Add the chickpeas and tomatoes. Season with the salt, lemon pepper seasoning, turmeric, and minced garlic.
+3. Stir everything together and cook for another 5-6 minutes.
+4. Crack the eggs over the vegetables, spacing them evenly. Sprinkle the feta cheese over the top, then add the dill and basil.
+5. Season with sumac and flaky salt, cover the skillet and cook for about 5-7 minutes, or until the eggs are cooked to your liking.
+6. When it’s ready, finish with some fresh basil.
+
+---
+
+## 22. SUMMER MEDITERRANEAN CHICKEN SKILLET!
+*Source: [https://www.instagram.com/p/DbJmnOgCabX/](https://www.instagram.com/p/DbJmnOgCabX/)*
+
+### Ingredients
+- 8 to 9 thinly sliced chicken breasts, about 2.5 pounds
+- 3 tablespoons extra virgin olive oil
+- 1 teaspoon kosher salt
+- 1 teaspoon ground black pepper
+- 2 teaspoons garlic powder
+- 2 teaspoons onion powder
+- 2 teaspoons dried oregano
+- 2 teaspoons dried parsley
+- 2 tablespoons breadcrumbs
+- 1 red onion, thinly sliced
+- 3 Roma tomatoes, quartered
+- 1 can (14oz / 397g) quartered artichoke hearts, drained
+- 1/2 cup pitted Kalamata olives
+- 2 tablespoons extra virgin olive oil, for drizzling
+- 1/2 teaspoon Maldon flaky salt
+- 1 teaspoon sumac
+- Zest of 1 lemon
+
+### Instructions
+1. Preheat the oven to 450F on convection  broil or low grill.
+2. Pat the chicken dry and season with kosher salt, pepper, garlic powder, onion powder, oregano, parsley, and breadcrumbs.
+3. Toss well to coat, then let rest for 5 to 7 minutes.
+4. Heat the olive oil in a large oven-safe skillet over medium heat. Add the red onion and sauté for 1 minute.
+5. Arrange the chicken in a single layer and sear, without moving, for 1 minute.
+6. Flip the chicken, then add the tomatoes, artichoke hearts, and olives.
+7. Zest the lemon over everything. Drizzle the vegetables with extra virgin olive oil and sprinkle with flaky salt and sumac. Cook for 2 minutes.
+8. Transfer the skillet to the oven and broil for 5 to 7 minutes, until the vegetables are lightly charred and the chicken is fully cooked.
+
+---
+
+## 23. RED CABBAGE AND QUINOA SALAD!
+*Source: [https://www.instagram.com/p/Da01S9bCGj7/](https://www.instagram.com/p/Da01S9bCGj7/)*
+
+### Ingredients
+- 1 red cabbage, cut in half and thinly sliced
+- 1 red onion, cut in half and thinly sliced
+- 1/2 teaspoon flaky maldon salt
+- 4 tablespoons extra virgin olive oil
+- Handful parsley, finely chopped
+- Handful mint leaves, finely chopped
+- Handful chives, finely chopped
+- 1 cup cooked quinoa
+- 5 pitted dates, sliced
+- Handful roasted nuts, roughly chopped
+- 1 teaspoon salt
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon sumac
+- 5 tablespoons extra virgin olive oil
+- Juice of 1 large lemon
+- 1 teaspoon Dijon mustard
+- 1 teaspoon date syrup or honey
+- 2 garlic cloves, minced
+- Feta cheese or grilled salmon fish
+
+### Instructions
+1. Preheat the oven to convection broil at 450F.
+2. Place the sliced cabbage and onion on a baking pan. Season with flaky salt and olive oil.
+3. Mix well and massage with your hands until slightly softened.
+4. Spread evenly and roast for about 20 minutes, mixing a few times during roasting so the vegetables brown evenly.
+5. In a large bowl, combine the chopped herbs, quinoa, dates, and nuts.
+6. Add the roasted cabbage and onions.
+7. Season with salt, black pepper, sumac, olive oil, lemon juice, garlic, Dijon mustard and date syrup.
+8. Mix everything well and serve.
+
+---
+
+## 24. ONE PAN YELLOW CHICKEN AND RICE!
+*Source: [https://www.instagram.com/p/Daky3SxukMF/](https://www.instagram.com/p/Daky3SxukMF/)*
+
+### Ingredients
+- 2 pounds chicken cutlets, cut into strips
+- 1 onion, chopped
+- 2 carrots, shredded
+- 3 celery stalks with leaves, chopped
+- 1/4 cup extra virgin olive oil
+- 1.5 teaspoons salt
+- 1/2 teaspoon black pepper
+- 1 teaspoon turmeric
+- 1 teaspoon garlic powder
+- 1 teaspoon onion powder
+- 2 tablespoons chopped dill
+- 2 cups of basmati rice washed and drained
+- 4 cups boiling water
+- Sprinkle of Maldon salt
+- 4.5 qt, 12-inch pan
+
+### Instructions
+1. In a wide pan over medium heat, pour the olive oil. Add the onion, carrots, and celery.
+2. Add the salt, pepper, turmeric, onion powder, and garlic powder. Stir and cook for about 2 minutes.
+3. Add the sliced chicken and cook for about 3 minutes, until it gets a nice color.
+4. Add the rice and dill. Mix well until everything is coated and turns a beautiful golden color.
+5. Pour in the boiling water, stir, and cook on high heat for 5 minutes.
+6. Lower the heat, cover, and cook for 25 minutes.
+7. Garnish with Maldon salt and fluff gently with a wooden spoon.
+
+---
+
+## 25. CHILDHOOD AVOCADO & EGG SALAD!
+*Source: [https://www.instagram.com/p/DagYz4jinFd/](https://www.instagram.com/p/DagYz4jinFd/)*
+
+### Ingredients
+- 3 cucumbers, thinly sliced
+- 1 small red onion, thinly sliced
+- 1/2 jalapeño pepper, seeds removed and thinly sliced
+- 2 ripe avocados, cubed
+- A handful of fresh mint leaves, roughly chopped
+- 3 hard-boiled eggs
+- 1/2 teaspoon salt
+- 1 teaspoon ground black pepper
+- 1 teaspoon sumac
+- 4 tablespoons of extra virgin olive oil
+- Juice of 1 lemon
+- Chopped fresh mint
+
+### Instructions
+1. In a nice salad bowl, add the sliced cucumbers, red onion, jalapeño, avocado, and mint leaves.
+2. Shred the hard-boiled eggs on top.
+3. Season with salt, black pepper, sumac, lemon juice, and olive oil. Mix everything gently and garnish with some chopped mint leaves.
+
+---
+
+## 26. EGG NOODLE AND BEEF TAHDIG!
+*Source: [https://www.instagram.com/p/DaQ4NgXCdbz/](https://www.instagram.com/p/DaQ4NgXCdbz/)*
+
+### Ingredients
+- 1 pound of ground beef (450 grams)
+- 12 oz fine egg noodles (340g)
+- 1 onion, finely chopped
+- 1/4 cup of extra virgin olive oil
+- 1/2 tablespoon of salt
+- 1/2 teaspoon of black pepper
+- 1 teaspoon of paprika
+- 1/2 teaspoon of cumin
+- 3 tablespoons of tomato paste
+- 2 garlic cloves, minced
+- 1 tablespoon of date syrup (silan)
+- 2.5 cups of boiling water
+- Garnish with: 1/2 teaspoon of flaky maldon salt
+
+### Instructions
+1. In a wide nonstick pot (12 inch), on medium heat add olive oil and the chopped onion. Season with salt, black pepper and paprika. Stir and sauté for 1-2 minutes.
+2. Add the ground beef and using a wooden spoon break it up.
+3. Add the tomato paste, minced garlic, and date syrup. Mix it together and cook it for 1-2 minutes.
+4. Add the egg noodles directly on top of the beef and mix gently.
+5. Add the boiling water - just enough to almost cover the noodles.
+6. Cover and cook on low for about 35 minutes until the noodles absorb the water and soften.
+7. Uncover the pan and cook it on high for 5-7 minutes to get a nice crust.
+8. Let it rest 5 minutes, then flip it on a large plate. Sprinkle some flaky maldon salt on top.
+
+---
+
+## 27. JUICY HOMEMADE SHAWARMA!
+*Source: [https://www.instagram.com/p/DaBnzveCLYV/](https://www.instagram.com/p/DaBnzveCLYV/)*
+
+### Ingredients
+- 3 pounds of chicken thighs
+- 1 large onion, sliced to 3 thick pieces
+- 1.5 teaspoons of salt
+- 1/2 teaspoon of black pepper
+- 1.5 heaping Tablespoon of shawarma spice
+- 1/2 heaping teaspoon of curry powder
+- 1 heaping teaspoon of sumac
+- 1 teaspoon of ground cardamom
+- 1/4 cup of olive oil
+- Before baking: Drizzle of olive oil, 1/4 teaspoon of maldon salt.
+
+### Instructions
+1. Preheat the oven to 430F/220C.
+2. Put the chicken thighs in a bowl add all the seasonings. Mix it all well together.
+3. In a 10-inch Brazilian Spit Stand, begin stacking with one piece of onion, followed by 4–5 chicken thighs. Add the second onion slice, continue layering the chicken, and finish with the last piece of onion on top.
+4. Drizzle on top with a little more olive oil and sprinkle with Maldon salt.
+5. Bake at 430F (220C) for 50 minutes, brushing the chicken occasionally with the oil collected at the bottom.
+6. Transfer the oven to convection broil at 450F and broil the shawarma for 5–7 minutes, until it develops a beautiful golden-brown color.
+7. Once done, slice the chicken shawarma and serve in a pita bread with tahini, amba, and fresh herbs.
+
+---
+
+## 28. ROASTED LEMONY CAULIFLOWER AND CHICKPEAS!
+*Source: [https://www.instagram.com/p/DZuu9hKOMlZ/](https://www.instagram.com/p/DZuu9hKOMlZ/)*
+
+### Ingredients
+- 1 cauliflower, leaves still attached
+- 2 tablespoons olive oil
+- 1 teaspoon flaky sea salt / kosher salt
+- A few turns of freshly ground black pepper
+- 1 lemon, half thinly sliced, seeds removed
+- 6 garlic cloves, peeled and halved
+- 1 tablespoon ras el hanout spice mix
+- 1 can of cooked chickpeas / garbanzo beans, drained 15.5oz (439g)
+- 1 small bunch parsley, roughly chopped
+- A touch of sumac spice
+
+### Instructions
+1. Preheat the oven to 475°F / 250°C.
+2. Cut the cauliflower into eight wedges through the stem, leaving the tender inner leaves attached. Remove any thick, fibrous leaves. Spread the wedges out in a large roasting pan and drizzle with olive oil, salt, and pepper.
+3. Roast half way for 14 minutes.
+4. Remove the roasting pan from the oven. Flip the cauliflower wedges over and add the thin lemon slices, halved garlic cloves, chickpeas and ras el hanout. Return to the oven for another 14 minutes, so the cauliflower can color on the other side.
+5. Remove from the oven, then sprinkle with chopped parsley, drizzled tahini sauce all over and add a touch of sumac.
+
+---
+
+## 29. TAHINI SUMAC SAUCE!
+*Source: [https://www.instagram.com/p/DZp7nFJiwBE/](https://www.instagram.com/p/DZp7nFJiwBE/)*
+
+### Ingredients
+- 1/2 cup tahini paste
+- 1/4 teaspoon salt
+- 1 heaping teaspoon of sumac
+- Juice of 1/2 lemon
+- 1/3 cup ice-cold water, plus more if needed
+- 1 large garlic clove, minced
+
+### Instructions
+1. Pour the tahini paste into a bowl. Add the lemon juice, minced garlic, salt, sumac, and stir well.
+2. Gradually add the ice-cold water, starting with half, and mix until smooth. Continue adding the rest of the water until you reach your desired thickness.
+3. If the dressing is too thick, add a little more water. If it becomes too thin, add a little more tahini paste.
+4. Sprinkle sumac on top.
+
+---
+
+## 30. BAKED IRAQI CHICKEN ARUK!
+*Source: [https://www.instagram.com/p/DZpkoXqOf6B/](https://www.instagram.com/p/DZpkoXqOf6B/)*
+
+### Ingredients
+- 3 yellow gold potatoes, peeled and cooked (you can microwave them for 10 minutes)
+- 2 pounds of ground chicken breast
+- Handful of finely chopped parsley
+- Handful of finely chopped dill
+- 2 green onions, chopped including the green part
+- 1 teaspoon of salt
+- 1/2 teaspoon of black pepper
+- 1/2 teaspoon of turmeric
+- 1 teaspoon of baharat spice
+- 1 teaspoon of garlic powder
+- 1 teaspoon of onion powder
+- 1 egg
+- 3 tablespoons of olive oil
+- 1/4 cup of all purpose flour
+- 1 teaspoon of baking powder
+- For the oven: Avocado oil spray
+
+### Instructions
+1. Preheat the oven to 420F / 220C.
+2. Put the cooked potatoes in a bowl.
+3. Using a potato masher, roughly mash the potatoes so it’s still chunky. Let the potatoes cool for 5 minutes.
+4. Add the rest of the ingredients and mix it all well.
+5. Take a baking pan with parchment paper and spray avocado oil on it.
+6. With wet hands make patties from the mixture and place them on the baking pan.
+7. Spray avocado oil generously on top and bake in a preheated oven on 420F for 30 minutes. Then transfer to convection broil on 450F for 7-8 minutes to get a nice golden color.
+
+---
+
+## 31. FLUFFY EGG BITES!
+*Source: [https://www.instagram.com/p/DZk6hLTivvg/](https://www.instagram.com/p/DZk6hLTivvg/)*
+
+### Ingredients
+- 8 organic large eggs
+- 1 package of cottage cheese 5 oz (142g)
+- 1 cup shredded mozzarella
+- 1 teaspoon salt
+- 1 teaspoon ground black pepper
+- 1 teaspoon garlic powder
+- 3 chopped scallions
+- 1 large zucchini, shredded. Use a cheesecloth to squeeze out and remove as much liquid as possible.
+- 1 tablespoon fresh chopped dill
+- 1 tablespoon extra virgin olive oil
+- Sesame seeds and Zaatar
+
+### Instructions
+1. Preheat the oven to 375°F / 190°C.
+2. In a bowl, blend the eggs, cottage cheese, mozzarella, shredded zucchini, salt, pepper, garlic powder, scallions, dill, and olive oil until smooth.
+3. Pour the mixture into a greased muffin tin.
+4. Sprinkle sesame seeds and Zaatar on top.
+5. Bake at 375°F / 190°C for 18-20 minutes, or until just set.
+6. Let them cool for a few minutes before removing.
+
+---
+
+## 32. LEMONY GREEN BEAN & POTATO SALAD!
+*Source: [https://www.instagram.com/p/DZXsHlsCpVf/](https://www.instagram.com/p/DZXsHlsCpVf/)*
+
+### Ingredients
+- 1 package trimmed green beans, 32 oz (907g)
+- 10 small gold potatoes, peeled and quartered
+- 1 teaspoon salt
+- Water, enough to cover
+- 1 shallot, peeled and quartered
+- 2 green onions, quartered
+- Handful of fresh dill
+- Handful of fresh cilantro
+- 1 teaspoon salt
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon Dijon mustard
+- 1 tablespoon white vinegar
+- 1 teaspoon honey or maple syrup
+- Juice of 1 large lemon
+- 2 tablespoons capers
+- Zest of 1 lemon
+- 5 tablespoons extra virgin olive oil
+
+### Instructions
+1. In a large pot, add the green beans, potatoes, and salt. Fill with enough water to cover.
+2. Cover with a lid and cook over medium heat for about 25 minutes, or until the potatoes are soft.
+3. Drain and transfer the cooked potatoes and green beans to a large salad bowl.
+4. Add the capers and lemon zest, then pour the green dressing on top.
+5. Drizzle with olive oil and mix gently.
+
+---
+
+## 33. SUMMER TOMATO WHITE BEAN SALAD!
+*Source: [https://www.instagram.com/p/DZNTQXwOAlm/](https://www.instagram.com/p/DZNTQXwOAlm/)*
+
+### Ingredients
+- 3 Roma tomatoes, sliced lengthwise and then quartered
+- 6 Campari tomatoes, quartered
+- 1 yellow heirloom tomato, halved and cut into chunks
+- 1 shallot, thinly sliced
+- 1/2 jalapeño pepper, thinly sliced
+- Handful of fresh dill, roughly chopped
+- 1 can cannellini or white beans, rinsed and drained, 13.4 oz (380 g)
+- 1 teaspoon flaky Maldon salt
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon dried oregano
+- 1 garlic clove, minced
+- Splash of white vinegar
+- 4 tablespoons extra virgin olive oil
+- Juice of 1 lemon
+
+### Instructions
+1. In a salad bowl, add the tomatoes, shallot, jalapeño, dill, and white beans.
+2. Season with flaky Maldon salt, black pepper, dried oregano, minced garlic, white vinegar, olive oil, and lemon juice.
+3. Gently mix everything together.
+
+---
+
+## 34. LEMONY CHICKEN AND ORZO!
+*Source: [https://www.instagram.com/p/DZKveNpOTYW/](https://www.instagram.com/p/DZKveNpOTYW/)*
+
+### Ingredients
+- 8 bone-in, skinless chicken thighs
+- 1 onion, chopped
+- 3 tablespoons olive oil
+- 1 teaspoon salt
+- 1 teaspoon turmeric
+- 1/2 teaspoon black pepper
+- 1 teaspoon onion powder
+- 1 teaspoon garlic powder
+- 1 package orzo, 16 oz (454g)
+- Zest of 1 lemon
+- 3.5 cups boiling water
+- 1/2 teaspoon salt
+- 1/2 teaspoon turmeric
+- 2 tablespoons olive oil
+- 1 tablespoon sweet chili sauce
+- 1 tablespoon chopped fresh basil
+- Juice of 1/2 lemon
+- 4.5 qt, 11.8-inch (4.3 liters, 30 cm)
+
+### Instructions
+1. In a wide pan over medium heat, add the olive oil, salt, pepper, turmeric, garlic powder, and onion powder. Mix for a few seconds to open up the spices.
+2. Add the chopped onion and sauté for 1-2 minutes, until lightly golden.
+3. Add the chicken thighs on top and sear them on both sides for at least 5 minutes, until they get a nice color.
+4. Spread the orzo around and on top of the chicken thighs.
+5. Add the lemon zest, then pour the sauce over the chicken and orzo.
+6. Cover with a lid and cook on low heat for 35-40 minutes, until the chicken is fully cooked and the orzo is tender.
+7. Garnish with fresh basil and squeeze of lemon juice.
+
+---
+
+## 35. CRUNCHY RED CABBAGE SALAD!
+*Source: [https://www.instagram.com/p/DZDknjJCGSG/](https://www.instagram.com/p/DZDknjJCGSG/)*
+
+### Ingredients
+- 1 small red cabbage, halved and thinly sliced
+- 1 raw beet, peeled and cut into juliennes
+- 1 shallot, finely chopped
+- Handful of cilantro, finely chopped
+- Handful of mint leaves, finely chopped
+- 1 can chickpeas, rinsed and drained, 15.5 oz (439g)
+- 1/4 cup pumpkin seeds
+- 1 teaspoon salt
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon sumac
+- Juice of 1 lemon
+- 2 garlic cloves, minced
+- 1 teaspoon of honey
+- 1 tablespoon white vinegar
+- 4 tablespoons extra virgin olive oil
+
+### Instructions
+1. In a large salad bowl, add the sliced cabbage, beet, shallot, and fresh herbs.
+2. Add all the seasoning ingredients and mix well with your hands, gently squeezing the vegetables as you mix. This will help soften them and bring out their flavor.
+3. Add the chickpeas and pumpkin seeds, then mix gently.
+
+---
+
+## 36. My Favorite Shabbat Dinner- IRAQI TBEET!
+*Source: [https://www.instagram.com/p/DY7aoZcilHA/](https://www.instagram.com/p/DY7aoZcilHA/)*
+
+### Ingredients
+- 7-8 pieces of chicken thighs
+- 2 cups of basmati rice, washed and drained
+- 1 red onion, sliced
+- 3 Roma tomatoes, sliced
+- 2 tablespoons of olive oil
+- 1/2 teaspoon of Maldon salt (flaky salt)
+- 1.5 teaspoons of salt
+- 1/2 teaspoon of black pepper
+- 2 teaspoons of Baharat spice
+- 1 teaspoon of paprika
+- 3 tablespoons of tomato paste
+- 3 minced garlic cloves
+- 1/3 cup of olive oil
+- 1 tablespoon of date syrup
+- 4 cups of boiling water
+
+### Instructions
+1. Preheat the oven to 400F / 200C.
+2. In an oven safe pan drizzle olive oil and flaky salt. Add the tomatoes and onion in one layer.
+3. Pour the rice evenly around and place the chicken thighs on top.
+4. Pour the red sauce gently over the rice and chicken.
+5. Cover the pan with wet parchment paper and cover with aluminum foil on top of it.
+6. Bake it in a preheated oven on 400F for 1 hour.
+7. Remove the parchment paper and aluminum foil.
+8. Transfer to the broil for 5-7 minutes to get a golden brown color.
+
+---
+
+## 37. SUMMER LIME CHICKEN DINNER!
+*Source: [https://www.instagram.com/p/DY2xLalixbP/](https://www.instagram.com/p/DY2xLalixbP/)*
+
+### Ingredients
+- 2.5 pounds chicken breast, cut into cubes
+- 2 zucchini, thinly sliced with a mandoline
+- 1 red onion, thinly sliced with a mandoline
+- 1 mango, thinly sliced with a mandoline
+- Kernels from 2 ears of corn
+- 2 garlic cloves, minced
+- Zest of 1 lime
+- Juice of 1 lime
+- 1 teaspoon salt
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon oregano
+- 1 teaspoon dried parsley
+- 1 teaspoon onion powder
+- 1 teaspoon garlic powder
+- 1 teaspoon sumac
+- 1/2 teaspoon curry powder
+- 1 teaspoon rosemary leaves
+- 1 tablespoon hot honey Dijon mustard
+- 4 tablespoons extra virgin olive oil
+- 1 Roma tomato, finely chopped
+- 2 tablespoons finely chopped parsley
+- 1 teaspoon flaky Maldon salt
+- Juice of 1/2 lime
+- 1-2 tablespoons olive oil, for drizzling
+
+### Instructions
+1. Preheat the oven to 420°F / 220°C. Line a baking sheet with parchment paper.
+2. Add the chicken cubes, zucchini, red onion, mango, corn kernels, minced garlic, lime zest, lime juice, spices, hot honey Dijon mustard, and olive oil directly onto the sheet pan. Mix everything well until fully coated, then spread it out evenly in one layer.
+3. Bake at 420°F / 220°C for 25 minutes.
+4. Then switch the oven to convection broil at 450°F and broil for 7-8 minutes, until the chicken and vegetables get a beautiful golden color.
+5. Garnish with chopped tomato, parsley, flaky Maldon salt, fresh lime juice, and a drizzle of olive oil.
+
+---
+
+## 38. FESTIVE ONE PAN SALMON & VEGGIES!
+*Source: [https://www.instagram.com/p/DYPiS7VOW-u/](https://www.instagram.com/p/DYPiS7VOW-u/)*
+
+### Ingredients
+- 1 large skin-on salmon fillet, (about 3 pounds)
+- 2 zucchini, cut into strips
+- 1 yellow bell pepper, cut into strips
+- 1 red onion, sliced into quarters
+- 1 can artichoke hearts, drained, 14 oz / 397 g
+- Juice of 1 lemon
+- 4 tablespoons extra virgin olive oil
+- 2 garlic cloves, grated
+- 1 teaspoon kosher salt
+- 1 teaspoon paprika
+- 1/2 teaspoon smoked paprika
+- 1 teaspoon sumac
+- 1 teaspoon onion powder
+- 1 tablespoon Dijon mustard
+- 1 teaspoon honey
+- 1/2 teaspoon Maldon flaky salt
+
+### Instructions
+1. Preheat the oven to 420°F / 220°C.
+2. Place the salmon on a baking pan lined with parchment paper. Arrange all the vegetables around the fish.
+3. In a bowl, mix all the dressing ingredients until well combined. Pour the dressing over the salmon and vegetables, then spread it evenly.
+4. Sprinkle Maldon salt on top of the fish and vegetables.
+5. Bake at 420°F / 220°C for 25 minutes. Then switch the oven to convection broil at 450°F / 230°C for 5-7 minutes, until beautifully golden.
+
+---
+
+## 39. CHICKEN SHAWARMA TRAY BAKE!
+*Source: [https://www.instagram.com/p/DYCnIaWu242/](https://www.instagram.com/p/DYCnIaWu242/)*
+
+### Ingredients
+- 3 pounds of chicken tenderloin pieces
+- 1 large sweet onion, sliced
+- 8-10 Campari tomatoes, halved
+- 2 minced garlic cloves
+- 1.5 teaspoon of salt
+- 1 teaspoon of black pepper
+- 1 teaspoon of onion powder
+- 1 tablespoon of Shawarma spice blend
+- 1 teaspoon of sumac
+- 1 teaspoon of curry powder
+- 6 tablespoons of olive oil
+- 1 tablespoon of date syrup
+- 1 tablespoon of pomegranate molasses
+- Garnish: A drizzle of tahini dressing, Amba sauce, and a handful of chopped parsley.
+
+### Instructions
+1. Preheat the oven to 420F / 220C.
+2. Line a baking sheet pan with parchment paper. Add the chicken tenderloins, sliced onion, tomatoes, garlic, and all the remaining ingredients. Mix everything together until well coated, then spread evenly on the pan.
+3. Bake it in the oven on 420F for 30 minutes.
+4. Transfer the oven to convection broil on 450F for 7-8 minutes for a nice golden color.
+5. Garnish with a drizzle of tahini dressing, Amba sauce, and chopped parsley.
+
+---
+
+## 40. SAVORY CORN CASSEROLE!
+*Source: [https://www.instagram.com/p/DX9aw_cuO9F/](https://www.instagram.com/p/DX9aw_cuO9F/)*
+
+### Ingredients
+- 3 ears of corn, kernels removed, about 2 cups
+- 3 green onions, chopped
+- 8 basil leaves, chopped
+- 3 eggs
+- 1.5 cups shredded mozzarella
+- 227 grams (8oz) feta cheese, crumbled
+- 1 cup cottage cheese
+- 1 teaspoon salt
+- 1/2 teaspoon black pepper
+- 1 teaspoon garlic powder
+- 1/4 cup olive oil
+- 3/4 cup water
+- 1 cup all-purpose flour
+- 1 teaspoon baking powder
+- 1 tablespoon breadcrumbs (for coating the pan)
+- 1 shallot, thinly sliced
+- 1 tablespoon sesame seeds
+
+### Instructions
+1. Preheat the oven to 400°F.
+2. In a large mixing bowl, add the corn kernels, green onions, basil, eggs, mozzarella, feta, cottage cheese, salt, black pepper, garlic powder, olive oil, and water. Mix everything together until well combined.
+3. Add the flour and baking powder, and mix again until fully combined.
+4. Spray a ceramic oval baking dish (11 inch) with avocado oil. Sprinkle the breadcrumbs on the bottom of the dish, then pour in the corn mixture and spread it evenly.
+5. Top with the thinly sliced shallot and sesame seeds. Spray the top with a little avocado oil.
+6. Bake for 35-40 minutes, until golden and set.
+
+---
+
+## 41. ONE-PAN TURMERIC CHICKEN, CAULIFLOWER & RICE!
+*Source: [https://www.instagram.com/p/DXxHA_QC2qe/](https://www.instagram.com/p/DXxHA_QC2qe/)*
+
+### Ingredients
+- 8 chicken thighs, bone-in and skin-off
+- 6 tablespoons olive oil
+- 1 large sweet onion, sliced
+- 1 teaspoon salt
+- 1/2 teaspoon black pepper
+- 1 teaspoon turmeric
+- 1 teaspoon garlic powder
+- 2 cups basmati rice, washed and drained
+- 1 small cauliflower head, cut into small florets
+- 4 cups boiling water
+- 5 tablespoons extra virgin olive oil
+- 1 teaspoon salt
+- 1 teaspoon turmeric
+- 1 teaspoon dried dill
+
+### Instructions
+1. In a wide pan over medium heat, pour the olive oil. Add the sliced onion, salt, pepper, turmeric, and garlic powder. Sauté for 1-2 minutes, until the onion gets a nice golden color.
+2. Add the chicken pieces face down and brown them on both sides for 4-5 minutes, until golden.
+3. Spread the rice over the chicken, then add the cauliflower florets on top.
+4. Pour the sauce over everything and make sure the rice is covered.
+5. Cover with a lid and cook on medium heat for 5 minutes, then reduce to low heat and cook for 45-50 minutes.
+
+---
+
+## 42. A Creamy Fennel and Cucumber Salad!
+*Source: [https://www.instagram.com/p/DXuz2oFgkmK/](https://www.instagram.com/p/DXuz2oFgkmK/)*
+
+### Ingredients
+- 4 Persian cucumbers, thinly sliced with a mandoline
+- 1 red onion, thinly sliced with a mandoline
+- 2 fennel bulbs, thinly sliced with a mandoline
+- 5 radishes, thinly sliced with a mandoline
+- Handful of fresh mint leaves and the fennel leaves
+- 1/2 jalapeño pepper, thinly sliced with a mandoline, avoid the seeds
+- 1 teaspoon salt
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon sumac
+- 1 garlic clove, grated
+- 5 tablespoons olive oil
+- Juice of 1 lemon
+- 5 tablespoons plain yogurt
+- Fresh chopped mint
+- Fennel fronds
+- A touch of sumac
+- A drizzle of olive oil
+
+### Instructions
+1. Place the sliced cucumbers, red onion, fennel, radishes, mint leaves, and jalapeño in a large salad bowl.
+2. Season with salt, black pepper, sumac, grated garlic, olive oil, and lemon juice. Mix well until everything is coated.
+3. Spread the plain yogurt on a nice round or oval serving plate. Place the salad on top of the yogurt.
+4. Garnish with chopped mint, fennel fronds, a touch of sumac, and a drizzle of olive oil.
+
+---
+
+## 43. My Favorite Eggplant Salad!
+*Source: [https://www.instagram.com/p/DXUWvGbDtp9/](https://www.instagram.com/p/DXUWvGbDtp9/)*
+
+### Ingredients
+- 1 eggplant, partially peeled and cut into thick slices
+- 1/2 teaspoon Maldon salt
+- Olive oil
+- Handful of parsley
+- Handful of cilantro
+- Handful of mint leaves
+- 2 garlic cloves
+- 1 jalapeño pepper, seeds removed
+- Juice from 1 lemon
+- 1/2 teaspoon of honey
+- 3 tablespoons olive oil
+- 1 teaspoon Maldon salt
+- 1 teaspoon of white vinegar
+- Touch of sumac
+
+### Instructions
+1. Place the eggplant slices on a baking sheet and season with salt. Drizzle olive oil generously.
+2. Roast in a preheated oven on broil/grill at 450F / 230C for about 8-10 minutes, until golden brown on one side.
+3. Arrange the eggplant on a nice round plate. Using a tablespoon, drizzle the green sauce on top of every eggplant.
+4. Garnish with a touch of sumac.
+
+---
+
+## 44. CUCUMBER & CANNELLINI BEANS SALAD!
+*Source: [https://www.instagram.com/p/DXHsF2lAvXg/](https://www.instagram.com/p/DXHsF2lAvXg/)*
+
+### Ingredients
+- 4 cucumbers, finely chopped
+- 1 green bell pepper, finely chopped
+- Handful of sugar snap peas, chopped with the ends removed
+- 1 shallot, finely chopped
+- Handful of dill leaves, finely chopped
+- Handful of mint leaves, finely chopped
+- 1 can cannellini or white beans, washed and drained, 13.4 oz (380 g)
+- 1 teaspoon Maldon salt
+- 1/2 teaspoon ground black pepper
+- Juice of 1 lemon
+- 1 teaspoon dried oregano
+- 2 garlic cloves, minced
+- 1/2 teaspoon old-style whole grain mustard
+- 1/2 teaspoon honey or maple syrup
+- Splash of white vinegar
+- 3 tablespoons extra virgin olive oil
+- A touch of sumac
+
+### Instructions
+1. In a medium size salad bowl, add all the chopped vegetables, herbs, and beans.
+2. Add all the seasoning ingredients and mix gently until everything is well combined.
+3. Garnish with a touch of sumac.
+
+---
+
+## 45. SHEETPAN AMBA GLAZED FISH w/SNOW PEAS!
+*Source: [https://www.instagram.com/p/DXC4uqBgotP/](https://www.instagram.com/p/DXC4uqBgotP/)*
+
+### Ingredients
+- 1 pound snow peas, threaded (or trimmed green beans, left whole)
+- 5 tablespoons olive oil
+- 1/2 teaspoon kosher salt, plus more to taste
+- Freshly ground black pepper
+- 2 tablespoons Amba (page 000 or store-bought)
+- 3 tablespoons finely chopped cilantro, plus more for garnish
+- 2 tablespoons light brown sugar or Silan- date syrup
+- Four 6-ounce skin-on whitefish fillets (such as sea bass or sole), patted dry
+- Lemon wedges, for serving (optional)
+
+### Instructions
+1. Arrange a rack in the top third of the oven; preheat to 425°F. Line a large baking sheet with parchment paper.
+2. Arrange the peas on the prepared baking sheet, drizzle with 2 tablespoons of the olive oil, season with 1/4 teaspoon of the salt and pepper to taste, and toss to coat. In a small bowl, whisk the amba, cilantro, brown sugar, remaining 3 tablespoons olive oil, and remaining 1/4 teaspoon salt.
+3. Season the fish with salt and pepper, nestle it among the peas, and brush about 1 tablespoon of the amba mixture on each fillet. Place the fish on the top rack and roast until the fish is almost cooked, 4 to 5 minutes.
+4. Remove from the oven, preheat the broiler, return to the oven, and broil until the glaze darkens slightly and begins to bubble and the peas are crisp-tender, 2 to 3 minutes.
+5. Serve the fish with the peas; garnish with cilantro and serve with lemon wedges.
+
+---
+
+## 46. BEEF TBEET!
+*Source: [https://www.instagram.com/p/DWj229KAgfQ/](https://www.instagram.com/p/DWj229KAgfQ/)*
+
+### Ingredients
+- 1/4 cup olive oil
+- 1 teaspoon salt for the pot
+- 1/2 teaspoon black pepper
+- 1 teaspoon paprika
+- 1 teaspoon garlic powder
+- 1 shallot, sliced
+- 3 Roma tomatoes, sliced
+- 2 pounds ground beef (90/10)
+- 2 heaping teaspoons baharat spice
+- 3 tablespoons tomato paste
+- 1/2 cup tomato sauce
+- 1 tablespoon date syrup
+- 2 cups basmati rice, washed and drained
+- 1/2 teaspoon salt for the meat
+- 3.5 cups boiling water
+- Chopped parsley or cilantro
+- Slivered almonds
+
+### Instructions
+1. In a large wide pot over medium heat, add the olive oil. Add the salt, black pepper, paprika, and garlic powder. Mix for 30 seconds to open up the spices.
+2. Add the shallot and tomatoes in one layer and let them fry for 1 to 2 minutes.
+3. Stir, then add the ground beef. Use a wooden spoon to break up the beef.
+4. Stir occasionally and cook for 7 to 8 minutes, until the beef is almost fully cooked.
+5. Add the tomato paste, tomato sauce, date syrup, baharat, basmati rice, and salt. Mix everything together.
+6. Pour in the boiling water, stir gently, and cover with a lid. Let it cook over medium heat for 5 minutes, then reduce the heat to low and cook for 40 minutes.
+7. Garnish with chopped parsley or cilantro and slivered almonds.
+
+---
+
+## 47. SPRING FENNEL AND CITRUS SALAD!
+*Source: [https://www.instagram.com/p/DWXN28Ggp1C/](https://www.instagram.com/p/DWXN28Ggp1C/)*
+
+### Ingredients
+- 1 English cucumber, thinly sliced using a mandoline
+- 1 shallot, thinly sliced using a mandoline
+- 1/2 jalapeño pepper, thinly sliced using a mandoline
+- 1 fennel bulb, thinly sliced using a mandoline, including some of the fronds
+- A handful of mint and parsley leaves, chopped
+- 1 ripe avocado, cut into cubes
+- 1 blood orange, cut into segments
+- 1 teaspoon Maldon flaky salt
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon sumac
+- Juice of 1 lemon
+- 2 tablespoons extra virgin olive oil
+
+### Instructions
+1. Add the cucumber, fennel, shallot, jalapeño, chopped mint and parsley, avocado, and blood orange to a salad bowl.
+2. Season with the salt, pepper, and sumac.
+3. Add the lemon juice and olive oil, then gently toss to coat.
+
+---
+
+## 48. FESTIVE CHICKEN, CARROTS AND LEEKS!
+*Source: [https://www.instagram.com/p/DWSDNjvgmUt/](https://www.instagram.com/p/DWSDNjvgmUt/)*
+
+### Ingredients
+- 8-10 chicken thighs, bone-in and skinless
+- 3 tablespoons olive oil.
+- 1 sweet onion, cut to halves and sliced
+- 1 teaspoon salt
+- 1/2 teaspoon black pepper
+- 1 teaspoon paprika
+- 7-8 whole carrots, peeled
+- 2 leeks, cut to slices (without the green part)
+- 4 whole garlic cloves, peeled
+- 2 tablespoons olive oil
+- 1 teaspoon salt
+- 2 tablespoons tomato paste
+- 1 tablespoon date syrup
+- 1 tablespoon Ras el Hanut
+- 1/2 cup water
+- Garnish: fresh chopped parsley and slivered almonds
+
+### Instructions
+1. On a skillet pan on medium heat, pour the olive oil. Add the onion, salt, pepper, and paprika.
+2. Fry and mix for 1-2 minutes until the onion gets a clear color.
+3. Add the chicken thighs on top. Fry them from both sides, around 3-4 minutes each side, to get a nice color.
+4. Add the carrots, leeks, and garlic cloves on top of the chicken.
+5. Using a tablespoon, pour the sauce on top of the chicken thighs, carrots, and leeks.
+6. Cover with a lid and cook it on medium heat for 5 minutes. Then cook on low heat for 45-60 minutes.
+7. Garnish with chopped parsley and slivered almonds.
+
+---
+
+## 49. PASSOVER CABBAGE AND QUINOA SALAD!
+*Source: [https://www.instagram.com/p/DV9blSKAk94/](https://www.instagram.com/p/DV9blSKAk94/)*
+
+### Ingredients
+- 1 green cabbage, cut in half and thinly sliced
+- 1 sweet large onion, cut in half and thinly sliced
+- 2 cups precooked quinoa
+- 1 teaspoon flaky maldon salt
+- 1/2 teaspoon ground black pepper
+- 4 tablespoons extra virgin olive oil
+- Handful parsley, finely chopped
+- Handful mint leaves, finely chopped
+- Handful dill leaves, finely chopped
+- 4 cucumbers, diced
+- 3 scallions, chopped
+- 8 pitted dates, chopped
+- Handful roasted nuts, roughly chopped
+- 1 teaspoon flaky salt
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon sumac
+- 2 tablespoons extra virgin olive oil
+- Juice of 1 large lemon
+- 2 garlic cloves, minced
+- 1 teaspoon honey or date syrup
+
+### Instructions
+1. Preheat the oven to convection broil at 450F.
+2. Place the sliced cabbage, onion, and quinoa on a baking pan. Season with flaky salt, black pepper, and olive oil.
+3. Mix well and massage with your hands until slightly softened.
+4. Spread evenly and roast for about 20 minutes, mixing a few times during roasting so the vegetables brown evenly.
+5. In a large salad bowl, place the chopped herbs, cucumbers, scallions, dates, and nuts.
+6. Let the roasted cabbage, onion, and quinoa cool slightly, then add them to the bowl.
+7. Season with salt, black pepper, sumac, olive oil, lemon juice, garlic, and honey.
+8. Mix everything well and serve.
+
+---
+
+## 50. ONE-PAN COMFORT MEATBALLS!
+*Source: [https://www.instagram.com/p/DVd2T5MjL3a/](https://www.instagram.com/p/DVd2T5MjL3a/)*
+
+### Ingredients
+- 2 pounds ground beef
+- 1 small onion, finely chopped
+- 1 large potato, grated
+- A handful of cilantro, finely chopped
+- A handful of celery leaves, finely chopped
+- 1 egg
+- 1 teaspoon salt
+- 1/2 teaspoon black pepper
+- 1 teaspoon sweet paprika
+- 1 tablespoon ras el hanout
+- 1/4 cup extra virgin olive oil
+- 1 onion, sliced
+- 4 carrots, peeled and sliced
+- 1/2 teaspoon salt
+- 1/2 teaspoon sweet paprika
+- 2 tablespoons tomato paste
+- 2 tablespoons soy sauce
+- 1 tablespoon sweet chili sauce
+- 4 garlic cloves, thinly sliced
+- 1 tablespoon extra virgin olive oil
+- 1/2 cup water
+- 1 tablespoon chopped celery leaves
+
+### Instructions
+1. In a large bowl, combine all the meatball ingredients and mix until fully combined.
+2. In a 12.5-inch pan, heat the olive oil over medium heat. Add the sliced onion and carrots. Season with salt and paprika. Cook, stirring occasionally, for 5 minutes.
+3. Form small meatballs and place them on top of the onions and carrots. Let them sear for 5 minutes.
+4. In a small bowl, mix all the tomato sauce ingredients. Spoon the sauce over the meatballs. Gently shake the pan side to side to spread the sauce evenly.
+5. Lower the heat to low, cover, and cook for 40-45 minutes.
+6. Garnish with chopped celery leaves and serve with rice.
+
+---
+
+## 51. CELERY AND ARUGULA SALAD!
+*Source: [https://www.instagram.com/p/DVZKqGbDSVn/](https://www.instagram.com/p/DVZKqGbDSVn/)*
+
+### Ingredients
+- 1 package (5oz/142g) baby arugula, finely chopped
+- 5 celery stalks with the leaves, finely chopped
+- 4 Persian cucumbers, finely chopped
+- 1 small red onion, finely chopped
+- Handful of fresh dill, finely chopped (or any fresh herbs you like)
+- 10 prunes, chopped
+- Handful of candied pecans, chopped
+- 1 teaspoon kosher salt
+- 1/2 teaspoon ground black pepper
+- 1 teaspoon sumac
+- 2 garlic cloves, minced
+- 2 tablespoons white wine vinegar
+- Juice of 1 large lemon
+- 4 tablespoons extra-virgin olive oil
+
+### Instructions
+1. In a large salad bowl, combine the chopped arugula, celery, cucumbers, red onion, dill, prunes, and candied pecans.
+2. Add the seasoning ingredients and mix well.
+
+---
+
+## 52. KADUREI SHOKOLAD- CHOCOLATE BALLS
+*Source: [https://www.instagram.com/p/DVEMTJ2Dpyy/](https://www.instagram.com/p/DVEMTJ2Dpyy/)*
+
+### Ingredients
+- 3/4 cup of heavy whipping cream
+- 2 tablespoons of unsalted butter
+- 1 package (9oz/255g) of semi sweet mini chocolate chips
+- 1 package (8.8oz/250g) of Petit Beurre biscuits (you can use any sweet biscuits you like)
+- 2 cups of shredded unsweetened coconut
+
+### Instructions
+1. Place the heavy cream and butter in a microwave-safe bowl and heat until steaming, about 1 minute.
+2. Place the biscuits in a large ziplock bag and use a rolling pin to crush them into crumbs.
+3. Add the mini chocolate chips to the warm cream and melted butter and stir until smooth and glossy.
+4. Transfer the biscuit crumbs to a large bowl, pour the chocolate mixture on top, and mix until fully combined.
+5. Freeze for 5 to 10 minutes.
+6. Scoop tablespoon-size portions and roll into small balls.
+7. Coat the balls with the shredded coconut and place on a tray. Freeze for 10 minutes.
+8. Transfer to a nice serving plate.
+
+---
+
+## 53. ONE-PAN BEEF, CORN AND PTITIM!
 *Source: [https://www.instagram.com/p/DU51F3bjrYv/](https://www.instagram.com/p/DU51F3bjrYv/)*
 
 ### Ingredients
@@ -32,7 +1601,7 @@
 
 ---
 
-## 2. ARUK ARAYES!
+## 54. ARUK ARAYES!
 *Source: [https://www.instagram.com/p/DUyWJXkAsbu/](https://www.instagram.com/p/DUyWJXkAsbu/)*
 
 ### Ingredients
@@ -66,7 +1635,7 @@
 
 ---
 
-## 3. Shabbat is calling!
+## 55. Shabbat is calling!
 *Source: [https://www.instagram.com/p/DUtTt7yAiF6/](https://www.instagram.com/p/DUtTt7yAiF6/)*
 
 ### Ingredients
@@ -95,7 +1664,7 @@
 
 ---
 
-## 4. ROASTED RED CABBAGE AND QUINOA SALAD!
+## 56. ROASTED RED CABBAGE AND QUINOA SALAD!
 *Source: [https://www.instagram.com/p/DUlOT3mjgX9/](https://www.instagram.com/p/DUlOT3mjgX9/)*
 
 ### Ingredients
@@ -133,7 +1702,7 @@
 
 ---
 
-## 5. BEEF STEW WITH CHICKPEAS!
+## 57. BEEF STEW WITH CHICKPEAS!
 *Source: [https://www.instagram.com/p/DUY8wU2AllN/](https://www.instagram.com/p/DUY8wU2AllN/)*
 
 ### Ingredients
@@ -173,7 +1742,7 @@
 
 ---
 
-## 6. ORANGE SUMAC CHICKEN DINNER!
+## 58. ORANGE SUMAC CHICKEN DINNER!
 *Source: [https://www.instagram.com/p/DUTSKWNjpoV/](https://www.instagram.com/p/DUTSKWNjpoV/)*
 
 ### Ingredients
@@ -217,7 +1786,7 @@
 
 ---
 
-## 7. Festive Tu BiShvat Salad!
+## 59. Festive Tu BiShvat Salad!
 *Source: [https://www.instagram.com/p/DUOLcVQDnlc/](https://www.instagram.com/p/DUOLcVQDnlc/)*
 
 ### Ingredients
@@ -255,7 +1824,7 @@
 
 ---
 
-## 8. THE BEAUTIFUL CAULIFLOWER!
+## 60. THE BEAUTIFUL CAULIFLOWER!
 *Source: [https://www.instagram.com/p/DUI-xTkDo1E/](https://www.instagram.com/p/DUI-xTkDo1E/)*
 
 ### Ingredients
@@ -284,7 +1853,7 @@
 
 ---
 
-## 9. HALF MOON COOKIES!
+## 61. HALF MOON COOKIES!
 *Source: [https://www.instagram.com/p/DUGVaoYDjMo/](https://www.instagram.com/p/DUGVaoYDjMo/)*
 
 ### Ingredients
@@ -321,7 +1890,7 @@
 
 ---
 
-## 10. CHICKEN MEATBALLS AND RICE NOODLES!
+## 62. CHICKEN MEATBALLS AND RICE NOODLES!
 *Source: [https://www.instagram.com/p/DUBuo2Cgglq/](https://www.instagram.com/p/DUBuo2Cgglq/)*
 
 ### Ingredients
@@ -367,7 +1936,7 @@
 
 ---
 
-## 11. SALAT AVOCADO!
+## 63. SALAT AVOCADO!
 *Source: [https://www.instagram.com/p/DT0xVzjgrL5/](https://www.instagram.com/p/DT0xVzjgrL5/)*
 
 ### Ingredients
@@ -390,7 +1959,7 @@
 
 ---
 
-## 12. COZY ONE-PAN KEBAB & POTATO!
+## 64. COZY ONE-PAN KEBAB & POTATO!
 *Source: [https://www.instagram.com/p/DTxytLMDtif/](https://www.instagram.com/p/DTxytLMDtif/)*
 
 ### Ingredients
@@ -434,7 +2003,7 @@
 
 ---
 
-## 13. MARAK COUSCOUS  COUSCOUS SOUP!
+## 65. MARAK COUSCOUS  COUSCOUS SOUP!
 *Source: [https://www.instagram.com/p/DTs4wHyAj_l/](https://www.instagram.com/p/DTs4wHyAj_l/)*
 
 ### Ingredients
@@ -483,7 +2052,7 @@
 
 ---
 
-## 14. ON REPEAT IN MY HOUSE
+## 66. ON REPEAT IN MY HOUSE
 *Source: [https://www.instagram.com/p/DTd1pCRgtpb/](https://www.instagram.com/p/DTd1pCRgtpb/)*
 
 ### Ingredients
@@ -521,7 +2090,7 @@
 
 ---
 
-## 15. ONE-PAN MEAL FOR BUSY PARENTS!
+## 67. ONE-PAN MEAL FOR BUSY PARENTS!
 *Source: [https://www.instagram.com/p/DTODJ_9AhBE/](https://www.instagram.com/p/DTODJ_9AhBE/)*
 
 ### Ingredients
@@ -560,7 +2129,7 @@
 
 ---
 
-## 16. Lemony Zaatar Arugula Salad!
+## 68. Lemony Zaatar Arugula Salad!
 *Source: [https://www.instagram.com/p/DTJQEQvApFw/](https://www.instagram.com/p/DTJQEQvApFw/)*
 
 ### Ingredients
@@ -587,7 +2156,7 @@
 
 ---
 
-## 17. ONE-PAN RECIPE OF THE YEAR
+## 69. ONE-PAN RECIPE OF THE YEAR
 *Source: [https://www.instagram.com/p/DS5scVgjzeS/](https://www.instagram.com/p/DS5scVgjzeS/)*
 
 ### Ingredients
@@ -620,7 +2189,7 @@
 
 ---
 
-## 18. MY MOST VIRAL RECIPE OF 2025
+## 70. MY MOST VIRAL RECIPE OF 2025
 *Source: [https://www.instagram.com/p/DS2l7LWDh00/](https://www.instagram.com/p/DS2l7LWDh00/)*
 
 ### Ingredients
@@ -659,7 +2228,7 @@
 
 ---
 
-## 19. PTITIM AND CHICKEN!
+## 71. PTITIM AND CHICKEN!
 *Source: [https://www.instagram.com/p/DSXn2jljqQM/](https://www.instagram.com/p/DSXn2jljqQM/)*
 
 ### Ingredients
@@ -693,7 +2262,7 @@
 
 ---
 
-## 20. BE THE LIGHT!
+## 72. BE THE LIGHT!
 *Source: [https://www.instagram.com/p/DSTBFyxAo6q/](https://www.instagram.com/p/DSTBFyxAo6q/)*
 
 ### Ingredients
@@ -720,7 +2289,7 @@
 
 ---
 
-## 21. HOLIDAY CHOPPED SALAD!
+## 73. HOLIDAY CHOPPED SALAD!
 *Source: [https://www.instagram.com/p/DSGTppvgqM8/](https://www.instagram.com/p/DSGTppvgqM8/)*
 
 ### Ingredients
@@ -754,7 +2323,7 @@
 
 ---
 
-## 22. FAMILY STYLE HANUKKAH LATKE!
+## 74. FAMILY STYLE HANUKKAH LATKE!
 *Source: [https://www.instagram.com/p/DSBFeNxAj9e/](https://www.instagram.com/p/DSBFeNxAj9e/)*
 
 ### Ingredients
@@ -792,7 +2361,7 @@
 
 ---
 
-## 23. 4 MUST HAVE SPICES if you love my recipes!
+## 75. 4 MUST HAVE SPICES if you love my recipes!
 *Source: [https://www.instagram.com/p/DR2nP1cD7ib/](https://www.instagram.com/p/DR2nP1cD7ib/)*
 
 ### Ingredients
@@ -805,7 +2374,7 @@
 
 ---
 
-## 24. By popular demand OVEN-BAKED SCHNITZEL!
+## 76. By popular demand OVEN-BAKED SCHNITZEL!
 *Source: [https://www.instagram.com/p/DRzv8l_jiAW/](https://www.instagram.com/p/DRzv8l_jiAW/)*
 
 ### Ingredients
@@ -848,7 +2417,7 @@
 
 ---
 
-## 25. NOAS FAVORITE RICE!
+## 77. NOAS FAVORITE RICE!
 *Source: [https://www.instagram.com/p/DRxuIwqjny-/](https://www.instagram.com/p/DRxuIwqjny-/)*
 
 ### Ingredients
@@ -872,7 +2441,7 @@
 
 ---
 
-## 26. GREEN BEANS AND POTATOES!
+## 78. GREEN BEANS AND POTATOES!
 *Source: [https://www.instagram.com/p/DRiVuiGjmvx/](https://www.instagram.com/p/DRiVuiGjmvx/)*
 
 ### Ingredients
@@ -904,7 +2473,7 @@
 
 ---
 
-## 27. FESTIVE POTATO CASSEROLE!
+## 79. FESTIVE POTATO CASSEROLE!
 *Source: [https://www.instagram.com/p/DRcjrd-DlfW/](https://www.instagram.com/p/DRcjrd-DlfW/)*
 
 ### Ingredients
@@ -939,7 +2508,7 @@
 
 ---
 
-## 28. MOROCCAN STYLE CAULIFLOWER!
+## 80. MOROCCAN STYLE CAULIFLOWER!
 *Source: [https://www.instagram.com/p/DRZz-CRjm_W/](https://www.instagram.com/p/DRZz-CRjm_W/)*
 
 ### Ingredients
@@ -977,7 +2546,7 @@
 
 ---
 
-## 29. DAIRY FREE & GF CHOCOLATE CAKE!
+## 81. DAIRY FREE & GF CHOCOLATE CAKE!
 *Source: [https://www.instagram.com/p/DRSnSClD_DD/](https://www.instagram.com/p/DRSnSClD_DD/)*
 
 ### Ingredients
@@ -1004,7 +2573,7 @@
 
 ---
 
-## 30. MY FAVORITE BEET SALAD!
+## 82. MY FAVORITE BEET SALAD!
 *Source: [https://www.instagram.com/p/DRAcNr1Dq0H/](https://www.instagram.com/p/DRAcNr1Dq0H/)*
 
 ### Ingredients
@@ -1025,7 +2594,7 @@
 
 ---
 
-## 31. HERBY CHICKEN CUTLETS!
+## 83. HERBY CHICKEN CUTLETS!
 *Source: [https://www.instagram.com/p/DQ-Q-cIjvJ7/](https://www.instagram.com/p/DQ-Q-cIjvJ7/)*
 
 ### Ingredients
@@ -1054,7 +2623,7 @@
 
 ---
 
-## 32. Saba Kaduris Shakshuka!
+## 84. Saba Kaduris Shakshuka!
 *Source: [https://www.instagram.com/p/DQ4uB7fDjUC/](https://www.instagram.com/p/DQ4uB7fDjUC/)*
 
 ### Ingredients
@@ -1090,7 +2659,7 @@
 
 ---
 
-## 33. TAHINI SUMAC CABBAGE SALAD!
+## 85. TAHINI SUMAC CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/DQwvXykjnZN/](https://www.instagram.com/p/DQwvXykjnZN/)*
 
 ### Ingredients
@@ -1115,7 +2684,7 @@
 
 ---
 
-## 34. CHERSHI - PUMPKIN SPREAD!
+## 86. CHERSHI - PUMPKIN SPREAD!
 *Source: [https://www.instagram.com/p/DQuyxIVjr6h/](https://www.instagram.com/p/DQuyxIVjr6h/)*
 
 ### Ingredients
@@ -1154,7 +2723,7 @@
 
 ---
 
-## 35. EASY ONE PAN DINNER!
+## 87. EASY ONE PAN DINNER!
 *Source: [https://www.instagram.com/p/DQo-rV7Dvxu/](https://www.instagram.com/p/DQo-rV7Dvxu/)*
 
 ### Ingredients
@@ -1187,7 +2756,7 @@
 
 ---
 
-## 36. AMBA CHICKEN AND RICE!
+## 88. AMBA CHICKEN AND RICE!
 *Source: [https://www.instagram.com/p/DQcg1EMD_Yi/](https://www.instagram.com/p/DQcg1EMD_Yi/)*
 
 ### Ingredients
@@ -1229,7 +2798,7 @@
 
 ---
 
-## 37. SPLIT PEA SOUP  PITA BREAD CROUTONS!
+## 89. SPLIT PEA SOUP  PITA BREAD CROUTONS!
 *Source: [https://www.instagram.com/p/DQaHSwTDiQf/](https://www.instagram.com/p/DQaHSwTDiQf/)*
 
 ### Ingredients
@@ -1272,7 +2841,7 @@
 
 ---
 
-## 38. BROCCOLI CHEESE CASSEROLE!
+## 90. BROCCOLI CHEESE CASSEROLE!
 *Source: [https://www.instagram.com/p/DQW5INTDkC7/](https://www.instagram.com/p/DQW5INTDkC7/)*
 
 ### Ingredients
@@ -1312,7 +2881,7 @@
 
 ---
 
-## 39. Shabbat Shalom!
+## 91. Shabbat Shalom!
 *Source: [https://www.instagram.com/p/DQMr-b_Dogg/](https://www.instagram.com/p/DQMr-b_Dogg/)*
 
 ### Instructions
@@ -1321,7 +2890,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 40. ONE-PAN PAPRIKA CHICKEN AND POTATO!
+## 92. ONE-PAN PAPRIKA CHICKEN AND POTATO!
 *Source: [https://www.instagram.com/p/DQKmZgCjuRa/](https://www.instagram.com/p/DQKmZgCjuRa/)*
 
 ### Ingredients
@@ -1364,7 +2933,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 41. PERFECT is so NOT 2025!
+## 93. PERFECT is so NOT 2025!
 *Source: [https://www.instagram.com/p/DQFeA0wDtK1/](https://www.instagram.com/p/DQFeA0wDtK1/)*
 
 ### Ingredients
@@ -1390,7 +2959,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 42. Lemony Herb Skillet Salmon!
+## 94. Lemony Herb Skillet Salmon!
 *Source: [https://www.instagram.com/p/DQC4e2oDtU-/](https://www.instagram.com/p/DQC4e2oDtU-/)*
 
 ### Ingredients
@@ -1422,7 +2991,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 43. Baba Ganoush- Roasted Eggplants with Tahini!
+## 95. Baba Ganoush- Roasted Eggplants with Tahini!
 *Source: [https://www.instagram.com/p/DP60nSzDk4t/](https://www.instagram.com/p/DP60nSzDk4t/)*
 
 ### Ingredients
@@ -1450,7 +3019,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 44. MARAK COUSCOUS  COUSCOUS SOUP!
+## 96. MARAK COUSCOUS  COUSCOUS SOUP!
 *Source: [https://www.instagram.com/p/DP4z7YdjuMn/](https://www.instagram.com/p/DP4z7YdjuMn/)*
 
 ### Ingredients
@@ -1499,7 +3068,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 45. IRAQI TBEET!
+## 97. IRAQI TBEET!
 *Source: [https://www.instagram.com/p/DPton4bDh_s/](https://www.instagram.com/p/DPton4bDh_s/)*
 
 ### Ingredients
@@ -1539,7 +3108,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 46. A MUST TRY SALAD!
+## 98. A MUST TRY SALAD!
 *Source: [https://www.instagram.com/p/DPmj9QuDlCl/](https://www.instagram.com/p/DPmj9QuDlCl/)*
 
 ### Ingredients
@@ -1566,7 +3135,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 47. HOMEMADE HUMMUS!
+## 99. HOMEMADE HUMMUS!
 *Source: [https://www.instagram.com/p/DPeYsJtDllI/](https://www.instagram.com/p/DPeYsJtDllI/)*
 
 ### Ingredients
@@ -1588,7 +3157,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 48. EASY MEDITERRANEAN GRILLED COD!
+## 100. EASY MEDITERRANEAN GRILLED COD!
 *Source: [https://www.instagram.com/p/DPcJnopDv_W/](https://www.instagram.com/p/DPcJnopDv_W/)*
 
 ### Ingredients
@@ -1633,7 +3202,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 49. ONE-PAN TURMERIC CHICKEN AND POTATOES!
+## 101. ONE-PAN TURMERIC CHICKEN AND POTATOES!
 *Source: [https://www.instagram.com/p/DPPJRpNjufl/](https://www.instagram.com/p/DPPJRpNjufl/)*
 
 ### Ingredients
@@ -1672,7 +3241,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 50. PASHTIDA FOR BREAKING THE FAST!
+## 102. PASHTIDA FOR BREAKING THE FAST!
 *Source: [https://www.instagram.com/p/DPJpvi9jnfg/](https://www.instagram.com/p/DPJpvi9jnfg/)*
 
 ### Ingredients
@@ -1707,7 +3276,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 51. The Most Delicious Egg Noodles!
+## 103. The Most Delicious Egg Noodles!
 *Source: [https://www.instagram.com/p/DPEvRB4jkO2/](https://www.instagram.com/p/DPEvRB4jkO2/)*
 
 ### Ingredients
@@ -1730,7 +3299,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 52. HONEY AND APPLE CAKE!
+## 104. HONEY AND APPLE CAKE!
 *Source: [https://www.instagram.com/p/DO3k9lxDsU5/](https://www.instagram.com/p/DO3k9lxDsU5/)*
 
 ### Ingredients
@@ -1767,7 +3336,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 53. Rosh Hashanah Israeli Couscous Salad!
+## 105. Rosh Hashanah Israeli Couscous Salad!
 *Source: [https://www.instagram.com/p/DOypxIzDvhp/](https://www.instagram.com/p/DOypxIzDvhp/)*
 
 ### Ingredients
@@ -1801,7 +3370,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 54. WARM ROASTED CABBAGE SALAD!
+## 106. WARM ROASTED CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/DOwgxw2jk3N/](https://www.instagram.com/p/DOwgxw2jk3N/)*
 
 ### Ingredients
@@ -1839,7 +3408,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 55. FESTIVE CHICKEN AND FARRO!
+## 107. FESTIVE CHICKEN AND FARRO!
 *Source: [https://www.instagram.com/p/DOoWYD9Dr1e/](https://www.instagram.com/p/DOoWYD9Dr1e/)*
 
 ### Ingredients
@@ -1887,7 +3456,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 56. SLOW-COOKED BEEF AND POTATOES!
+## 108. SLOW-COOKED BEEF AND POTATOES!
 *Source: [https://www.instagram.com/p/DOlgETRjku_/](https://www.instagram.com/p/DOlgETRjku_/)*
 
 ### Ingredients
@@ -1935,7 +3504,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 57. FESTIVE EGGPLANTS FOR ROSH HASHANAH!
+## 109. FESTIVE EGGPLANTS FOR ROSH HASHANAH!
 *Source: [https://www.instagram.com/p/DObtxR-Dtha/](https://www.instagram.com/p/DObtxR-Dtha/)*
 
 ### Ingredients
@@ -1966,7 +3535,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 58. COMFORT FOOD IS WHAT WE NEED!
+## 110. COMFORT FOOD IS WHAT WE NEED!
 *Source: [https://www.instagram.com/p/DOMkKdijomz/](https://www.instagram.com/p/DOMkKdijomz/)*
 
 ### Ingredients
@@ -1998,7 +3567,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 59. ROUND MUSHROOM BOREKAS!
+## 111. ROUND MUSHROOM BOREKAS!
 *Source: [https://www.instagram.com/p/DOJu9biDokv/](https://www.instagram.com/p/DOJu9biDokv/)*
 
 ### Ingredients
@@ -2033,7 +3602,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 60. MY FAMOUS BANANA CAKE!
+## 112. MY FAMOUS BANANA CAKE!
 *Source: [https://www.instagram.com/p/DN33ExejscJ/](https://www.instagram.com/p/DN33ExejscJ/)*
 
 ### Ingredients
@@ -2065,7 +3634,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 61. CABBAGE AND POMEGRANATE SALAD!
+## 113. CABBAGE AND POMEGRANATE SALAD!
 *Source: [https://www.instagram.com/p/DN1VDDu3KlK/](https://www.instagram.com/p/DN1VDDu3KlK/)*
 
 ### Ingredients
@@ -2090,7 +3659,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 62. BAHARAT CHICKEN DINNER!
+## 114. BAHARAT CHICKEN DINNER!
 *Source: [https://www.instagram.com/p/DNyp9AMXNVQ/](https://www.instagram.com/p/DNyp9AMXNVQ/)*
 
 ### Ingredients
@@ -2128,7 +3697,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 63. NO CHICKPEA HUMMUS!
+## 115. NO CHICKPEA HUMMUS!
 *Source: [https://www.instagram.com/p/DNl6JgvR2HY/](https://www.instagram.com/p/DNl6JgvR2HY/)*
 
 ### Ingredients
@@ -2150,7 +3719,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 64. CHILDHOOD CHICKEN MEATBALLS!
+## 116. CHILDHOOD CHICKEN MEATBALLS!
 *Source: [https://www.instagram.com/p/DNDtTBiIl1T/](https://www.instagram.com/p/DNDtTBiIl1T/)*
 
 ### Ingredients
@@ -2199,7 +3768,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 65. MEDITERRANEAN NECTARINE SALAD!
+## 117. MEDITERRANEAN NECTARINE SALAD!
 *Source: [https://www.instagram.com/p/DM-bf03I92P/](https://www.instagram.com/p/DM-bf03I92P/)*
 
 ### Ingredients
@@ -2221,7 +3790,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 66. RAS EL HANUT CHUCK ROAST!
+## 118. RAS EL HANUT CHUCK ROAST!
 *Source: [https://www.instagram.com/p/DMxuKU6Ijuu/](https://www.instagram.com/p/DMxuKU6Ijuu/)*
 
 ### Ingredients
@@ -2267,7 +3836,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 67. BAKED FISH SCHNITZEL!
+## 119. BAKED FISH SCHNITZEL!
 *Source: [https://www.instagram.com/p/DMslbQ9oRoU/](https://www.instagram.com/p/DMslbQ9oRoU/)*
 
 ### Ingredients
@@ -2313,7 +3882,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 68. CRISPY TOFU AND AVOCADO SALAD!
+## 120. CRISPY TOFU AND AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/DMnS0s3IyTH/](https://www.instagram.com/p/DMnS0s3IyTH/)*
 
 ### Ingredients
@@ -2350,7 +3919,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 69. SABA KADURIS RICE!
+## 121. SABA KADURIS RICE!
 *Source: [https://www.instagram.com/p/DMfsYOeoX2Y/](https://www.instagram.com/p/DMfsYOeoX2Y/)*
 
 ### Ingredients
@@ -2385,7 +3954,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 70. Come make dinner with me!
+## 122. Come make dinner with me!
 *Source: [https://www.instagram.com/p/DL7x1FaxWuN/](https://www.instagram.com/p/DL7x1FaxWuN/)*
 
 ### Ingredients
@@ -2417,7 +3986,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 71. CUCUMBER YOGURT SALAD!
+## 123. CUCUMBER YOGURT SALAD!
 *Source: [https://www.instagram.com/p/DL0iUvzxZ1r/](https://www.instagram.com/p/DL0iUvzxZ1r/)*
 
 ### Ingredients
@@ -2440,7 +4009,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 72. JUICY CHICKEN ARAYES!
+## 124. JUICY CHICKEN ARAYES!
 *Source: [https://www.instagram.com/p/DLpvj9DR2yB/](https://www.instagram.com/p/DLpvj9DR2yB/)*
 
 ### Ingredients
@@ -2477,7 +4046,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 73. VEGAN POTATO SALAD!
+## 125. VEGAN POTATO SALAD!
 *Source: [https://www.instagram.com/p/DLnjzg5RjKm/](https://www.instagram.com/p/DLnjzg5RjKm/)*
 
 ### Ingredients
@@ -2503,7 +4072,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 74. SUNSHINE CHICKEN!
+## 126. SUNSHINE CHICKEN!
 *Source: [https://www.instagram.com/p/DLkjpjQxYaR/](https://www.instagram.com/p/DLkjpjQxYaR/)*
 
 ### Ingredients
@@ -2543,7 +4112,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 75. ZUCCHINI-CHEESE FRITTATA!
+## 127. ZUCCHINI-CHEESE FRITTATA!
 *Source: [https://www.instagram.com/p/DLh6kMqR6tk/](https://www.instagram.com/p/DLh6kMqR6tk/)*
 
 ### Ingredients
@@ -2579,7 +4148,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 76. ONE-PAN PAPRIKA CHICKEN AND POTATO!
+## 128. ONE-PAN PAPRIKA CHICKEN AND POTATO!
 *Source: [https://www.instagram.com/p/DLX4UZWRMjY/](https://www.instagram.com/p/DLX4UZWRMjY/)*
 
 ### Ingredients
@@ -2622,7 +4191,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 77. HOMEMADE SHAWARMA!
+## 129. HOMEMADE SHAWARMA!
 *Source: [https://www.instagram.com/p/DLSTdgsxQMQ/](https://www.instagram.com/p/DLSTdgsxQMQ/)*
 
 ### Ingredients
@@ -2653,7 +4222,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 78. TEL AVIV ICED CAFÉ!
+## 130. TEL AVIV ICED CAFÉ!
 *Source: [https://www.instagram.com/p/DLNL60LROc-/](https://www.instagram.com/p/DLNL60LROc-/)*
 
 ### Ingredients
@@ -2672,7 +4241,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 79. GLUTEN-FREE DAIRY-FREE APPLE CAKE!
+## 131. GLUTEN-FREE DAIRY-FREE APPLE CAKE!
 *Source: [https://www.instagram.com/p/DLGEM9ORyvH/](https://www.instagram.com/p/DLGEM9ORyvH/)*
 
 ### Ingredients
@@ -2710,7 +4279,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 80. ONE-POT MEATBALLS AND POTATO!
+## 132. ONE-POT MEATBALLS AND POTATO!
 *Source: [https://www.instagram.com/p/DLDkrAyRG1R/](https://www.instagram.com/p/DLDkrAyRG1R/)*
 
 ### Ingredients
@@ -2762,7 +4331,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 81. TAHINI SUMAC CABBAGE SALAD!
+## 133. TAHINI SUMAC CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/DLA_Gsbxh2i/](https://www.instagram.com/p/DLA_Gsbxh2i/)*
 
 ### Ingredients
@@ -2787,7 +4356,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 82. AMBA CHICKEN AND RICE!
+## 134. AMBA CHICKEN AND RICE!
 *Source: [https://www.instagram.com/p/DK-hPYzxCYq/](https://www.instagram.com/p/DK-hPYzxCYq/)*
 
 ### Ingredients
@@ -2829,7 +4398,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 83. Comfort food because this is what we need right now
+## 135. Comfort food because this is what we need right now
 *Source: [https://www.instagram.com/p/DK7QYKox8gw/](https://www.instagram.com/p/DK7QYKox8gw/)*
 
 ### Ingredients
@@ -2866,7 +4435,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 84. SUMMER SALAD FOR SHABBAT !
+## 136. SUMMER SALAD FOR SHABBAT !
 *Source: [https://www.instagram.com/p/DK2JslhRDSC/](https://www.instagram.com/p/DK2JslhRDSC/)*
 
 ### Ingredients
@@ -2892,7 +4461,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 85. Kitchri- Iraqi rice and lentils!
+## 137. Kitchri- Iraqi rice and lentils!
 *Source: [https://www.instagram.com/p/DKpJ2-0xf_1/](https://www.instagram.com/p/DKpJ2-0xf_1/)*
 
 ### Ingredients
@@ -2926,7 +4495,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 86. LIMONANA- FROZEN MINT LEMONADE!
+## 138. LIMONANA- FROZEN MINT LEMONADE!
 *Source: [https://www.instagram.com/p/DKhxVJARgnc/](https://www.instagram.com/p/DKhxVJARgnc/)*
 
 ### Ingredients
@@ -2948,7 +4517,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 87. Zaalouk  Moroccan Eggplant & Tomato Salad!
+## 139. Zaalouk  Moroccan Eggplant & Tomato Salad!
 *Source: [https://www.instagram.com/p/DKe68MRxrsL/](https://www.instagram.com/p/DKe68MRxrsL/)*
 
 ### Ingredients
@@ -2977,7 +4546,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 88. CUCUMBER AND AVOCADO SALAD!
+## 140. CUCUMBER AND AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/DKXE-_WRY0Z/](https://www.instagram.com/p/DKXE-_WRY0Z/)*
 
 ### Ingredients
@@ -3003,7 +4572,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 89. As a mom to a child who is allergic to dairy, I wanted to share a dairy-free option for Shavuot!
+## 141. As a mom to a child who is allergic to dairy, I wanted to share a dairy-free option for Shavuot!
 *Source: [https://www.instagram.com/p/DKSQp1FREZS/](https://www.instagram.com/p/DKSQp1FREZS/)*
 
 ### Ingredients
@@ -3037,7 +4606,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 90. THE EASIEST NO-BAKE CHEESECAKE!
+## 142. THE EASIEST NO-BAKE CHEESECAKE!
 *Source: [https://www.instagram.com/p/DKR0eruR6xM/](https://www.instagram.com/p/DKR0eruR6xM/)*
 
 ### Ingredients
@@ -3074,7 +4643,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 91. MIDDLE EASTERN PAELLA!
+## 143. MIDDLE EASTERN PAELLA!
 *Source: [https://www.instagram.com/p/DKPW9VfN7_X/](https://www.instagram.com/p/DKPW9VfN7_X/)*
 
 ### Ingredients
@@ -3120,7 +4689,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 92. CHEESE BOUREKAS WITH A TWIST!
+## 144. CHEESE BOUREKAS WITH A TWIST!
 *Source: [https://www.instagram.com/p/DKNEjXLxEi8/](https://www.instagram.com/p/DKNEjXLxEi8/)*
 
 ### Ingredients
@@ -3154,7 +4723,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 93. CHEESE BOUIKOS!
+## 145. CHEESE BOUIKOS!
 *Source: [https://www.instagram.com/p/DKKx1OpRH9s/](https://www.instagram.com/p/DKKx1OpRH9s/)*
 
 ### Ingredients
@@ -3187,7 +4756,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 94. LEMONY POTATO SALAD!
+## 146. LEMONY POTATO SALAD!
 *Source: [https://www.instagram.com/p/DKFMj4YR4a1/](https://www.instagram.com/p/DKFMj4YR4a1/)*
 
 ### Ingredients
@@ -3216,7 +4785,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 95. By popular demand OVEN-BAKED SCHNITZEL!
+## 147. By popular demand OVEN-BAKED SCHNITZEL!
 *Source: [https://www.instagram.com/p/DKAAsfex9Fc/](https://www.instagram.com/p/DKAAsfex9Fc/)*
 
 ### Ingredients
@@ -3259,7 +4828,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 96. MALABI!
+## 148. MALABI!
 *Source: [https://www.instagram.com/p/DJ9helZR2Ip/](https://www.instagram.com/p/DJ9helZR2Ip/)*
 
 ### Ingredients
@@ -3290,7 +4859,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 97. Sautéed Okra over Yogurt !
+## 149. Sautéed Okra over Yogurt !
 *Source: [https://www.instagram.com/p/DJ49IqkRWc7/](https://www.instagram.com/p/DJ49IqkRWc7/)*
 
 ### Ingredients
@@ -3317,7 +4886,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 98. YOU MUST TRY THIS EGG SALAD!
+## 150. YOU MUST TRY THIS EGG SALAD!
 *Source: [https://www.instagram.com/p/DJuYrO3xAF0/](https://www.instagram.com/p/DJuYrO3xAF0/)*
 
 ### Ingredients
@@ -3351,7 +4920,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 99. BEANS AND BEEF STEW!
+## 151. BEANS AND BEEF STEW!
 *Source: [https://www.instagram.com/p/DJpZEK2xBPk/](https://www.instagram.com/p/DJpZEK2xBPk/)*
 
 ### Ingredients
@@ -3388,7 +4957,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 100. WARM ROASTED CABBAGE SALAD!
+## 152. WARM ROASTED CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/DJmeu5NR0s2/](https://www.instagram.com/p/DJmeu5NR0s2/)*
 
 ### Ingredients
@@ -3426,7 +4995,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 101. ONE-PAN CHICKEN SHAWARMA!
+## 153. ONE-PAN CHICKEN SHAWARMA!
 *Source: [https://www.instagram.com/p/DJZvd3Fxe8N/](https://www.instagram.com/p/DJZvd3Fxe8N/)*
 
 ### Ingredients
@@ -3461,7 +5030,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 102. SALOONA- IRAQI SWEET AND SOUR FISH!
+## 154. SALOONA- IRAQI SWEET AND SOUR FISH!
 *Source: [https://www.instagram.com/p/DJW9ssRRfci/](https://www.instagram.com/p/DJW9ssRRfci/)*
 
 ### Ingredients
@@ -3499,7 +5068,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 103. ONE-PAN TURMERIC BEEF RICE WITH CRISPY CABBAGE!
+## 155. ONE-PAN TURMERIC BEEF RICE WITH CRISPY CABBAGE!
 *Source: [https://www.instagram.com/p/DJSZ-BWR-Ui/](https://www.instagram.com/p/DJSZ-BWR-Ui/)*
 
 ### Ingredients
@@ -3532,7 +5101,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 104. Are My Kids Eating Everything I Make
+## 156. Are My Kids Eating Everything I Make
 *Source: [https://www.instagram.com/p/DJKCC4jAXda/](https://www.instagram.com/p/DJKCC4jAXda/)*
 
 ### Ingredients
@@ -3556,7 +5125,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 105. BEST FALAFEL!
+## 157. BEST FALAFEL!
 *Source: [https://www.instagram.com/p/DJFWwrqR3QL/](https://www.instagram.com/p/DJFWwrqR3QL/)*
 
 ### Ingredients
@@ -3598,7 +5167,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 106. JUICY BEEF ARAYES!
+## 158. JUICY BEEF ARAYES!
 *Source: [https://www.instagram.com/p/DI__m4wxS4j/](https://www.instagram.com/p/DI__m4wxS4j/)*
 
 ### Ingredients
@@ -3635,7 +5204,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 107. HALVA SMOOTHIE!
+## 159. HALVA SMOOTHIE!
 *Source: [https://www.instagram.com/p/DI9Of5kRdZy/](https://www.instagram.com/p/DI9Of5kRdZy/)*
 
 ### Ingredients
@@ -3655,7 +5224,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 108. QUICK MATBUCHA!
+## 160. QUICK MATBUCHA!
 *Source: [https://www.instagram.com/p/DI36rZQRtfy/](https://www.instagram.com/p/DI36rZQRtfy/)*
 
 ### Ingredients
@@ -3678,7 +5247,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 109. Msyer- Pickled Vegetable Salad!
+## 161. Msyer- Pickled Vegetable Salad!
 *Source: [https://www.instagram.com/p/DIwuj4vxGs3/](https://www.instagram.com/p/DIwuj4vxGs3/)*
 
 ### Ingredients
@@ -3704,7 +5273,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 110. BAKED-LEMONY HALIBUT!
+## 162. BAKED-LEMONY HALIBUT!
 *Source: [https://www.instagram.com/p/DIugSttRk1G/](https://www.instagram.com/p/DIugSttRk1G/)*
 
 ### Ingredients
@@ -3741,7 +5310,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 111. PASSOVER IRAQI ARUK!
+## 163. PASSOVER IRAQI ARUK!
 *Source: [https://www.instagram.com/p/DIhcZdgRlMK/](https://www.instagram.com/p/DIhcZdgRlMK/)*
 
 ### Ingredients
@@ -3774,7 +5343,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 112. MINI MATZAH FRENCH TOAST!
+## 164. MINI MATZAH FRENCH TOAST!
 *Source: [https://www.instagram.com/p/DIbrzV1R1Nv/](https://www.instagram.com/p/DIbrzV1R1Nv/)*
 
 ### Ingredients
@@ -3801,7 +5370,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 113. VEGAN POTATO GRATIN!
+## 165. VEGAN POTATO GRATIN!
 *Source: [https://www.instagram.com/p/DIRoEN1Rh7A/](https://www.instagram.com/p/DIRoEN1Rh7A/)*
 
 ### Ingredients
@@ -3830,7 +5399,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 114. ROASTED EGGPLANTS WITH GREEN SALSA!
+## 166. ROASTED EGGPLANTS WITH GREEN SALSA!
 *Source: [https://www.instagram.com/p/DIPeNhixMdF/](https://www.instagram.com/p/DIPeNhixMdF/)*
 
 ### Ingredients
@@ -3858,7 +5427,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 115. PASSOVER IRAQI CHAROSET!
+## 167. PASSOVER IRAQI CHAROSET!
 *Source: [https://www.instagram.com/p/DIMXOm2xlXA/](https://www.instagram.com/p/DIMXOm2xlXA/)*
 
 ### Ingredients
@@ -3878,7 +5447,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 116. HOLIDAY BRISKET!
+## 168. HOLIDAY BRISKET!
 *Source: [https://www.instagram.com/p/DIHT7YFR9gw/](https://www.instagram.com/p/DIHT7YFR9gw/)*
 
 ### Ingredients
@@ -3929,7 +5498,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 117. PASSOVER MINI BUNS!
+## 169. PASSOVER MINI BUNS!
 *Source: [https://www.instagram.com/p/DIBtujrR-JX/](https://www.instagram.com/p/DIBtujrR-JX/)*
 
 ### Ingredients
@@ -3964,7 +5533,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 118. EASY CUCUMBER SALAD!
+## 170. EASY CUCUMBER SALAD!
 *Source: [https://www.instagram.com/p/DH_gmJfxeMf/](https://www.instagram.com/p/DH_gmJfxeMf/)*
 
 ### Ingredients
@@ -3984,7 +5553,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 119. PASSOVER BEEF CASSEROLE - PASHTIDAT BASAR!
+## 171. PASSOVER BEEF CASSEROLE - PASHTIDAT BASAR!
 *Source: [https://www.instagram.com/p/DH8xoJhRR0-/](https://www.instagram.com/p/DH8xoJhRR0-/)*
 
 ### Ingredients
@@ -4031,7 +5600,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 120. NO-MAYO POTATO SALAD!
+## 172. NO-MAYO POTATO SALAD!
 *Source: [https://www.instagram.com/p/DH6S_TpReAS/](https://www.instagram.com/p/DH6S_TpReAS/)*
 
 ### Ingredients
@@ -4065,7 +5634,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 121. PASSOVER APPLE CAKE!
+## 173. PASSOVER APPLE CAKE!
 *Source: [https://www.instagram.com/p/DHwBB_nRBda/](https://www.instagram.com/p/DHwBB_nRBda/)*
 
 ### Ingredients
@@ -4101,7 +5670,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 122. IRAQI QUINOA TBEET!
+## 174. IRAQI QUINOA TBEET!
 *Source: [https://www.instagram.com/p/DHtzWjqRDSR/](https://www.instagram.com/p/DHtzWjqRDSR/)*
 
 ### Ingredients
@@ -4139,7 +5708,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 123. PASSOVER PASHTIDAT ZUCCHINI!
+## 175. PASSOVER PASHTIDAT ZUCCHINI!
 *Source: [https://www.instagram.com/p/DHodJniSk_v/](https://www.instagram.com/p/DHodJniSk_v/)*
 
 ### Ingredients
@@ -4177,7 +5746,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 124. VEGETARIAN CHOPPED LIVER!
+## 176. VEGETARIAN CHOPPED LIVER!
 *Source: [https://www.instagram.com/p/DHjelcvRsH8/](https://www.instagram.com/p/DHjelcvRsH8/)*
 
 ### Ingredients
@@ -4214,7 +5783,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 125. Come make dinner with me!
+## 177. Come make dinner with me!
 *Source: [https://www.instagram.com/p/DHbQNioAab3/](https://www.instagram.com/p/DHbQNioAab3/)*
 
 ### Ingredients
@@ -4246,7 +5815,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 126. FESTIVE POTATO CASSEROLE!
+## 178. FESTIVE POTATO CASSEROLE!
 *Source: [https://www.instagram.com/p/DHW8LNpxJK3/](https://www.instagram.com/p/DHW8LNpxJK3/)*
 
 ### Ingredients
@@ -4281,7 +5850,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 127. PTITIM BOLOGNESE!
+## 179. PTITIM BOLOGNESE!
 *Source: [https://www.instagram.com/p/DHG_qNVxQGW/](https://www.instagram.com/p/DHG_qNVxQGW/)*
 
 ### Ingredients
@@ -4315,7 +5884,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 128. DAIRY FREE & GF CHOCOLATE CAKE!
+## 180. DAIRY FREE & GF CHOCOLATE CAKE!
 *Source: [https://www.instagram.com/p/DHEj-05RtBx/](https://www.instagram.com/p/DHEj-05RtBx/)*
 
 ### Ingredients
@@ -4342,7 +5911,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 129. Ozney Haman - Hamantaschen time!
+## 181. Ozney Haman - Hamantaschen time!
 *Source: [https://www.instagram.com/p/DG--w_MAGUn/](https://www.instagram.com/p/DG--w_MAGUn/)*
 
 ### Ingredients
@@ -4385,7 +5954,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 130. BEEF STEW WITH CHICKPEAS!
+## 182. BEEF STEW WITH CHICKPEAS!
 *Source: [https://www.instagram.com/p/DG34u5pxZuP/](https://www.instagram.com/p/DG34u5pxZuP/)*
 
 ### Ingredients
@@ -4425,7 +5994,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 131. I encourage you to watch till the end
+## 183. I encourage you to watch till the end
 *Source: [https://www.instagram.com/p/DGtHLoyRjzw/](https://www.instagram.com/p/DGtHLoyRjzw/)*
 
 ### Ingredients
@@ -4462,7 +6031,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 132. SLOW-COOKED BEEF AND POTATOES!
+## 184. SLOW-COOKED BEEF AND POTATOES!
 *Source: [https://www.instagram.com/p/DGlVXBAReIZ/](https://www.instagram.com/p/DGlVXBAReIZ/)*
 
 ### Ingredients
@@ -4510,7 +6079,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 133. AMBA TOFU WITH COCONUT CREAM!
+## 185. AMBA TOFU WITH COCONUT CREAM!
 *Source: [https://www.instagram.com/p/DGeHaEtRDb6/](https://www.instagram.com/p/DGeHaEtRDb6/)*
 
 ### Ingredients
@@ -4548,7 +6117,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 134. SABA KADURIS RICE!
+## 186. SABA KADURIS RICE!
 *Source: [https://www.instagram.com/p/DGJLbHXxGkK/](https://www.instagram.com/p/DGJLbHXxGkK/)*
 
 ### Ingredients
@@ -4583,7 +6152,7 @@ Sharing a mix of fall recipes, New England fall, and a peek at my WOW merch that
 
 ---
 
-## 135. Do you know what you get when you mix tahini and date syrup
+## 187. Do you know what you get when you mix tahini and date syrup
 *Source: [https://www.instagram.com/p/DF_R0YTxWzw/](https://www.instagram.com/p/DF_R0YTxWzw/)*
 
 ### Instructions
@@ -4593,7 +6162,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 136. Festive Tu BiShvat Salad!
+## 188. Festive Tu BiShvat Salad!
 *Source: [https://www.instagram.com/p/DF8d0hZRLdO/](https://www.instagram.com/p/DF8d0hZRLdO/)*
 
 ### Ingredients
@@ -4631,7 +6200,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 137. CHILDHOOD CHICKEN MEATBALLS!
+## 189. CHILDHOOD CHICKEN MEATBALLS!
 *Source: [https://www.instagram.com/p/DF6K71vRmCe/](https://www.instagram.com/p/DF6K71vRmCe/)*
 
 ### Ingredients
@@ -4680,7 +6249,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 138. HONEY SESAME CHICKEN TENDERLOIN!
+## 190. HONEY SESAME CHICKEN TENDERLOIN!
 *Source: [https://www.instagram.com/p/DFvSvi9xt9K/](https://www.instagram.com/p/DFvSvi9xt9K/)*
 
 ### Ingredients
@@ -4723,7 +6292,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 139. Kitchri- Iraqi rice and lentils!
+## 191. Kitchri- Iraqi rice and lentils!
 *Source: [https://www.instagram.com/p/DFqxHhTx3YG/](https://www.instagram.com/p/DFqxHhTx3YG/)*
 
 ### Ingredients
@@ -4757,7 +6326,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 140. How to make the perfect Tahini!
+## 192. How to make the perfect Tahini!
 *Source: [https://www.instagram.com/p/DFd0Wq1Ra7K/](https://www.instagram.com/p/DFd0Wq1Ra7K/)*
 
 ### Ingredients
@@ -4778,7 +6347,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 141. CHICKEN MEATBALLS AND RICE NOODLES!
+## 193. CHICKEN MEATBALLS AND RICE NOODLES!
 *Source: [https://www.instagram.com/p/DFYKOw0xzF8/](https://www.instagram.com/p/DFYKOw0xzF8/)*
 
 ### Ingredients
@@ -4824,7 +6393,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 142. ROASTED EGGPLANTS WITH SCHUG!
+## 194. ROASTED EGGPLANTS WITH SCHUG!
 *Source: [https://www.instagram.com/p/DFNnvgXRdqj/](https://www.instagram.com/p/DFNnvgXRdqj/)*
 
 ### Ingredients
@@ -4853,7 +6422,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 143. TOMATO BAKED PARGIOT - CHICKEN THIGHS!
+## 195. TOMATO BAKED PARGIOT - CHICKEN THIGHS!
 *Source: [https://www.instagram.com/p/DFLCezPRbyo/](https://www.instagram.com/p/DFLCezPRbyo/)*
 
 ### Ingredients
@@ -4886,7 +6455,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 144. SPINACH CASSEROLE!
+## 196. SPINACH CASSEROLE!
 *Source: [https://www.instagram.com/p/DFGnHYuRQik/](https://www.instagram.com/p/DFGnHYuRQik/)*
 
 ### Ingredients
@@ -4924,7 +6493,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 145. POTATOES AND PEAS!
+## 197. POTATOES AND PEAS!
 *Source: [https://www.instagram.com/p/DE5tYgux0yS/](https://www.instagram.com/p/DE5tYgux0yS/)*
 
 ### Ingredients
@@ -4958,7 +6527,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 146. LEMONY CHICKPEAS AND SPINACH SOUP!
+## 198. LEMONY CHICKPEAS AND SPINACH SOUP!
 *Source: [https://www.instagram.com/p/DE0Gj2eRJNV/](https://www.instagram.com/p/DE0Gj2eRJNV/)*
 
 ### Ingredients
@@ -5001,7 +6570,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 147. RED CABBAGE SLAW WITH A TIP!
+## 199. RED CABBAGE SLAW WITH A TIP!
 *Source: [https://www.instagram.com/p/DEpuUksRPbi/](https://www.instagram.com/p/DEpuUksRPbi/)*
 
 ### Ingredients
@@ -5027,7 +6596,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 148. ZAATAR CHEESE GALETTE!
+## 200. ZAATAR CHEESE GALETTE!
 *Source: [https://www.instagram.com/p/DElTBesxTbH/](https://www.instagram.com/p/DElTBesxTbH/)*
 
 ### Ingredients
@@ -5063,7 +6632,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 149. ONE-PAN GROUND BEEF AND RICE!
+## 201. ONE-PAN GROUND BEEF AND RICE!
 *Source: [https://www.instagram.com/p/DEgNk2LxxqJ/](https://www.instagram.com/p/DEgNk2LxxqJ/)*
 
 ### Ingredients
@@ -5098,7 +6667,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 150. THE EASIEST ONE-PAN DINNER!
+## 202. THE EASIEST ONE-PAN DINNER!
 *Source: [https://www.instagram.com/p/DEc2r80R5sp/](https://www.instagram.com/p/DEc2r80R5sp/)*
 
 ### Ingredients
@@ -5132,7 +6701,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 151. QUICK PICKLED JALAPEÑOS!
+## 203. QUICK PICKLED JALAPEÑOS!
 *Source: [https://www.instagram.com/p/DEVtTsEx8aJ/](https://www.instagram.com/p/DEVtTsEx8aJ/)*
 
 ### Ingredients
@@ -5158,7 +6727,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 152. YOUR 2024 FAVORITE APPLE CAKE!
+## 204. YOUR 2024 FAVORITE APPLE CAKE!
 *Source: [https://www.instagram.com/p/DEQBK7hRcwh/](https://www.instagram.com/p/DEQBK7hRcwh/)*
 
 ### Ingredients
@@ -5196,7 +6765,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 153. 2024 FAVORITE FISH DISH!
+## 205. 2024 FAVORITE FISH DISH!
 *Source: [https://www.instagram.com/p/DENTxQ2RfFH/](https://www.instagram.com/p/DENTxQ2RfFH/)*
 
 ### Ingredients
@@ -5242,7 +6811,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 154. One of your 2024 favorites crunchy cabbage salad!
+## 206. One of your 2024 favorites crunchy cabbage salad!
 *Source: [https://www.instagram.com/p/DD-UJuSx75b/](https://www.instagram.com/p/DD-UJuSx75b/)*
 
 ### Ingredients
@@ -5265,7 +6834,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 155. ONE-POT MEATBALLS AND POTATO!
+## 207. ONE-POT MEATBALLS AND POTATO!
 *Source: [https://www.instagram.com/p/DD7pdppx68n/](https://www.instagram.com/p/DD7pdppx68n/)*
 
 ### Ingredients
@@ -5317,7 +6886,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 156. ARUK - IRAQI LATKE!
+## 208. ARUK - IRAQI LATKE!
 *Source: [https://www.instagram.com/p/DDxIV32xgVi/](https://www.instagram.com/p/DDxIV32xgVi/)*
 
 ### Ingredients
@@ -5354,7 +6923,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 157. WARM ROASTED CABBAGE SALAD!
+## 209. WARM ROASTED CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/DDslEyKR24F/](https://www.instagram.com/p/DDslEyKR24F/)*
 
 ### Ingredients
@@ -5392,7 +6961,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 158. FAMILY STYLE LATKE!
+## 210. FAMILY STYLE LATKE!
 *Source: [https://www.instagram.com/p/DDm7JRnRTqn/](https://www.instagram.com/p/DDm7JRnRTqn/)*
 
 ### Ingredients
@@ -5421,7 +6990,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 159. RAS EL HANUT CHUCK ROAST!
+## 211. RAS EL HANUT CHUCK ROAST!
 *Source: [https://www.instagram.com/p/DDfM_-Dx4Hv/](https://www.instagram.com/p/DDfM_-Dx4Hv/)*
 
 ### Ingredients
@@ -5467,7 +7036,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 160. Sfinge- Moroccan Hanukkah doughnuts!
+## 212. Sfinge- Moroccan Hanukkah doughnuts!
 *Source: [https://www.instagram.com/p/DDcjsT4RL5m/](https://www.instagram.com/p/DDcjsT4RL5m/)*
 
 ### Ingredients
@@ -5504,7 +7073,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 161. BAKED CAULIFLOWER LATKE!
+## 213. BAKED CAULIFLOWER LATKE!
 *Source: [https://www.instagram.com/p/DDaR1vRR7Sx/](https://www.instagram.com/p/DDaR1vRR7Sx/)*
 
 ### Ingredients
@@ -5550,7 +7119,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 162. SWEET LEVIVOT!
+## 214. SWEET LEVIVOT!
 *Source: [https://www.instagram.com/p/DDUuxQnxa8M/](https://www.instagram.com/p/DDUuxQnxa8M/)*
 
 ### Ingredients
@@ -5582,7 +7151,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 163. CRISPY SHAWARMA SMASHED POTATOES!
+## 215. CRISPY SHAWARMA SMASHED POTATOES!
 *Source: [https://www.instagram.com/p/DDNAXvMR5ez/](https://www.instagram.com/p/DDNAXvMR5ez/)*
 
 ### Ingredients
@@ -5613,7 +7182,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 164. MY KIDS FAVORITE DINNER!
+## 216. MY KIDS FAVORITE DINNER!
 *Source: [https://www.instagram.com/p/DDDCyuQRFOD/](https://www.instagram.com/p/DDDCyuQRFOD/)*
 
 ### Ingredients
@@ -5652,7 +7221,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 165. MAPLE-TAHINI BROCCOLI SALAD!
+## 217. MAPLE-TAHINI BROCCOLI SALAD!
 *Source: [https://www.instagram.com/p/DC4zQAUx2hi/](https://www.instagram.com/p/DC4zQAUx2hi/)*
 
 ### Ingredients
@@ -5674,7 +7243,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 166. GREEN BEANS AND POTATOES!
+## 218. GREEN BEANS AND POTATOES!
 *Source: [https://www.instagram.com/p/DC2EEEfRtut/](https://www.instagram.com/p/DC2EEEfRtut/)*
 
 ### Ingredients
@@ -5706,7 +7275,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 167. FAMILY STYLE POTATO BOUREKAS!
+## 219. FAMILY STYLE POTATO BOUREKAS!
 *Source: [https://www.instagram.com/p/DCrsCGTxfN_/](https://www.instagram.com/p/DCrsCGTxfN_/)*
 
 ### Ingredients
@@ -5742,7 +7311,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 168. FESTIVE DATE ROASTED SQUASH!
+## 220. FESTIVE DATE ROASTED SQUASH!
 *Source: [https://www.instagram.com/p/DCnAMJVR2jB/](https://www.instagram.com/p/DCnAMJVR2jB/)*
 
 ### Ingredients
@@ -5774,7 +7343,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 169. 5 MINUTE APPETIZER!
+## 221. 5 MINUTE APPETIZER!
 *Source: [https://www.instagram.com/p/DCkRcFgS0iA/](https://www.instagram.com/p/DCkRcFgS0iA/)*
 
 ### Ingredients
@@ -5801,7 +7370,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 170. SPLIT PEA SOUP!
+## 222. SPLIT PEA SOUP!
 *Source: [https://www.instagram.com/p/DCfUlYJRXB5/](https://www.instagram.com/p/DCfUlYJRXB5/)*
 
 ### Ingredients
@@ -5834,7 +7403,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 171. SHABBAT SALAD!
+## 223. SHABBAT SALAD!
 *Source: [https://www.instagram.com/p/DCZ8Bl_xoRo/](https://www.instagram.com/p/DCZ8Bl_xoRo/)*
 
 ### Ingredients
@@ -5855,7 +7424,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 172. PESTO SALMON!
+## 224. PESTO SALMON!
 *Source: [https://www.instagram.com/p/DCX6eb-xGBB/](https://www.instagram.com/p/DCX6eb-xGBB/)*
 
 ### Ingredients
@@ -5885,7 +7454,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 173. QUICK MATBUCHA!
+## 225. QUICK MATBUCHA!
 *Source: [https://www.instagram.com/p/DCH0vUDRWZ0/](https://www.instagram.com/p/DCH0vUDRWZ0/)*
 
 ### Ingredients
@@ -5908,7 +7477,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 174. SUMAC CHICKEN AND SQUASH!
+## 226. SUMAC CHICKEN AND SQUASH!
 *Source: [https://www.instagram.com/p/DCFElFORwMc/](https://www.instagram.com/p/DCFElFORwMc/)*
 
 ### Ingredients
@@ -5948,7 +7517,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 175. FARRO WITH ROASTED BAHARAT SQUASH!
+## 227. FARRO WITH ROASTED BAHARAT SQUASH!
 *Source: [https://www.instagram.com/p/DB94Kx0xDeI/](https://www.instagram.com/p/DB94Kx0xDeI/)*
 
 ### Ingredients
@@ -5985,7 +7554,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 176. ROASTED EGGPLANT AND PEPPER!
+## 228. ROASTED EGGPLANT AND PEPPER!
 *Source: [https://www.instagram.com/p/DB1cVrCRZ2r/](https://www.instagram.com/p/DB1cVrCRZ2r/)*
 
 ### Ingredients
@@ -6017,7 +7586,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 177. ONE-PAN RICE, NOODLES AND CHICKEN!
+## 229. ONE-PAN RICE, NOODLES AND CHICKEN!
 *Source: [https://www.instagram.com/p/DBudC5GxmtH/](https://www.instagram.com/p/DBudC5GxmtH/)*
 
 ### Ingredients
@@ -6051,7 +7620,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 178. TOFU SHAWARMA SALAD!
+## 230. TOFU SHAWARMA SALAD!
 *Source: [https://www.instagram.com/p/DBrngBMyLlL/](https://www.instagram.com/p/DBrngBMyLlL/)*
 
 ### Ingredients
@@ -6086,7 +7655,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 179. SUNDAY SHAKSHUKA!
+## 231. SUNDAY SHAKSHUKA!
 *Source: [https://www.instagram.com/p/DBo47TQRN-G/](https://www.instagram.com/p/DBo47TQRN-G/)*
 
 ### Ingredients
@@ -6127,7 +7696,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 180. AMBA-TAHINI CAULIFLOWER!
+## 232. AMBA-TAHINI CAULIFLOWER!
 *Source: [https://www.instagram.com/p/DBeVHrsRDfP/](https://www.instagram.com/p/DBeVHrsRDfP/)*
 
 ### Ingredients
@@ -6164,7 +7733,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 181. FALL SOUP!
+## 233. FALL SOUP!
 *Source: [https://www.instagram.com/p/DBcKwO6xj64/](https://www.instagram.com/p/DBcKwO6xj64/)*
 
 ### Ingredients
@@ -6199,7 +7768,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 182. PASHTIDAT PASTA - PASTA CASSEROLE!
+## 234. PASHTIDAT PASTA - PASTA CASSEROLE!
 *Source: [https://www.instagram.com/p/DBZlyShxPpt/](https://www.instagram.com/p/DBZlyShxPpt/)*
 
 ### Ingredients
@@ -6230,7 +7799,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 183. MALFOUF - IRAQI BAKLAVA CIGARS!
+## 235. MALFOUF - IRAQI BAKLAVA CIGARS!
 *Source: [https://www.instagram.com/p/DBMFRi9xsrL/](https://www.instagram.com/p/DBMFRi9xsrL/)*
 
 ### Ingredients
@@ -6273,7 +7842,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 184. JUICY CHICKEN KEBABS!
+## 236. JUICY CHICKEN KEBABS!
 *Source: [https://www.instagram.com/p/DBKFZoHSIAp/](https://www.instagram.com/p/DBKFZoHSIAp/)*
 
 ### Ingredients
@@ -6314,7 +7883,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 185. JUICY BEEF ARAYES!
+## 237. JUICY BEEF ARAYES!
 *Source: [https://www.instagram.com/p/DBFARV8xRvI/](https://www.instagram.com/p/DBFARV8xRvI/)*
 
 ### Ingredients
@@ -6351,7 +7920,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 186. PASHTIDA FOR BREAKING THE FAST!
+## 238. PASHTIDA FOR BREAKING THE FAST!
 *Source: [https://www.instagram.com/p/DA9caN5RKL3/](https://www.instagram.com/p/DA9caN5RKL3/)*
 
 ### Ingredients
@@ -6386,7 +7955,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 187. ORANGE CAKE!
+## 239. ORANGE CAKE!
 *Source: [https://www.instagram.com/p/DA6MujBRSWW/](https://www.instagram.com/p/DA6MujBRSWW/)*
 
 ### Ingredients
@@ -6423,7 +7992,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 188. HARISSA-HONEY CHICKEN AND SWEET POTATOES!
+## 240. HARISSA-HONEY CHICKEN AND SWEET POTATOES!
 *Source: [https://www.instagram.com/p/DA386ZoyyJ2/](https://www.instagram.com/p/DA386ZoyyJ2/)*
 
 ### Ingredients
@@ -6465,7 +8034,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 189. HONEY AND APPLE CAKE!
+## 241. HONEY AND APPLE CAKE!
 *Source: [https://www.instagram.com/p/DAmHBz8RQ3G/](https://www.instagram.com/p/DAmHBz8RQ3G/)*
 
 ### Ingredients
@@ -6502,7 +8071,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 190. FIGS AND POMEGRANATE SALAD!
+## 242. FIGS AND POMEGRANATE SALAD!
 *Source: [https://www.instagram.com/p/DAi01J2RpRh/](https://www.instagram.com/p/DAi01J2RpRh/)*
 
 ### Ingredients
@@ -6530,7 +8099,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 191. FESTIVE CHICKEN AND FARRO!
+## 243. FESTIVE CHICKEN AND FARRO!
 *Source: [https://www.instagram.com/p/DAglzjIxjTM/](https://www.instagram.com/p/DAglzjIxjTM/)*
 
 ### Ingredients
@@ -6578,7 +8147,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 192. TURMERIC POTATOES AND PEAS!
+## 244. TURMERIC POTATOES AND PEAS!
 *Source: [https://www.instagram.com/p/DARPKuhxHmf/](https://www.instagram.com/p/DARPKuhxHmf/)*
 
 ### Ingredients
@@ -6615,7 +8184,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 193. ONE POT CHUCK ROAST AND POTATOES!
+## 245. ONE POT CHUCK ROAST AND POTATOES!
 *Source: [https://www.instagram.com/p/DAOR7pURAxP/](https://www.instagram.com/p/DAOR7pURAxP/)*
 
 ### Ingredients
@@ -6663,7 +8232,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 194. COUSCOUS SOUP - MARAK COUSCOUS!
+## 246. COUSCOUS SOUP - MARAK COUSCOUS!
 *Source: [https://www.instagram.com/p/DAEy_OQx3oq/](https://www.instagram.com/p/DAEy_OQx3oq/)*
 
 ### Ingredients
@@ -6699,7 +8268,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 195. FESTIVE EGGPLANTS FOR ROSH HASHANAH!
+## 247. FESTIVE EGGPLANTS FOR ROSH HASHANAH!
 *Source: [https://www.instagram.com/p/C__aJj2y6e7/](https://www.instagram.com/p/C__aJj2y6e7/)*
 
 ### Ingredients
@@ -6730,7 +8299,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 196. YOU MUST TRY THIS EGG SALAD!
+## 248. YOU MUST TRY THIS EGG SALAD!
 *Source: [https://www.instagram.com/p/C_8tB54RDKt/](https://www.instagram.com/p/C_8tB54RDKt/)*
 
 ### Ingredients
@@ -6764,7 +8333,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 197. LIMONANA- FROZEN MINT LEMONADE!
+## 249. LIMONANA- FROZEN MINT LEMONADE!
 *Source: [https://www.instagram.com/p/C_6HRuuxH_n/](https://www.instagram.com/p/C_6HRuuxH_n/)*
 
 ### Ingredients
@@ -6786,7 +8355,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 198. MOROCCAN COOKED OLIVES!
+## 250. MOROCCAN COOKED OLIVES!
 *Source: [https://www.instagram.com/p/C_1dQQwxMlp/](https://www.instagram.com/p/C_1dQQwxMlp/)*
 
 ### Ingredients
@@ -6827,7 +8396,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 199. APPLE CAKE FOR ROSH HASHANAH!
+## 251. APPLE CAKE FOR ROSH HASHANAH!
 *Source: [https://www.instagram.com/p/C_yp94axHeU/](https://www.instagram.com/p/C_yp94axHeU/)*
 
 ### Ingredients
@@ -6865,7 +8434,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 200. FAMILY STYLE BEEF BOUREKAS!
+## 252. FAMILY STYLE BEEF BOUREKAS!
 *Source: [https://www.instagram.com/p/C_wRjK2xqyn/](https://www.instagram.com/p/C_wRjK2xqyn/)*
 
 ### Ingredients
@@ -6910,7 +8479,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 201. FISH DISH FOR ROSH HASHANAH!
+## 253. FISH DISH FOR ROSH HASHANAH!
 *Source: [https://www.instagram.com/p/C_t3NvYtElK/](https://www.instagram.com/p/C_t3NvYtElK/)*
 
 ### Ingredients
@@ -6947,7 +8516,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 202. SHABBAT SALAD!
+## 254. SHABBAT SALAD!
 *Source: [https://www.instagram.com/p/C_ltauJxJIp/](https://www.instagram.com/p/C_ltauJxJIp/)*
 
 ### Ingredients
@@ -6966,7 +8535,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 203. ROSH HASHANAH BRISKET!
+## 255. ROSH HASHANAH BRISKET!
 *Source: [https://www.instagram.com/p/C_jIMk7xR6i/](https://www.instagram.com/p/C_jIMk7xR6i/)*
 
 ### Ingredients
@@ -7017,7 +8586,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 204. BEET AND POMEGRANATE SALAD!
+## 256. BEET AND POMEGRANATE SALAD!
 *Source: [https://www.instagram.com/p/C_f-fcdx262/](https://www.instagram.com/p/C_f-fcdx262/)*
 
 ### Ingredients
@@ -7047,7 +8616,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 205. ONE-POT MEATBALLS AND POTATO!
+## 257. ONE-POT MEATBALLS AND POTATO!
 *Source: [https://www.instagram.com/p/C_TAa2ARmC9/](https://www.instagram.com/p/C_TAa2ARmC9/)*
 
 ### Ingredients
@@ -7099,7 +8668,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 206. ONE PAN JERUSALEM GRILL CHICKEN!
+## 258. ONE PAN JERUSALEM GRILL CHICKEN!
 *Source: [https://www.instagram.com/p/C_O2IUixy-q/](https://www.instagram.com/p/C_O2IUixy-q/)*
 
 ### Ingredients
@@ -7137,7 +8706,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 207. STUFFED PEPPERS!
+## 259. STUFFED PEPPERS!
 *Source: [https://www.instagram.com/p/C_L9IQcxVyX/](https://www.instagram.com/p/C_L9IQcxVyX/)*
 
 ### Ingredients
@@ -7188,7 +8757,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 208. RED CABBAGE SLAW WITH A TIP!
+## 260. RED CABBAGE SLAW WITH A TIP!
 *Source: [https://www.instagram.com/p/C_Jc70DxLI5/](https://www.instagram.com/p/C_Jc70DxLI5/)*
 
 ### Ingredients
@@ -7214,7 +8783,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 209. CUCUMBER AND AVOCADO SALAD!
+## 261. CUCUMBER AND AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/C_Ed12LxbEE/](https://www.instagram.com/p/C_Ed12LxbEE/)*
 
 ### Ingredients
@@ -7240,7 +8809,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 210. CUCUMBER SALAD!
+## 262. CUCUMBER SALAD!
 *Source: [https://www.instagram.com/p/C-_LaAXRQml/](https://www.instagram.com/p/C-_LaAXRQml/)*
 
 ### Ingredients
@@ -7265,7 +8834,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 211. ZUCCHINI CHEESE CASSEROLE!
+## 263. ZUCCHINI CHEESE CASSEROLE!
 *Source: [https://www.instagram.com/p/C-77iiyRjhg/](https://www.instagram.com/p/C-77iiyRjhg/)*
 
 ### Ingredients
@@ -7298,7 +8867,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 212. VEGAN POTATO GRATIN!
+## 264. VEGAN POTATO GRATIN!
 *Source: [https://www.instagram.com/p/C-3fdRwRUBN/](https://www.instagram.com/p/C-3fdRwRUBN/)*
 
 ### Ingredients
@@ -7327,7 +8896,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 213. ONE-PAN PAPRIKA CHICKEN AND POTATO!
+## 265. ONE-PAN PAPRIKA CHICKEN AND POTATO!
 *Source: [https://www.instagram.com/p/C-sjUD3I8k3/](https://www.instagram.com/p/C-sjUD3I8k3/)*
 
 ### Ingredients
@@ -7370,7 +8939,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 214. EASY MEDITERRANEAN GRILLED COD!
+## 266. EASY MEDITERRANEAN GRILLED COD!
 *Source: [https://www.instagram.com/p/C-axUg5o1tt/](https://www.instagram.com/p/C-axUg5o1tt/)*
 
 ### Ingredients
@@ -7415,7 +8984,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 215. HALLOUMI SALAD!
+## 267. HALLOUMI SALAD!
 *Source: [https://www.instagram.com/p/C-QHMuUoZBO/](https://www.instagram.com/p/C-QHMuUoZBO/)*
 
 ### Ingredients
@@ -7449,7 +9018,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 216. CHEESE AND CORN FRITTERS!
+## 268. CHEESE AND CORN FRITTERS!
 *Source: [https://www.instagram.com/p/C-DYAF_uxtR/](https://www.instagram.com/p/C-DYAF_uxtR/)*
 
 ### Ingredients
@@ -7477,7 +9046,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 217. ONE-PAN TURMERIC CHICKEN AND RICE!
+## 269. ONE-PAN TURMERIC CHICKEN AND RICE!
 *Source: [https://www.instagram.com/p/C9-NhcpR1JW/](https://www.instagram.com/p/C9-NhcpR1JW/)*
 
 ### Ingredients
@@ -7514,7 +9083,7 @@ You get a yummy homemade Halva spread
 
 ---
 
-## 218. VEGAN CHALLAH AND BABKA CAKE!
+## 270. VEGAN CHALLAH AND BABKA CAKE!
 *Source: [https://www.instagram.com/p/C9qURhFRjvI/](https://www.instagram.com/p/C9qURhFRjvI/)*
 
 ### Ingredients
@@ -7557,7 +9126,7 @@ Mix the egg and the honey together
 
 ---
 
-## 219. ONE-PAN SALMON AND CABBAGE!
+## 271. ONE-PAN SALMON AND CABBAGE!
 *Source: [https://www.instagram.com/p/C9lUqHSRAYX/](https://www.instagram.com/p/C9lUqHSRAYX/)*
 
 ### Ingredients
@@ -7592,7 +9161,7 @@ Mix the egg and the honey together
 
 ---
 
-## 220. PARGIYOT AND RED RICE!
+## 272. PARGIYOT AND RED RICE!
 *Source: [https://www.instagram.com/p/C9ipuwjxC_I/](https://www.instagram.com/p/C9ipuwjxC_I/)*
 
 ### Ingredients
@@ -7636,7 +9205,7 @@ Mix the egg and the honey together
 
 ---
 
-## 221. CABBAGE AND CARROT SALAD!
+## 273. CABBAGE AND CARROT SALAD!
 *Source: [https://www.instagram.com/p/C9dUBh1Reby/](https://www.instagram.com/p/C9dUBh1Reby/)*
 
 ### Ingredients
@@ -7656,7 +9225,7 @@ Mix the egg and the honey together
 
 ---
 
-## 222. ONE PAN TURMERIC CHICKEN AND PTITIM!
+## 274. ONE PAN TURMERIC CHICKEN AND PTITIM!
 *Source: [https://www.instagram.com/p/C9VUbOORUwr/](https://www.instagram.com/p/C9VUbOORUwr/)*
 
 ### Ingredients
@@ -7690,7 +9259,7 @@ Mix the egg and the honey together
 
 ---
 
-## 223. SHAVED STEAK WITH GREEN SCHUG!
+## 275. SHAVED STEAK WITH GREEN SCHUG!
 *Source: [https://www.instagram.com/p/C9THLooxtWU/](https://www.instagram.com/p/C9THLooxtWU/)*
 
 ### Ingredients
@@ -7718,7 +9287,7 @@ Mix the egg and the honey together
 
 ---
 
-## 224. BAKED CHICKEN ARUK!
+## 276. BAKED CHICKEN ARUK!
 *Source: [https://www.instagram.com/p/C9QfIQKxF3N/](https://www.instagram.com/p/C9QfIQKxF3N/)*
 
 ### Ingredients
@@ -7761,7 +9330,7 @@ Mix the egg and the honey together
 
 ---
 
-## 225. ICE CAFÉ WITH A TWIST!
+## 277. ICE CAFÉ WITH A TWIST!
 *Source: [https://www.instagram.com/p/C9K3U6ZRhc2/](https://www.instagram.com/p/C9K3U6ZRhc2/)*
 
 ### Ingredients
@@ -7780,7 +9349,7 @@ Mix the egg and the honey together
 
 ---
 
-## 226. SHUK SALAD!
+## 278. SHUK SALAD!
 *Source: [https://www.instagram.com/p/C9I24MixnYW/](https://www.instagram.com/p/C9I24MixnYW/)*
 
 ### Ingredients
@@ -7806,7 +9375,7 @@ Mix the egg and the honey together
 
 ---
 
-## 227. VEGAN POTATO SALAD!
+## 279. VEGAN POTATO SALAD!
 *Source: [https://www.instagram.com/p/C8-eqQBRRvg/](https://www.instagram.com/p/C8-eqQBRRvg/)*
 
 ### Ingredients
@@ -7832,7 +9401,7 @@ Mix the egg and the honey together
 
 ---
 
-## 228. JUICY BEEF ARAYES!
+## 280. JUICY BEEF ARAYES!
 *Source: [https://www.instagram.com/p/C85OGKFRS2d/](https://www.instagram.com/p/C85OGKFRS2d/)*
 
 ### Ingredients
@@ -7869,7 +9438,7 @@ Mix the egg and the honey together
 
 ---
 
-## 229. ONE-PAN SUMMER SALMON!
+## 281. ONE-PAN SUMMER SALMON!
 *Source: [https://www.instagram.com/p/C8vSoi9tJKH/](https://www.instagram.com/p/C8vSoi9tJKH/)*
 
 ### Ingredients
@@ -7904,7 +9473,7 @@ Mix the egg and the honey together
 
 ---
 
-## 230. LEMONY MOROCCAN MEATBALLS!
+## 282. LEMONY MOROCCAN MEATBALLS!
 *Source: [https://www.instagram.com/p/C8sTgH8x866/](https://www.instagram.com/p/C8sTgH8x866/)*
 
 ### Ingredients
@@ -7952,7 +9521,7 @@ Mix the egg and the honey together
 
 ---
 
-## 231. ROASTED ZUCCHINI OVER TZATZIKI!
+## 283. ROASTED ZUCCHINI OVER TZATZIKI!
 *Source: [https://www.instagram.com/p/C8neMGNxARd/](https://www.instagram.com/p/C8neMGNxARd/)*
 
 ### Ingredients
@@ -7984,7 +9553,7 @@ Mix the egg and the honey together
 
 ---
 
-## 232. ONE-PAN CHICKEN SHAWARMA!
+## 284. ONE-PAN CHICKEN SHAWARMA!
 *Source: [https://www.instagram.com/p/C8lDB6lNTMB/](https://www.instagram.com/p/C8lDB6lNTMB/)*
 
 ### Ingredients
@@ -8018,7 +9587,7 @@ Mix the egg and the honey together
 
 ---
 
-## 233. ROASTED CAULIFLOWER WITH LEMONY GREEN TAHINI!
+## 285. ROASTED CAULIFLOWER WITH LEMONY GREEN TAHINI!
 *Source: [https://www.instagram.com/p/C8fa0fXy0gA/](https://www.instagram.com/p/C8fa0fXy0gA/)*
 
 ### Ingredients
@@ -8049,7 +9618,7 @@ Mix the egg and the honey together
 
 ---
 
-## 234. BANANA PECAN SHAKE!
+## 286. BANANA PECAN SHAKE!
 *Source: [https://www.instagram.com/p/C8dEy0vR-Pw/](https://www.instagram.com/p/C8dEy0vR-Pw/)*
 
 ### Ingredients
@@ -8069,7 +9638,7 @@ Mix the egg and the honey together
 
 ---
 
-## 235. OVEN-BAKED CRISPY SCHNITZEL!
+## 287. OVEN-BAKED CRISPY SCHNITZEL!
 *Source: [https://www.instagram.com/p/C8NVnPWRHmQ/](https://www.instagram.com/p/C8NVnPWRHmQ/)*
 
 ### Ingredients
@@ -8112,7 +9681,7 @@ Mix the egg and the honey together
 
 ---
 
-## 236. LEMONY ROASTED EGGPLANT AND ZUCCHINI SALAD!
+## 288. LEMONY ROASTED EGGPLANT AND ZUCCHINI SALAD!
 *Source: [https://www.instagram.com/p/C8LH8qzx2An/](https://www.instagram.com/p/C8LH8qzx2An/)*
 
 ### Ingredients
@@ -8142,7 +9711,7 @@ Mix the egg and the honey together
 
 ---
 
-## 237. SHAVUOT 2024
+## 289. SHAVUOT 2024
 *Source: [https://www.instagram.com/p/C8IiVmARytd/](https://www.instagram.com/p/C8IiVmARytd/)*
 
 ### Instructions
@@ -8150,7 +9719,7 @@ Mix the egg and the honey together
 
 ---
 
-## 238. POTATO CASSEROLE !
+## 290. POTATO CASSEROLE !
 *Source: [https://www.instagram.com/p/C8FeFLORzeA/](https://www.instagram.com/p/C8FeFLORzeA/)*
 
 ### Ingredients
@@ -8187,7 +9756,7 @@ Mix the egg and the honey together
 
 ---
 
-## 239. GLUTEN-FREE, DAIRY-FREE STRAWBERRY CAKE!
+## 291. GLUTEN-FREE, DAIRY-FREE STRAWBERRY CAKE!
 *Source: [https://www.instagram.com/p/C8DVNdYRybx/](https://www.instagram.com/p/C8DVNdYRybx/)*
 
 ### Ingredients
@@ -8217,7 +9786,7 @@ Mix the egg and the honey together
 
 ---
 
-## 240. MY WINNING CABBAGE SALAD!
+## 292. MY WINNING CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/C7-NovORFkZ/](https://www.instagram.com/p/C7-NovORFkZ/)*
 
 ### Ingredients
@@ -8240,7 +9809,7 @@ Mix the egg and the honey together
 
 ---
 
-## 241. FAMILY STYLE POTATO BOUREKAS!
+## 293. FAMILY STYLE POTATO BOUREKAS!
 *Source: [https://www.instagram.com/p/C767PMbxu01/](https://www.instagram.com/p/C767PMbxu01/)*
 
 ### Ingredients
@@ -8276,7 +9845,7 @@ Mix the egg and the honey together
 
 ---
 
-## 242. CHEESE AND ONION PASHTIDA - CASSEROLE!
+## 294. CHEESE AND ONION PASHTIDA - CASSEROLE!
 *Source: [https://www.instagram.com/p/C71_5y-Rn2X/](https://www.instagram.com/p/C71_5y-Rn2X/)*
 
 ### Ingredients
@@ -8305,7 +9874,7 @@ Mix the egg and the honey together
 
 ---
 
-## 243. MEDITERRANEAN NECTARINE SALAD!
+## 295. MEDITERRANEAN NECTARINE SALAD!
 *Source: [https://www.instagram.com/p/C7xWThkRQmN/](https://www.instagram.com/p/C7xWThkRQmN/)*
 
 ### Ingredients
@@ -8327,7 +9896,7 @@ Mix the egg and the honey together
 
 ---
 
-## 244. THE EASIEST NO-BAKE CHEESECAKE!
+## 296. THE EASIEST NO-BAKE CHEESECAKE!
 *Source: [https://www.instagram.com/p/C7u4YFwNp-T/](https://www.instagram.com/p/C7u4YFwNp-T/)*
 
 ### Ingredients
@@ -8364,7 +9933,7 @@ Mix the egg and the honey together
 
 ---
 
-## 245. PIZZA CORN MUFFINS!
+## 297. PIZZA CORN MUFFINS!
 *Source: [https://www.instagram.com/p/C7sUdgUNzZh/](https://www.instagram.com/p/C7sUdgUNzZh/)*
 
 ### Ingredients
@@ -8401,7 +9970,7 @@ Mix the egg and the honey together
 
 ---
 
-## 246. ROASTED EGGPLANTS AND PEPPERS!
+## 298. ROASTED EGGPLANTS AND PEPPERS!
 *Source: [https://www.instagram.com/p/C7m6G8fR-Lc/](https://www.instagram.com/p/C7m6G8fR-Lc/)*
 
 ### Ingredients
@@ -8423,7 +9992,7 @@ Mix the egg and the honey together
 
 ---
 
-## 247. KEBAB SCHNITZEL!
+## 299. KEBAB SCHNITZEL!
 *Source: [https://www.instagram.com/p/C7j3EY7xM8h/](https://www.instagram.com/p/C7j3EY7xM8h/)*
 
 ### Ingredients
@@ -8462,7 +10031,7 @@ Mix the egg and the honey together
 
 ---
 
-## 248. CHEESE BOUIKOS!
+## 300. CHEESE BOUIKOS!
 *Source: [https://www.instagram.com/p/C7fJS4dR4rX/](https://www.instagram.com/p/C7fJS4dR4rX/)*
 
 ### Ingredients
@@ -8498,7 +10067,7 @@ Mix the egg and the honey together
 
 ---
 
-## 249. LIMONANA- FROZEN MINT LEMONADE!
+## 301. LIMONANA- FROZEN MINT LEMONADE!
 *Source: [https://www.instagram.com/p/C7cfc6txa97/](https://www.instagram.com/p/C7cfc6txa97/)*
 
 ### Ingredients
@@ -8520,7 +10089,7 @@ Mix the egg and the honey together
 
 ---
 
-## 250. FRESH CORN AND AVOCADO SALAD!
+## 302. FRESH CORN AND AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/C7XBEDGxM5O/](https://www.instagram.com/p/C7XBEDGxM5O/)*
 
 ### Ingredients
@@ -8545,7 +10114,7 @@ Mix the egg and the honey together
 
 ---
 
-## 251. BAKED FISH SCHNITZEL!
+## 303. BAKED FISH SCHNITZEL!
 *Source: [https://www.instagram.com/p/C7SQ6YRRQEu/](https://www.instagram.com/p/C7SQ6YRRQEu/)*
 
 ### Ingredients
@@ -8591,7 +10160,7 @@ Mix the egg and the honey together
 
 ---
 
-## 252. FENNEL AND AVOCADO SALAD!
+## 304. FENNEL AND AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/C7KPrEix6V-/](https://www.instagram.com/p/C7KPrEix6V-/)*
 
 ### Ingredients
@@ -8617,7 +10186,7 @@ Mix the egg and the honey together
 
 ---
 
-## 253. MAPLE-TAHINI BROCCOLI SALAD!
+## 305. MAPLE-TAHINI BROCCOLI SALAD!
 *Source: [https://www.instagram.com/p/C7AdWMqgcPI/](https://www.instagram.com/p/C7AdWMqgcPI/)*
 
 ### Ingredients
@@ -8639,7 +10208,7 @@ Mix the egg and the honey together
 
 ---
 
-## 254. EGG NOODLES AND PTITIM!
+## 306. EGG NOODLES AND PTITIM!
 *Source: [https://www.instagram.com/p/C696-OwNVlV/](https://www.instagram.com/p/C696-OwNVlV/)*
 
 ### Ingredients
@@ -8666,7 +10235,7 @@ Mix the egg and the honey together
 
 ---
 
-## 255. BEST FALAFEL!
+## 307. BEST FALAFEL!
 *Source: [https://www.instagram.com/p/C67VBDZNamw/](https://www.instagram.com/p/C67VBDZNamw/)*
 
 ### Ingredients
@@ -8708,7 +10277,7 @@ Mix the egg and the honey together
 
 ---
 
-## 256. DECONSTRUCTED SABICH SALAD!
+## 308. DECONSTRUCTED SABICH SALAD!
 *Source: [https://www.instagram.com/p/C63ysocOm72/](https://www.instagram.com/p/C63ysocOm72/)*
 
 ### Ingredients
@@ -8740,7 +10309,7 @@ Mix the egg and the honey together
 
 ---
 
-## 257. EASY MEDITERRANEAN GRILLED COD!
+## 309. EASY MEDITERRANEAN GRILLED COD!
 *Source: [https://www.instagram.com/p/C6xBnCixwAf/](https://www.instagram.com/p/C6xBnCixwAf/)*
 
 ### Ingredients
@@ -8785,7 +10354,7 @@ Mix the egg and the honey together
 
 ---
 
-## 258. CREAMY FETA CHEESE WITH ROASTED PEPPERS!
+## 310. CREAMY FETA CHEESE WITH ROASTED PEPPERS!
 *Source: [https://www.instagram.com/p/C6uLrRyxVub/](https://www.instagram.com/p/C6uLrRyxVub/)*
 
 ### Ingredients
@@ -8822,7 +10391,7 @@ Mix the egg and the honey together
 
 ---
 
-## 259. SUMAC CHICKEN THIGHS!
+## 311. SUMAC CHICKEN THIGHS!
 *Source: [https://www.instagram.com/p/C6r82CFtXsR/](https://www.instagram.com/p/C6r82CFtXsR/)*
 
 ### Ingredients
@@ -8863,7 +10432,7 @@ Mix the egg and the honey together
 
 ---
 
-## 260. MY FAVORITE APPLE CAKE!
+## 312. MY FAVORITE APPLE CAKE!
 *Source: [https://www.instagram.com/p/C6pH_s-xvJh/](https://www.instagram.com/p/C6pH_s-xvJh/)*
 
 ### Ingredients
@@ -8901,7 +10470,7 @@ Mix the egg and the honey together
 
 ---
 
-## 261. YOU MUST TRY THIS EGG SALAD!
+## 313. YOU MUST TRY THIS EGG SALAD!
 *Source: [https://www.instagram.com/p/C6j4VCsxEmO/](https://www.instagram.com/p/C6j4VCsxEmO/)*
 
 ### Ingredients
@@ -8935,7 +10504,7 @@ Mix the egg and the honey together
 
 ---
 
-## 262. BAKED CHICKEN ARUK!
+## 314. BAKED CHICKEN ARUK!
 *Source: [https://www.instagram.com/p/C6e5dMmx3iX/](https://www.instagram.com/p/C6e5dMmx3iX/)*
 
 ### Ingredients
@@ -8978,7 +10547,7 @@ Mix the egg and the honey together
 
 ---
 
-## 263. CREAMY SWEET POTATO PASTA!
+## 315. CREAMY SWEET POTATO PASTA!
 *Source: [https://www.instagram.com/p/C6bpl34uLJb/](https://www.instagram.com/p/C6bpl34uLJb/)*
 
 ### Ingredients
@@ -9006,7 +10575,7 @@ Mix the egg and the honey together
 
 ---
 
-## 264. CHEESE BOUREKAS WITH A TWIST!
+## 316. CHEESE BOUREKAS WITH A TWIST!
 *Source: [https://www.instagram.com/p/C6XICYhx0Ar/](https://www.instagram.com/p/C6XICYhx0Ar/)*
 
 ### Ingredients
@@ -9040,7 +10609,7 @@ Mix the egg and the honey together
 
 ---
 
-## 265. VEGAN SHAWARMA AKA CAULIFLOWER SHAWARMA!
+## 317. VEGAN SHAWARMA AKA CAULIFLOWER SHAWARMA!
 *Source: [https://www.instagram.com/p/C6T7en_uDrl/](https://www.instagram.com/p/C6T7en_uDrl/)*
 
 ### Ingredients
@@ -9079,7 +10648,7 @@ Mix the egg and the honey together
 
 ---
 
-## 266. HONEY CHICKEN TRAY BAKE!
+## 318. HONEY CHICKEN TRAY BAKE!
 *Source: [https://www.instagram.com/p/C6M8FOdRL_e/](https://www.instagram.com/p/C6M8FOdRL_e/)*
 
 ### Ingredients
@@ -9118,7 +10687,7 @@ Mix the egg and the honey together
 
 ---
 
-## 267. PASSOVER MINI BUNS!
+## 319. PASSOVER MINI BUNS!
 *Source: [https://www.instagram.com/p/C6KLOHCRmFl/](https://www.instagram.com/p/C6KLOHCRmFl/)*
 
 ### Ingredients
@@ -9153,7 +10722,7 @@ Mix the egg and the honey together
 
 ---
 
-## 268. MINI MATZAH FRENCH TOAST!
+## 320. MINI MATZAH FRENCH TOAST!
 *Source: [https://www.instagram.com/p/C6EP7ClOsRj/](https://www.instagram.com/p/C6EP7ClOsRj/)*
 
 ### Ingredients
@@ -9180,7 +10749,7 @@ Mix the egg and the honey together
 
 ---
 
-## 269. WARM ROASTED CABBAGE SALAD!
+## 321. WARM ROASTED CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/C59JuPnR83e/](https://www.instagram.com/p/C59JuPnR83e/)*
 
 ### Ingredients
@@ -9217,7 +10786,7 @@ Mix the egg and the honey together
 
 ---
 
-## 270. VEGAN POTATO GRATIN!
+## 322. VEGAN POTATO GRATIN!
 *Source: [https://www.instagram.com/p/C57G9e6NZpG/](https://www.instagram.com/p/C57G9e6NZpG/)*
 
 ### Ingredients
@@ -9246,7 +10815,7 @@ Mix the egg and the honey together
 
 ---
 
-## 271. ROASTED CAULIFLOWER AND LEMONY LEEK!
+## 323. ROASTED CAULIFLOWER AND LEMONY LEEK!
 *Source: [https://www.instagram.com/p/C54SKhdRbVv/](https://www.instagram.com/p/C54SKhdRbVv/)*
 
 ### Ingredients
@@ -9293,7 +10862,7 @@ Mix the egg and the honey together
 
 ---
 
-## 272. ONE-PAN QUINOA AND CHICKEN!
+## 324. ONE-PAN QUINOA AND CHICKEN!
 *Source: [https://www.instagram.com/p/C51sGKlR3Sb/](https://www.instagram.com/p/C51sGKlR3Sb/)*
 
 ### Ingredients
@@ -9332,7 +10901,7 @@ Mix the egg and the honey together
 
 ---
 
-## 273. FESTIVE BRISKET!
+## 325. FESTIVE BRISKET!
 *Source: [https://www.instagram.com/p/C5y7k5BRDFk/](https://www.instagram.com/p/C5y7k5BRDFk/)*
 
 ### Ingredients
@@ -9383,7 +10952,7 @@ Mix the egg and the honey together
 
 ---
 
-## 274. PASSOVER IRAQI CHAROSET!
+## 326. PASSOVER IRAQI CHAROSET!
 *Source: [https://www.instagram.com/p/C5wnP7PRmng/](https://www.instagram.com/p/C5wnP7PRmng/)*
 
 ### Ingredients
@@ -9403,7 +10972,7 @@ Mix the egg and the honey together
 
 ---
 
-## 275. PASSOVER CHOCOLATE BANANA CAKE!
+## 327. PASSOVER CHOCOLATE BANANA CAKE!
 *Source: [https://www.instagram.com/p/C5q0zEaO8de/](https://www.instagram.com/p/C5q0zEaO8de/)*
 
 ### Ingredients
@@ -9435,7 +11004,7 @@ Mix the egg and the honey together
 
 ---
 
-## 276. KOSHER FOR PASSOVER BAKLAVA!
+## 328. KOSHER FOR PASSOVER BAKLAVA!
 *Source: [https://www.instagram.com/p/C5omtnDxAwh/](https://www.instagram.com/p/C5omtnDxAwh/)*
 
 ### Ingredients
@@ -9468,7 +11037,7 @@ Mix the egg and the honey together
 
 ---
 
-## 277. REFRESHING AVOCADO SALAD!
+## 329. REFRESHING AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/C5jkWIYS1C6/](https://www.instagram.com/p/C5jkWIYS1C6/)*
 
 ### Ingredients
@@ -9493,7 +11062,7 @@ Mix the egg and the honey together
 
 ---
 
-## 278. VEGETARIAN CHOPPED LIVER!
+## 330. VEGETARIAN CHOPPED LIVER!
 *Source: [https://www.instagram.com/p/C5hVx_YSdaM/](https://www.instagram.com/p/C5hVx_YSdaM/)*
 
 ### Ingredients
@@ -9532,7 +11101,7 @@ Mix the egg and the honey together
 
 ---
 
-## 279. GREEN BEANS AND POTATOES!
+## 331. GREEN BEANS AND POTATOES!
 *Source: [https://www.instagram.com/p/C5eB6GjuzeU/](https://www.instagram.com/p/C5eB6GjuzeU/)*
 
 ### Ingredients
@@ -9564,7 +11133,7 @@ Mix the egg and the honey together
 
 ---
 
-## 280. PASSOVER PASHTIDAT ZUCCHINI
+## 332. PASSOVER PASHTIDAT ZUCCHINI
 *Source: [https://www.instagram.com/p/C5W6op4RmNy/](https://www.instagram.com/p/C5W6op4RmNy/)*
 
 ### Ingredients
@@ -9602,7 +11171,7 @@ Mix the egg and the honey together
 
 ---
 
-## 281. ROASTED EGGPLANTS WITH GREEN SALSA!
+## 333. ROASTED EGGPLANTS WITH GREEN SALSA!
 *Source: [https://www.instagram.com/p/C5UZ4jeyWLl/](https://www.instagram.com/p/C5UZ4jeyWLl/)*
 
 ### Ingredients
@@ -9630,7 +11199,7 @@ Mix the egg and the honey together
 
 ---
 
-## 282. PASSOVER APPLE CAKE!
+## 334. PASSOVER APPLE CAKE!
 *Source: [https://www.instagram.com/p/C5RqLMjRvxQ/](https://www.instagram.com/p/C5RqLMjRvxQ/)*
 
 ### Ingredients
@@ -9666,7 +11235,7 @@ Mix the egg and the honey together
 
 ---
 
-## 283. MEDITERRANEAN SHEET-PAN CHICKEN!
+## 335. MEDITERRANEAN SHEET-PAN CHICKEN!
 *Source: [https://www.instagram.com/p/C5PQS3wxTuG/](https://www.instagram.com/p/C5PQS3wxTuG/)*
 
 ### Ingredients
@@ -9704,7 +11273,7 @@ Mix the egg and the honey together
 
 ---
 
-## 284. SPRING CABBAGE SALAD!
+## 336. SPRING CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/C5MnXYkxmTR/](https://www.instagram.com/p/C5MnXYkxmTR/)*
 
 ### Ingredients
@@ -9727,7 +11296,7 @@ Mix the egg and the honey together
 
 ---
 
-## 285. SALAT MAYONNAISE- POTATO SALAD!
+## 337. SALAT MAYONNAISE- POTATO SALAD!
 *Source: [https://www.instagram.com/p/C5JMCk0Ob7l/](https://www.instagram.com/p/C5JMCk0Ob7l/)*
 
 ### Ingredients
@@ -9758,7 +11327,7 @@ Mix the egg and the honey together
 
 ---
 
-## 286. ONE-PAN PAPRIKA CHICKEN AND POTATO!
+## 338. ONE-PAN PAPRIKA CHICKEN AND POTATO!
 *Source: [https://www.instagram.com/p/C5FAxnoRBoa/](https://www.instagram.com/p/C5FAxnoRBoa/)*
 
 ### Ingredients
@@ -9801,7 +11370,7 @@ Mix the egg and the honey together
 
 ---
 
-## 287. MEDITERRANEAN ONE PAN SALMON!
+## 339. MEDITERRANEAN ONE PAN SALMON!
 *Source: [https://www.instagram.com/p/C5Ca2tTxz6l/](https://www.instagram.com/p/C5Ca2tTxz6l/)*
 
 ### Ingredients
@@ -9836,7 +11405,7 @@ Mix the egg and the honey together
 
 ---
 
-## 288. BARLEY SOUP!
+## 340. BARLEY SOUP!
 *Source: [https://www.instagram.com/p/C4_px3xxTr9/](https://www.instagram.com/p/C4_px3xxTr9/)*
 
 ### Ingredients
@@ -9869,7 +11438,7 @@ Mix the egg and the honey together
 
 ---
 
-## 289. SUMAC GREEN BEANS!
+## 341. SUMAC GREEN BEANS!
 *Source: [https://www.instagram.com/p/C49FFSIxx-1/](https://www.instagram.com/p/C49FFSIxx-1/)*
 
 ### Ingredients
@@ -9900,7 +11469,7 @@ Mix the egg and the honey together
 
 ---
 
-## 290. LEMONY MOROCCAN MEATBALLS!
+## 342. LEMONY MOROCCAN MEATBALLS!
 *Source: [https://www.instagram.com/p/C46jg2hx-V1/](https://www.instagram.com/p/C46jg2hx-V1/)*
 
 ### Ingredients
@@ -9948,7 +11517,7 @@ Mix the egg and the honey together
 
 ---
 
-## 291. FAMILY STYLE CHEESE BOUREKAS!
+## 343. FAMILY STYLE CHEESE BOUREKAS!
 *Source: [https://www.instagram.com/p/C433BcGxT4d/](https://www.instagram.com/p/C433BcGxT4d/)*
 
 ### Ingredients
@@ -9983,7 +11552,7 @@ Mix the egg and the honey together
 
 ---
 
-## 292. SUMAC ONION!
+## 344. SUMAC ONION!
 *Source: [https://www.instagram.com/p/C40rxo9OF4F/](https://www.instagram.com/p/C40rxo9OF4F/)*
 
 ### Ingredients
@@ -10006,7 +11575,7 @@ Mix the egg and the honey together
 
 ---
 
-## 293. AMBA-TAHINI CAULIFLOWER!
+## 345. AMBA-TAHINI CAULIFLOWER!
 *Source: [https://www.instagram.com/p/C4yy75WRC9m/](https://www.instagram.com/p/C4yy75WRC9m/)*
 
 ### Ingredients
@@ -10043,7 +11612,7 @@ Mix the egg and the honey together
 
 ---
 
-## 294. CRUNCHY TUNA AND CABBAGE SALAD!
+## 346. CRUNCHY TUNA AND CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/C4wMasTRY1k/](https://www.instagram.com/p/C4wMasTRY1k/)*
 
 ### Ingredients
@@ -10070,7 +11639,7 @@ Mix the egg and the honey together
 
 ---
 
-## 295. Ozney Haman - Hamantaschen time!
+## 347. Ozney Haman - Hamantaschen time!
 *Source: [https://www.instagram.com/p/C4tv9e0RHGC/](https://www.instagram.com/p/C4tv9e0RHGC/)*
 
 ### Ingredients
@@ -10113,7 +11682,7 @@ Mix the egg and the honey together
 
 ---
 
-## 296. NOAS FAVORITE RICE!
+## 348. NOAS FAVORITE RICE!
 *Source: [https://www.instagram.com/p/C4qwbp4Rrw4/](https://www.instagram.com/p/C4qwbp4Rrw4/)*
 
 ### Ingredients
@@ -10139,7 +11708,7 @@ Mix the egg and the honey together
 
 ---
 
-## 297. MOROCCAN FISH WITH A TWIST!
+## 349. MOROCCAN FISH WITH A TWIST!
 *Source: [https://www.instagram.com/p/C4gpLltR_Jl/](https://www.instagram.com/p/C4gpLltR_Jl/)*
 
 ### Ingredients
@@ -10185,7 +11754,7 @@ Mix the egg and the honey together
 
 ---
 
-## 298. ONE PAN ROASTED CHICKEN OVER SWEET POTATOES!
+## 350. ONE PAN ROASTED CHICKEN OVER SWEET POTATOES!
 *Source: [https://www.instagram.com/p/C4d321lxDrD/](https://www.instagram.com/p/C4d321lxDrD/)*
 
 ### Ingredients
@@ -10226,7 +11795,7 @@ Mix the egg and the honey together
 
 ---
 
-## 299. MY SECRET FOR A FLUFFY PTITIM!
+## 351. MY SECRET FOR A FLUFFY PTITIM!
 *Source: [https://www.instagram.com/p/C4bPH7NRNXI/](https://www.instagram.com/p/C4bPH7NRNXI/)*
 
 ### Ingredients
@@ -10250,7 +11819,7 @@ Mix the egg and the honey together
 
 ---
 
-## 300. ZAATAR CABBAGE SALAD!
+## 352. ZAATAR CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/C4YtkW-RDLk/](https://www.instagram.com/p/C4YtkW-RDLk/)*
 
 ### Ingredients
@@ -10280,7 +11849,7 @@ Mix the egg and the honey together
 
 ---
 
-## 301. POTATO PASHTIDA!
+## 353. POTATO PASHTIDA!
 *Source: [https://www.instagram.com/p/C4WiTzjxRSs/](https://www.instagram.com/p/C4WiTzjxRSs/)*
 
 ### Ingredients
@@ -10317,7 +11886,7 @@ Mix the egg and the honey together
 
 ---
 
-## 302. MINI RUGELACH!
+## 354. MINI RUGELACH!
 *Source: [https://www.instagram.com/p/C4O1oHvxrAt/](https://www.instagram.com/p/C4O1oHvxrAt/)*
 
 ### Ingredients
@@ -10355,7 +11924,7 @@ Mix the egg and the honey together
 
 ---
 
-## 303. BAKED FISH SCHNITZEL!
+## 355. BAKED FISH SCHNITZEL!
 *Source: [https://www.instagram.com/p/C4LrnzZR5GY/](https://www.instagram.com/p/C4LrnzZR5GY/)*
 
 ### Ingredients
@@ -10401,7 +11970,7 @@ Mix the egg and the honey together
 
 ---
 
-## 304. ROASTED EGGPLANT AND PEPPER SALAD!
+## 356. ROASTED EGGPLANT AND PEPPER SALAD!
 *Source: [https://www.instagram.com/p/C4G-lSWRuuA/](https://www.instagram.com/p/C4G-lSWRuuA/)*
 
 ### Ingredients
@@ -10433,7 +12002,7 @@ Mix the egg and the honey together
 
 ---
 
-## 305. 10 MINUTES PREP - CHICKEN AND POTATO!
+## 357. 10 MINUTES PREP - CHICKEN AND POTATO!
 *Source: [https://www.instagram.com/p/C4B50CyxLAr/](https://www.instagram.com/p/C4B50CyxLAr/)*
 
 ### Ingredients
@@ -10470,7 +12039,7 @@ Mix the egg and the honey together
 
 ---
 
-## 306. SUMAC VINAIGRETTE ROASTED EGGPLANTS!
+## 358. SUMAC VINAIGRETTE ROASTED EGGPLANTS!
 *Source: [https://www.instagram.com/p/C3-y45WR62S/](https://www.instagram.com/p/C3-y45WR62S/)*
 
 ### Ingredients
@@ -10511,7 +12080,7 @@ Mix the egg and the honey together
 
 ---
 
-## 307. ONE-PAN CHICKEN AND BULGUR!
+## 359. ONE-PAN CHICKEN AND BULGUR!
 *Source: [https://www.instagram.com/p/C39CC3qNIFs/](https://www.instagram.com/p/C39CC3qNIFs/)*
 
 ### Ingredients
@@ -10556,7 +12125,7 @@ Mix the egg and the honey together
 
 ---
 
-## 308. ROASTED POTATOES AND FENNEL!
+## 360. ROASTED POTATOES AND FENNEL!
 *Source: [https://www.instagram.com/p/C35mq7pxuoY/](https://www.instagram.com/p/C35mq7pxuoY/)*
 
 ### Ingredients
@@ -10587,7 +12156,7 @@ Mix the egg and the honey together
 
 ---
 
-## 309. SHAKSHUKA TIME!
+## 361. SHAKSHUKA TIME!
 *Source: [https://www.instagram.com/p/C30zWqLxXO4/](https://www.instagram.com/p/C30zWqLxXO4/)*
 
 ### Ingredients
@@ -10628,7 +12197,7 @@ Mix the egg and the honey together
 
 ---
 
-## 310. MAPLE-TAHINI BROCCOLI SALAD!
+## 362. MAPLE-TAHINI BROCCOLI SALAD!
 *Source: [https://www.instagram.com/p/C3xzxwbudIM/](https://www.instagram.com/p/C3xzxwbudIM/)*
 
 ### Ingredients
@@ -10650,7 +12219,7 @@ Mix the egg and the honey together
 
 ---
 
-## 311. NO MESS BEET SALAD!
+## 363. NO MESS BEET SALAD!
 *Source: [https://www.instagram.com/p/C3qlqnVxG2J/](https://www.instagram.com/p/C3qlqnVxG2J/)*
 
 ### Ingredients
@@ -10681,7 +12250,7 @@ Mix the egg and the honey together
 
 ---
 
-## 312. ONE-PAN CHICKEN AND TURMERIC RICE!
+## 364. ONE-PAN CHICKEN AND TURMERIC RICE!
 *Source: [https://www.instagram.com/p/C3dkN2Ex8Ys/](https://www.instagram.com/p/C3dkN2Ex8Ys/)*
 
 ### Ingredients
@@ -10723,7 +12292,7 @@ Mix the egg and the honey together
 
 ---
 
-## 313. ROASTED EGGPLANTS WITH SCHUG!
+## 365. ROASTED EGGPLANTS WITH SCHUG!
 *Source: [https://www.instagram.com/p/C3bDOlTRPZG/](https://www.instagram.com/p/C3bDOlTRPZG/)*
 
 ### Ingredients
@@ -10752,7 +12321,7 @@ Mix the egg and the honey together
 
 ---
 
-## 314. FENNEL AND AVOCADO SALAD!
+## 366. FENNEL AND AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/C3YfGSdRefM/](https://www.instagram.com/p/C3YfGSdRefM/)*
 
 ### Ingredients
@@ -10778,7 +12347,7 @@ Mix the egg and the honey together
 
 ---
 
-## 315. TURMERIC CHICKEN MEATBALLS!
+## 367. TURMERIC CHICKEN MEATBALLS!
 *Source: [https://www.instagram.com/p/C3Vj7hZOcl3/](https://www.instagram.com/p/C3Vj7hZOcl3/)*
 
 ### Ingredients
@@ -10827,7 +12396,7 @@ Mix the egg and the honey together
 
 ---
 
-## 316. MY KIDS FAVORITE PASTA!
+## 368. MY KIDS FAVORITE PASTA!
 *Source: [https://www.instagram.com/p/C3RDBWPxzyX/](https://www.instagram.com/p/C3RDBWPxzyX/)*
 
 ### Ingredients
@@ -10860,7 +12429,7 @@ Mix the egg and the honey together
 
 ---
 
-## 317. PASHTIDAT ZUCCHINI - ZUCCHINI CASSEROLE!
+## 369. PASHTIDAT ZUCCHINI - ZUCCHINI CASSEROLE!
 *Source: [https://www.instagram.com/p/C3LnmFGxEau/](https://www.instagram.com/p/C3LnmFGxEau/)*
 
 ### Ingredients
@@ -10900,7 +12469,7 @@ Mix the egg and the honey together
 
 ---
 
-## 318. ROASTED BRUSSELS OVER HUMMUS!
+## 370. ROASTED BRUSSELS OVER HUMMUS!
 *Source: [https://www.instagram.com/p/C3I2lXvxnDD/](https://www.instagram.com/p/C3I2lXvxnDD/)*
 
 ### Ingredients
@@ -10934,7 +12503,7 @@ Mix the egg and the honey together
 
 ---
 
-## 319. HONEY SESAME CHICKEN TENDERLOIN!
+## 371. HONEY SESAME CHICKEN TENDERLOIN!
 *Source: [https://www.instagram.com/p/C3GpNsPxzu8/](https://www.instagram.com/p/C3GpNsPxzu8/)*
 
 ### Ingredients
@@ -10977,7 +12546,7 @@ Mix the egg and the honey together
 
 ---
 
-## 320. AVOCADO TAHINI CABBAGE STEAKS!
+## 372. AVOCADO TAHINI CABBAGE STEAKS!
 *Source: [https://www.instagram.com/p/C3D8eSWx2uK/](https://www.instagram.com/p/C3D8eSWx2uK/)*
 
 ### Ingredients
@@ -11009,7 +12578,7 @@ Mix the egg and the honey together
 
 ---
 
-## 321. PIZZA CORN MUFFINS!
+## 373. PIZZA CORN MUFFINS!
 *Source: [https://www.instagram.com/p/C3BixyLR4AS/](https://www.instagram.com/p/C3BixyLR4AS/)*
 
 ### Ingredients
@@ -11046,7 +12615,7 @@ Mix the egg and the honey together
 
 ---
 
-## 322. CHOCOLATE BALLS- KADOREI SHOKOLAD!
+## 374. CHOCOLATE BALLS- KADOREI SHOKOLAD!
 *Source: [https://www.instagram.com/p/C2-2q1vRPCD/](https://www.instagram.com/p/C2-2q1vRPCD/)*
 
 ### Ingredients
@@ -11080,7 +12649,7 @@ Mix the egg and the honey together
 
 ---
 
-## 323. SPLIT PEA SOUP!
+## 375. SPLIT PEA SOUP!
 *Source: [https://www.instagram.com/p/C251UDSxbHo/](https://www.instagram.com/p/C251UDSxbHo/)*
 
 ### Ingredients
@@ -11113,7 +12682,7 @@ Mix the egg and the honey together
 
 ---
 
-## 324. ROASTED CAULIFLOWER WITH AVOCADO ZAATAR DRESSING!
+## 376. ROASTED CAULIFLOWER WITH AVOCADO ZAATAR DRESSING!
 *Source: [https://www.instagram.com/p/C22rW3gxtYX/](https://www.instagram.com/p/C22rW3gxtYX/)*
 
 ### Ingredients
@@ -11144,7 +12713,7 @@ Mix the egg and the honey together
 
 ---
 
-## 325. LEMONY ZAATAR CHICKEN BREAST!
+## 377. LEMONY ZAATAR CHICKEN BREAST!
 *Source: [https://www.instagram.com/p/C20auH4xkcR/](https://www.instagram.com/p/C20auH4xkcR/)*
 
 ### Ingredients
@@ -11178,7 +12747,7 @@ Mix the egg and the honey together
 
 ---
 
-## 326. BAKED TURMERIC RICE AND PEAS!
+## 378. BAKED TURMERIC RICE AND PEAS!
 *Source: [https://www.instagram.com/p/C2vUnqGRC0J/](https://www.instagram.com/p/C2vUnqGRC0J/)*
 
 ### Ingredients
@@ -11212,7 +12781,7 @@ Mix the egg and the honey together
 
 ---
 
-## 327. SMASHED POTATOES!
+## 379. SMASHED POTATOES!
 *Source: [https://www.instagram.com/p/C2svknjRA0S/](https://www.instagram.com/p/C2svknjRA0S/)*
 
 ### Ingredients
@@ -11241,7 +12810,7 @@ Mix the egg and the honey together
 
 ---
 
-## 328. OVEN-BAKED CRISPY SCHNITZEL!
+## 380. OVEN-BAKED CRISPY SCHNITZEL!
 *Source: [https://www.instagram.com/p/C2qdtHsxgw8/](https://www.instagram.com/p/C2qdtHsxgw8/)*
 
 ### Ingredients
@@ -11284,7 +12853,7 @@ Mix the egg and the honey together
 
 ---
 
-## 329. STRAWBERRY ALMOND CAKE!
+## 381. STRAWBERRY ALMOND CAKE!
 *Source: [https://www.instagram.com/p/C2n5Q7_x68-/](https://www.instagram.com/p/C2n5Q7_x68-/)*
 
 ### Ingredients
@@ -11321,7 +12890,7 @@ Mix the egg and the honey together
 
 ---
 
-## 330. ZOES CUCUMBER SALAD!
+## 382. ZOES CUCUMBER SALAD!
 *Source: [https://www.instagram.com/p/C2lCOlBRTqz/](https://www.instagram.com/p/C2lCOlBRTqz/)*
 
 ### Ingredients
@@ -11340,7 +12909,7 @@ Mix the egg and the honey together
 
 ---
 
-## 331. WARM ROASTED CABBAGE SALAD!
+## 383. WARM ROASTED CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/C2iaoA4xFIT/](https://www.instagram.com/p/C2iaoA4xFIT/)*
 
 ### Ingredients
@@ -11377,7 +12946,7 @@ Mix the egg and the honey together
 
 ---
 
-## 332. ONE-PAN PTITIM AND SALMON!
+## 384. ONE-PAN PTITIM AND SALMON!
 *Source: [https://www.instagram.com/p/C2dqC84tKLv/](https://www.instagram.com/p/C2dqC84tKLv/)*
 
 ### Ingredients
@@ -11419,7 +12988,7 @@ Mix the egg and the honey together
 
 ---
 
-## 333. MOROCCAN OLIVES!
+## 385. MOROCCAN OLIVES!
 *Source: [https://www.instagram.com/p/C2YX6hXR-oq/](https://www.instagram.com/p/C2YX6hXR-oq/)*
 
 ### Ingredients
@@ -11459,7 +13028,7 @@ Mix the egg and the honey together
 
 ---
 
-## 334. LEMONY CHICKPEAS AND SPINACH SOUP!
+## 386. LEMONY CHICKPEAS AND SPINACH SOUP!
 *Source: [https://www.instagram.com/p/C2V6ioAxem5/](https://www.instagram.com/p/C2V6ioAxem5/)*
 
 ### Ingredients
@@ -11502,7 +13071,7 @@ Mix the egg and the honey together
 
 ---
 
-## 335. CAKE FOR SHABBAT!
+## 387. CAKE FOR SHABBAT!
 *Source: [https://www.instagram.com/p/C2Ss9g7RZGc/](https://www.instagram.com/p/C2Ss9g7RZGc/)*
 
 ### Ingredients
@@ -11534,7 +13103,7 @@ Mix the egg and the honey together
 
 ---
 
-## 336. STUFFED PEPPERS!
+## 388. STUFFED PEPPERS!
 *Source: [https://www.instagram.com/p/C2QmnqSxD-s/](https://www.instagram.com/p/C2QmnqSxD-s/)*
 
 ### Ingredients
@@ -11585,7 +13154,7 @@ Mix the egg and the honey together
 
 ---
 
-## 337. CHEESE BOUREKAS WITH A TWIST!
+## 389. CHEESE BOUREKAS WITH A TWIST!
 *Source: [https://www.instagram.com/p/C2LRZPCxoVK/](https://www.instagram.com/p/C2LRZPCxoVK/)*
 
 ### Ingredients
@@ -11619,7 +13188,7 @@ Mix the egg and the honey together
 
 ---
 
-## 338. VEGAN IRAQI CAULIFLOWER TBEET!
+## 390. VEGAN IRAQI CAULIFLOWER TBEET!
 *Source: [https://www.instagram.com/p/C2IdTc4xXu8/](https://www.instagram.com/p/C2IdTc4xXu8/)*
 
 ### Ingredients
@@ -11660,7 +13229,7 @@ Mix the egg and the honey together
 
 ---
 
-## 339. REFRESHING AVOCADO SALAD!
+## 391. REFRESHING AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/C2GJ9TMxIPY/](https://www.instagram.com/p/C2GJ9TMxIPY/)*
 
 ### Ingredients
@@ -11685,7 +13254,7 @@ Mix the egg and the honey together
 
 ---
 
-## 340. QUICK MATBUCHA!
+## 392. QUICK MATBUCHA!
 *Source: [https://www.instagram.com/p/C2A8x8HRr_y/](https://www.instagram.com/p/C2A8x8HRr_y/)*
 
 ### Ingredients
@@ -11708,7 +13277,7 @@ Mix the egg and the honey together
 
 ---
 
-## 341. MALFOUF - IRAQI BAKLAVA!
+## 393. MALFOUF - IRAQI BAKLAVA!
 *Source: [https://www.instagram.com/p/C1-V43nRKUa/](https://www.instagram.com/p/C1-V43nRKUa/)*
 
 ### Ingredients
@@ -11751,7 +13320,7 @@ Mix the egg and the honey together
 
 ---
 
-## 342. MUJADARA - LENTIL AND RICE!
+## 394. MUJADARA - LENTIL AND RICE!
 *Source: [https://www.instagram.com/p/C17eOnoRlJa/](https://www.instagram.com/p/C17eOnoRlJa/)*
 
 ### Ingredients
@@ -11784,7 +13353,7 @@ Mix the egg and the honey together
 
 ---
 
-## 343. GLUTEN-FREE DAIRY-FREE ORANGE CAKE!
+## 395. GLUTEN-FREE DAIRY-FREE ORANGE CAKE!
 *Source: [https://www.instagram.com/p/C15Yp38xfUZ/](https://www.instagram.com/p/C15Yp38xfUZ/)*
 
 ### Ingredients
@@ -11821,7 +13390,7 @@ Mix the egg and the honey together
 
 ---
 
-## 344. ONE-PAN SALMON AND CABBAGE!
+## 396. ONE-PAN SALMON AND CABBAGE!
 *Source: [https://www.instagram.com/p/C13CEITtOeQ/](https://www.instagram.com/p/C13CEITtOeQ/)*
 
 ### Ingredients
@@ -11856,7 +13425,7 @@ Mix the egg and the honey together
 
 ---
 
-## 345. MY DADS WINING RICE RECIPE!
+## 397. MY DADS WINING RICE RECIPE!
 *Source: [https://www.instagram.com/p/C10Id2ExoiF/](https://www.instagram.com/p/C10Id2ExoiF/)*
 
 ### Ingredients
@@ -11896,7 +13465,7 @@ Mix the egg and the honey together
 
 ---
 
-## 346. HONEY CHICKEN TRAY BAKE!
+## 398. HONEY CHICKEN TRAY BAKE!
 *Source: [https://www.instagram.com/p/C1u_81Yxhm5/](https://www.instagram.com/p/C1u_81Yxhm5/)*
 
 ### Ingredients
@@ -11935,7 +13504,7 @@ Mix the egg and the honey together
 
 ---
 
-## 347. VEGAN SHAWARMA AKA CAULIFLOWER SHAWARMA!
+## 399. VEGAN SHAWARMA AKA CAULIFLOWER SHAWARMA!
 *Source: [https://www.instagram.com/p/C1sTLnBRv6T/](https://www.instagram.com/p/C1sTLnBRv6T/)*
 
 ### Ingredients
@@ -11974,7 +13543,7 @@ Mix the egg and the honey together
 
 ---
 
-## 348. GLUTEN-FREE, DAIRY-FREE APPLE CAKE!
+## 400. GLUTEN-FREE, DAIRY-FREE APPLE CAKE!
 *Source: [https://www.instagram.com/p/C1p_mM5xbyO/](https://www.instagram.com/p/C1p_mM5xbyO/)*
 
 ### Ingredients
@@ -12012,7 +13581,7 @@ Mix the egg and the honey together
 
 ---
 
-## 349. JUICY CHICKEN BREAST SHAWARMA!
+## 401. JUICY CHICKEN BREAST SHAWARMA!
 *Source: [https://www.instagram.com/p/C1nOtv_RjgG/](https://www.instagram.com/p/C1nOtv_RjgG/)*
 
 ### Ingredients
@@ -12044,7 +13613,7 @@ Mix the egg and the honey together
 
 ---
 
-## 350. RAS EL HANUT CHUCK ROAST!
+## 402. RAS EL HANUT CHUCK ROAST!
 *Source: [https://www.instagram.com/p/C1cnlazR9EE/](https://www.instagram.com/p/C1cnlazR9EE/)*
 
 ### Ingredients
@@ -12098,7 +13667,7 @@ Mix the egg and the honey together
 
 ---
 
-## 351. SUGAR SNAP PEAS AND AVOCADO SALAD!
+## 403. SUGAR SNAP PEAS AND AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/C1NykfjxFcD/](https://www.instagram.com/p/C1NykfjxFcD/)*
 
 ### Ingredients
@@ -12123,7 +13692,7 @@ Mix the egg and the honey together
 
 ---
 
-## 352. CHEESE BOUIKOS!
+## 404. CHEESE BOUIKOS!
 *Source: [https://www.instagram.com/p/C1KpVduxRJD/](https://www.instagram.com/p/C1KpVduxRJD/)*
 
 ### Ingredients
@@ -12159,7 +13728,7 @@ Mix the egg and the honey together
 
 ---
 
-## 353. SUMAC BEET SALAD!
+## 405. SUMAC BEET SALAD!
 *Source: [https://www.instagram.com/p/C1IdKD4RIf3/](https://www.instagram.com/p/C1IdKD4RIf3/)*
 
 ### Ingredients
@@ -12185,7 +13754,7 @@ Mix the egg and the honey together
 
 ---
 
-## 354. WARM TURMERIC CHICKPEAS!
+## 406. WARM TURMERIC CHICKPEAS!
 *Source: [https://www.instagram.com/p/C1FvSF4xsBn/](https://www.instagram.com/p/C1FvSF4xsBn/)*
 
 ### Ingredients
@@ -12214,7 +13783,7 @@ Mix the egg and the honey together
 
 ---
 
-## 355. HONEY MUSTARD POTATO CASSEROLE!
+## 407. HONEY MUSTARD POTATO CASSEROLE!
 *Source: [https://www.instagram.com/p/C1C8PmNRCgh/](https://www.instagram.com/p/C1C8PmNRCgh/)*
 
 ### Ingredients
@@ -12245,7 +13814,7 @@ Mix the egg and the honey together
 
 ---
 
-## 356. MARAK COUSCOUS - COUSCOUS SOUP!
+## 408. MARAK COUSCOUS - COUSCOUS SOUP!
 *Source: [https://www.instagram.com/p/C1A057jxSxs/](https://www.instagram.com/p/C1A057jxSxs/)*
 
 ### Ingredients
@@ -12285,7 +13854,7 @@ Mix the egg and the honey together
 
 ---
 
-## 357. BAKED SUMAC BRIE!
+## 409. BAKED SUMAC BRIE!
 *Source: [https://www.instagram.com/p/C09ufzSxPbY/](https://www.instagram.com/p/C09ufzSxPbY/)*
 
 ### Ingredients
@@ -12312,7 +13881,7 @@ Mix the egg and the honey together
 
 ---
 
-## 358. YOU MUST TRY THIS EGG SALAD!
+## 410. YOU MUST TRY THIS EGG SALAD!
 *Source: [https://www.instagram.com/p/C07NBGGxFvY/](https://www.instagram.com/p/C07NBGGxFvY/)*
 
 ### Ingredients
@@ -12346,7 +13915,7 @@ Mix the egg and the honey together
 
 ---
 
-## 359. FESTIVE ROASTED EGGPLANT!
+## 411. FESTIVE ROASTED EGGPLANT!
 *Source: [https://www.instagram.com/p/C02sGLWNVIH/](https://www.instagram.com/p/C02sGLWNVIH/)*
 
 ### Ingredients
@@ -12379,7 +13948,7 @@ Mix the egg and the honey together
 
 ---
 
-## 360. SHAWARMA SPICED SALMON CUBES!
+## 412. SHAWARMA SPICED SALMON CUBES!
 *Source: [https://www.instagram.com/p/C0zmPSSRUzt/](https://www.instagram.com/p/C0zmPSSRUzt/)*
 
 ### Ingredients
@@ -12428,7 +13997,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 361. COMFORTING BARLEY SOUP!
+## 413. COMFORTING BARLEY SOUP!
 *Source: [https://www.instagram.com/p/C0u2G_FxE4w/](https://www.instagram.com/p/C0u2G_FxE4w/)*
 
 ### Ingredients
@@ -12461,7 +14030,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 362. SWEET LEVIVOT - SWEET LATKE!
+## 414. SWEET LEVIVOT - SWEET LATKE!
 *Source: [https://www.instagram.com/p/C0sVPv1teI6/](https://www.instagram.com/p/C0sVPv1teI6/)*
 
 ### Ingredients
@@ -12493,7 +14062,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 363. HANUKKAH LATKES!
+## 415. HANUKKAH LATKES!
 *Source: [https://www.instagram.com/p/C0m2wGARlxQ/](https://www.instagram.com/p/C0m2wGARlxQ/)*
 
 ### Ingredients
@@ -12520,7 +14089,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 364. SHAWARMA SPICED HALIBUT!
+## 416. SHAWARMA SPICED HALIBUT!
 *Source: [https://www.instagram.com/p/C0j5R1nOARa/](https://www.instagram.com/p/C0j5R1nOARa/)*
 
 ### Ingredients
@@ -12558,7 +14127,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 365. 10 MINUTES PREP - CHICKEN AND POTATO!
+## 417. 10 MINUTES PREP - CHICKEN AND POTATO!
 *Source: [https://www.instagram.com/p/C0hYsexRvls/](https://www.instagram.com/p/C0hYsexRvls/)*
 
 ### Ingredients
@@ -12595,7 +14164,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 366. ROASTED EGGPLANT WITH AVOCADO CREAM!
+## 418. ROASTED EGGPLANT WITH AVOCADO CREAM!
 *Source: [https://www.instagram.com/p/C0e3kFqxHsj/](https://www.instagram.com/p/C0e3kFqxHsj/)*
 
 ### Ingredients
@@ -12629,7 +14198,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 367. BAKED CAULIFLOWER LATKE!
+## 419. BAKED CAULIFLOWER LATKE!
 *Source: [https://www.instagram.com/p/C0cLMiuxrat/](https://www.instagram.com/p/C0cLMiuxrat/)*
 
 ### Ingredients
@@ -12675,7 +14244,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 368. ONE PAN CHICKEN OVER SWEET POTATOES!
+## 420. ONE PAN CHICKEN OVER SWEET POTATOES!
 *Source: [https://www.instagram.com/p/C0UpbSnRpu4/](https://www.instagram.com/p/C0UpbSnRpu4/)*
 
 ### Ingredients
@@ -12728,7 +14297,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 369. FAMILY STYLE LATKE!
+## 421. FAMILY STYLE LATKE!
 *Source: [https://www.instagram.com/p/C0SIBkoxNWT/](https://www.instagram.com/p/C0SIBkoxNWT/)*
 
 ### Ingredients
@@ -12757,7 +14326,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 370. ONE-PAN EGG NOODLES AND CHICKEN!
+## 422. ONE-PAN EGG NOODLES AND CHICKEN!
 *Source: [https://www.instagram.com/p/C0PQzkauDfs/](https://www.instagram.com/p/C0PQzkauDfs/)*
 
 ### Ingredients
@@ -12801,7 +14370,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 371. NY STRIP STEAK WITH GREEN SCHUG!
+## 423. NY STRIP STEAK WITH GREEN SCHUG!
 *Source: [https://www.instagram.com/p/C0MxApTRVTs/](https://www.instagram.com/p/C0MxApTRVTs/)*
 
 ### Ingredients
@@ -12835,7 +14404,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 372. ARUK - IRAQI LATKE!
+## 424. ARUK - IRAQI LATKE!
 *Source: [https://www.instagram.com/p/C0KGiaquPZp/](https://www.instagram.com/p/C0KGiaquPZp/)*
 
 ### Ingredients
@@ -12872,7 +14441,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 373. BAKED TURMERIC RICE AND PEAS!
+## 425. BAKED TURMERIC RICE AND PEAS!
 *Source: [https://www.instagram.com/p/C0ISSF8NJVN/](https://www.instagram.com/p/C0ISSF8NJVN/)*
 
 ### Ingredients
@@ -12909,7 +14478,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 374. Thanksgiving 2023!
+## 426. Thanksgiving 2023!
 *Source: [https://www.instagram.com/p/C0Aff5qRgSp/](https://www.instagram.com/p/C0Aff5qRgSp/)*
 
 ### Instructions
@@ -12917,7 +14486,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 375. MOROCCAN SPICED ROASTED CARROTS!
+## 427. MOROCCAN SPICED ROASTED CARROTS!
 *Source: [https://www.instagram.com/p/Cz9pz_nxJfz/](https://www.instagram.com/p/Cz9pz_nxJfz/)*
 
 ### Ingredients
@@ -12952,7 +14521,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 376. SUMAC ROASTED POTATOES!
+## 428. SUMAC ROASTED POTATOES!
 *Source: [https://www.instagram.com/p/Cz6tnG-RA_5/](https://www.instagram.com/p/Cz6tnG-RA_5/)*
 
 ### Ingredients
@@ -12986,7 +14555,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 377. HOMEMADE MAPLE NUT GRANOLA!
+## 429. HOMEMADE MAPLE NUT GRANOLA!
 *Source: [https://www.instagram.com/p/Cz4QTEvxJoY/](https://www.instagram.com/p/Cz4QTEvxJoY/)*
 
 ### Ingredients
@@ -13016,7 +14585,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 378. SUMAC BEET SALAD!
+## 430. SUMAC BEET SALAD!
 *Source: [https://www.instagram.com/p/Czza_I9xXYF/](https://www.instagram.com/p/Czza_I9xXYF/)*
 
 ### Ingredients
@@ -13047,7 +14616,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 379. SALAT MAYONNAISE- POTATO SALAD!
+## 431. SALAT MAYONNAISE- POTATO SALAD!
 *Source: [https://www.instagram.com/p/Czwp2eTRzYN/](https://www.instagram.com/p/Czwp2eTRzYN/)*
 
 ### Ingredients
@@ -13078,7 +14647,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 380. BAHARAT BULGUR AND CAULIFLOWER!
+## 432. BAHARAT BULGUR AND CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CzuXpFCRRG8/](https://www.instagram.com/p/CzuXpFCRRG8/)*
 
 ### Ingredients
@@ -13116,7 +14685,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 381. CHRAIME- MOROCCAN FISH!
+## 433. CHRAIME- MOROCCAN FISH!
 *Source: [https://www.instagram.com/p/CzrQCbRuJA_/](https://www.instagram.com/p/CzrQCbRuJA_/)*
 
 ### Ingredients
@@ -13168,7 +14737,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 382. SPLIT PEA SOUP!
+## 434. SPLIT PEA SOUP!
 *Source: [https://www.instagram.com/p/CzmrxhXxdpt/](https://www.instagram.com/p/CzmrxhXxdpt/)*
 
 ### Ingredients
@@ -13201,7 +14770,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 383. SLOW-COOKED LONDON BROIL AND POTATO!
+## 435. SLOW-COOKED LONDON BROIL AND POTATO!
 *Source: [https://www.instagram.com/p/Czja5PUuK-T/](https://www.instagram.com/p/Czja5PUuK-T/)*
 
 ### Ingredients
@@ -13245,7 +14814,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 384. SCHNITZEL FRIDAY!
+## 436. SCHNITZEL FRIDAY!
 *Source: [https://www.instagram.com/p/CzewObVyY_4/](https://www.instagram.com/p/CzewObVyY_4/)*
 
 ### Ingredients
@@ -13280,7 +14849,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 385. RAS EL HANUT CHICKEN AND SQUASH!
+## 437. RAS EL HANUT CHICKEN AND SQUASH!
 *Source: [https://www.instagram.com/p/CzcMBdpRLHc/](https://www.instagram.com/p/CzcMBdpRLHc/)*
 
 ### Ingredients
@@ -13319,7 +14888,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 386. CUCUMBER PERSIMMON SALAD!
+## 438. CUCUMBER PERSIMMON SALAD!
 *Source: [https://www.instagram.com/p/CzXQ9P_RJhk/](https://www.instagram.com/p/CzXQ9P_RJhk/)*
 
 ### Ingredients
@@ -13361,7 +14930,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 387. ZUCCHINI PASHTIDA ZUCCHINI CASSEROLE!
+## 439. ZUCCHINI PASHTIDA ZUCCHINI CASSEROLE!
 *Source: [https://www.instagram.com/p/CzUp8sNRgbF/](https://www.instagram.com/p/CzUp8sNRgbF/)*
 
 ### Ingredients
@@ -13401,7 +14970,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 388. CITRUSY ROASTED CHICKEN!
+## 440. CITRUSY ROASTED CHICKEN!
 *Source: [https://www.instagram.com/p/CzRxwBTRyvP/](https://www.instagram.com/p/CzRxwBTRyvP/)*
 
 ### Ingredients
@@ -13444,7 +15013,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 389. GOLDEN CAULIFLOWER!
+## 441. GOLDEN CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CzPK0d5x-X4/](https://www.instagram.com/p/CzPK0d5x-X4/)*
 
 ### Ingredients
@@ -13477,7 +15046,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 390. ROASTED EGGPLANTS WITH SCHUG!
+## 442. ROASTED EGGPLANTS WITH SCHUG!
 *Source: [https://www.instagram.com/p/CzKU1wZRmTP/](https://www.instagram.com/p/CzKU1wZRmTP/)*
 
 ### Ingredients
@@ -13506,7 +15075,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 391. BAKED MEDITERRANEAN FETA PASTA!
+## 443. BAKED MEDITERRANEAN FETA PASTA!
 *Source: [https://www.instagram.com/p/CzHsm9hRPQ0/](https://www.instagram.com/p/CzHsm9hRPQ0/)*
 
 ### Ingredients
@@ -13544,7 +15113,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 392. SUMAC BAKED POTATO FRIES!
+## 444. SUMAC BAKED POTATO FRIES!
 *Source: [https://www.instagram.com/p/CzEycSGxhHB/](https://www.instagram.com/p/CzEycSGxhHB/)*
 
 ### Ingredients
@@ -13566,7 +15135,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 393. EASY CHOCOLATE BANANA CAKE!
+## 445. EASY CHOCOLATE BANANA CAKE!
 *Source: [https://www.instagram.com/p/CzCix6nx8X4/](https://www.instagram.com/p/CzCix6nx8X4/)*
 
 ### Ingredients
@@ -13598,7 +15167,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 394. FAMILY FAVORITE- CORN PIE!
+## 446. FAMILY FAVORITE- CORN PIE!
 *Source: [https://www.instagram.com/p/Cy_ezHLxyvh/](https://www.instagram.com/p/Cy_ezHLxyvh/)*
 
 ### Ingredients
@@ -13625,7 +15194,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 395. BULGUR AND CHICKEN!
+## 447. BULGUR AND CHICKEN!
 *Source: [https://www.instagram.com/p/Cy6Qi9jus6u/](https://www.instagram.com/p/Cy6Qi9jus6u/)*
 
 ### Ingredients
@@ -13666,7 +15235,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 396. ROASTED RAS EL HANUT CARROTS!
+## 448. ROASTED RAS EL HANUT CARROTS!
 *Source: [https://www.instagram.com/p/Cy3-T26R3JP/](https://www.instagram.com/p/Cy3-T26R3JP/)*
 
 ### Ingredients
@@ -13699,7 +15268,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 397. ONE-PAN CHICKEN AND TURMERIC RICE!
+## 449. ONE-PAN CHICKEN AND TURMERIC RICE!
 *Source: [https://www.instagram.com/p/CyzOFsHtOU-/](https://www.instagram.com/p/CyzOFsHtOU-/)*
 
 ### Ingredients
@@ -13741,7 +15310,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 398. SUMAC ONION!
+## 450. SUMAC ONION!
 *Source: [https://www.instagram.com/p/Cywcd51AGop/](https://www.instagram.com/p/Cywcd51AGop/)*
 
 ### Ingredients
@@ -13764,7 +15333,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 399. IRAQI POTATO SALAD!
+## 451. IRAQI POTATO SALAD!
 *Source: [https://www.instagram.com/p/CyuFu8sNNmr/](https://www.instagram.com/p/CyuFu8sNNmr/)*
 
 ### Ingredients
@@ -13796,7 +15365,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 400. COMFORTING FALL SOUP!
+## 452. COMFORTING FALL SOUP!
 *Source: [https://www.instagram.com/p/CyoFDBUOWfo/](https://www.instagram.com/p/CyoFDBUOWfo/)*
 
 ### Ingredients
@@ -13836,7 +15405,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 401. BEEF SIRLOIN AND BEAN STEW!
+## 453. BEEF SIRLOIN AND BEAN STEW!
 *Source: [https://www.instagram.com/p/CylqlEHuIzC/](https://www.instagram.com/p/CylqlEHuIzC/)*
 
 ### Ingredients
@@ -13882,7 +15451,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 402. This mediterranean roasted butternut squash over creamy chobani Greek yogurt is going to be your new
+## 454. This mediterranean roasted butternut squash over creamy chobani Greek yogurt is going to be your new
 *Source: [https://www.instagram.com/p/CyjgX-ouWZ-/](https://www.instagram.com/p/CyjgX-ouWZ-/)*
 
 ### Ingredients
@@ -13913,7 +15482,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 403. KTZITZOT - CHICKEN MEATBALLS!
+## 455. KTZITZOT - CHICKEN MEATBALLS!
 *Source: [https://www.instagram.com/p/Cygq_Fuxvhp/](https://www.instagram.com/p/Cygq_Fuxvhp/)*
 
 ### Ingredients
@@ -13958,7 +15527,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 404. ONE PAN CHICKEN AND PTITIM!
+## 456. ONE PAN CHICKEN AND PTITIM!
 *Source: [https://www.instagram.com/p/CyRyXpiNxDc/](https://www.instagram.com/p/CyRyXpiNxDc/)*
 
 ### Ingredients
@@ -13995,7 +15564,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 405. LENTIL AND VEGETABLE SOUP!
+## 457. LENTIL AND VEGETABLE SOUP!
 *Source: [https://www.instagram.com/p/CyEkydzR3zf/](https://www.instagram.com/p/CyEkydzR3zf/)*
 
 ### Ingredients
@@ -14029,7 +15598,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 406. CHEESE BOUREKAS WITH A TWIST!
+## 458. CHEESE BOUREKAS WITH A TWIST!
 *Source: [https://www.instagram.com/p/CyBnIevuM1r/](https://www.instagram.com/p/CyBnIevuM1r/)*
 
 ### Ingredients
@@ -14063,7 +15632,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 407. BEST SHAKSHUKA EVER!
+## 459. BEST SHAKSHUKA EVER!
 *Source: [https://www.instagram.com/p/Cx8tJ5TxUfN/](https://www.instagram.com/p/Cx8tJ5TxUfN/)*
 
 ### Ingredients
@@ -14104,7 +15673,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 408. FARRO WITH ROASTED BAHARAT SQUASH!
+## 460. FARRO WITH ROASTED BAHARAT SQUASH!
 *Source: [https://www.instagram.com/p/Cx53EUKu7W-/](https://www.instagram.com/p/Cx53EUKu7W-/)*
 
 ### Ingredients
@@ -14141,7 +15710,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 409. MOROCCAN CAULIFLOWER!
+## 461. MOROCCAN CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CxydwfdxjpN/](https://www.instagram.com/p/CxydwfdxjpN/)*
 
 ### Ingredients
@@ -14172,7 +15741,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 410. FESTIVE KEBAB CASSEROLE!
+## 462. FESTIVE KEBAB CASSEROLE!
 *Source: [https://www.instagram.com/p/CxviEoHOLUY/](https://www.instagram.com/p/CxviEoHOLUY/)*
 
 ### Ingredients
@@ -14221,7 +15790,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 411. ROLLED COOKIES!
+## 463. ROLLED COOKIES!
 *Source: [https://www.instagram.com/p/CxjTlHUxt0Q/](https://www.instagram.com/p/CxjTlHUxt0Q/)*
 
 ### Ingredients
@@ -14260,7 +15829,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 412. SHAWARMA SPICED SALMON CUBES!
+## 464. SHAWARMA SPICED SALMON CUBES!
 *Source: [https://www.instagram.com/p/CxglYeQxXEN/](https://www.instagram.com/p/CxglYeQxXEN/)*
 
 ### Ingredients
@@ -14309,7 +15878,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 413. SEMOLINA ORANGE CAKE!
+## 465. SEMOLINA ORANGE CAKE!
 *Source: [https://www.instagram.com/p/CxeIK1JuK5k/](https://www.instagram.com/p/CxeIK1JuK5k/)*
 
 ### Ingredients
@@ -14345,7 +15914,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 414. MY FAMOUS CHEESE BOUIKOS!
+## 466. MY FAMOUS CHEESE BOUIKOS!
 *Source: [https://www.instagram.com/p/CxbkFwXRnjt/](https://www.instagram.com/p/CxbkFwXRnjt/)*
 
 ### Ingredients
@@ -14381,7 +15950,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 415. CABBAGE SALAD WITH ZAATAR-SUMAC CRUMBS!
+## 467. CABBAGE SALAD WITH ZAATAR-SUMAC CRUMBS!
 *Source: [https://www.instagram.com/p/CxY5pa5xLwm/](https://www.instagram.com/p/CxY5pa5xLwm/)*
 
 ### Ingredients
@@ -14411,7 +15980,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 416. NOAS FAVORITE RICE!
+## 468. NOAS FAVORITE RICE!
 *Source: [https://www.instagram.com/p/CxWbUfjRWpO/](https://www.instagram.com/p/CxWbUfjRWpO/)*
 
 ### Ingredients
@@ -14437,7 +16006,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 417. SUMAC ROASTED CAULIFLOWER!
+## 469. SUMAC ROASTED CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CxMHG2pR9_g/](https://www.instagram.com/p/CxMHG2pR9_g/)*
 
 ### Ingredients
@@ -14469,7 +16038,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 418. ROUND HONEY BRIOCHE CHALLAH!
+## 470. ROUND HONEY BRIOCHE CHALLAH!
 *Source: [https://www.instagram.com/p/CxJfBoax2pE/](https://www.instagram.com/p/CxJfBoax2pE/)*
 
 ### Ingredients
@@ -14514,7 +16083,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 419. APPLE AND HONEY CAKE!
+## 471. APPLE AND HONEY CAKE!
 *Source: [https://www.instagram.com/p/CxG_cYhxI68/](https://www.instagram.com/p/CxG_cYhxI68/)*
 
 ### Ingredients
@@ -14551,7 +16120,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 420. HONEY TURMERIC POTATOES AND PEAS!
+## 472. HONEY TURMERIC POTATOES AND PEAS!
 *Source: [https://www.instagram.com/p/CxEbStlxhJW/](https://www.instagram.com/p/CxEbStlxhJW/)*
 
 ### Ingredients
@@ -14588,7 +16157,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 421. JUICY BISON CHUCK ROAST!
+## 473. JUICY BISON CHUCK ROAST!
 *Source: [https://www.instagram.com/p/CxBM5OcunmH/](https://www.instagram.com/p/CxBM5OcunmH/)*
 
 ### Ingredients
@@ -14640,7 +16209,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 422. WARM ZUCCHINI SALAD!
+## 474. WARM ZUCCHINI SALAD!
 *Source: [https://www.instagram.com/p/Cw8ZBX1Rvyl/](https://www.instagram.com/p/Cw8ZBX1Rvyl/)*
 
 ### Ingredients
@@ -14674,7 +16243,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 423. APPLE AND FIG SALAD!
+## 475. APPLE AND FIG SALAD!
 *Source: [https://www.instagram.com/p/Cw5bYAquRB5/](https://www.instagram.com/p/Cw5bYAquRB5/)*
 
 ### Ingredients
@@ -14700,7 +16269,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 424. RED IRAQI RICE!
+## 476. RED IRAQI RICE!
 *Source: [https://www.instagram.com/p/Cw3CqgBxpev/](https://www.instagram.com/p/Cw3CqgBxpev/)*
 
 ### Ingredients
@@ -14743,7 +16312,7 @@ In a skillet pan, on medium heat, put the olive oil
 
 ---
 
-## 425. HARISSA HONEY GRILLED SALMON!
+## 477. HARISSA HONEY GRILLED SALMON!
 *Source: [https://www.instagram.com/p/Cw0jkx9OYpo/](https://www.instagram.com/p/Cw0jkx9OYpo/)*
 
 ### Ingredients
@@ -14788,7 +16357,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 426. MOROCCAN COOKED OLIVES!
+## 478. MOROCCAN COOKED OLIVES!
 *Source: [https://www.instagram.com/p/CwynH4UtNYq/](https://www.instagram.com/p/CwynH4UtNYq/)*
 
 ### Ingredients
@@ -14828,7 +16397,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 427. This delicious pasta salad will be the star of any meal!
+## 479. This delicious pasta salad will be the star of any meal!
 *Source: [https://www.instagram.com/p/CwnepLMxLAY/](https://www.instagram.com/p/CwnepLMxLAY/)*
 
 ### Ingredients
@@ -14866,7 +16435,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 428. MOROCCAN CARROT SALAD!
+## 480. MOROCCAN CARROT SALAD!
 *Source: [https://www.instagram.com/p/CwlW2JoIw24/](https://www.instagram.com/p/CwlW2JoIw24/)*
 
 ### Ingredients
@@ -14911,7 +16480,7 @@ In a large pot, place the carrots and the salt
 
 ---
 
-## 429. CHARRED EGGPLANT CARPACCIO!
+## 481. CHARRED EGGPLANT CARPACCIO!
 *Source: [https://www.instagram.com/p/CwigzdOI-oZ/](https://www.instagram.com/p/CwigzdOI-oZ/)*
 
 ### Ingredients
@@ -14943,7 +16512,7 @@ In a large pot, place the carrots and the salt
 
 ---
 
-## 430. MEDITERRANEAN CHICKEN AND FARRO!
+## 482. MEDITERRANEAN CHICKEN AND FARRO!
 *Source: [https://www.instagram.com/p/CwgLsckIdCw/](https://www.instagram.com/p/CwgLsckIdCw/)*
 
 ### Ingredients
@@ -14991,7 +16560,7 @@ In a large pot, place the carrots and the salt
 
 ---
 
-## 431. WHAT CAN YOU MAKE WITH TWO RIPE BANANAS
+## 483. WHAT CAN YOU MAKE WITH TWO RIPE BANANAS
 *Source: [https://www.instagram.com/p/Cwa47fJI3zW/](https://www.instagram.com/p/Cwa47fJI3zW/)*
 
 ### Ingredients
@@ -15023,7 +16592,7 @@ In a large pot, place the carrots and the salt
 
 ---
 
-## 432. TURMERIC VEGETABLE SOUP!
+## 484. TURMERIC VEGETABLE SOUP!
 *Source: [https://www.instagram.com/p/CwYkkkcoTVy/](https://www.instagram.com/p/CwYkkkcoTVy/)*
 
 ### Ingredients
@@ -15066,7 +16635,7 @@ In a large pot on medium heat, put the olive oil, chopped veggies (except for th
 
 ---
 
-## 433. ROASTED CAULIFLOWER AND LEMONY LEEK!
+## 485. ROASTED CAULIFLOWER AND LEMONY LEEK!
 *Source: [https://www.instagram.com/p/CwWE7-NIZPN/](https://www.instagram.com/p/CwWE7-NIZPN/)*
 
 ### Ingredients
@@ -15118,7 +16687,7 @@ Put all the ingredients in a bowl and stir it well
 
 ---
 
-## 434. ZAATAR SWEET POTATO GRATIN!
+## 486. ZAATAR SWEET POTATO GRATIN!
 *Source: [https://www.instagram.com/p/CwS1Xb-qzs9/](https://www.instagram.com/p/CwS1Xb-qzs9/)*
 
 ### Ingredients
@@ -15148,7 +16717,7 @@ Put all the ingredients in a bowl and stir it well
 
 ---
 
-## 435. GREEN GODDESS LETTUCE SALAD !
+## 487. GREEN GODDESS LETTUCE SALAD !
 *Source: [https://www.instagram.com/p/CwQxWTOI4Ag/](https://www.instagram.com/p/CwQxWTOI4Ag/)*
 
 ### Ingredients
@@ -15174,7 +16743,7 @@ On a nice oval plate, spread the lettuce leaves
 
 ---
 
-## 436. HONEY CHICKEN TRAY BAKE!
+## 488. HONEY CHICKEN TRAY BAKE!
 *Source: [https://www.instagram.com/p/CwOesqkqoKt/](https://www.instagram.com/p/CwOesqkqoKt/)*
 
 ### Ingredients
@@ -15225,7 +16794,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 437. BABA GHANOUSH!
+## 489. BABA GHANOUSH!
 *Source: [https://www.instagram.com/p/CwJXJ8voY5a/](https://www.instagram.com/p/CwJXJ8voY5a/)*
 
 ### Ingredients
@@ -15246,7 +16815,7 @@ My favorite eggplant recipe, perfect as a spread, easy to prepare and so delicio
 
 ---
 
-## 438. I am convinced I can eat this bowl every day, what about you
+## 490. I am convinced I can eat this bowl every day, what about you
 *Source: [https://www.instagram.com/p/CwGUJhToE5A/](https://www.instagram.com/p/CwGUJhToE5A/)*
 
 ### Ingredients
@@ -15276,7 +16845,7 @@ My favorite eggplant recipe, perfect as a spread, easy to prepare and so delicio
 
 ---
 
-## 439. QUICK MATBUCHA!
+## 491. QUICK MATBUCHA!
 *Source: [https://www.instagram.com/p/CwD22rWoO80/](https://www.instagram.com/p/CwD22rWoO80/)*
 
 ### Ingredients
@@ -15299,7 +16868,7 @@ My favorite eggplant recipe, perfect as a spread, easy to prepare and so delicio
 
 ---
 
-## 440. ROASTED EGGPLANTS WITH TOMATO SALSA!
+## 492. ROASTED EGGPLANTS WITH TOMATO SALSA!
 *Source: [https://www.instagram.com/p/CwA_7CEg__E/](https://www.instagram.com/p/CwA_7CEg__E/)*
 
 ### Ingredients
@@ -15335,7 +16904,7 @@ Put all the ingredients in a bowl and stir it
 
 ---
 
-## 441. LEMONY ZAATAR CHICKEN!
+## 493. LEMONY ZAATAR CHICKEN!
 *Source: [https://www.instagram.com/p/Cv-WqajgFaO/](https://www.instagram.com/p/Cv-WqajgFaO/)*
 
 ### Ingredients
@@ -15402,7 +16971,7 @@ In a skillet pan pour olive oil, salt, fresh parsley and sliced onions
 
 ---
 
-## 442. ONE PAN SALMON AND SUCCOTASH!
+## 494. ONE PAN SALMON AND SUCCOTASH!
 *Source: [https://www.instagram.com/p/Cv7i5ClAQCc/](https://www.instagram.com/p/Cv7i5ClAQCc/)*
 
 ### Ingredients
@@ -15439,7 +17008,7 @@ In a skillet pan pour olive oil, salt, fresh parsley and sliced onions
 
 ---
 
-## 443. ZOES CUCUMBER SALAD!
+## 495. ZOES CUCUMBER SALAD!
 *Source: [https://www.instagram.com/p/Cv0Wl6CgmKK/](https://www.instagram.com/p/Cv0Wl6CgmKK/)*
 
 ### Ingredients
@@ -15453,7 +17022,7 @@ In a skillet pan pour olive oil, salt, fresh parsley and sliced onions
 
 ---
 
-## 444. LEMONY SUMAC CHICKEN BREAST!
+## 496. LEMONY SUMAC CHICKEN BREAST!
 *Source: [https://www.instagram.com/p/CvxbN3sAlO4/](https://www.instagram.com/p/CvxbN3sAlO4/)*
 
 ### Ingredients
@@ -15497,7 +17066,7 @@ In a skillet pan pour olive oil, salt, fresh parsley and sliced onions
 
 ---
 
-## 445. TURMERIC BASMATI RICE!
+## 497. TURMERIC BASMATI RICE!
 *Source: [https://www.instagram.com/p/CvvbTq2AmQ0/](https://www.instagram.com/p/CvvbTq2AmQ0/)*
 
 ### Ingredients
@@ -15539,7 +17108,7 @@ On a skillet pan on medium heat, put the olive oil
 
 ---
 
-## 446. SNAP PEAS AND AVOCADO SALAD!
+## 498. SNAP PEAS AND AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/CvqKzlrAFkv/](https://www.instagram.com/p/CvqKzlrAFkv/)*
 
 ### Ingredients
@@ -15559,7 +17128,7 @@ On a skillet pan on medium heat, put the olive oil
 
 ---
 
-## 447. YOU MUST TRY THIS EGG SALAD!
+## 499. YOU MUST TRY THIS EGG SALAD!
 *Source: [https://www.instagram.com/p/Cvnt0hBgotB/](https://www.instagram.com/p/Cvnt0hBgotB/)*
 
 ### Ingredients
@@ -15593,7 +17162,7 @@ On a skillet pan on medium heat, put the olive oil
 
 ---
 
-## 448. SMASHED POTATOES!
+## 500. SMASHED POTATOES!
 *Source: [https://www.instagram.com/p/Cvh9LkAAXjy/](https://www.instagram.com/p/Cvh9LkAAXjy/)*
 
 ### Ingredients
@@ -15632,7 +17201,7 @@ Place the cooked potatoes in a 12 inch cast iron pan
 
 ---
 
-## 449. SABICH SALAD WITH A TWIST!
+## 501. SABICH SALAD WITH A TWIST!
 *Source: [https://www.instagram.com/p/CvfZs_8AnAM/](https://www.instagram.com/p/CvfZs_8AnAM/)*
 
 ### Ingredients
@@ -15670,7 +17239,7 @@ Put all the ingredients in a bowl and mix it to a dressing texture
 
 ---
 
-## 450. ROASTED ZUCCHINI ON LABNEH!
+## 502. ROASTED ZUCCHINI ON LABNEH!
 *Source: [https://www.instagram.com/p/CvbHhc1Nek5/](https://www.instagram.com/p/CvbHhc1Nek5/)*
 
 ### Ingredients
@@ -15707,7 +17276,7 @@ Put all the ingredients in a bowl and mix it to a dressing texture
 
 ---
 
-## 451. THE EASIEST SHAKSHUKA EVER!
+## 503. THE EASIEST SHAKSHUKA EVER!
 *Source: [https://www.instagram.com/p/CvYTUXGgbAx/](https://www.instagram.com/p/CvYTUXGgbAx/)*
 
 ### Ingredients
@@ -15740,7 +17309,7 @@ Put all the ingredients in a bowl and mix it to a dressing texture
 
 ---
 
-## 452. ROASTED EGGPLANTS OVER HUMMUS!
+## 504. ROASTED EGGPLANTS OVER HUMMUS!
 *Source: [https://www.instagram.com/p/CvV7r4SttbC/](https://www.instagram.com/p/CvV7r4SttbC/)*
 
 ### Ingredients
@@ -15778,7 +17347,7 @@ Put all the ingredients in a food processor and process to a smooth spread
 
 ---
 
-## 453. MALFOUF - IRAQI BAKLAVA!
+## 505. MALFOUF - IRAQI BAKLAVA!
 *Source: [https://www.instagram.com/p/CvQb73IggaL/](https://www.instagram.com/p/CvQb73IggaL/)*
 
 ### Ingredients
@@ -15821,7 +17390,7 @@ Put all the ingredients in a food processor and process to a smooth spread
 
 ---
 
-## 454. MEDITERRANEAN COUSCOUS AND COD!
+## 506. MEDITERRANEAN COUSCOUS AND COD!
 *Source: [https://www.instagram.com/p/CvNVAwcgf1J/](https://www.instagram.com/p/CvNVAwcgf1J/)*
 
 ### Ingredients
@@ -15864,7 +17433,7 @@ Put all the ingredients in a food processor and process to a smooth spread
 
 ---
 
-## 455. BROCCOLI SAVORY PIE!
+## 507. BROCCOLI SAVORY PIE!
 *Source: [https://www.instagram.com/p/CvI1LP2gwag/](https://www.instagram.com/p/CvI1LP2gwag/)*
 
 ### Ingredients
@@ -15906,7 +17475,7 @@ Put the all ingredients in a bowl and whisk them well
 
 ---
 
-## 456. SUMAC ONIONS BEET SALAD!
+## 508. SUMAC ONIONS BEET SALAD!
 *Source: [https://www.instagram.com/p/CvFpPvAg2zX/](https://www.instagram.com/p/CvFpPvAg2zX/)*
 
 ### Ingredients
@@ -15941,7 +17510,7 @@ Tip: For a no-mess and easy cleaning of the cutting board, place a baking / parc
 
 ---
 
-## 457. CHALLAH BREAD PUDDING!
+## 509. CHALLAH BREAD PUDDING!
 *Source: [https://www.instagram.com/p/CvDTpM6AvYc/](https://www.instagram.com/p/CvDTpM6AvYc/)*
 
 ### Ingredients
@@ -15977,7 +17546,7 @@ Tip: For a no-mess and easy cleaning of the cutting board, place a baking / parc
 
 ---
 
-## 458. HOMEMADE PITA CHIPS!
+## 510. HOMEMADE PITA CHIPS!
 *Source: [https://www.instagram.com/p/Cu-D0P2A0Nm/](https://www.instagram.com/p/Cu-D0P2A0Nm/)*
 
 ### Ingredients
@@ -15997,7 +17566,7 @@ Tip: For a no-mess and easy cleaning of the cutting board, place a baking / parc
 
 ---
 
-## 459. JERUSALEM GRILL CABBAGE STEAKS!
+## 511. JERUSALEM GRILL CABBAGE STEAKS!
 *Source: [https://www.instagram.com/p/Cu7TORgAKiW/](https://www.instagram.com/p/Cu7TORgAKiW/)*
 
 ### Ingredients
@@ -16031,7 +17600,7 @@ Tip: For a no-mess and easy cleaning of the cutting board, place a baking / parc
 
 ---
 
-## 460. JUICY CHICKEN BREAST SHAWARMA!
+## 512. JUICY CHICKEN BREAST SHAWARMA!
 *Source: [https://www.instagram.com/p/Cu5M8M_gc2P/](https://www.instagram.com/p/Cu5M8M_gc2P/)*
 
 ### Ingredients
@@ -16054,7 +17623,7 @@ Tip: For a no-mess and easy cleaning of the cutting board, place a baking / parc
 
 ---
 
-## 461. HEIRLOOM TOMATO SALAD!
+## 513. HEIRLOOM TOMATO SALAD!
 *Source: [https://www.instagram.com/p/Cu2d7bKrzQh/](https://www.instagram.com/p/Cu2d7bKrzQh/)*
 
 ### Ingredients
@@ -16088,7 +17657,7 @@ On a nice round plate spread the farmer cheese
 
 ---
 
-## 462. JUICY CHICKEN ARAYES!
+## 514. JUICY CHICKEN ARAYES!
 *Source: [https://www.instagram.com/p/CuzoMBwAtxT/](https://www.instagram.com/p/CuzoMBwAtxT/)*
 
 ### Ingredients
@@ -16125,7 +17694,7 @@ On a nice round plate spread the farmer cheese
 
 ---
 
-## 463. HARISSA-ROASTED CARROTS !
+## 515. HARISSA-ROASTED CARROTS !
 *Source: [https://www.instagram.com/p/CuxWOn5AwVG/](https://www.instagram.com/p/CuxWOn5AwVG/)*
 
 ### Ingredients
@@ -16156,7 +17725,7 @@ On a nice round plate spread the farmer cheese
 
 ---
 
-## 464. GOLDEN CAULIFLOWER!
+## 516. GOLDEN CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CusdMS_gksG/](https://www.instagram.com/p/CusdMS_gksG/)*
 
 ### Ingredients
@@ -16193,7 +17762,7 @@ Roast it for 15 minutes until the top turns golden brown
 
 ---
 
-## 465. MY MOMS TURMERIC CHICKEN!
+## 517. MY MOMS TURMERIC CHICKEN!
 *Source: [https://www.instagram.com/p/Cuphzb5gKS1/](https://www.instagram.com/p/Cuphzb5gKS1/)*
 
 ### Ingredients
@@ -16224,7 +17793,7 @@ Roast it for 15 minutes until the top turns golden brown
 
 ---
 
-## 466. FRESH CORN AND AVOCADO SALAD!
+## 518. FRESH CORN AND AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/CunQRRmAw0X/](https://www.instagram.com/p/CunQRRmAw0X/)*
 
 ### Ingredients
@@ -16244,7 +17813,7 @@ Roast it for 15 minutes until the top turns golden brown
 
 ---
 
-## 467. POTATO SALAD WITH FETA DRESSING!
+## 519. POTATO SALAD WITH FETA DRESSING!
 *Source: [https://www.instagram.com/p/Cukwirbg2WT/](https://www.instagram.com/p/Cukwirbg2WT/)*
 
 ### Ingredients
@@ -16267,7 +17836,7 @@ Roast it for 15 minutes until the top turns golden brown
 
 ---
 
-## 468. I CAN EAT THIS EVERYDAY!
+## 520. I CAN EAT THIS EVERYDAY!
 *Source: [https://www.instagram.com/p/CuhxlLKAsSQ/](https://www.instagram.com/p/CuhxlLKAsSQ/)*
 
 ### Ingredients
@@ -16290,7 +17859,7 @@ Roast it for 15 minutes until the top turns golden brown
 
 ---
 
-## 469. CHEESE BOUIKOS!
+## 521. CHEESE BOUIKOS!
 *Source: [https://www.instagram.com/p/CufW0NMA8xu/](https://www.instagram.com/p/CufW0NMA8xu/)*
 
 ### Ingredients
@@ -16331,7 +17900,7 @@ Place all the ingredients in a bowl and mix them with a spoon
 
 ---
 
-## 470. CRISPY EGGPLANTS WITH TZATZIKI!
+## 522. CRISPY EGGPLANTS WITH TZATZIKI!
 *Source: [https://www.instagram.com/p/CucyAlwgQMx/](https://www.instagram.com/p/CucyAlwgQMx/)*
 
 ### Ingredients
@@ -16375,7 +17944,7 @@ Place the eggplants on a baking pan
 
 ---
 
-## 471. BBQ HARISSA CHICKEN THIGHS!
+## 523. BBQ HARISSA CHICKEN THIGHS!
 *Source: [https://www.instagram.com/p/CuX_ZCbgFYK/](https://www.instagram.com/p/CuX_ZCbgFYK/)*
 
 ### Ingredients
@@ -16427,7 +17996,7 @@ Method-
 
 ---
 
-## 472. Grilled Nectarines with creamy Chobani Greek Yogurt!
+## 524. Grilled Nectarines with creamy Chobani Greek Yogurt!
 *Source: [https://www.instagram.com/p/CuVA5kIuOhI/](https://www.instagram.com/p/CuVA5kIuOhI/)*
 
 ### Ingredients
@@ -16464,7 +18033,7 @@ Method-
 
 ---
 
-## 473. ROASTED CAULIFLOWER WITH AVOCADO ZAATAR DRESSING!
+## 525. ROASTED CAULIFLOWER WITH AVOCADO ZAATAR DRESSING!
 *Source: [https://www.instagram.com/p/CuSpp74AKBP/](https://www.instagram.com/p/CuSpp74AKBP/)*
 
 ### Ingredients
@@ -16490,7 +18059,7 @@ Place the cauliflower halves on a baking pan and season with olive oil and salt
 
 ---
 
-## 474. ZAATAR FETA AND GRILLED TOMATO!
+## 526. ZAATAR FETA AND GRILLED TOMATO!
 *Source: [https://www.instagram.com/p/CuQCcnzAgB_/](https://www.instagram.com/p/CuQCcnzAgB_/)*
 
 ### Ingredients
@@ -16514,7 +18083,7 @@ Place the cauliflower halves on a baking pan and season with olive oil and salt
 
 ---
 
-## 475. ZATTAR TORTILLA GRILLED CHEESE!
+## 527. ZATTAR TORTILLA GRILLED CHEESE!
 *Source: [https://www.instagram.com/p/CuNLIwOAI2z/](https://www.instagram.com/p/CuNLIwOAI2z/)*
 
 ### Ingredients
@@ -16542,7 +18111,7 @@ On a pan on medium heat, pour the olive oil
 
 ---
 
-## 476. MY DADS CILANTRO-JALAPEÑO SPREAD!
+## 528. MY DADS CILANTRO-JALAPEÑO SPREAD!
 *Source: [https://www.instagram.com/p/CuH2PMPATe7/](https://www.instagram.com/p/CuH2PMPATe7/)*
 
 ### Ingredients
@@ -16581,7 +18150,7 @@ In a food processor put the cilantro, jalapeños, garlic cloves, salt and 1 tabl
 
 ---
 
-## 477. MOROCCAN FISH WITH A TWIST!
+## 529. MOROCCAN FISH WITH A TWIST!
 *Source: [https://www.instagram.com/p/CuFuxnTAMCD/](https://www.instagram.com/p/CuFuxnTAMCD/)*
 
 ### Ingredients
@@ -16619,7 +18188,7 @@ On medium heat, in a skillet pan, pour the olive oil
 
 ---
 
-## 478. BAKED TURMERIC RICE AND PEAS!
+## 530. BAKED TURMERIC RICE AND PEAS!
 *Source: [https://www.instagram.com/p/CuDcjTYgYNr/](https://www.instagram.com/p/CuDcjTYgYNr/)*
 
 ### Ingredients
@@ -16656,7 +18225,7 @@ In an oven safe pan, pour the rice and peas
 
 ---
 
-## 479. CRINKLE CUT SWEET POTATOES WITH GREEN DIP!
+## 531. CRINKLE CUT SWEET POTATOES WITH GREEN DIP!
 *Source: [https://www.instagram.com/p/Ct9ohtTAaUl/](https://www.instagram.com/p/Ct9ohtTAaUl/)*
 
 ### Ingredients
@@ -16681,7 +18250,7 @@ On a baking pan spread the sweet potatoes slices and season with salt and olive 
 
 ---
 
-## 480. RAS EL HANUT BEEF HASH!
+## 532. RAS EL HANUT BEEF HASH!
 *Source: [https://www.instagram.com/p/Ct4VQgKgYbn/](https://www.instagram.com/p/Ct4VQgKgYbn/)*
 
 ### Ingredients
@@ -16731,7 +18300,7 @@ On a baking pan spread the sweet potatoes slices and season with salt and olive 
 
 ---
 
-## 481. TAHINI DRESSING!
+## 533. TAHINI DRESSING!
 *Source: [https://www.instagram.com/p/Ct2YoMkAgZL/](https://www.instagram.com/p/Ct2YoMkAgZL/)*
 
 ### Ingredients
@@ -16753,7 +18322,7 @@ Put all the ingredients in a bowl and mix it to a dressing texture
 
 ---
 
-## 482. WARM TURMERIC CHICKPEAS!
+## 534. WARM TURMERIC CHICKPEAS!
 *Source: [https://www.instagram.com/p/Ctz_N1qgqKD/](https://www.instagram.com/p/Ctz_N1qgqKD/)*
 
 ### Ingredients
@@ -16776,7 +18345,7 @@ In an oven safe pan place all the ingredients
 
 ---
 
-## 483. ONE PAN MEDITERRANEAN SALMON!
+## 535. ONE PAN MEDITERRANEAN SALMON!
 *Source: [https://www.instagram.com/p/CtxApzIAXuU/](https://www.instagram.com/p/CtxApzIAXuU/)*
 
 ### Ingredients
@@ -16824,7 +18393,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 484. SHAWARMA CHICKEN WITH SUMAC ONIONS!
+## 536. SHAWARMA CHICKEN WITH SUMAC ONIONS!
 *Source: [https://www.instagram.com/p/CtugsOdgi8g/](https://www.instagram.com/p/CtugsOdgi8g/)*
 
 ### Ingredients
@@ -16866,7 +18435,7 @@ Place all the ingredients in a bowl and mix them well
 
 ---
 
-## 485. BURRATA SUMMER SALAD!
+## 537. BURRATA SUMMER SALAD!
 *Source: [https://www.instagram.com/p/Ctr-gLXAULB/](https://www.instagram.com/p/Ctr-gLXAULB/)*
 
 ### Ingredients
@@ -16888,7 +18457,7 @@ Place all the veggies on a cutting board
 
 ---
 
-## 486. SUMMERY PURPLE POTATOES AND BRUSSELS SPROUTS!
+## 538. SUMMERY PURPLE POTATOES AND BRUSSELS SPROUTS!
 *Source: [https://www.instagram.com/p/Ctm-wYtgGva/](https://www.instagram.com/p/Ctm-wYtgGva/)*
 
 ### Ingredients
@@ -16910,7 +18479,7 @@ Place all the veggies on a cutting board
 
 ---
 
-## 487. ONE- PAN TURMERIC CHICKEN AND ORZO!
+## 539. ONE- PAN TURMERIC CHICKEN AND ORZO!
 *Source: [https://www.instagram.com/p/CthnpjwgLIu/](https://www.instagram.com/p/CthnpjwgLIu/)*
 
 ### Ingredients
@@ -16961,7 +18530,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 488. FAMILY STYLE SPINACH AND CHEESE BOUREKAS!
+## 540. FAMILY STYLE SPINACH AND CHEESE BOUREKAS!
 *Source: [https://www.instagram.com/p/CteYzpJg-T9/](https://www.instagram.com/p/CteYzpJg-T9/)*
 
 ### Ingredients
@@ -17001,7 +18570,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 489. MOROCCAN CAULIFLOWER!
+## 541. MOROCCAN CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CtcriNLpiXI/](https://www.instagram.com/p/CtcriNLpiXI/)*
 
 ### Ingredients
@@ -17032,7 +18601,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 490. COLD LEMONY GREEN BEANS!
+## 542. COLD LEMONY GREEN BEANS!
 *Source: [https://www.instagram.com/p/CtZ_XT1A0MS/](https://www.instagram.com/p/CtZ_XT1A0MS/)*
 
 ### Ingredients
@@ -17051,7 +18620,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 491. This is going to be your new favorite summery eggplant dish!
+## 543. This is going to be your new favorite summery eggplant dish!
 *Source: [https://www.instagram.com/p/CtR5CLWtJGx/](https://www.instagram.com/p/CtR5CLWtJGx/)*
 
 ### Ingredients
@@ -17081,7 +18650,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 492. HARISSA SALMON KEBAB SKEWERS!
+## 544. HARISSA SALMON KEBAB SKEWERS!
 *Source: [https://www.instagram.com/p/CtMl18hgg63/](https://www.instagram.com/p/CtMl18hgg63/)*
 
 ### Ingredients
@@ -17104,7 +18673,7 @@ In a bowl put the salmon cubes and season with NYSHUK harissa bbq sauce, olive o
 
 ---
 
-## 493. MY FAVORITE GREEN CABBAGE SALAD!
+## 545. MY FAVORITE GREEN CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/CtKPq5fARU5/](https://www.instagram.com/p/CtKPq5fARU5/)*
 
 ### Ingredients
@@ -17143,7 +18712,7 @@ Put all the veggies in a bowl, pour the dressing mix it well
 
 ---
 
-## 494. ROASTED FINGERLING POTATO SALAD!
+## 546. ROASTED FINGERLING POTATO SALAD!
 *Source: [https://www.instagram.com/p/CtISyhKgOnK/](https://www.instagram.com/p/CtISyhKgOnK/)*
 
 ### Ingredients
@@ -17175,7 +18744,7 @@ Put all the veggies in a bowl, pour the dressing mix it well
 
 ---
 
-## 495. HOMEMADE HUMMUS!
+## 547. HOMEMADE HUMMUS!
 *Source: [https://www.instagram.com/p/CtFKaBIg27w/](https://www.instagram.com/p/CtFKaBIg27w/)*
 
 ### Ingredients
@@ -17195,7 +18764,7 @@ Put all the veggies in a bowl, pour the dressing mix it well
 
 ---
 
-## 496. BABA GANOUSH!
+## 548. BABA GANOUSH!
 *Source: [https://www.instagram.com/p/Cs9-4JtAmr3/](https://www.instagram.com/p/Cs9-4JtAmr3/)*
 
 ### Ingredients
@@ -17216,7 +18785,7 @@ This is my favorite eggplant recipe, perfect as a spread, easy to prepare, and s
 
 ---
 
-## 497. CHICKPEA AND AVOCADO MEDITERRANEAN SALAD!
+## 549. CHICKPEA AND AVOCADO MEDITERRANEAN SALAD!
 *Source: [https://www.instagram.com/p/Cs7Wsy8AzMh/](https://www.instagram.com/p/Cs7Wsy8AzMh/)*
 
 ### Ingredients
@@ -17238,7 +18807,7 @@ This is my favorite eggplant recipe, perfect as a spread, easy to prepare, and s
 
 ---
 
-## 498. SAVORY CORN PIE!
+## 550. SAVORY CORN PIE!
 *Source: [https://www.instagram.com/p/Cs40O4BATpv/](https://www.instagram.com/p/Cs40O4BATpv/)*
 
 ### Ingredients
@@ -17265,7 +18834,7 @@ This is my favorite eggplant recipe, perfect as a spread, easy to prepare, and s
 
 ---
 
-## 499. FENNEL ORANGE SALAD!
+## 551. FENNEL ORANGE SALAD!
 *Source: [https://www.instagram.com/p/CswURZKAVf7/](https://www.instagram.com/p/CswURZKAVf7/)*
 
 ### Ingredients
@@ -17284,7 +18853,7 @@ This is my favorite eggplant recipe, perfect as a spread, easy to prepare, and s
 
 ---
 
-## 500. MEDITERRANEAN ORZO SALAD!
+## 552. MEDITERRANEAN ORZO SALAD!
 *Source: [https://www.instagram.com/p/CsthG18gnbF/](https://www.instagram.com/p/CsthG18gnbF/)*
 
 ### Ingredients
@@ -17310,7 +18879,7 @@ This is my favorite eggplant recipe, perfect as a spread, easy to prepare, and s
 
 ---
 
-## 501. PRESERVED LEMON ROASTED CAULIFLOWER!
+## 553. PRESERVED LEMON ROASTED CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CsrCpi0M_RZ/](https://www.instagram.com/p/CsrCpi0M_RZ/)*
 
 ### Ingredients
@@ -17345,7 +18914,7 @@ This is my favorite eggplant recipe, perfect as a spread, easy to prepare, and s
 
 ---
 
-## 502. BROCCOLI SAVORY PIE!
+## 554. BROCCOLI SAVORY PIE!
 *Source: [https://www.instagram.com/p/CsmvjLBg6Ic/](https://www.instagram.com/p/CsmvjLBg6Ic/)*
 
 ### Ingredients
@@ -17387,7 +18956,7 @@ Put the all ingredients in a bowl and whisk them well
 
 ---
 
-## 503. BAKED FETA AND SUMAC GRAPES !
+## 555. BAKED FETA AND SUMAC GRAPES !
 *Source: [https://www.instagram.com/p/CsjjD_TA9ha/](https://www.instagram.com/p/CsjjD_TA9ha/)*
 
 ### Ingredients
@@ -17408,7 +18977,7 @@ Put the all ingredients in a bowl and whisk them well
 
 ---
 
-## 504. Moroccan-Spiced Roasted Carrots!
+## 556. Moroccan-Spiced Roasted Carrots!
 *Source: [https://www.instagram.com/p/CscdHugACyU/](https://www.instagram.com/p/CscdHugACyU/)*
 
 ### Ingredients
@@ -17445,7 +19014,7 @@ Put the all ingredients in a bowl and whisk them well
 
 ---
 
-## 505. SAVORY PULL-APART  CHALLAH!
+## 557. SAVORY PULL-APART  CHALLAH!
 *Source: [https://www.instagram.com/p/CsZemMtAuQN/](https://www.instagram.com/p/CsZemMtAuQN/)*
 
 ### Ingredients
@@ -17464,7 +19033,7 @@ In a bowl put all the ingredients and mix it
 
 ---
 
-## 506. BBQ JUICY CHICKEN BREAST!
+## 558. BBQ JUICY CHICKEN BREAST!
 *Source: [https://www.instagram.com/p/CsW9itCgYRW/](https://www.instagram.com/p/CsW9itCgYRW/)*
 
 ### Ingredients
@@ -17493,7 +19062,7 @@ You can serve it with any side dish
 
 ---
 
-## 507. ONE PAN MEDITERRANEAN GNOCCHI!
+## 559. ONE PAN MEDITERRANEAN GNOCCHI!
 *Source: [https://www.instagram.com/p/CsSCwgLgLeq/](https://www.instagram.com/p/CsSCwgLgLeq/)*
 
 ### Ingredients
@@ -17541,7 +19110,7 @@ In a baking sheet place a parchment paper
 
 ---
 
-## 508. SUGAR SNAP PEAS AND AVOCADO SALAD!
+## 560. SUGAR SNAP PEAS AND AVOCADO SALAD!
 *Source: [https://www.instagram.com/p/CsMH_3Fglnb/](https://www.instagram.com/p/CsMH_3Fglnb/)*
 
 ### Ingredients
@@ -17561,7 +19130,7 @@ In a baking sheet place a parchment paper
 
 ---
 
-## 509. BAKED FETA AND COUSCOUS!
+## 561. BAKED FETA AND COUSCOUS!
 *Source: [https://www.instagram.com/p/CsFNBTwAG9Y/](https://www.instagram.com/p/CsFNBTwAG9Y/)*
 
 ### Ingredients
@@ -17580,7 +19149,7 @@ In a baking sheet place a parchment paper
 
 ---
 
-## 510. TURMERIC BASMATI RICE!
+## 562. TURMERIC BASMATI RICE!
 *Source: [https://www.instagram.com/p/CsCxYSSgfK6/](https://www.instagram.com/p/CsCxYSSgfK6/)*
 
 ### Ingredients
@@ -17622,7 +19191,7 @@ On a skillet pan on medium heat, put the olive oil
 
 ---
 
-## 511. DECONSTRUCTED SABICH SALAD!
+## 563. DECONSTRUCTED SABICH SALAD!
 *Source: [https://www.instagram.com/p/CsAINeRgtht/](https://www.instagram.com/p/CsAINeRgtht/)*
 
 ### Ingredients
@@ -17660,7 +19229,7 @@ Put all the ingredients in a bowl and mix it to a dressing texture
 
 ---
 
-## 512. SHAVED FENNEL AND STRAWBERRY MEDITERRANEAN SALAD!
+## 564. SHAVED FENNEL AND STRAWBERRY MEDITERRANEAN SALAD!
 *Source: [https://www.instagram.com/p/Cr8bGlAgRNf/](https://www.instagram.com/p/Cr8bGlAgRNf/)*
 
 ### Ingredients
@@ -17688,7 +19257,7 @@ Put all the ingredients in a jar and mix it well
 
 ---
 
-## 513. SUMAC VINAIGRETTE ROASTED EGGPLANTS!
+## 565. SUMAC VINAIGRETTE ROASTED EGGPLANTS!
 *Source: [https://www.instagram.com/p/Cr1gqVmgv-w/](https://www.instagram.com/p/Cr1gqVmgv-w/)*
 
 ### Ingredients
@@ -17733,7 +19302,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 514. ONE PAN ROASTED CHICKEN OVER SWEET POTATOES!
+## 566. ONE PAN ROASTED CHICKEN OVER SWEET POTATOES!
 *Source: [https://www.instagram.com/p/CrzLPR6AcUM/](https://www.instagram.com/p/CrzLPR6AcUM/)*
 
 ### Ingredients
@@ -17786,7 +19355,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 515. ROASTED SWEET POTATOES WITH GREEN TAHINI DIP!
+## 567. ROASTED SWEET POTATOES WITH GREEN TAHINI DIP!
 *Source: [https://www.instagram.com/p/CrjlRJ6g7PO/](https://www.instagram.com/p/CrjlRJ6g7PO/)*
 
 ### Ingredients
@@ -17811,7 +19380,7 @@ On a baking pan spread the sweet potatoes slices and season with salt and olive 
 
 ---
 
-## 516. GREEN FALAFEL!
+## 568. GREEN FALAFEL!
 *Source: [https://www.instagram.com/p/Crek-0VASFF/](https://www.instagram.com/p/Crek-0VASFF/)*
 
 ### Ingredients
@@ -17857,7 +19426,7 @@ On a nice plate spread 3-4 tablespoons of hummus
 
 ---
 
-## 517. FAMILY STYLE CHEESE BOUREKAS!
+## 569. FAMILY STYLE CHEESE BOUREKAS!
 *Source: [https://www.instagram.com/p/CrZXILAgGjP/](https://www.instagram.com/p/CrZXILAgGjP/)*
 
 ### Ingredients
@@ -17891,7 +19460,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 518. MAKE YOUR OWN FANCY LUNCH!
+## 570. MAKE YOUR OWN FANCY LUNCH!
 *Source: [https://www.instagram.com/p/CrTx444AkUK/](https://www.instagram.com/p/CrTx444AkUK/)*
 
 ### Ingredients
@@ -17914,7 +19483,7 @@ On a nice plate put the bread, add the sliced avocado on top and a squeeze of le
 
 ---
 
-## 519. ROASTED EGGPLANTS WITH HERBY TAHINI!
+## 571. ROASTED EGGPLANTS WITH HERBY TAHINI!
 *Source: [https://www.instagram.com/p/CrQ9eCYggtW/](https://www.instagram.com/p/CrQ9eCYggtW/)*
 
 ### Ingredients
@@ -17940,7 +19509,7 @@ The eggplant is most known in Israel as part of the famous “SABICH” sandwich
 
 ---
 
-## 520. JUICY CHICKEN BREAST SHAWARMA!
+## 572. JUICY CHICKEN BREAST SHAWARMA!
 *Source: [https://www.instagram.com/p/CrPLoGfAdFY/](https://www.instagram.com/p/CrPLoGfAdFY/)*
 
 ### Ingredients
@@ -17963,7 +19532,7 @@ The eggplant is most known in Israel as part of the famous “SABICH” sandwich
 
 ---
 
-## 521. GRILLED OKRA AND VINE TOMATOES!
+## 573. GRILLED OKRA AND VINE TOMATOES!
 *Source: [https://www.instagram.com/p/CrMqwJLARGO/](https://www.instagram.com/p/CrMqwJLARGO/)*
 
 ### Ingredients
@@ -17989,7 +19558,7 @@ The eggplant is most known in Israel as part of the famous “SABICH” sandwich
 
 ---
 
-## 522. TURMERIC VEGETABLE SOUP!
+## 574. TURMERIC VEGETABLE SOUP!
 *Source: [https://www.instagram.com/p/CrJyzxNA3Jo/](https://www.instagram.com/p/CrJyzxNA3Jo/)*
 
 ### Ingredients
@@ -18032,7 +19601,7 @@ In a large pot on medium heat, put the olive oil, chopped veggies (except for th
 
 ---
 
-## 523. MOROCCAN FISH WITH A TWIST!
+## 575. MOROCCAN FISH WITH A TWIST!
 *Source: [https://www.instagram.com/p/CrHT3K1Av_F/](https://www.instagram.com/p/CrHT3K1Av_F/)*
 
 ### Ingredients
@@ -18069,7 +19638,7 @@ On medium heat, in a skillet pan, pour the olive oil
 
 ---
 
-## 524. ROASTED EGGPLANTS WITH GREEN SALSA!
+## 576. ROASTED EGGPLANTS WITH GREEN SALSA!
 *Source: [https://www.instagram.com/p/CrCVdmEAJGQ/](https://www.instagram.com/p/CrCVdmEAJGQ/)*
 
 ### Ingredients
@@ -18105,7 +19674,7 @@ Put all the ingredients in a bowl and stir it
 
 ---
 
-## 525. ZUCCHINI WITH FETA AND SUMAC ONIONS!
+## 577. ZUCCHINI WITH FETA AND SUMAC ONIONS!
 *Source: [https://www.instagram.com/p/Cq86W5-gqCy/](https://www.instagram.com/p/Cq86W5-gqCy/)*
 
 ### Ingredients
@@ -18127,7 +19696,7 @@ Put all the ingredients in a bowl and stir it
 
 ---
 
-## 526. SUMAC BAKED POTATO FRIES!
+## 578. SUMAC BAKED POTATO FRIES!
 *Source: [https://www.instagram.com/p/Cq4IvieATTQ/](https://www.instagram.com/p/Cq4IvieATTQ/)*
 
 ### Ingredients
@@ -18149,7 +19718,7 @@ On a baking pan with parchment paper, place the potatoes sticks
 
 ---
 
-## 527. MINI MATZAH FRENCH TOAST!
+## 579. MINI MATZAH FRENCH TOAST!
 *Source: [https://www.instagram.com/p/Cq01Mf9A9js/](https://www.instagram.com/p/Cq01Mf9A9js/)*
 
 ### Ingredients
@@ -18183,7 +19752,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 528. ZOES CUCUMBER SALAD!
+## 580. ZOES CUCUMBER SALAD!
 *Source: [https://www.instagram.com/p/CqvxSehA1Ge/](https://www.instagram.com/p/CqvxSehA1Ge/)*
 
 ### Ingredients
@@ -18197,7 +19766,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 529. MAYONNAISE POTATO SALAD!
+## 581. MAYONNAISE POTATO SALAD!
 *Source: [https://www.instagram.com/p/CqomCwbAsnB/](https://www.instagram.com/p/CqomCwbAsnB/)*
 
 ### Ingredients
@@ -18218,7 +19787,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 530. PASSOVER IRAQI CHAROSET!
+## 582. PASSOVER IRAQI CHAROSET!
 *Source: [https://www.instagram.com/p/Cqlxv-wg6jG/](https://www.instagram.com/p/Cqlxv-wg6jG/)*
 
 ### Ingredients
@@ -18233,7 +19802,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 531. MOROCCAN CARROT SALAD!
+## 583. MOROCCAN CARROT SALAD!
 *Source: [https://www.instagram.com/p/CqjN-02AhDE/](https://www.instagram.com/p/CqjN-02AhDE/)*
 
 ### Ingredients
@@ -18279,7 +19848,7 @@ In a large pot, place the carrots and the salt
 
 ---
 
-## 532. GREEN GODDESS LETTUCE HEARTS!
+## 584. GREEN GODDESS LETTUCE HEARTS!
 *Source: [https://www.instagram.com/p/CqbrIDVACs6/](https://www.instagram.com/p/CqbrIDVACs6/)*
 
 ### Ingredients
@@ -18305,7 +19874,7 @@ On a nice oval plate, spread the lettuce leaves
 
 ---
 
-## 533. ROASTED CAULIFLOWER AND LEMONY LEEK!
+## 585. ROASTED CAULIFLOWER AND LEMONY LEEK!
 *Source: [https://www.instagram.com/p/CqZH5KEABLJ/](https://www.instagram.com/p/CqZH5KEABLJ/)*
 
 ### Ingredients
@@ -18357,7 +19926,7 @@ Put all the ingredients in a bowl and stir it well
 
 ---
 
-## 534. HONEY MUSTARD POTATO CASSEROLE!
+## 586. HONEY MUSTARD POTATO CASSEROLE!
 *Source: [https://www.instagram.com/p/CqWeE8cg-ms/](https://www.instagram.com/p/CqWeE8cg-ms/)*
 
 ### Ingredients
@@ -18389,7 +19958,7 @@ Slice the potatoes to thin circles using a mandolin
 
 ---
 
-## 535. RED IRAQI RICE!
+## 587. RED IRAQI RICE!
 *Source: [https://www.instagram.com/p/CqT3pXdAx4q/](https://www.instagram.com/p/CqT3pXdAx4q/)*
 
 ### Ingredients
@@ -18432,7 +20001,7 @@ In a skillet pan, on medium heat, put the olive oil
 
 ---
 
-## 536. SHAKSHUKA!
+## 588. SHAKSHUKA!
 *Source: [https://www.instagram.com/p/CqQ6wcwgesp/](https://www.instagram.com/p/CqQ6wcwgesp/)*
 
 ### Ingredients
@@ -18479,7 +20048,7 @@ In a skillet pan, on medium heat, pour the olive oil
 
 ---
 
-## 537. SHAWARMA CAULIFLOWER STEAKS WITH TURMERIC TAHINI!
+## 589. SHAWARMA CAULIFLOWER STEAKS WITH TURMERIC TAHINI!
 *Source: [https://www.instagram.com/p/CqL0qRtg1Zw/](https://www.instagram.com/p/CqL0qRtg1Zw/)*
 
 ### Ingredients
@@ -18521,7 +20090,7 @@ Place the cauliflower steaks and onions in a row on a baking pan
 
 ---
 
-## 538. BEET AND PISTACHIO SALAD!
+## 590. BEET AND PISTACHIO SALAD!
 *Source: [https://www.instagram.com/p/CqJnjNygGu2/](https://www.instagram.com/p/CqJnjNygGu2/)*
 
 ### Ingredients
@@ -18560,7 +20129,7 @@ Tip: For a no-mess and easy cleaning of the cutting board, place a baking / parc
 
 ---
 
-## 539. RATATOUILLE STYLE VEGGIE STEW!
+## 591. RATATOUILLE STYLE VEGGIE STEW!
 *Source: [https://www.instagram.com/p/CqHA_cAALdM/](https://www.instagram.com/p/CqHA_cAALdM/)*
 
 ### Ingredients
@@ -18611,7 +20180,7 @@ On a skillet pan on medium heat, pour the olive oil
 
 ---
 
-## 540. ROASTED BROCCOLI WITH JALAPEÑO TAHINI!
+## 592. ROASTED BROCCOLI WITH JALAPEÑO TAHINI!
 *Source: [https://www.instagram.com/p/CqEdz5uAdeY/](https://www.instagram.com/p/CqEdz5uAdeY/)*
 
 ### Ingredients
@@ -18635,7 +20204,7 @@ In an oven safe pan place the broccoli and season with salt and olive oil
 
 ---
 
-## 541. MY DADS CILANTRO-JALAPEÑO SPREAD!
+## 593. MY DADS CILANTRO-JALAPEÑO SPREAD!
 *Source: [https://www.instagram.com/p/CqBlGnIgw1x/](https://www.instagram.com/p/CqBlGnIgw1x/)*
 
 ### Ingredients
@@ -18674,7 +20243,7 @@ In a food processor put the cilantro, jalapeños, garlic cloves, salt and 1 tabl
 
 ---
 
-## 542. RAS EL HANUT CHUCK ROAST!
+## 594. RAS EL HANUT CHUCK ROAST!
 *Source: [https://www.instagram.com/p/Cp-bK0ugOS1/](https://www.instagram.com/p/Cp-bK0ugOS1/)*
 
 ### Ingredients
@@ -18728,7 +20297,7 @@ Preheat the oven to 300F / 150C
 
 ---
 
-## 543. GREEN BEANS AND POTATOES!
+## 595. GREEN BEANS AND POTATOES!
 *Source: [https://www.instagram.com/p/Cp56Iu0ALsn/](https://www.instagram.com/p/Cp56Iu0ALsn/)*
 
 ### Ingredients
@@ -18761,7 +20330,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 544. SUMAC VINAIGRETTE ROASTED EGGPLANTS!
+## 596. SUMAC VINAIGRETTE ROASTED EGGPLANTS!
 *Source: [https://www.instagram.com/p/Cp3WR4Mgn5n/](https://www.instagram.com/p/Cp3WR4Mgn5n/)*
 
 ### Ingredients
@@ -18806,7 +20375,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 545. CAULIFLOWER TABBOULEH!
+## 597. CAULIFLOWER TABBOULEH!
 *Source: [https://www.instagram.com/p/Cp0-ZvRAAC1/](https://www.instagram.com/p/Cp0-ZvRAAC1/)*
 
 ### Ingredients
@@ -18854,7 +20423,7 @@ Mix all the ingredients in a mason jar to a smooth dressing
 
 ---
 
-## 546. CHICKPEA AVOCADO TOAST!
+## 598. CHICKPEA AVOCADO TOAST!
 *Source: [https://www.instagram.com/p/CpyIL4TAAD3/](https://www.instagram.com/p/CpyIL4TAAD3/)*
 
 ### Ingredients
@@ -18878,7 +20447,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 547. MY MOMS TURMERIC CHICKEN!
+## 599. MY MOMS TURMERIC CHICKEN!
 *Source: [https://www.instagram.com/p/CpvqCQTANet/](https://www.instagram.com/p/CpvqCQTANet/)*
 
 ### Ingredients
@@ -18909,7 +20478,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 548. SUMAC GRILLED STRAWBERRIES!
+## 600. SUMAC GRILLED STRAWBERRIES!
 *Source: [https://www.instagram.com/p/CptOqzsg5CY/](https://www.instagram.com/p/CptOqzsg5CY/)*
 
 ### Ingredients
@@ -18929,7 +20498,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 549. SCHNITZEL FRIDAY!
+## 601. SCHNITZEL FRIDAY!
 *Source: [https://www.instagram.com/p/Cpn0DLrAHtw/](https://www.instagram.com/p/Cpn0DLrAHtw/)*
 
 ### Ingredients
@@ -18959,7 +20528,7 @@ In a bowl, put the chicken, egg and all the spices and mix it well
 
 ---
 
-## 550. ZUCCHINILICOUS SALAD!
+## 602. ZUCCHINILICOUS SALAD!
 *Source: [https://www.instagram.com/p/CplycX6AhwS/](https://www.instagram.com/p/CplycX6AhwS/)*
 
 ### Ingredients
@@ -18982,7 +20551,7 @@ In a bowl, put the chicken, egg and all the spices and mix it well
 
 ---
 
-## 551. MEDITERRANEAN ONE PAN SALMON!
+## 603. MEDITERRANEAN ONE PAN SALMON!
 *Source: [https://www.instagram.com/p/CpjRV7fgjqr/](https://www.instagram.com/p/CpjRV7fgjqr/)*
 
 ### Ingredients
@@ -19030,7 +20599,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 552. AVOCADO TAHINI CABBAGE STEAKS!
+## 604. AVOCADO TAHINI CABBAGE STEAKS!
 *Source: [https://www.instagram.com/p/CpgiS51AOwP/](https://www.instagram.com/p/CpgiS51AOwP/)*
 
 ### Ingredients
@@ -19067,7 +20636,7 @@ Put all the ingredients in a food processor and mix it to a smooth dressing
 
 ---
 
-## 553. MAKLUBA- IRQI RICE! follow ruhamasfood for more!
+## 605. MAKLUBA- IRQI RICE! follow ruhamasfood for more!
 *Source: [https://www.instagram.com/p/CpdwD5og4wy/](https://www.instagram.com/p/CpdwD5og4wy/)*
 
 ### Ingredients
@@ -19109,7 +20678,7 @@ Put all the ingredients in a food processor and mix it to a smooth dressing
 
 ---
 
-## 554. ONE PAN MOROCCAN COUSCOUS AND SQUASH!
+## 606. ONE PAN MOROCCAN COUSCOUS AND SQUASH!
 *Source: [https://www.instagram.com/p/CpaqoCxA1Vf/](https://www.instagram.com/p/CpaqoCxA1Vf/)*
 
 ### Ingredients
@@ -19162,7 +20731,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 555. ROASTED PEPPERS SALAD!
+## 607. ROASTED PEPPERS SALAD!
 *Source: [https://www.instagram.com/p/CpV6dklO3k0/](https://www.instagram.com/p/CpV6dklO3k0/)*
 
 ### Ingredients
@@ -19179,7 +20748,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 556. ROASTED EGGPLANT BOATS WITH FRESH CHICKPEA SALAD!
+## 608. ROASTED EGGPLANT BOATS WITH FRESH CHICKPEA SALAD!
 *Source: [https://www.instagram.com/p/CpThJtEgYzF/](https://www.instagram.com/p/CpThJtEgYzF/)*
 
 ### Ingredients
@@ -19223,7 +20792,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 557. ROASTED CAULIFLOWER STEAKS OVER SUMAC YOGURT!
+## 609. ROASTED CAULIFLOWER STEAKS OVER SUMAC YOGURT!
 *Source: [https://www.instagram.com/p/CpOSYRrg6K1/](https://www.instagram.com/p/CpOSYRrg6K1/)*
 
 ### Ingredients
@@ -19278,7 +20847,7 @@ Mix it with your hands
 
 ---
 
-## 558. DELICIOUS BAKED POTATO SALAD!
+## 610. DELICIOUS BAKED POTATO SALAD!
 *Source: [https://www.instagram.com/p/CpAP0reIt9p/](https://www.instagram.com/p/CpAP0reIt9p/)*
 
 ### Ingredients
@@ -19317,7 +20886,7 @@ Put all the ingredients in a bowl and mix it
 
 ---
 
-## 559. BAKED FETA AND COUSCOUS!
+## 611. BAKED FETA AND COUSCOUS!
 *Source: [https://www.instagram.com/p/Co2YQrrAu4v/](https://www.instagram.com/p/Co2YQrrAu4v/)*
 
 ### Ingredients
@@ -19336,7 +20905,7 @@ Put all the ingredients in a bowl and mix it
 
 ---
 
-## 560. Comforting Coleslaw Salad!
+## 612. Comforting Coleslaw Salad!
 *Source: [https://www.instagram.com/p/CovogIMgYon/](https://www.instagram.com/p/CovogIMgYon/)*
 
 ### Ingredients
@@ -19359,7 +20928,7 @@ Put all the ingredients in a bowl and mix it
 
 ---
 
-## 561. SMASHED POTATOES!  follow ruhamasfood for more recipes
+## 613. SMASHED POTATOES!  follow ruhamasfood for more recipes
 *Source: [https://www.instagram.com/p/Cos3ojAgNO5/](https://www.instagram.com/p/Cos3ojAgNO5/)*
 
 ### Ingredients
@@ -19398,7 +20967,7 @@ Place the cooked potatoes in a 12 inch cast iron pan
 
 ---
 
-## 562. Moroccan-Spiced Roasted Carrots!
+## 614. Moroccan-Spiced Roasted Carrots!
 *Source: [https://www.instagram.com/p/ConN007gvxV/](https://www.instagram.com/p/ConN007gvxV/)*
 
 ### Ingredients
@@ -19435,7 +21004,7 @@ Place the cooked potatoes in a 12 inch cast iron pan
 
 ---
 
-## 563. Roasted Sweet Potatoes with Green Tahini Dip!
+## 615. Roasted Sweet Potatoes with Green Tahini Dip!
 *Source: [https://www.instagram.com/p/CodoyJYACUW/](https://www.instagram.com/p/CodoyJYACUW/)*
 
 ### Ingredients
@@ -19460,7 +21029,7 @@ On a baking pan spread the sweet potatoes slices and season with salt and olive 
 
 ---
 
-## 564. BABA GHANOUSH!
+## 616. BABA GHANOUSH!
 *Source: [https://www.instagram.com/p/CoYjXRfA-oP/](https://www.instagram.com/p/CoYjXRfA-oP/)*
 
 ### Ingredients
@@ -19480,7 +21049,7 @@ On a baking pan spread the sweet potatoes slices and season with salt and olive 
 
 ---
 
-## 565. Chicken Breast With Onion Jam!
+## 617. Chicken Breast With Onion Jam!
 *Source: [https://www.instagram.com/p/CoLUaAqAwQf/](https://www.instagram.com/p/CoLUaAqAwQf/)*
 
 ### Ingredients
@@ -19512,7 +21081,7 @@ In a skillet pan on medium heat, pour the olive oil, add the spices and let them
 
 ---
 
-## 566. TURMERIC RICE AND CAULIFLOWER!
+## 618. TURMERIC RICE AND CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CoIwrPsgusQ/](https://www.instagram.com/p/CoIwrPsgusQ/)*
 
 ### Ingredients
@@ -19566,7 +21135,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 567. GRILLED VEGGIES AND FETA CHEESE!
+## 619. GRILLED VEGGIES AND FETA CHEESE!
 *Source: [https://www.instagram.com/p/CoGS5nrgmWc/](https://www.instagram.com/p/CoGS5nrgmWc/)*
 
 ### Ingredients
@@ -19606,7 +21175,7 @@ Place all the veggies in an oven safe pan
 
 ---
 
-## 568. ROASTED FENNEL OVER HUMMUS!
+## 620. ROASTED FENNEL OVER HUMMUS!
 *Source: [https://www.instagram.com/p/CoD2HGlAbuX/](https://www.instagram.com/p/CoD2HGlAbuX/)*
 
 ### Ingredients
@@ -19643,7 +21212,7 @@ Place the fennel on a baking pan and season with salt and olive oil
 
 ---
 
-## 569. MOZZARELLA WITH PESTO AVOCADO CREAM!  Follow ruhamasfood for more recipes!
+## 621. MOZZARELLA WITH PESTO AVOCADO CREAM!  Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/CoA8RD-g4Ji/](https://www.instagram.com/p/CoA8RD-g4Ji/)*
 
 ### Ingredients
@@ -19663,7 +21232,7 @@ Place the fennel on a baking pan and season with salt and olive oil
 
 ---
 
-## 570. SHAWARMA SPICED SALMON!
+## 622. SHAWARMA SPICED SALMON!
 *Source: [https://www.instagram.com/p/Cn709Cogyc8/](https://www.instagram.com/p/Cn709Cogyc8/)*
 
 ### Ingredients
@@ -19710,7 +21279,7 @@ In an oven safe rectangular pan, place the salmon cubes, herbs, shallot, jalape�
 
 ---
 
-## 571. NO MESS BEET SALAD!
+## 623. NO MESS BEET SALAD!
 *Source: [https://www.instagram.com/p/Cn5b4QAA4Ea/](https://www.instagram.com/p/Cn5b4QAA4Ea/)*
 
 ### Ingredients
@@ -19752,7 +21321,7 @@ For a no-mess and easy cleaning of the cutting board, place a baking / parchment
 
 ---
 
-## 572. BROCCOLI SAVORY PIE!
+## 624. BROCCOLI SAVORY PIE!
 *Source: [https://www.instagram.com/p/Cn2k0LMjWRK/](https://www.instagram.com/p/Cn2k0LMjWRK/)*
 
 ### Ingredients
@@ -19794,7 +21363,7 @@ Put the all ingredients in a bowl and whisk them well
 
 ---
 
-## 573. ONE PAN LEMONY TURMERIC CHICKPEAS!
+## 625. ONE PAN LEMONY TURMERIC CHICKPEAS!
 *Source: [https://www.instagram.com/p/CnzyClRJiaB/](https://www.instagram.com/p/CnzyClRJiaB/)*
 
 ### Ingredients
@@ -19820,7 +21389,7 @@ Put the all ingredients in a bowl and whisk them well
 
 ---
 
-## 574. Harissa Chicken and Potatoes!
+## 626. Harissa Chicken and Potatoes!
 *Source: [https://www.instagram.com/p/CnpaW1cIRRU/](https://www.instagram.com/p/CnpaW1cIRRU/)*
 
 ### Ingredients
@@ -19867,7 +21436,7 @@ Place the whole chicken on top of all the pan ingredients
 
 ---
 
-## 575. BAKED ZAATAR FETA AND TOMATOES!
+## 627. BAKED ZAATAR FETA AND TOMATOES!
 *Source: [https://www.instagram.com/p/Cnkw6aPoLI3/](https://www.instagram.com/p/Cnkw6aPoLI3/)*
 
 ### Ingredients
@@ -19891,7 +21460,7 @@ Place the whole chicken on top of all the pan ingredients
 
 ---
 
-## 576. SHAWARMA SPICED GRILLED CHICKEN!
+## 628. SHAWARMA SPICED GRILLED CHICKEN!
 *Source: [https://www.instagram.com/p/CnipeHyI_Di/](https://www.instagram.com/p/CnipeHyI_Di/)*
 
 ### Ingredients
@@ -19917,7 +21486,7 @@ This juicy grilled chicken will take you 10 minutes to prepare and it will be on
 
 ---
 
-## 577. ROASTED ZUCCHINI WITH FETA AND SUMAC ONIONS!
+## 629. ROASTED ZUCCHINI WITH FETA AND SUMAC ONIONS!
 *Source: [https://www.instagram.com/p/CnffpBPIy6h/](https://www.instagram.com/p/CnffpBPIy6h/)*
 
 ### Ingredients
@@ -19939,7 +21508,7 @@ This juicy grilled chicken will take you 10 minutes to prepare and it will be on
 
 ---
 
-## 578. ROASTED EGGPLANTS AND PEPPERS!
+## 630. ROASTED EGGPLANTS AND PEPPERS!
 *Source: [https://www.instagram.com/p/CndHzasqc5C/](https://www.instagram.com/p/CndHzasqc5C/)*
 
 ### Ingredients
@@ -19961,7 +21530,7 @@ This juicy grilled chicken will take you 10 minutes to prepare and it will be on
 
 ---
 
-## 579. ORANGE CAKE!
+## 631. ORANGE CAKE!
 *Source: [https://www.instagram.com/p/CnasCLdK-d3/](https://www.instagram.com/p/CnasCLdK-d3/)*
 
 ### Ingredients
@@ -19987,7 +21556,7 @@ This juicy grilled chicken will take you 10 minutes to prepare and it will be on
 
 ---
 
-## 580. Turmeric Chicken and Orzo!
+## 632. Turmeric Chicken and Orzo!
 *Source: [https://www.instagram.com/p/CnVTid9KdK1/](https://www.instagram.com/p/CnVTid9KdK1/)*
 
 ### Ingredients
@@ -20037,7 +21606,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 581. RED CABBAGE STEAKS OVER TAHINI YOGURT!
+## 633. RED CABBAGE STEAKS OVER TAHINI YOGURT!
 *Source: [https://www.instagram.com/p/CnQSwHLqgUY/](https://www.instagram.com/p/CnQSwHLqgUY/)*
 
 ### Ingredients
@@ -20071,7 +21640,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 582. FENNEL ORANGE SALAD!
+## 634. FENNEL ORANGE SALAD!
 *Source: [https://www.instagram.com/p/CnNoDRaIurR/](https://www.instagram.com/p/CnNoDRaIurR/)*
 
 ### Ingredients
@@ -20092,7 +21661,7 @@ Let’s start the week with a new healthy salad that you are going to love
 
 ---
 
-## 583. SWEET POTATOES WITH A SECRET INGREDIENT!
+## 635. SWEET POTATOES WITH A SECRET INGREDIENT!
 *Source: [https://www.instagram.com/p/CnK9zOEI873/](https://www.instagram.com/p/CnK9zOEI873/)*
 
 ### Ingredients
@@ -20117,7 +21686,7 @@ Let’s start the week with a new healthy salad that you are going to love
 
 ---
 
-## 584. Citrus Marinated Chicken Thighs!
+## 636. Citrus Marinated Chicken Thighs!
 *Source: [https://www.instagram.com/p/CnDMBtzKZvp/](https://www.instagram.com/p/CnDMBtzKZvp/)*
 
 ### Ingredients
@@ -20170,7 +21739,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 585. SUMAC -TAHINI ROASTED CAULIFLOWER!
+## 637. SUMAC -TAHINI ROASTED CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CnAbWnAI2mN/](https://www.instagram.com/p/CnAbWnAI2mN/)*
 
 ### Ingredients
@@ -20192,7 +21761,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 586. BASMATI RICE STUFFED PEPPERS!
+## 638. BASMATI RICE STUFFED PEPPERS!
 *Source: [https://www.instagram.com/p/Cm-aNJ6qvQo/](https://www.instagram.com/p/Cm-aNJ6qvQo/)*
 
 ### Ingredients
@@ -20265,7 +21834,7 @@ Method-
 
 ---
 
-## 587. MUSHROOM FRITTATA!
+## 639. MUSHROOM FRITTATA!
 *Source: [https://www.instagram.com/p/Cm7fwLkqnCL/](https://www.instagram.com/p/Cm7fwLkqnCL/)*
 
 ### Ingredients
@@ -20287,7 +21856,7 @@ Method-
 
 ---
 
-## 588. Warm Zucchini And Green Herbs Salad!
+## 640. Warm Zucchini And Green Herbs Salad!
 *Source: [https://www.instagram.com/p/Cm5JaZmq_lH/](https://www.instagram.com/p/Cm5JaZmq_lH/)*
 
 ### Ingredients
@@ -20315,7 +21884,7 @@ Let’s start the new year with a grilled zucchini salad with lots of fresh herb
 
 ---
 
-## 589. Cabbage Salad with Zaatar Panko Crumbs!
+## 641. Cabbage Salad with Zaatar Panko Crumbs!
 *Source: [https://www.instagram.com/p/CmuiKhHI8SD/](https://www.instagram.com/p/CmuiKhHI8SD/)*
 
 ### Ingredients
@@ -20364,7 +21933,7 @@ Put all the ingredients in a bowl and mix them to a smooth dressing
 
 ---
 
-## 590. ROASTED CORN AND ZUCCHINI !
+## 642. ROASTED CORN AND ZUCCHINI !
 *Source: [https://www.instagram.com/p/Cmpmyy6I3rv/](https://www.instagram.com/p/Cmpmyy6I3rv/)*
 
 ### Ingredients
@@ -20391,7 +21960,7 @@ Put all the ingredients in a bowl and mix them to a smooth dressing
 
 ---
 
-## 591. MEDITERRANEAN BAKED PASTA!
+## 643. MEDITERRANEAN BAKED PASTA!
 *Source: [https://www.instagram.com/p/CmkMsuDKEQ0/](https://www.instagram.com/p/CmkMsuDKEQ0/)*
 
 ### Ingredients
@@ -20418,7 +21987,7 @@ Put all the ingredients in a bowl and mix them to a smooth dressing
 
 ---
 
-## 592. CAST IRON CAULIFLOWER PIE!
+## 644. CAST IRON CAULIFLOWER PIE!
 *Source: [https://www.instagram.com/p/CmfZVY6IBwS/](https://www.instagram.com/p/CmfZVY6IBwS/)*
 
 ### Ingredients
@@ -20448,7 +22017,7 @@ Put all the ingredients in a bowl and mix them to a smooth dressing
 
 ---
 
-## 593. CAULIFLOWER STEAKS WITH TURMERIC TAHINI!
+## 645. CAULIFLOWER STEAKS WITH TURMERIC TAHINI!
 *Source: [https://www.instagram.com/p/CmaDpECqP_o/](https://www.instagram.com/p/CmaDpECqP_o/)*
 
 ### Ingredients
@@ -20490,7 +22059,7 @@ Place the cauliflower steaks and onions in a row on a baking pan
 
 ---
 
-## 594. BAKED COD WITH SUMAC CRUST!
+## 646. BAKED COD WITH SUMAC CRUST!
 *Source: [https://www.instagram.com/p/CmX0Auog8Vf/](https://www.instagram.com/p/CmX0Auog8Vf/)*
 
 ### Ingredients
@@ -20527,7 +22096,7 @@ Zest from 1 lemon
 
 ---
 
-## 595. CAST IRON LATKE!
+## 647. CAST IRON LATKE!
 *Source: [https://www.instagram.com/p/CmUf_RSAGw1/](https://www.instagram.com/p/CmUf_RSAGw1/)*
 
 ### Ingredients
@@ -20561,7 +22130,7 @@ Put all the ingredient in a bowl and mix it well
 
 ---
 
-## 596. MY FAMOUS VEGAN CAULIFLOWER!
+## 648. MY FAMOUS VEGAN CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CmPjrGVALmm/](https://www.instagram.com/p/CmPjrGVALmm/)*
 
 ### Ingredients
@@ -20586,7 +22155,7 @@ Fill hot water in a pot, add 1 teaspoon of salt and boil the cauliflower
 
 ---
 
-## 597. CAST IRON ZUCCHINI PIE!
+## 649. CAST IRON ZUCCHINI PIE!
 *Source: [https://www.instagram.com/p/CmK2l0jgy4o/](https://www.instagram.com/p/CmK2l0jgy4o/)*
 
 ### Ingredients
@@ -20616,7 +22185,7 @@ On a cast iron pan drizzle olive oil and season with salt
 
 ---
 
-## 598. One Pan Chicken Dinner!
+## 650. One Pan Chicken Dinner!
 *Source: [https://www.instagram.com/p/CmIXQelA4Yk/](https://www.instagram.com/p/CmIXQelA4Yk/)*
 
 ### Ingredients
@@ -20667,7 +22236,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 599. ROASTED EGGPLANTS WITH AVOCADO CREAM!
+## 651. ROASTED EGGPLANTS WITH AVOCADO CREAM!
 *Source: [https://www.instagram.com/p/CmFjwbUAGNq/](https://www.instagram.com/p/CmFjwbUAGNq/)*
 
 ### Ingredients
@@ -20713,7 +22282,7 @@ Put all the ingredients in a food processor and mix it to a smooth dressing
 
 ---
 
-## 600. SWEET SEMOLINA PORRIDGE!
+## 652. SWEET SEMOLINA PORRIDGE!
 *Source: [https://www.instagram.com/p/CmCjLkvgvu0/](https://www.instagram.com/p/CmCjLkvgvu0/)*
 
 ### Ingredients
@@ -20730,7 +22299,7 @@ On a medium heat, put in a saucepan the milk, heavy cream and sugar and let it b
 
 ---
 
-## 601. CHOPPED SALAD WITH FETA CHEESE!
+## 653. CHOPPED SALAD WITH FETA CHEESE!
 *Source: [https://www.instagram.com/p/CmADwBcgCQH/](https://www.instagram.com/p/CmADwBcgCQH/)*
 
 ### Ingredients
@@ -20750,7 +22319,7 @@ Season with sumac, za’atar, lemon juice and olive oil
 
 ---
 
-## 602. LIME CILANTRO SAUCE!
+## 654. LIME CILANTRO SAUCE!
 *Source: [https://www.instagram.com/p/Cl97jrBAYiW/](https://www.instagram.com/p/Cl97jrBAYiW/)*
 
 ### Ingredients
@@ -20766,7 +22335,7 @@ Season with sumac, za’atar, lemon juice and olive oil
 
 ---
 
-## 603. HANUKKAH VIBES!!
+## 655. HANUKKAH VIBES!!
 *Source: [https://www.instagram.com/p/Cl7fErggKAT/](https://www.instagram.com/p/Cl7fErggKAT/)*
 
 ### Ingredients
@@ -20811,7 +22380,7 @@ In a heavy-bottomed medium pot, heat about 2-inch high of vegetable oil over med
 
 ---
 
-## 604. ZAATAR ROSTED BRUSSELS SPROUTS!
+## 656. ZAATAR ROSTED BRUSSELS SPROUTS!
 *Source: [https://www.instagram.com/p/Cl4y2oegItA/](https://www.instagram.com/p/Cl4y2oegItA/)*
 
 ### Ingredients
@@ -20832,7 +22401,7 @@ In a heavy-bottomed medium pot, heat about 2-inch high of vegetable oil over med
 
 ---
 
-## 605. OREGANO CITRUSY ROASTED CHICKEN!
+## 657. OREGANO CITRUSY ROASTED CHICKEN!
 *Source: [https://www.instagram.com/p/Cl2R101ARh7/](https://www.instagram.com/p/Cl2R101ARh7/)*
 
 ### Ingredients
@@ -20892,7 +22461,7 @@ Place all the ingredients in the center of a deep oven safe pan
 
 ---
 
-## 606. HARISSA- HONEY ROASTED CARROTS!
+## 658. HARISSA- HONEY ROASTED CARROTS!
 *Source: [https://www.instagram.com/p/ClzZdx6AiIh/](https://www.instagram.com/p/ClzZdx6AiIh/)*
 
 ### Ingredients
@@ -20923,7 +22492,7 @@ Place all the ingredients in the center of a deep oven safe pan
 
 ---
 
-## 607. ROASTED EGGPLANTS OVER GREEN YOGURT TAHINI!  Follow ruhamasfood for more
+## 659. ROASTED EGGPLANTS OVER GREEN YOGURT TAHINI!  Follow ruhamasfood for more
 *Source: [https://www.instagram.com/p/Clt4WVjgu1i/](https://www.instagram.com/p/Clt4WVjgu1i/)*
 
 ### Ingredients
@@ -20948,7 +22517,7 @@ Place the sliced eggplants evenly on a baking pan
 
 ---
 
-## 608. SCHNITZEL TIME!
+## 660. SCHNITZEL TIME!
 *Source: [https://www.instagram.com/p/ClpYY14A8ff/](https://www.instagram.com/p/ClpYY14A8ff/)*
 
 ### Ingredients
@@ -20979,7 +22548,7 @@ In a bowl, put the chicken, egg and all the spices and mix it well
 
 ---
 
-## 609. CHICKPEA AND TOMATO CHILI!
+## 661. CHICKPEA AND TOMATO CHILI!
 *Source: [https://www.instagram.com/p/Clm6IhUANNF/](https://www.instagram.com/p/Clm6IhUANNF/)*
 
 ### Ingredients
@@ -21009,7 +22578,7 @@ Delicious Mediterranean chili with chickpeas, fresh tomatoes serve on top of cou
 
 ---
 
-## 610. ONE PAN MEDITERRANEAN SALMON!
+## 662. ONE PAN MEDITERRANEAN SALMON!
 *Source: [https://www.instagram.com/p/ClkSFvmgDfi/](https://www.instagram.com/p/ClkSFvmgDfi/)*
 
 ### Ingredients
@@ -21055,7 +22624,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 611. HONEY MUSTARD ROASTED CABBAGE!
+## 663. HONEY MUSTARD ROASTED CABBAGE!
 *Source: [https://www.instagram.com/p/Clhz34hg3bv/](https://www.instagram.com/p/Clhz34hg3bv/)*
 
 ### Ingredients
@@ -21106,7 +22675,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 612. HOMEMADE TORTILLAS!
+## 664. HOMEMADE TORTILLAS!
 *Source: [https://www.instagram.com/p/CleGoung5E5/](https://www.instagram.com/p/CleGoung5E5/)*
 
 ### Ingredients
@@ -21129,7 +22698,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 613. BAKED SUMAC BRIE!
+## 665. BAKED SUMAC BRIE!
 *Source: [https://www.instagram.com/p/ClZ0t21AKDd/](https://www.instagram.com/p/ClZ0t21AKDd/)*
 
 ### Ingredients
@@ -21149,7 +22718,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 614. BUTTERY POTATO CASSEROLE!!
+## 666. BUTTERY POTATO CASSEROLE!!
 *Source: [https://www.instagram.com/p/ClXdz6lAejP/](https://www.instagram.com/p/ClXdz6lAejP/)*
 
 ### Ingredients
@@ -21170,7 +22739,7 @@ Slice the potatoes to thin circles with a mandolin
 
 ---
 
-## 615. MEDITERRANEAN BAKED COD!
+## 667. MEDITERRANEAN BAKED COD!
 *Source: [https://www.instagram.com/p/ClRWjy1gAOW/](https://www.instagram.com/p/ClRWjy1gAOW/)*
 
 ### Ingredients
@@ -21195,7 +22764,7 @@ Slice the potatoes to thin circles with a mandolin
 
 ---
 
-## 616. MY DADS TAHINI ENERGY SNACK!
+## 668. MY DADS TAHINI ENERGY SNACK!
 *Source: [https://www.instagram.com/p/ClMLZLWAyaL/](https://www.instagram.com/p/ClMLZLWAyaL/)*
 
 ### Ingredients
@@ -21207,7 +22776,7 @@ Slice the potatoes to thin circles with a mandolin
 
 ---
 
-## 617. CHICKPEAS AND SWISS CHARD OVER YOGURT!
+## 669. CHICKPEAS AND SWISS CHARD OVER YOGURT!
 *Source: [https://www.instagram.com/p/ClJ9DmMpF5K/](https://www.instagram.com/p/ClJ9DmMpF5K/)*
 
 ### Ingredients
@@ -21252,7 +22821,7 @@ On medium heat in a skillet pan, pour the olive oil and add the chopped swiss ch
 
 ---
 
-## 618. CRANBERRY JAM WITH A TWIST!
+## 670. CRANBERRY JAM WITH A TWIST!
 *Source: [https://www.instagram.com/p/ClFK7vPAO3V/](https://www.instagram.com/p/ClFK7vPAO3V/)*
 
 ### Ingredients
@@ -21285,7 +22854,7 @@ Put all the ingredients in a pan and stir
 
 ---
 
-## 619. ROASTED CAULIFLOWER WITH FETA DRESSING!
+## 671. ROASTED CAULIFLOWER WITH FETA DRESSING!
 *Source: [https://www.instagram.com/p/ClCr5PrghyR/](https://www.instagram.com/p/ClCr5PrghyR/)*
 
 ### Ingredients
@@ -21312,7 +22881,7 @@ Pour some of the feta dressing
 
 ---
 
-## 620. FENNEL AND PERSIMMON SALAD!
+## 672. FENNEL AND PERSIMMON SALAD!
 *Source: [https://www.instagram.com/p/Ck_6bs3A0UR/](https://www.instagram.com/p/Ck_6bs3A0UR/)*
 
 ### Ingredients
@@ -21333,7 +22902,7 @@ Pour some of the feta dressing
 
 ---
 
-## 621. BAHARAT BUTTERNUT SQUASH SOUP!
+## 673. BAHARAT BUTTERNUT SQUASH SOUP!
 *Source: [https://www.instagram.com/p/Ck64XeLA01T/](https://www.instagram.com/p/Ck64XeLA01T/)*
 
 ### Ingredients
@@ -21363,7 +22932,7 @@ In a pot, on a medium heat, put 5  tablespoons of olive oil
 
 ---
 
-## 622. AVOCADO EGG SALAD!
+## 674. AVOCADO EGG SALAD!
 *Source: [https://www.instagram.com/p/Ck4AhmRA_VC/](https://www.instagram.com/p/Ck4AhmRA_VC/)*
 
 ### Ingredients
@@ -21381,7 +22950,7 @@ In a pot, on a medium heat, put 5  tablespoons of olive oil
 
 ---
 
-## 623. GREEN BEANS AND POTATOES!
+## 675. GREEN BEANS AND POTATOES!
 *Source: [https://www.instagram.com/p/Cky3WYpAaZ1/](https://www.instagram.com/p/Cky3WYpAaZ1/)*
 
 ### Ingredients
@@ -21414,7 +22983,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 624. HARISSA HONEY GRILLED CHICKEN!
+## 676. HARISSA HONEY GRILLED CHICKEN!
 *Source: [https://www.instagram.com/p/Ckv5siqgSdd/](https://www.instagram.com/p/Ckv5siqgSdd/)*
 
 ### Ingredients
@@ -21466,7 +23035,7 @@ Mix all the ingredients in a small bowl
 
 ---
 
-## 625. ZUCCHINI AND FETA CHEESE PIE!
+## 677. ZUCCHINI AND FETA CHEESE PIE!
 *Source: [https://www.instagram.com/p/Cko6IhGA2Ka/](https://www.instagram.com/p/Cko6IhGA2Ka/)*
 
 ### Ingredients
@@ -21513,7 +23082,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 626. ZAATAR GOLDEN BEETS AND POTATO!
+## 678. ZAATAR GOLDEN BEETS AND POTATO!
 *Source: [https://www.instagram.com/p/CkiZ89PgQnL/](https://www.instagram.com/p/CkiZ89PgQnL/)*
 
 ### Ingredients
@@ -21542,7 +23111,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 627. SHAWARMA CAULIFLOWER STEAKS WITH TURMERIC TAHINI! Follow ruhamasfood
+## 679. SHAWARMA CAULIFLOWER STEAKS WITH TURMERIC TAHINI! Follow ruhamasfood
 *Source: [https://www.instagram.com/p/Ckb4RTCAL48/](https://www.instagram.com/p/Ckb4RTCAL48/)*
 
 ### Ingredients
@@ -21584,7 +23153,7 @@ Place the cauliflower steaks and onions in a row on a baking pan
 
 ---
 
-## 628. MEDITERRANEAN BAKED FETA AND TOMATO!
+## 680. MEDITERRANEAN BAKED FETA AND TOMATO!
 *Source: [https://www.instagram.com/p/CkUDnJepLRm/](https://www.instagram.com/p/CkUDnJepLRm/)*
 
 ### Ingredients
@@ -21628,7 +23197,7 @@ Take one tortilla and spread in the middle with a spoon za’atar and olive oil
 
 ---
 
-## 629. BUTTERNUT SQUASH KEBABS!!!
+## 681. BUTTERNUT SQUASH KEBABS!!!
 *Source: [https://www.instagram.com/p/CkPErKvJikR/](https://www.instagram.com/p/CkPErKvJikR/)*
 
 ### Ingredients
@@ -21659,7 +23228,7 @@ Take one tortilla and spread in the middle with a spoon za’atar and olive oil
 
 ---
 
-## 630. ROASTED BRUSSELS OVER HUMMUS!
+## 682. ROASTED BRUSSELS OVER HUMMUS!
 *Source: [https://www.instagram.com/p/CkJu3coAKQn/](https://www.instagram.com/p/CkJu3coAKQn/)*
 
 ### Ingredients
@@ -21705,7 +23274,7 @@ Place the Brussels sprouts and shallots on a baking pan and season with salt, su
 
 ---
 
-## 631. ZANGULA-  Iraqi Spiral Fried Dough!
+## 683. ZANGULA-  Iraqi Spiral Fried Dough!
 *Source: [https://www.instagram.com/p/CkG1b_Mp7Vu/](https://www.instagram.com/p/CkG1b_Mp7Vu/)*
 
 ### Ingredients
@@ -21743,7 +23312,7 @@ In a stand mixer with guitar hook, put the yeast, water and sugar blend it toget
 
 ---
 
-## 632. MY ALL TIME FAVORITE SALAD!
+## 684. MY ALL TIME FAVORITE SALAD!
 *Source: [https://www.instagram.com/p/CkBr4_hAPt3/](https://www.instagram.com/p/CkBr4_hAPt3/)*
 
 ### Ingredients
@@ -21777,7 +23346,7 @@ Put all the veggies in a bowl, season it, mix it and enjoy
 
 ---
 
-## 633. GRILLED FLANK STEAK!
+## 685. GRILLED FLANK STEAK!
 *Source: [https://www.instagram.com/p/Cj_spFMAFFN/](https://www.instagram.com/p/Cj_spFMAFFN/)*
 
 ### Ingredients
@@ -21807,7 +23376,7 @@ Place the steak directly over medium flames for about 4 minutes
 
 ---
 
-## 634. ROASTED NAPA CABBAGE!
+## 686. ROASTED NAPA CABBAGE!
 *Source: [https://www.instagram.com/p/Cj6f2VsguYq/](https://www.instagram.com/p/Cj6f2VsguYq/)*
 
 ### Ingredients
@@ -21843,7 +23412,7 @@ Place the Napa cabbage and fennels in an oven safe pan
 
 ---
 
-## 635. VEGAN IRAQI CAULIFLOWER TBEET!!!
+## 687. VEGAN IRAQI CAULIFLOWER TBEET!!!
 *Source: [https://www.instagram.com/p/Cj1KP6qpuZp/](https://www.instagram.com/p/Cj1KP6qpuZp/)*
 
 ### Ingredients
@@ -21900,7 +23469,7 @@ Put all the ingredients in a bowl and mix well
 
 ---
 
-## 636. HERBY ROASTED EGGPLANTS!
+## 688. HERBY ROASTED EGGPLANTS!
 *Source: [https://www.instagram.com/p/CjyMHzIAHqy/](https://www.instagram.com/p/CjyMHzIAHqy/)*
 
 ### Ingredients
@@ -21936,7 +23505,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 637. BAKED POTATO SALAD!
+## 689. BAKED POTATO SALAD!
 *Source: [https://www.instagram.com/p/CjrGZmogqg3/](https://www.instagram.com/p/CjrGZmogqg3/)*
 
 ### Ingredients
@@ -21975,7 +23544,7 @@ Put all the ingredients in a bowl and mix it
 
 ---
 
-## 638. ROASTED FALL VEGGIES!  Follow ruhamasfood for more recipes!
+## 690. ROASTED FALL VEGGIES!  Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/CjlwtSuJEnB/](https://www.instagram.com/p/CjlwtSuJEnB/)*
 
 ### Ingredients
@@ -22001,7 +23570,7 @@ Put all the ingredients in a bowl and mix it
 
 ---
 
-## 639. AROMATIC FREEKEH PILAF!
+## 691. AROMATIC FREEKEH PILAF!
 *Source: [https://www.instagram.com/p/CjjA1eVJ8ih/](https://www.instagram.com/p/CjjA1eVJ8ih/)*
 
 ### Ingredients
@@ -22031,7 +23600,7 @@ On the stove on medium heat, cook the freekeh in boiled water with salt until th
 
 ---
 
-## 640. HONEY-THAINI BROCCOLI SALAD!!!
+## 692. HONEY-THAINI BROCCOLI SALAD!!!
 *Source: [https://www.instagram.com/p/CjYQa7oAUJ5/](https://www.instagram.com/p/CjYQa7oAUJ5/)*
 
 ### Ingredients
@@ -22071,7 +23640,7 @@ Add the dressing on top
 
 ---
 
-## 641. ROASTED SWEET POTATOES WITH A SECRET INGREDIENT!  Follow ruhamasfood for more
+## 693. ROASTED SWEET POTATOES WITH A SECRET INGREDIENT!  Follow ruhamasfood for more
 *Source: [https://www.instagram.com/p/CjRCJiqA1S-/](https://www.instagram.com/p/CjRCJiqA1S-/)*
 
 ### Ingredients
@@ -22096,7 +23665,7 @@ Add the dressing on top
 
 ---
 
-## 642. MELT-IN-YOUR-MOUTH CABBAGE!
+## 694. MELT-IN-YOUR-MOUTH CABBAGE!
 *Source: [https://www.instagram.com/p/CjLVfu3ALCe/](https://www.instagram.com/p/CjLVfu3ALCe/)*
 
 ### Ingredients
@@ -22147,7 +23716,7 @@ Put all the ingredients in a bowl and stir it
 
 ---
 
-## 643. ROASTED ZUCCHINI WITH FETA AND SUMAC ONIONS!
+## 695. ROASTED ZUCCHINI WITH FETA AND SUMAC ONIONS!
 *Source: [https://www.instagram.com/p/CjGld9lJVMZ/](https://www.instagram.com/p/CjGld9lJVMZ/)*
 
 ### Ingredients
@@ -22169,7 +23738,7 @@ Put all the ingredients in a bowl and stir it
 
 ---
 
-## 644. My Kids Favorite Tomato Pasta!
+## 696. My Kids Favorite Tomato Pasta!
 *Source: [https://www.instagram.com/p/CjBRxHRA8dH/](https://www.instagram.com/p/CjBRxHRA8dH/)*
 
 ### Ingredients
@@ -22207,7 +23776,7 @@ Pour 3 tablespoons of olive oil, butter and the salt
 
 ---
 
-## 645. FAMILY STYLE CHEESH BOREK!
+## 697. FAMILY STYLE CHEESH BOREK!
 *Source: [https://www.instagram.com/p/Ci3YHISpDhF/](https://www.instagram.com/p/Ci3YHISpDhF/)*
 
 ### Ingredients
@@ -22239,7 +23808,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 646. Just to be honest its the first time I am making a salad with KALE!! I fell in love
+## 698. Just to be honest its the first time I am making a salad with KALE!! I fell in love
 *Source: [https://www.instagram.com/p/Ci0NzgvgPq-/](https://www.instagram.com/p/Ci0NzgvgPq-/)*
 
 ### Ingredients
@@ -22269,7 +23838,7 @@ Put all the ingredients in a bowl and stir well
 
 ---
 
-## 647. ONE PAN TURMERIC CHICKEN & POTATOES!
+## 699. ONE PAN TURMERIC CHICKEN & POTATOES!
 *Source: [https://www.instagram.com/p/Cixlf_4A7mC/](https://www.instagram.com/p/Cixlf_4A7mC/)*
 
 ### Ingredients
@@ -22332,7 +23901,7 @@ In an oven safe pan drizzle olive oil and place the sliced onions
 
 ---
 
-## 648. Dont miss out this HARISSA HONEY ROASTED LEEK & SQUASH !
+## 700. Dont miss out this HARISSA HONEY ROASTED LEEK & SQUASH !
 *Source: [https://www.instagram.com/p/CitMgvegr9g/](https://www.instagram.com/p/CitMgvegr9g/)*
 
 ### Ingredients
@@ -22372,7 +23941,7 @@ In a rectangular pan, place the squash in a row
 
 ---
 
-## 649. OREGANO LEMONY ROASTED CAULIFLOWER!
+## 701. OREGANO LEMONY ROASTED CAULIFLOWER!
 *Source: [https://www.instagram.com/p/CipzaQTAD97/](https://www.instagram.com/p/CipzaQTAD97/)*
 
 ### Ingredients
@@ -22398,7 +23967,7 @@ Place the cauliflower quarters in a cast iron pan
 
 ---
 
-## 650. CHOCOLATE BRIOCHE ROSES CAKE!
+## 702. CHOCOLATE BRIOCHE ROSES CAKE!
 *Source: [https://www.instagram.com/p/CilZhfnpW5a/](https://www.instagram.com/p/CilZhfnpW5a/)*
 
 ### Ingredients
@@ -22452,7 +24021,7 @@ If you feel the dough needs a little bit more water or flour, you can add it
 
 ---
 
-## 651. HONEY MUSTARD SMASHED POTATOES!
+## 703. HONEY MUSTARD SMASHED POTATOES!
 *Source: [https://www.instagram.com/p/CigSAz2JQnU/](https://www.instagram.com/p/CigSAz2JQnU/)*
 
 ### Ingredients
@@ -22491,7 +24060,7 @@ Place the cooked potatoes in a 12 inch cast iron pan
 
 ---
 
-## 652. Chicken Shawarma With Onion Jam!
+## 704. Chicken Shawarma With Onion Jam!
 *Source: [https://www.instagram.com/p/Cidue5VpZea/](https://www.instagram.com/p/Cidue5VpZea/)*
 
 ### Ingredients
@@ -22523,7 +24092,7 @@ In a skillet pan on medium heat, pour the olive oil, add the spices and let them
 
 ---
 
-## 653. Roasted Butternut Squash With Honey Tahini Dressing!
+## 705. Roasted Butternut Squash With Honey Tahini Dressing!
 *Source: [https://www.instagram.com/p/CibFw4MJGhG/](https://www.instagram.com/p/CibFw4MJGhG/)*
 
 ### Ingredients
@@ -22550,7 +24119,7 @@ In a nice oven safe round ceramic pan, place nicely the squash circles and add t
 
 ---
 
-## 654. GRILLED VEGGIES AND FETA!
+## 706. GRILLED VEGGIES AND FETA!
 *Source: [https://www.instagram.com/p/CiYf90TppE8/](https://www.instagram.com/p/CiYf90TppE8/)*
 
 ### Ingredients
@@ -22590,7 +24159,7 @@ Place all the veggies in an oven safe pan
 
 ---
 
-## 655. MY FAVORITE GREEN CABBAGE SALAD!
+## 707. MY FAVORITE GREEN CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/CiTMWG5JsA3/](https://www.instagram.com/p/CiTMWG5JsA3/)*
 
 ### Ingredients
@@ -22629,7 +24198,7 @@ Put all the veggies in a bowl, pour the dressing mix it well
 
 ---
 
-## 656. Round Honey Brioche Challah!
+## 708. Round Honey Brioche Challah!
 *Source: [https://www.instagram.com/p/CiQt2JgA10O/](https://www.instagram.com/p/CiQt2JgA10O/)*
 
 ### Ingredients
@@ -22666,7 +24235,7 @@ If you feel the dough needs a little bit more water or flour, you can add it
 
 ---
 
-## 657. Baharat Baked Chicken and Rice!
+## 709. Baharat Baked Chicken and Rice!
 *Source: [https://www.instagram.com/p/CiNkBLCAOGI/](https://www.instagram.com/p/CiNkBLCAOGI/)*
 
 ### Ingredients
@@ -22719,7 +24288,7 @@ In an oven safe pan drizzle olive oil and place the tomatoes and onions
 
 ---
 
-## 658. LEMONY TURMERIC CHICKPEAS!
+## 710. LEMONY TURMERIC CHICKPEAS!
 *Source: [https://www.instagram.com/p/CiJAvlhpFtJ/](https://www.instagram.com/p/CiJAvlhpFtJ/)*
 
 ### Ingredients
@@ -22745,7 +24314,7 @@ In an oven safe pan drizzle olive oil and place the tomatoes and onions
 
 ---
 
-## 659. ROUND PESTO CHALLAH!
+## 711. ROUND PESTO CHALLAH!
 *Source: [https://www.instagram.com/p/CiDPY7vgC_e/](https://www.instagram.com/p/CiDPY7vgC_e/)*
 
 ### Ingredients
@@ -22780,7 +24349,7 @@ mix it in a bowl and wait about 30 seconds
 
 ---
 
-## 660. ROASTED RED CABBAGE OVER BEET TZATZIKI!
+## 712. ROASTED RED CABBAGE OVER BEET TZATZIKI!
 *Source: [https://www.instagram.com/p/Ch-wmFNp-_5/](https://www.instagram.com/p/Ch-wmFNp-_5/)*
 
 ### Ingredients
@@ -22799,7 +24368,7 @@ mix it in a bowl and wait about 30 seconds
 
 ---
 
-## 661. Harissa Spatchcock Chicken and Potatoes!
+## 713. Harissa Spatchcock Chicken and Potatoes!
 *Source: [https://www.instagram.com/p/Ch8jxxvA5MN/](https://www.instagram.com/p/Ch8jxxvA5MN/)*
 
 ### Ingredients
@@ -22846,7 +24415,7 @@ Place the whole chicken on top of all the pan ingredients
 
 ---
 
-## 662. ZAATAR ROASTED CAULIFLOWER WITH FETA DRESSING! Follow ruhamasfood for more recipes!
+## 714. ZAATAR ROASTED CAULIFLOWER WITH FETA DRESSING! Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/Ch3Whf3Ab8L/](https://www.instagram.com/p/Ch3Whf3Ab8L/)*
 
 ### Ingredients
@@ -22873,7 +24442,7 @@ Pour some of the feta dressing
 
 ---
 
-## 663. Follow ruhamasfood for more delicious recipes! SUMMERY ROASTED CORN AND ZUCCHINI!
+## 715. Follow ruhamasfood for more delicious recipes! SUMMERY ROASTED CORN AND ZUCCHINI!
 *Source: [https://www.instagram.com/p/Ch0Xr_9JFb9/](https://www.instagram.com/p/Ch0Xr_9JFb9/)*
 
 ### Ingredients
@@ -22900,7 +24469,7 @@ Pour some of the feta dressing
 
 ---
 
-## 664. Juicy Lemony Chicken Kebabs!
+## 716. Juicy Lemony Chicken Kebabs!
 *Source: [https://www.instagram.com/p/ChswR5GgQ8b/](https://www.instagram.com/p/ChswR5GgQ8b/)*
 
 ### Ingredients
@@ -22927,7 +24496,7 @@ Pour some of the feta dressing
 
 ---
 
-## 665. MEDITERRANEAN TOMATO CONFIT!  Follow ruhamasfood for easy recipes!
+## 717. MEDITERRANEAN TOMATO CONFIT!  Follow ruhamasfood for easy recipes!
 *Source: [https://www.instagram.com/p/ChnYSnHgaac/](https://www.instagram.com/p/ChnYSnHgaac/)*
 
 ### Ingredients
@@ -22953,7 +24522,7 @@ Serve it as a salad, on a piece of bread, or as a side dish
 
 ---
 
-## 666. Baba Ganoush - Roasted Eggplants With Tahini!
+## 718. Baba Ganoush - Roasted Eggplants With Tahini!
 *Source: [https://www.instagram.com/p/ChfviLugYZQ/](https://www.instagram.com/p/ChfviLugYZQ/)*
 
 ### Ingredients
@@ -22970,7 +24539,7 @@ Serve it as a salad, on a piece of bread, or as a side dish
 
 ---
 
-## 667. Juicy Meatballs With Ras El Hanout!  RECIPE
+## 719. Juicy Meatballs With Ras El Hanout!  RECIPE
 *Source: [https://www.instagram.com/p/Chc2COBg-fK/](https://www.instagram.com/p/Chc2COBg-fK/)*
 
 ### Ingredients
@@ -23039,7 +24608,7 @@ Put all the ingredients in a bowl and mix it
 
 ---
 
-## 668. MEDITERRANEAN EGGPLANT AND OLIVE SALAD!
+## 720. MEDITERRANEAN EGGPLANT AND OLIVE SALAD!
 *Source: [https://www.instagram.com/p/Chal3Gegklm/](https://www.instagram.com/p/Chal3Gegklm/)*
 
 ### Ingredients
@@ -23091,7 +24660,7 @@ Put all the ingredients in a bowl and mix it to a smooth dressing
 
 ---
 
-## 669. THE QUEEN OF ALL  ROASTED CAULIFLOWER WITH GREEN TAHINI!!! RECIPE
+## 721. THE QUEEN OF ALL  ROASTED CAULIFLOWER WITH GREEN TAHINI!!! RECIPE
 *Source: [https://www.instagram.com/p/ChVG7NRAM_q/](https://www.instagram.com/p/ChVG7NRAM_q/)*
 
 ### Ingredients
@@ -23116,7 +24685,7 @@ Fill hot water in a pot, add 1 teaspoon of salt and boil the cauliflower
 
 ---
 
-## 670. Meatless Monday Calls For Shakshuka!
+## 722. Meatless Monday Calls For Shakshuka!
 *Source: [https://www.instagram.com/p/ChSuvhiJhKd/](https://www.instagram.com/p/ChSuvhiJhKd/)*
 
 ### Ingredients
@@ -23160,7 +24729,7 @@ In a skillet pan on medium heat pour the olive oil
 
 ---
 
-## 671. CAULIFLOWER FETA SALAD! follow ruhamasfood for more recipes!
+## 723. CAULIFLOWER FETA SALAD! follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/ChH-WLDoeo1/](https://www.instagram.com/p/ChH-WLDoeo1/)*
 
 ### Ingredients
@@ -23205,7 +24774,7 @@ Mix all the ingredients in a mason jar to a smooth dressing
 
 ---
 
-## 672. MY FAVORITE RED CABBAGE SALAD!
+## 724. MY FAVORITE RED CABBAGE SALAD!
 *Source: [https://www.instagram.com/p/ChDMbi1oueP/](https://www.instagram.com/p/ChDMbi1oueP/)*
 
 ### Ingredients
@@ -23257,7 +24826,7 @@ Pour the dressing on the salad and mix it well
 
 ---
 
-## 673. Follow ruhamasfood for more recipes! Full recipe below
+## 725. Follow ruhamasfood for more recipes! Full recipe below
 *Source: [https://www.instagram.com/p/Cg2bh2eosEF/](https://www.instagram.com/p/Cg2bh2eosEF/)*
 
 ### Ingredients
@@ -23288,7 +24857,7 @@ Fill hot water in a pot, add 1 teaspoon of salt and bring to a boil
 
 ---
 
-## 674. Follow ruhamasfood for more recipes! Full recipe below
+## 726. Follow ruhamasfood for more recipes! Full recipe below
 *Source: [https://www.instagram.com/p/CgwoJjbIxqj/](https://www.instagram.com/p/CgwoJjbIxqj/)*
 
 ### Ingredients
@@ -23315,7 +24884,7 @@ Fill hot water in a pot, add 1 teaspoon of salt and bring to a boil
 
 ---
 
-## 675. Follow ruhamasfood for more recipes,Full recipe in the caption below
+## 727. Follow ruhamasfood for more recipes,Full recipe in the caption below
 *Source: [https://www.instagram.com/p/CgsMr_coJDO/](https://www.instagram.com/p/CgsMr_coJDO/)*
 
 ### Ingredients
@@ -23369,7 +24938,7 @@ Place the dough on a working surface and pat it lightly to get the air out of it
 
 ---
 
-## 676. Follow ruhamasfood for more recipes!
+## 728. Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/CgkOZ0KojqM/](https://www.instagram.com/p/CgkOZ0KojqM/)*
 
 ### Ingredients
@@ -23399,7 +24968,7 @@ RECIPE ⬇️
 
 ---
 
-## 677. Follow ruhamasfood for more recipes!
+## 729. Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/Cgcbr6WosV2/](https://www.instagram.com/p/Cgcbr6WosV2/)*
 
 ### Ingredients
@@ -23439,7 +25008,7 @@ Place the eggplants cubes on a baking pan, drizzle olive oil and season with sal
 
 ---
 
-## 678. Follow ruhamasfood for more recipes!
+## 730. Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/CgVOCbAgf3-/](https://www.instagram.com/p/CgVOCbAgf3-/)*
 
 ### Ingredients
@@ -23471,7 +25040,7 @@ Place the peppers on a baking pan
 
 ---
 
-## 679. Follow ruhamasfood for more recipes!
+## 731. Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/CgSOIy6gIwy/](https://www.instagram.com/p/CgSOIy6gIwy/)*
 
 ### Ingredients
@@ -23500,7 +25069,7 @@ On medium heat in a nonstick pan put the halloumi cheese cubes
 
 ---
 
-## 680. Follow ruhamasfood for more delicious recipes!
+## 732. Follow ruhamasfood for more delicious recipes!
 *Source: [https://www.instagram.com/p/CgNO7_HgVgU/](https://www.instagram.com/p/CgNO7_HgVgU/)*
 
 ### Ingredients
@@ -23524,7 +25093,7 @@ In an oven safe pan place the broccoli and season with salt and olive oil
 
 ---
 
-## 681. Follow ruhamasfood for more delicious recipes!
+## 733. Follow ruhamasfood for more delicious recipes!
 *Source: [https://www.instagram.com/p/CgLANweAWAT/](https://www.instagram.com/p/CgLANweAWAT/)*
 
 ### Ingredients
@@ -23567,7 +25136,7 @@ Method-
 
 ---
 
-## 682. Follow ruhamasfood for more delicious recipes!
+## 734. Follow ruhamasfood for more delicious recipes!
 *Source: [https://www.instagram.com/p/CgIRIveA19C/](https://www.instagram.com/p/CgIRIveA19C/)*
 
 ### Ingredients
@@ -23620,7 +25189,7 @@ Method-
 
 ---
 
-## 683. Follow ruhamasfood for more recipes!
+## 735. Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/CgCvVN7gXeI/](https://www.instagram.com/p/CgCvVN7gXeI/)*
 
 ### Ingredients
@@ -23654,7 +25223,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 684. Follow ruhamasfood for more yummy recipes!
+## 736. Follow ruhamasfood for more yummy recipes!
 *Source: [https://www.instagram.com/p/CgAgiCeg3w0/](https://www.instagram.com/p/CgAgiCeg3w0/)*
 
 ### Ingredients
@@ -23714,7 +25283,7 @@ Put the couscous in a bowl, add the salt and olive oil and mix
 
 ---
 
-## 685. Follow for ruhamasfood for more recipes!
+## 737. Follow for ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/Cf7MdxlgoQw/](https://www.instagram.com/p/Cf7MdxlgoQw/)*
 
 ### Ingredients
@@ -23788,7 +25357,7 @@ And then cook it for 1 hour and 20 minutes more on low heat
 
 ---
 
-## 686. Follow ruhamasfood for more recipes!
+## 738. Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/Cf2ONW2pRvj/](https://www.instagram.com/p/Cf2ONW2pRvj/)*
 
 ### Ingredients
@@ -23827,7 +25396,7 @@ Cut the eggplants lengthwise (about 1/4 inch thick) making sure each slice is st
 
 ---
 
-## 687. Follow ruhamasfood for more recipes!
+## 739. Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/CfzkussJ7P6/](https://www.instagram.com/p/CfzkussJ7P6/)*
 
 ### Ingredients
@@ -23861,7 +25430,7 @@ Put all the dressing ingredients in a jar and mix them well
 
 ---
 
-## 688. BEEF KEBABS With a SECRET INGREDIENT
+## 740. BEEF KEBABS With a SECRET INGREDIENT
 *Source: [https://www.instagram.com/p/CfrIl6hgxDA/](https://www.instagram.com/p/CfrIl6hgxDA/)*
 
 ### Ingredients
@@ -23932,7 +25501,7 @@ Put all the ingredients in a bowl and mix it well
 
 ---
 
-## 689. Follow ruhamasfood for more recipes!
+## 741. Follow ruhamasfood for more recipes!
 *Source: [https://www.instagram.com/p/CfmnFUIJLVg/](https://www.instagram.com/p/CfmnFUIJLVg/)*
 
 ### Ingredients
@@ -23957,7 +25526,7 @@ Summer is officially here and it’s the bbq season
 
 ---
 
-## 690. MEDITERRANEAN CHICKPEA CHILI!
+## 742. MEDITERRANEAN CHICKPEA CHILI!
 *Source: [https://www.instagram.com/p/CfKhFibA0Hc/](https://www.instagram.com/p/CfKhFibA0Hc/)*
 
 ### Ingredients
@@ -23985,7 +25554,7 @@ Summer is officially here and it’s the bbq season
 
 ---
 
-## 691. ROASTED CAULIFLOWER WITH GREEN TAHINI!
+## 743. ROASTED CAULIFLOWER WITH GREEN TAHINI!
 *Source: [https://www.instagram.com/p/CfFcqgVgqDC/](https://www.instagram.com/p/CfFcqgVgqDC/)*
 
 ### Ingredients
@@ -24009,7 +25578,7 @@ Fill hot water in a pot, add 1 teaspoon of salt and boil the cauliflower
 
 ---
 
-## 692. HARISSA-ROASTED CARROTS !
+## 744. HARISSA-ROASTED CARROTS !
 *Source: [https://www.instagram.com/p/CfCkKergJx6/](https://www.instagram.com/p/CfCkKergJx6/)*
 
 ### Ingredients
@@ -24040,7 +25609,7 @@ Fill hot water in a pot, add 1 teaspoon of salt and boil the cauliflower
 
 ---
 
-## 693. Fennel and Strawberry Summer Salad!
+## 745. Fennel and Strawberry Summer Salad!
 *Source: [https://www.instagram.com/p/Ce4svhoAzNR/](https://www.instagram.com/p/Ce4svhoAzNR/)*
 
 ### Ingredients
@@ -24073,7 +25642,7 @@ Pour the dressing and mix well
 
 ---
 
-## 694. PIZZA PITA!!!
+## 746. PIZZA PITA!!!
 *Source: [https://www.instagram.com/p/CezMWOrgxK9/](https://www.instagram.com/p/CezMWOrgxK9/)*
 
 ### Ingredients
@@ -24090,7 +25659,7 @@ Place the pita bread on a baking pan
 
 ---
 
-## 695. Winner Winner Chicken For Dinner!
+## 747. Winner Winner Chicken For Dinner!
 *Source: [https://www.instagram.com/p/CexBp-3g_Z3/](https://www.instagram.com/p/CexBp-3g_Z3/)*
 
 ### Ingredients
@@ -24129,7 +25698,7 @@ In a cast iron pan on medium heat, put 4 tablespoons of olive oil
 
 ---
 
-## 696. CEDAR PLANKED BBQ SALMON!
+## 748. CEDAR PLANKED BBQ SALMON!
 *Source: [https://www.instagram.com/p/CeuKK7xADOO/](https://www.instagram.com/p/CeuKK7xADOO/)*
 
 ### Ingredients
@@ -24171,7 +25740,7 @@ Place the whole salmon on the cedar plank
 
 ---
 
-## 697. ROASTED POTATOES & TOMATOES!
+## 749. ROASTED POTATOES & TOMATOES!
 *Source: [https://www.instagram.com/p/Cer566dg5Pl/](https://www.instagram.com/p/Cer566dg5Pl/)*
 
 ### Ingredients
@@ -24203,7 +25772,7 @@ Add the tomatoes, garlic, shallot and fresh oregano
 
 ---
 
-## 698. Mediterranean Cauliflower Steaks!
+## 750. Mediterranean Cauliflower Steaks!
 *Source: [https://www.instagram.com/p/Ceo4hr9ANXp/](https://www.instagram.com/p/Ceo4hr9ANXp/)*
 
 ### Ingredients
@@ -24257,7 +25826,7 @@ Spread the yogurt dressing on a nice plate
 
 ---
 
-## 699. SPICY ROASTED EGGPLANTS!
+## 751. SPICY ROASTED EGGPLANTS!
 *Source: [https://www.instagram.com/p/CekCdfvgM82/](https://www.instagram.com/p/CekCdfvgM82/)*
 
 ### Ingredients
@@ -24283,7 +25852,7 @@ When the eggplants are ready, drizzle the green salsa on top of each eggplant
 
 ---
 
-## 700. Whats for dinner ZUCCHINI FRITTATA!
+## 752. Whats for dinner ZUCCHINI FRITTATA!
 *Source: [https://www.instagram.com/p/CehdbeSgOvN/](https://www.instagram.com/p/CehdbeSgOvN/)*
 
 ### Ingredients
@@ -24313,7 +25882,7 @@ In an oven safe pan on medium heat:
 
 ---
 
-## 701. FRESH CORN SALAD!
+## 753. FRESH CORN SALAD!
 *Source: [https://www.instagram.com/p/CeefANMJT8c/](https://www.instagram.com/p/CeefANMJT8c/)*
 
 ### Ingredients
@@ -24341,7 +25910,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 702. TAHDIG RICE!
+## 754. TAHDIG RICE!
 *Source: [https://www.instagram.com/p/CecTjMEA5TU/](https://www.instagram.com/p/CecTjMEA5TU/)*
 
 ### Ingredients
@@ -24364,7 +25933,7 @@ Over medium heat in a wide pot suitable for oven, pour the oil and the spices an
 
 ---
 
-## 703. Cheese Stuffed Eggplants!
+## 755. Cheese Stuffed Eggplants!
 *Source: [https://www.instagram.com/p/CeZqobCJqmY/](https://www.instagram.com/p/CeZqobCJqmY/)*
 
 ### Ingredients
@@ -24405,7 +25974,7 @@ Put a spoonful of the cheese mixture in the edge of each eggplant slice and roll
 
 ---
 
-## 704. RED CABBAGE AND BEETS SALAD!
+## 756. RED CABBAGE AND BEETS SALAD!
 *Source: [https://www.instagram.com/p/CeUcQL6JtPC/](https://www.instagram.com/p/CeUcQL6JtPC/)*
 
 ### Ingredients
@@ -24461,7 +26030,7 @@ Pour the dressing on the salad and mix it well
 
 ---
 
-## 705. My kids asked for STIR-FRY!
+## 757. My kids asked for STIR-FRY!
 *Source: [https://www.instagram.com/p/CeSCCyFAba2/](https://www.instagram.com/p/CeSCCyFAba2/)*
 
 ### Ingredients
@@ -24531,7 +26100,7 @@ In a wide pan on medium heat, put 1 tablespoon of olive oil
 
 ---
 
-## 706. EGGPLANTS AND CREMY FETA! YES!!!
+## 758. EGGPLANTS AND CREMY FETA! YES!!!
 *Source: [https://www.instagram.com/p/CePazZHg3Kg/](https://www.instagram.com/p/CePazZHg3Kg/)*
 
 ### Ingredients
@@ -24559,7 +26128,7 @@ Pour some of the feta dressing
 
 ---
 
-## 707. HOMEMADE HEALTHY ENERGY SNACK!
+## 759. HOMEMADE HEALTHY ENERGY SNACK!
 *Source: [https://www.instagram.com/p/Cd_-nk2AD_L/](https://www.instagram.com/p/Cd_-nk2AD_L/)*
 
 ### Ingredients
@@ -24579,7 +26148,7 @@ Put it in a bowl, mix it together to a smooth spread
 
 ---
 
-## 708. CAULIFLOWER LOVERS THIS IS FOR YOU!
+## 760. CAULIFLOWER LOVERS THIS IS FOR YOU!
 *Source: [https://www.instagram.com/p/Cd9K2gjgCfi/](https://www.instagram.com/p/Cd9K2gjgCfi/)*
 
 ### Ingredients
@@ -24624,7 +26193,7 @@ Mix all the ingredients in a mason jar to a smooth dressing
 
 ---
 
-## 709. CABBAGE & CUCUMBER SALAD WITH AVOCADO DRESSING!
+## 761. CABBAGE & CUCUMBER SALAD WITH AVOCADO DRESSING!
 *Source: [https://www.instagram.com/p/Cdysd5mA5gq/](https://www.instagram.com/p/Cdysd5mA5gq/)*
 
 ### Ingredients
@@ -24663,7 +26232,7 @@ Put all the veggies in a bowl, pour the dressing mix it well
 
 ---
 
-## 710. ROASTED POTATOES WITH ZAATAR!
+## 762. ROASTED POTATOES WITH ZAATAR!
 *Source: [https://www.instagram.com/p/CdwVwZ_gIOU/](https://www.instagram.com/p/CdwVwZ_gIOU/)*
 
 ### Ingredients
@@ -24694,7 +26263,7 @@ Mix it well
 
 ---
 
-## 711. MY KIDS FAVORITE PASTA!
+## 763. MY KIDS FAVORITE PASTA!
 *Source: [https://www.instagram.com/p/Cdt124jp0a8/](https://www.instagram.com/p/Cdt124jp0a8/)*
 
 ### Ingredients
@@ -24713,7 +26282,7 @@ Add 10-12 chopped campari tomatoes and sauté them for 5 minutes
 
 ---
 
-## 712. JUICY CHICKEN OVER POTATOES!
+## 764. JUICY CHICKEN OVER POTATOES!
 *Source: [https://www.instagram.com/p/CdrjFLwgWEj/](https://www.instagram.com/p/CdrjFLwgWEj/)*
 
 ### Ingredients
@@ -24762,7 +26331,7 @@ Fresh thyme leaves
 
 ---
 
-## 713. MUST SAVE- EGG NOODLES AND RICE!
+## 765. MUST SAVE- EGG NOODLES AND RICE!
 *Source: [https://www.instagram.com/p/CdoYKLmJSEN/](https://www.instagram.com/p/CdoYKLmJSEN/)*
 
 ### Ingredients
@@ -24796,7 +26365,7 @@ In a pot on medium heat, put 5 tablespoons of olive oil
 
 ---
 
-## 714. MUST SAVE- TAHINI BROCCOLI SALAD!
+## 766. MUST SAVE- TAHINI BROCCOLI SALAD!
 *Source: [https://www.instagram.com/p/Cdbsdx7pUjc/](https://www.instagram.com/p/Cdbsdx7pUjc/)*
 
 ### Ingredients
@@ -24837,7 +26406,7 @@ Add the dressing on top
 
 ---
 
-## 715. YOU ASKED FOR IT!
+## 767. YOU ASKED FOR IT!
 *Source: [https://www.instagram.com/p/CdYuBJQgroe/](https://www.instagram.com/p/CdYuBJQgroe/)*
 
 ### Ingredients
@@ -24867,12 +26436,12 @@ Add the dressing on top
 
 ---
 
-## 716. MY SECRET INGREDIENT FOR SHAKSHUKA!
+## 768. MY SECRET INGREDIENT FOR SHAKSHUKA!
 *Source: [https://www.instagram.com/p/CdWNfwDgdxV/](https://www.instagram.com/p/CdWNfwDgdxV/)*
 
 ---
 
-## 717. Happy and Sweet Mothers Day!
+## 769. Happy and Sweet Mothers Day!
 *Source: [https://www.instagram.com/p/CdTv_IUgy5f/](https://www.instagram.com/p/CdTv_IUgy5f/)*
 
 ### Ingredients
@@ -24901,7 +26470,7 @@ Fry the french toast with melted butter until browned on one side, then flip and
 
 ---
 
-## 718. THIS MAKES ME HAPPY!
+## 770. THIS MAKES ME HAPPY!
 *Source: [https://www.instagram.com/p/CdQ57CcgWk5/](https://www.instagram.com/p/CdQ57CcgWk5/)*
 
 ### Ingredients
@@ -24942,7 +26511,7 @@ Mix it all
 
 ---
 
-## 719. If you ask my daughter Noa, this is the best kebabs ever!
+## 771. If you ask my daughter Noa, this is the best kebabs ever!
 *Source: [https://www.instagram.com/p/CdMetX3g7fc/](https://www.instagram.com/p/CdMetX3g7fc/)*
 
 ### Ingredients
@@ -24971,7 +26540,7 @@ Mix it all
 
 ---
 
-## 720. ONE PAN meatlessmonday !
+## 772. ONE PAN meatlessmonday !
 *Source: [https://www.instagram.com/p/CdEwGNLA3_J/](https://www.instagram.com/p/CdEwGNLA3_J/)*
 
 ### Ingredients
@@ -25005,7 +26574,7 @@ In an oven safe pan put the couscous, olive oil and salt and mix it
 
 ---
 
-## 721. JUICY GRILLED SALMON!!!
+## 773. JUICY GRILLED SALMON!!!
 *Source: [https://www.instagram.com/p/Cc3eJmigcCg/](https://www.instagram.com/p/Cc3eJmigcCg/)*
 
 ### Ingredients
@@ -25041,7 +26610,7 @@ Place the whole salmon on a baking pan
 
 ---
 
-## 722. BEST PITA BREAD!!!RECIPE
+## 774. BEST PITA BREAD!!!RECIPE
 *Source: [https://www.instagram.com/p/CctkGMap8Bg/](https://www.instagram.com/p/CctkGMap8Bg/)*
 
 ### Ingredients
@@ -25073,7 +26642,7 @@ Put it in the preheated oven on 520F
 
 ---
 
-## 723. NUTTY APPLE CRUMBLE!
+## 775. NUTTY APPLE CRUMBLE!
 *Source: [https://www.instagram.com/p/CcnaXopg8KO/](https://www.instagram.com/p/CcnaXopg8KO/)*
 
 ### Ingredients
@@ -25103,7 +26672,7 @@ Put it in the preheated oven on 520F
 
 ---
 
-## 724. ALMOND COCONUT GF COOKIES! RECIPE
+## 776. ALMOND COCONUT GF COOKIES! RECIPE
 *Source: [https://www.instagram.com/p/Cciqr8rgr7I/](https://www.instagram.com/p/Cciqr8rgr7I/)*
 
 ### Ingredients
@@ -25137,7 +26706,7 @@ Mix all the ingredients in a bowl
 
 ---
 
-## 725. CHOCOLATE RICE PUFFED TREATS!
+## 777. CHOCOLATE RICE PUFFED TREATS!
 *Source: [https://www.instagram.com/p/CcgInkUggQ3/](https://www.instagram.com/p/CcgInkUggQ3/)*
 
 ### Ingredients
@@ -25181,7 +26750,7 @@ Mix all the ingredients in a bowl
 
 ---
 
-## 726. SWEET MINI MATZAH BREI!
+## 778. SWEET MINI MATZAH BREI!
 *Source: [https://www.instagram.com/p/CcdkOTWALLT/](https://www.instagram.com/p/CcdkOTWALLT/)*
 
 ### Ingredients
@@ -25223,7 +26792,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 727. 3 Hours Of Chuck Roast!
+## 779. 3 Hours Of Chuck Roast!
 *Source: [https://www.instagram.com/p/CcWl6jJA7qi/](https://www.instagram.com/p/CcWl6jJA7qi/)*
 
 ### Ingredients
@@ -25234,7 +26803,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 728. Flourless Chocolate Coconut Cake!
+## 780. Flourless Chocolate Coconut Cake!
 *Source: [https://www.instagram.com/p/CcV0Irqghjv/](https://www.instagram.com/p/CcV0Irqghjv/)*
 
 ### Ingredients
@@ -25267,7 +26836,7 @@ Put the chocolate wafer on top of the cake
 
 ---
 
-## 729. GLUTEN-FREE - DAIRY FREE APPLE CAKE!
+## 781. GLUTEN-FREE - DAIRY FREE APPLE CAKE!
 *Source: [https://www.instagram.com/p/CcLGK3luCUq/](https://www.instagram.com/p/CcLGK3luCUq/)*
 
 ### Ingredients
@@ -25296,7 +26865,7 @@ Put the chocolate wafer on top of the cake
 
 ---
 
-## 730. BEST CHICKEN EVER!
+## 782. BEST CHICKEN EVER!
 *Source: [https://www.instagram.com/p/Cb_KcKDgxYG/](https://www.instagram.com/p/Cb_KcKDgxYG/)*
 
 ### Ingredients
@@ -25345,7 +26914,7 @@ Place the whole chicken on top of all the pan ingredients
 
 ---
 
-## 731. EGG SALAD & GOLDEN BEETS!
+## 783. EGG SALAD & GOLDEN BEETS!
 *Source: [https://www.instagram.com/p/Cb5pYLDAxbz/](https://www.instagram.com/p/Cb5pYLDAxbz/)*
 
 ### Ingredients
@@ -25382,7 +26951,7 @@ Place the sliced beets on a baking pan in a pile of 3
 
 ---
 
-## 732. Eggplants Kebabs Casserole!
+## 784. Eggplants Kebabs Casserole!
 *Source: [https://www.instagram.com/p/Cb3IPSCg9mp/](https://www.instagram.com/p/Cb3IPSCg9mp/)*
 
 ### Instructions
@@ -25390,7 +26959,7 @@ Place the sliced beets on a baking pan in a pile of 3
 
 ---
 
-## 733. One-Bowl Bundt Cake!
+## 785. One-Bowl Bundt Cake!
 *Source: [https://www.instagram.com/p/Cbvbhvkg-0w/](https://www.instagram.com/p/Cbvbhvkg-0w/)*
 
 ### Ingredients
@@ -25416,7 +26985,7 @@ Let’s sweeten the week with this yummy, easy to make coffee cake
 
 ---
 
-## 734. ISRAELI SPRING SALAD!
+## 786. ISRAELI SPRING SALAD!
 *Source: [https://www.instagram.com/p/CbspENagMHC/](https://www.instagram.com/p/CbspENagMHC/)*
 
 ### Ingredients
@@ -25434,7 +27003,7 @@ On medium heat in a wide saucepan, put 3 tablespoons of olive oil and 30 grams b
 
 ---
 
-## 735. Easy Creamy Tomato Pasta!
+## 787. Easy Creamy Tomato Pasta!
 *Source: [https://www.instagram.com/p/CbqNWXZg76o/](https://www.instagram.com/p/CbqNWXZg76o/)*
 
 ### Ingredients
@@ -25451,7 +27020,7 @@ Add 10-12 chopped campari tomatoes and sauté them for 5 minutes
 
 ---
 
-## 736. CARDAMOM PECANS COOKIES!
+## 788. CARDAMOM PECANS COOKIES!
 *Source: [https://www.instagram.com/p/CbgGURSARYJ/](https://www.instagram.com/p/CbgGURSARYJ/)*
 
 ### Ingredients
@@ -25471,7 +27040,7 @@ Add 10-12 chopped campari tomatoes and sauté them for 5 minutes
 
 ---
 
-## 737. LOVE YOUR LIFE & EAT APPLE CAKE!
+## 789. LOVE YOUR LIFE & EAT APPLE CAKE!
 *Source: [https://www.instagram.com/p/CbdTpMzAxwl/](https://www.instagram.com/p/CbdTpMzAxwl/)*
 
 ### Ingredients
@@ -25511,7 +27080,7 @@ Put all the ingredients in a bowl and mix it together
 
 ---
 
-## 738. Quick and Delicious Chicken Shawarma!  RECIPE
+## 790. Quick and Delicious Chicken Shawarma!  RECIPE
 *Source: [https://www.instagram.com/p/Cba4FKNgyrE/](https://www.instagram.com/p/Cba4FKNgyrE/)*
 
 ### Ingredients
@@ -25544,12 +27113,12 @@ Mix it well
 
 ---
 
-## 739. THE SECRET INGREDIENT!
+## 791. THE SECRET INGREDIENT!
 *Source: [https://www.instagram.com/p/CbVL3nzgNjB/](https://www.instagram.com/p/CbVL3nzgNjB/)*
 
 ---
 
-## 740. When I was visiting Israel my talented sister Maya made an amazing desserts! One of them was this in
+## 792. When I was visiting Israel my talented sister Maya made an amazing desserts! One of them was this in
 *Source: [https://www.instagram.com/p/CbGHURXgqll/](https://www.instagram.com/p/CbGHURXgqll/)*
 
 ### Ingredients
@@ -25579,7 +27148,7 @@ Mix it well
 
 ---
 
-## 741. SAVORY CHEESE CORN MUFFINS!
+## 793. SAVORY CHEESE CORN MUFFINS!
 *Source: [https://www.instagram.com/p/Ca5wCNKgDh0/](https://www.instagram.com/p/Ca5wCNKgDh0/)*
 
 ### Ingredients
@@ -25619,7 +27188,7 @@ Method-
 
 ---
 
-## 742. MY DADS TURMERIC RICE!!!
+## 794. MY DADS TURMERIC RICE!!!
 *Source: [https://www.instagram.com/p/CayA9W9gUY4/](https://www.instagram.com/p/CayA9W9gUY4/)*
 
 ### Ingredients
@@ -25648,7 +27217,7 @@ Over medium heat in a wide pot suitable for oven, pour the oil and the spices an
 
 ---
 
-## 743. BUTTERNUT SQUASH SOUP!
+## 795. BUTTERNUT SQUASH SOUP!
 *Source: [https://www.instagram.com/p/Cam-oDtA6f2/](https://www.instagram.com/p/Cam-oDtA6f2/)*
 
 ### Ingredients
@@ -25687,7 +27256,7 @@ Over medium heat in a wide pot suitable for oven, pour the oil and the spices an
 
 ---
 
-## 744. ZANGULA- A Sweet Iraqi Spiral Fried Dough! One of my childhood favorite PURIM dessert!
+## 796. ZANGULA- A Sweet Iraqi Spiral Fried Dough! One of my childhood favorite PURIM dessert!
 *Source: [https://www.instagram.com/p/CafbNNKA7P1/](https://www.instagram.com/p/CafbNNKA7P1/)*
 
 ### Ingredients
@@ -25727,7 +27296,7 @@ In a stand mixer with guitar hook, put the yeast, 2/34 cups of water and sugar b
 
 ---
 
-## 745. Hamantaschen- Oznei Haman!
+## 797. Hamantaschen- Oznei Haman!
 *Source: [https://www.instagram.com/p/CaZaWh0AMGK/](https://www.instagram.com/p/CaZaWh0AMGK/)*
 
 ### Ingredients
@@ -25760,7 +27329,7 @@ Place all the ingredients in a food processor
 
 ---
 
-## 746. MOM, I AM HUNGRY!
+## 798. MOM, I AM HUNGRY!
 *Source: [https://www.instagram.com/p/CaFvCU1JlAP/](https://www.instagram.com/p/CaFvCU1JlAP/)*
 
 ### Ingredients
@@ -25777,7 +27346,7 @@ Place all the ingredients in a food processor
 
 ---
 
-## 747. SPECIAL B-DAY DINNER FISH SHAWARMA!
+## 799. SPECIAL B-DAY DINNER FISH SHAWARMA!
 *Source: [https://www.instagram.com/p/CZxYN_1J2tR/](https://www.instagram.com/p/CZxYN_1J2tR/)*
 
 ### Ingredients
@@ -25809,7 +27378,7 @@ In a bowl season the sliced fish with salt, shawarma seasoning, cumin and turmer
 
 ---
 
-## 748. Warm Freekeh Salad Recipe!
+## 800. Warm Freekeh Salad Recipe!
 *Source: [https://www.instagram.com/p/CZf3fEVIPqE/](https://www.instagram.com/p/CZf3fEVIPqE/)*
 
 ### Ingredients
@@ -25835,7 +27404,7 @@ In a bowl season the sliced fish with salt, shawarma seasoning, cumin and turmer
 
 ---
 
-## 749. Baked Zucchinis Swirls!
+## 801. Baked Zucchinis Swirls!
 *Source: [https://www.instagram.com/p/CZaOcUKoPxs/](https://www.instagram.com/p/CZaOcUKoPxs/)*
 
 ### Instructions
@@ -25847,7 +27416,7 @@ In a bowl season the sliced fish with salt, shawarma seasoning, cumin and turmer
 
 ---
 
-## 750. Banana muffins!
+## 802. Banana muffins!
 *Source: [https://www.instagram.com/p/CZXlHXuokEP/](https://www.instagram.com/p/CZXlHXuokEP/)*
 
 ### Ingredients
@@ -25883,7 +27452,7 @@ In a deep bowl, add the butter, sugar, bananas and vanilla extract
 
 ---
 
-## 751. PIZZA NIGHT!
+## 803. PIZZA NIGHT!
 *Source: [https://www.instagram.com/p/CZVq6gjofRP/](https://www.instagram.com/p/CZVq6gjofRP/)*
 
 ### Ingredients
@@ -25911,7 +27480,7 @@ Baking time is between 15-20 minutes
 
 ---
 
-## 752. CHOPPED BROCCOLI SALAD!
+## 804. CHOPPED BROCCOLI SALAD!
 *Source: [https://www.instagram.com/p/CZNJyrNKhCM/](https://www.instagram.com/p/CZNJyrNKhCM/)*
 
 ### Ingredients
@@ -25968,7 +27537,7 @@ In a bowl mix all the dressing ingredients
 
 ---
 
-## 753. Golden Roasted Cauliflower!
+## 805. Golden Roasted Cauliflower!
 *Source: [https://www.instagram.com/p/CZKegMuIvqb/](https://www.instagram.com/p/CZKegMuIvqb/)*
 
 ### Ingredients
@@ -26013,7 +27582,7 @@ Cook for around 10 minutes in the boiling water, depending on the size of the ca
 
 ---
 
-## 754. KEBABS WITH CHICKPEAS!
+## 806. KEBABS WITH CHICKPEAS!
 *Source: [https://www.instagram.com/p/CZH8eg6oHPH/](https://www.instagram.com/p/CZH8eg6oHPH/)*
 
 ### Ingredients
@@ -26046,7 +27615,7 @@ Cook for around 10 minutes in the boiling water, depending on the size of the ca
 
 ---
 
-## 755. Wait what SALMON DINNER in 10 minutes!
+## 807. Wait what SALMON DINNER in 10 minutes!
 *Source: [https://www.instagram.com/p/CY7p2HpI6zH/](https://www.instagram.com/p/CY7p2HpI6zH/)*
 
 ### Ingredients
@@ -26079,7 +27648,7 @@ Place the whole salmon or the fillets on a baking pan
 
 ---
 
-## 756. ORANGE CHOCOLATE CAKE!
+## 808. ORANGE CHOCOLATE CAKE!
 *Source: [https://www.instagram.com/p/CY5L-34oa_K/](https://www.instagram.com/p/CY5L-34oa_K/)*
 
 ### Ingredients
@@ -26108,7 +27677,7 @@ Let’s sweeten the week with this yummy, citrusy chocolate, sponge cake
 
 ---
 
-## 757. CHICKEN SHAWARMA!
+## 809. CHICKEN SHAWARMA!
 *Source: [https://www.instagram.com/p/CY2gJVuKySU/](https://www.instagram.com/p/CY2gJVuKySU/)*
 
 ### Ingredients
@@ -26159,7 +27728,7 @@ Method-
 
 ---
 
-## 758. Harissa Apricot Roasted Chicken!
+## 810. Harissa Apricot Roasted Chicken!
 *Source: [https://www.instagram.com/p/CYzGfVMrVYT/](https://www.instagram.com/p/CYzGfVMrVYT/)*
 
 ### Ingredients
@@ -26232,7 +27801,7 @@ Method -
 
 ---
 
-## 759. ORZO WITH RAISINS!
+## 811. ORZO WITH RAISINS!
 *Source: [https://www.instagram.com/p/CYrsk2QIbCH/](https://www.instagram.com/p/CYrsk2QIbCH/)*
 
 ### Ingredients
@@ -26253,7 +27822,7 @@ Method -
 
 ---
 
-## 760. Turmeric Lemony Cauliflower Stew!
+## 812. Turmeric Lemony Cauliflower Stew!
 *Source: [https://www.instagram.com/p/CYpxp5so64R/](https://www.instagram.com/p/CYpxp5so64R/)*
 
 ### Ingredients
@@ -26281,7 +27850,7 @@ This can be a wonderful side dish or you can add it to a rice bowl or a pita
 
 ---
 
-## 761. Split Pea Soup!
+## 813. Split Pea Soup!
 *Source: [https://www.instagram.com/p/CYfTKZsorZ8/](https://www.instagram.com/p/CYfTKZsorZ8/)*
 
 ### Ingredients
@@ -26314,7 +27883,7 @@ My favorite soup season is on
 
 ---
 
-## 762. Chocolate Ganache Bundt Cake!
+## 814. Chocolate Ganache Bundt Cake!
 *Source: [https://www.instagram.com/p/CYXp9tzISrw/](https://www.instagram.com/p/CYXp9tzISrw/)*
 
 ### Ingredients
@@ -26358,7 +27927,7 @@ In a microwave-safe bowl, add the dark chocolate chips and heavy cream
 
 ---
 
-## 763. Special treat for all the vegetables lovers!
+## 815. Special treat for all the vegetables lovers!
 *Source: [https://www.instagram.com/p/CYSeREDKSrU/](https://www.instagram.com/p/CYSeREDKSrU/)*
 
 ### Ingredients
@@ -26380,7 +27949,7 @@ In a microwave-safe bowl, add the dark chocolate chips and heavy cream
 
 ---
 
-## 764. Pan Pita with 3 Ingredients!
+## 816. Pan Pita with 3 Ingredients!
 *Source: [https://www.instagram.com/p/CYH1DcJITHN/](https://www.instagram.com/p/CYH1DcJITHN/)*
 
 ### Ingredients
@@ -26405,7 +27974,7 @@ Roll the dough to a circle, add 1 tablespoon of mozzarella cheese in the middle 
 
 ---
 
-## 765. Aebleskivers Danish Pancakes!
+## 817. Aebleskivers Danish Pancakes!
 *Source: [https://www.instagram.com/p/CYEnv1mItCU/](https://www.instagram.com/p/CYEnv1mItCU/)*
 
 ### Ingredients
@@ -26431,7 +28000,7 @@ Roll the dough to a circle, add 1 tablespoon of mozzarella cheese in the middle 
 
 ---
 
-## 766. Honey Mustard Grilled Salmon!
+## 818. Honey Mustard Grilled Salmon!
 *Source: [https://www.instagram.com/p/CXwikBqJI5v/](https://www.instagram.com/p/CXwikBqJI5v/)*
 
 ### Ingredients
@@ -26465,7 +28034,7 @@ Place the whole salmon on a baking pan
 
 ---
 
-## 767. BUTTER PECAN COOKIES!!!
+## 819. BUTTER PECAN COOKIES!!!
 *Source: [https://www.instagram.com/p/CXrzX3igZJZ/](https://www.instagram.com/p/CXrzX3igZJZ/)*
 
 ### Ingredients
@@ -26483,7 +28052,7 @@ Place the whole salmon on a baking pan
 
 ---
 
-## 768. Friday Dinner- Spatchcock Chicken!
+## 820. Friday Dinner- Spatchcock Chicken!
 *Source: [https://www.instagram.com/p/CXmnmJpg7xr/](https://www.instagram.com/p/CXmnmJpg7xr/)*
 
 ### Ingredients
@@ -26531,7 +28100,7 @@ Place the whole chicken on top of all the pan ingredients
 
 ---
 
-## 769. Roasted Pepper Mediterranean Salad!
+## 821. Roasted Pepper Mediterranean Salad!
 *Source: [https://www.instagram.com/p/CXj_vQrAIdr/](https://www.instagram.com/p/CXj_vQrAIdr/)*
 
 ### Ingredients
@@ -26551,7 +28120,7 @@ Put all the ingredients in a bowl and mix it
 
 ---
 
-## 770. Whats For Dinner - Honey Thyme Chicken Tenderloin!
+## 822. Whats For Dinner - Honey Thyme Chicken Tenderloin!
 *Source: [https://www.instagram.com/p/CXcVsCLAHD4/](https://www.instagram.com/p/CXcVsCLAHD4/)*
 
 ### Ingredients
@@ -26591,7 +28160,7 @@ Turn down the heat and drizzle the honey on top
 
 ---
 
-## 771. BLOOD ORANGE UPSIDE DOWN CAKE!
+## 823. BLOOD ORANGE UPSIDE DOWN CAKE!
 *Source: [https://www.instagram.com/p/CXKRYX0AU4A/](https://www.instagram.com/p/CXKRYX0AU4A/)*
 
 ### Ingredients
@@ -26625,7 +28194,7 @@ It’s the winter cake vibes- sliced blood orange marmalade on top of fluffy ric
 
 ---
 
-## 772. EGGPLANT LOVERS - THIS IS FOR YOU!
+## 824. EGGPLANT LOVERS - THIS IS FOR YOU!
 *Source: [https://www.instagram.com/p/CXE0cBbp1hM/](https://www.instagram.com/p/CXE0cBbp1hM/)*
 
 ### Ingredients
@@ -26654,7 +28223,7 @@ When the eggplants are ready, drizzle the green salsa on top of each eggplant
 
 ---
 
-## 773. Crispy Potato Roses!
+## 825. Crispy Potato Roses!
 *Source: [https://www.instagram.com/p/CW_1DYZg41P/](https://www.instagram.com/p/CW_1DYZg41P/)*
 
 ### Ingredients
@@ -26666,7 +28235,7 @@ When the eggplants are ready, drizzle the green salsa on top of each eggplant
 
 ---
 
-## 774. PIZZA BOUREKAS!!!
+## 826. PIZZA BOUREKAS!!!
 *Source: [https://www.instagram.com/p/CW7LAykgssr/](https://www.instagram.com/p/CW7LAykgssr/)*
 
 ### Ingredients
@@ -26697,7 +28266,7 @@ For 25-30 minutes until it’s golden and ready
 
 ---
 
-## 775. Latkes Full Of Love!
+## 827. Latkes Full Of Love!
 *Source: [https://www.instagram.com/p/CW4Lr-AL6Pt/](https://www.instagram.com/p/CW4Lr-AL6Pt/)*
 
 ### Ingredients
@@ -26741,7 +28310,7 @@ On a baking sheet put parchment paper, spray the parchment paper with oil, place
 
 ---
 
-## 776. Double Chocolate Waffle Brunch!
+## 828. Double Chocolate Waffle Brunch!
 *Source: [https://www.instagram.com/p/CW0uXIGA7dt/](https://www.instagram.com/p/CW0uXIGA7dt/)*
 
 ### Instructions
@@ -26752,7 +28321,7 @@ My family loved it
 
 ---
 
-## 777. GUILT FREE SUFGANIYOT!
+## 829. GUILT FREE SUFGANIYOT!
 *Source: [https://www.instagram.com/p/CWmbw_ygOtt/](https://www.instagram.com/p/CWmbw_ygOtt/)*
 
 ### Ingredients
@@ -26776,7 +28345,7 @@ My family loved it
 
 ---
 
-## 778. Hanukkah Potato Latkes!
+## 830. Hanukkah Potato Latkes!
 *Source: [https://www.instagram.com/p/CWi7bwyAueH/](https://www.instagram.com/p/CWi7bwyAueH/)*
 
 ### Ingredients
@@ -26820,7 +28389,7 @@ On a baking sheet put parchment paper, spray the parchment paper with oil, place
 
 ---
 
-## 779. SAVE THIS EASY RECIPE!!!
+## 831. SAVE THIS EASY RECIPE!!!
 *Source: [https://www.instagram.com/p/CWZY-S1gC2g/](https://www.instagram.com/p/CWZY-S1gC2g/)*
 
 ### Instructions
@@ -26833,7 +28402,7 @@ Parsley leaves, mint leaves, pomegranate seeds, sliced jalapeño and chopped sca
 
 ---
 
-## 780. TURMERIC RICE PILAF WITH DRIED FRUIT!
+## 832. TURMERIC RICE PILAF WITH DRIED FRUIT!
 *Source: [https://www.instagram.com/p/CWOqsZVJF-e/](https://www.instagram.com/p/CWOqsZVJF-e/)*
 
 ### Ingredients
@@ -26898,7 +28467,7 @@ Method-
 
 ---
 
-## 781. Quick Mini Apple Doughnuts!
+## 833. Quick Mini Apple Doughnuts!
 *Source: [https://www.instagram.com/p/CWEjelDrQLq/](https://www.instagram.com/p/CWEjelDrQLq/)*
 
 ### Ingredients
@@ -26939,7 +28508,7 @@ Method-
 
 ---
 
-## 782. Winner Winner Crispy Schnitzel!!!!
+## 834. Winner Winner Crispy Schnitzel!!!!
 *Source: [https://www.instagram.com/p/CViymfMpRmv/](https://www.instagram.com/p/CViymfMpRmv/)*
 
 ### Ingredients
@@ -26964,7 +28533,7 @@ Put it in the refrigerator for half an hour
 
 ---
 
-## 783. Dreamy Maple Pear Cake!
+## 835. Dreamy Maple Pear Cake!
 *Source: [https://www.instagram.com/p/CVf7exopQHg/](https://www.instagram.com/p/CVf7exopQHg/)*
 
 ### Ingredients
@@ -27006,7 +28575,7 @@ Lay out the sliced pears on the top with one edge slightly dipped into the cake 
 
 ---
 
-## 784. Vegan Pesto Pasta!
+## 836. Vegan Pesto Pasta!
 *Source: [https://www.instagram.com/p/CVdVE4FrNxY/](https://www.instagram.com/p/CVdVE4FrNxY/)*
 
 ### Ingredients
@@ -27033,7 +28602,7 @@ On a big deep oval bowl put the pasta, add the peas on top, pour the pesto dress
 
 ---
 
-## 785. SAVE THIS! HOMEMADE GARLIC NAAN!
+## 837. SAVE THIS! HOMEMADE GARLIC NAAN!
 *Source: [https://www.instagram.com/p/CVagAkoAtEi/](https://www.instagram.com/p/CVagAkoAtEi/)*
 
 ### Ingredients
@@ -27061,7 +28630,7 @@ Add your favorite filling and enjoy
 
 ---
 
-## 786. OMG you need to make this!!!!
+## 838. OMG you need to make this!!!!
 *Source: [https://www.instagram.com/p/CVYBBtagK1J/](https://www.instagram.com/p/CVYBBtagK1J/)*
 
 ### Ingredients
@@ -27098,12 +28667,12 @@ Mix all the ingredients in a bowl
 
 ---
 
-## 787. EGG SALAD FOR A HAPPY SUNDAY!
+## 839. EGG SALAD FOR A HAPPY SUNDAY!
 *Source: [https://www.instagram.com/p/CVI6KVJAUUp/](https://www.instagram.com/p/CVI6KVJAUUp/)*
 
 ---
 
-## 788. FALL COLORED ROASTED PEPPERS!
+## 840. FALL COLORED ROASTED PEPPERS!
 *Source: [https://www.instagram.com/p/CVEiDu1AcY_/](https://www.instagram.com/p/CVEiDu1AcY_/)*
 
 ### Instructions
@@ -27115,7 +28684,7 @@ Mix all the ingredients in a bowl
 
 ---
 
-## 789. KEBABS WITH A TWIST!
+## 841. KEBABS WITH A TWIST!
 *Source: [https://www.instagram.com/p/CUp0_GIg41u/](https://www.instagram.com/p/CUp0_GIg41u/)*
 
 ### Ingredients
@@ -27194,7 +28763,7 @@ Method-
 
 ---
 
-## 790. Tiny Twirls of Goodness!
+## 842. Tiny Twirls of Goodness!
 *Source: [https://www.instagram.com/p/CUdeXNjrChc/](https://www.instagram.com/p/CUdeXNjrChc/)*
 
 ### Ingredients
@@ -27239,7 +28808,7 @@ Roll each triangle to a rugelach shape
 
 ---
 
-## 791. Whats for dinner on a rainy day MEATBALLS!!
+## 843. Whats for dinner on a rainy day MEATBALLS!!
 *Source: [https://www.instagram.com/p/CUYYtu1g87x/](https://www.instagram.com/p/CUYYtu1g87x/)*
 
 ### Ingredients
@@ -27287,7 +28856,7 @@ Make the balls
 
 ---
 
-## 792. Its always a good time for Shakshouka!
+## 844. Its always a good time for Shakshouka!
 *Source: [https://www.instagram.com/p/CUVlS9lJVoH/](https://www.instagram.com/p/CUVlS9lJVoH/)*
 
 ### Ingredients
@@ -27335,7 +28904,7 @@ In a skillet pan on medium heat pour the olive oil
 
 ---
 
-## 793. Saturday Morning- Savory Muffins!
+## 845. Saturday Morning- Savory Muffins!
 *Source: [https://www.instagram.com/p/CUQPJjmgjXr/](https://www.instagram.com/p/CUQPJjmgjXr/)*
 
 ### Ingredients
@@ -27383,7 +28952,7 @@ Method-
 
 ---
 
-## 794. HAPPY FIRST DAY OF FALL!
+## 846. HAPPY FIRST DAY OF FALL!
 *Source: [https://www.instagram.com/p/CUJNTfys7eJ/](https://www.instagram.com/p/CUJNTfys7eJ/)*
 
 ### Ingredients
@@ -27446,7 +29015,7 @@ Method-
 
 ---
 
-## 795. APPLE RICOTTA CAKE!
+## 847. APPLE RICOTTA CAKE!
 *Source: [https://www.instagram.com/p/CT8EmzUgPJ2/](https://www.instagram.com/p/CT8EmzUgPJ2/)*
 
 ### Ingredients
@@ -27501,7 +29070,7 @@ Put it in a preheated oven on 375F for 35 minutes or until the cake is golden an
 
 ---
 
-## 796. Chocolate Rolled Cookies!
+## 848. Chocolate Rolled Cookies!
 *Source: [https://www.instagram.com/p/CT0dUeOA19a/](https://www.instagram.com/p/CT0dUeOA19a/)*
 
 ### Ingredients
@@ -27524,7 +29093,7 @@ Cover with plastic wrap
 
 ---
 
-## 797. BUTTER VANILLA MERINGUE COOKIES!
+## 849. BUTTER VANILLA MERINGUE COOKIES!
 *Source: [https://www.instagram.com/p/CTxjJ1gpYpf/](https://www.instagram.com/p/CTxjJ1gpYpf/)*
 
 ### Ingredients
@@ -27547,7 +29116,7 @@ Gently roll into a roll
 
 ---
 
-## 798. FAMILY STYLE CHEESH BOREK!
+## 850. FAMILY STYLE CHEESH BOREK!
 *Source: [https://www.instagram.com/p/CTu8GwepvCM/](https://www.instagram.com/p/CTu8GwepvCM/)*
 
 ### Ingredients
@@ -27579,7 +29148,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 799. QUICK  EASY HONEY GARLIC SALMON SKEWERS!
+## 851. QUICK  EASY HONEY GARLIC SALMON SKEWERS!
 *Source: [https://www.instagram.com/p/CTkzjwkHqL4/](https://www.instagram.com/p/CTkzjwkHqL4/)*
 
 ### Ingredients
@@ -27624,7 +29193,7 @@ Season with flaky salt , lime juice and some mint leaves
 
 ---
 
-## 800. CRISPY MINI BAKLAVA!
+## 852. CRISPY MINI BAKLAVA!
 *Source: [https://www.instagram.com/p/CTYAUkQnSYY/](https://www.instagram.com/p/CTYAUkQnSYY/)*
 
 ### Ingredients
@@ -27652,7 +29221,7 @@ Season with flaky salt , lime juice and some mint leaves
 
 ---
 
-## 801. CHICKEN THIGHS WITH PEAS & CELERY!
+## 853. CHICKEN THIGHS WITH PEAS & CELERY!
 *Source: [https://www.instagram.com/p/CTOCsC4Hm1C/](https://www.instagram.com/p/CTOCsC4Hm1C/)*
 
 ### Ingredients
@@ -27711,7 +29280,7 @@ Method -
 
 ---
 
-## 802. LETS  COOK TOGETHER !!!
+## 854. LETS  COOK TOGETHER !!!
 *Source: [https://www.instagram.com/p/CS7m9pUHwgn/](https://www.instagram.com/p/CS7m9pUHwgn/)*
 
 ### Instructions
@@ -27719,7 +29288,7 @@ Method -
 
 ---
 
-## 803. BLUEBERRY JAM LOVERS!
+## 855. BLUEBERRY JAM LOVERS!
 *Source: [https://www.instagram.com/p/CSw3UA6n9xb/](https://www.instagram.com/p/CSw3UA6n9xb/)*
 
 ### Ingredients
@@ -27752,7 +29321,7 @@ Few fresh oregano leaves and oregano flower
 
 ---
 
-## 804. HONEY BLUEBERRY MUFFINS!
+## 856. HONEY BLUEBERRY MUFFINS!
 *Source: [https://www.instagram.com/p/CSt7s4ZHaFa/](https://www.instagram.com/p/CSt7s4ZHaFa/)*
 
 ### Ingredients
@@ -27811,7 +29380,7 @@ In a bowl whisk the eggs with the sugar for 2 minutes
 
 ---
 
-## 805. SUMMER CORN KERNELS SALAD!
+## 857. SUMMER CORN KERNELS SALAD!
 *Source: [https://www.instagram.com/p/CSnaVlonrfP/](https://www.instagram.com/p/CSnaVlonrfP/)*
 
 ### Ingredients
@@ -27839,7 +29408,7 @@ Juice from 1/2 lemon
 
 ---
 
-## 806. Cardamom Plum Tarte Tatin!
+## 858. Cardamom Plum Tarte Tatin!
 *Source: [https://www.instagram.com/p/CSPp2x9HFzb/](https://www.instagram.com/p/CSPp2x9HFzb/)*
 
 ### Ingredients
@@ -27863,7 +29432,7 @@ Cook on the stove over a medium heat until caramel is golden but not burnt
 
 ---
 
-## 807. Tahini Broccoli Tabbouleh Salad!
+## 859. Tahini Broccoli Tabbouleh Salad!
 *Source: [https://www.instagram.com/p/CSKqyKfnOqj/](https://www.instagram.com/p/CSKqyKfnOqj/)*
 
 ### Ingredients
@@ -27910,7 +29479,7 @@ Add the dressing on top
 
 ---
 
-## 808. Happy National Cheesecake Day!
+## 860. Happy National Cheesecake Day!
 *Source: [https://www.instagram.com/p/CR9rE5WHkwR/](https://www.instagram.com/p/CR9rE5WHkwR/)*
 
 ### Ingredients
@@ -27940,7 +29509,7 @@ and serve it cold
 
 ---
 
-## 809. Savory Spring Onions Tart!!!
+## 861. Savory Spring Onions Tart!!!
 *Source: [https://www.instagram.com/p/CR7xAeBHy2z/](https://www.instagram.com/p/CR7xAeBHy2z/)*
 
 ### Ingredients
@@ -27991,7 +29560,7 @@ In a pan on a medium heat with 3 tablespoons of olive oil, sauté the onions wit
 
 ---
 
-## 810. Do yourself a favor and make this- KEBAB MEATBALLS!
+## 862. Do yourself a favor and make this- KEBAB MEATBALLS!
 *Source: [https://www.instagram.com/p/CRwXjBcnX-4/](https://www.instagram.com/p/CRwXjBcnX-4/)*
 
 ### Ingredients
@@ -28059,7 +29628,7 @@ Method-
 
 ---
 
-## 811. Fresh Cherry Tomatoes With Basil Infused Oil!!!
+## 863. Fresh Cherry Tomatoes With Basil Infused Oil!!!
 *Source: [https://www.instagram.com/p/CRkjBVmH6tZ/](https://www.instagram.com/p/CRkjBVmH6tZ/)*
 
 ### Ingredients
@@ -28097,7 +29666,7 @@ Enjoy!💙
 
 ---
 
-## 812. 3 INGREDIENTS RICE RECIPE!! This rice dish is so yummy and super easy to make!
+## 864. 3 INGREDIENTS RICE RECIPE!! This rice dish is so yummy and super easy to make!
 *Source: [https://www.instagram.com/p/CRh8hUAn7WF/](https://www.instagram.com/p/CRh8hUAn7WF/)*
 
 ### Ingredients
@@ -28119,7 +29688,7 @@ Enjoy!💙
 
 ---
 
-## 813. Caramelized Sweet Potatoes and Chickpeas!
+## 865. Caramelized Sweet Potatoes and Chickpeas!
 *Source: [https://www.instagram.com/p/CRaMM6Vn-BE/](https://www.instagram.com/p/CRaMM6Vn-BE/)*
 
 ### Ingredients
@@ -28154,7 +29723,7 @@ Mix all the ingredients in a bowl
 
 ---
 
-## 814. HONEY MUSTARD SALMON FOR DINNER!
+## 866. HONEY MUSTARD SALMON FOR DINNER!
 *Source: [https://www.instagram.com/p/CRSZSqAH-qF/](https://www.instagram.com/p/CRSZSqAH-qF/)*
 
 ### Ingredients
@@ -28191,7 +29760,7 @@ Place the whole salmon on a baking pan
 
 ---
 
-## 815. IRAQI RED RICE that you cant stop eating!
+## 867. IRAQI RED RICE that you cant stop eating!
 *Source: [https://www.instagram.com/p/CRM3NWvnSpG/](https://www.instagram.com/p/CRM3NWvnSpG/)*
 
 ### Ingredients
@@ -28233,7 +29802,7 @@ Cover and cook for 20 minutes on low heat
 
 ---
 
-## 816. Focaccia Everyday!!!
+## 868. Focaccia Everyday!!!
 *Source: [https://www.instagram.com/p/CRHNRzxn5ju/](https://www.instagram.com/p/CRHNRzxn5ju/)*
 
 ### Ingredients
@@ -28277,7 +29846,7 @@ Sea salt, nigella seeds, za’atar, rosemary, goat cheese, tomato, zucchini, kal
 
 ---
 
-## 817. Do you have some veggies that you need to use up  If you do, you should make this easy and yummy rec
+## 869. Do you have some veggies that you need to use up  If you do, you should make this easy and yummy rec
 *Source: [https://www.instagram.com/p/CRFoLfUnR5T/](https://www.instagram.com/p/CRFoLfUnR5T/)*
 
 ### Ingredients
@@ -28304,7 +29873,7 @@ Sea salt, nigella seeds, za’atar, rosemary, goat cheese, tomato, zucchini, kal
 
 ---
 
-## 818. Happy Birthday America!
+## 870. Happy Birthday America!
 *Source: [https://www.instagram.com/p/CQ67CkZH5A2/](https://www.instagram.com/p/CQ67CkZH5A2/)*
 
 ### Ingredients
@@ -28347,7 +29916,7 @@ Add the vanilla extract, sour cream and mashed bananas
 
 ---
 
-## 819. Summery, Buttery Almond Nectarine Cake!!!
+## 871. Summery, Buttery Almond Nectarine Cake!!!
 *Source: [https://www.instagram.com/p/CQzTrbmHO1c/](https://www.instagram.com/p/CQzTrbmHO1c/)*
 
 ### Ingredients
@@ -28395,7 +29964,7 @@ In a bowl whisk the eggs, sugar, vanilla extract, almond extract and the milk
 
 ---
 
-## 820. Mini kebabs with chickpeas!
+## 872. Mini kebabs with chickpeas!
 *Source: [https://www.instagram.com/p/CQpRiiJHwg3/](https://www.instagram.com/p/CQpRiiJHwg3/)*
 
 ### Ingredients
@@ -28426,7 +29995,7 @@ On medium heat in a skillet pan, sauté the onion for 3 minutes
 
 ---
 
-## 821. Homemade Honey Nut Granola!
+## 873. Homemade Honey Nut Granola!
 *Source: [https://www.instagram.com/p/CQHt5pTHOUd/](https://www.instagram.com/p/CQHt5pTHOUd/)*
 
 ### Ingredients
@@ -28467,7 +30036,7 @@ Pour the melted butter on the dry ingredients
 
 ---
 
-## 822. Crispy Smashed Potatoes With a Secret Ingredient!
+## 874. Crispy Smashed Potatoes With a Secret Ingredient!
 *Source: [https://www.instagram.com/p/CP4Fid2nNmi/](https://www.instagram.com/p/CP4Fid2nNmi/)*
 
 ### Ingredients
@@ -28484,7 +30053,7 @@ Pour the melted butter on the dry ingredients
 
 ---
 
-## 823. HALVA BROWNIES BITES!
+## 875. HALVA BROWNIES BITES!
 *Source: [https://www.instagram.com/p/CPygj5JHHs1/](https://www.instagram.com/p/CPygj5JHHs1/)*
 
 ### Ingredients
@@ -28509,7 +30078,7 @@ Pour the melted butter on the dry ingredients
 
 ---
 
-## 824. Semolina Strawberry Chocolate Muffins! dairyfreedessert
+## 876. Semolina Strawberry Chocolate Muffins! dairyfreedessert
 *Source: [https://www.instagram.com/p/CPmfMq2ngPp/](https://www.instagram.com/p/CPmfMq2ngPp/)*
 
 ### Ingredients
@@ -28545,7 +30114,7 @@ My little one came back from school today and asked to bake together
 
 ---
 
-## 825. Gluten- Free stuffed creamy zucchinis!
+## 877. Gluten- Free stuffed creamy zucchinis!
 *Source: [https://www.instagram.com/p/CPTmiaxHQ1B/](https://www.instagram.com/p/CPTmiaxHQ1B/)*
 
 ### Ingredients
@@ -28572,7 +30141,7 @@ Mix all the ingredients in a bowl
 
 ---
 
-## 826. Spring Lemony Freekeh Salad!
+## 878. Spring Lemony Freekeh Salad!
 *Source: [https://www.instagram.com/p/CPRjDoSHAIj/](https://www.instagram.com/p/CPRjDoSHAIj/)*
 
 ### Ingredients
@@ -28627,7 +30196,7 @@ Olive oil on top
 
 ---
 
-## 827. Mini Cheese Zaatar Bourekas!
+## 879. Mini Cheese Zaatar Bourekas!
 *Source: [https://www.instagram.com/p/CPGejobnW60/](https://www.instagram.com/p/CPGejobnW60/)*
 
 ### Ingredients
@@ -28665,7 +30234,7 @@ For 25-30 minutes until it’s golden and ready
 
 ---
 
-## 828. Beets On Spiced Labane Cheese!
+## 880. Beets On Spiced Labane Cheese!
 *Source: [https://www.instagram.com/p/CO6g73tHVZq/](https://www.instagram.com/p/CO6g73tHVZq/)*
 
 ### Ingredients
@@ -28692,7 +30261,7 @@ On a nice round plate, spread the labane cheese
 
 ---
 
-## 829. Tonights Dinner - Grilled Salmon!
+## 881. Tonights Dinner - Grilled Salmon!
 *Source: [https://www.instagram.com/p/COtfvyOnjvW/](https://www.instagram.com/p/COtfvyOnjvW/)*
 
 ### Ingredients
@@ -28724,7 +30293,7 @@ Place the whole salmon on a baking pan
 
 ---
 
-## 830. No-Bake Mascarpone Cheesecake!
+## 882. No-Bake Mascarpone Cheesecake!
 *Source: [https://www.instagram.com/p/COoWCUyHlgE/](https://www.instagram.com/p/COoWCUyHlgE/)*
 
 ### Ingredients
@@ -28754,7 +30323,7 @@ and serve it cold
 
 ---
 
-## 831. ROASTED EGGPLANT CAPRESE!
+## 883. ROASTED EGGPLANT CAPRESE!
 *Source: [https://www.instagram.com/p/COeQFq2nflG/](https://www.instagram.com/p/COeQFq2nflG/)*
 
 ### Ingredients
@@ -28784,7 +30353,7 @@ Grease with olive oil an oven safe saute pan
 
 ---
 
-## 832. Apple Ricotta Crumb Cake!
+## 884. Apple Ricotta Crumb Cake!
 *Source: [https://www.instagram.com/p/COMFF4vHewa/](https://www.instagram.com/p/COMFF4vHewa/)*
 
 ### Ingredients
@@ -28841,7 +30410,7 @@ Put it in a preheated oven on 375F for 35 minutes or until the cake is golden an
 
 ---
 
-## 833. BIG ANNOUNCEMENT
+## 885. BIG ANNOUNCEMENT
 *Source: [https://www.instagram.com/p/COGv_I0nG5B/](https://www.instagram.com/p/COGv_I0nG5B/)*
 
 ### Instructions
@@ -28854,7 +30423,7 @@ It will be an interactive session filled with music, laughs, all your questions 
 
 ---
 
-## 834. For All The FALAFEL LOVERS!
+## 886. For All The FALAFEL LOVERS!
 *Source: [https://www.instagram.com/p/CN5QbfEH6EL/](https://www.instagram.com/p/CN5QbfEH6EL/)*
 
 ### Ingredients
@@ -28902,7 +30471,7 @@ Add the flour, water, salt, cumin, nigella seeds and sesame seeds
 
 ---
 
-## 835. Israeli National Food - FALAFEL IN A PITA!
+## 887. Israeli National Food - FALAFEL IN A PITA!
 *Source: [https://www.instagram.com/p/CN3eW0THV4w/](https://www.instagram.com/p/CN3eW0THV4w/)*
 
 ### Ingredients
@@ -28950,7 +30519,7 @@ Add the flour, water, salt, cumin, nigella seeds and sesame seeds
 
 ---
 
-## 836. The cake that always makes me happy!
+## 888. The cake that always makes me happy!
 *Source: [https://www.instagram.com/p/CNqYhyAnCX9/](https://www.instagram.com/p/CNqYhyAnCX9/)*
 
 ### Ingredients
@@ -28995,7 +30564,7 @@ Pour the mixture to a greased baking pan of size 12x9 inch
 
 ---
 
-## 837. Halibut Shawarma with Green Tahini!
+## 889. Halibut Shawarma with Green Tahini!
 *Source: [https://www.instagram.com/p/CNgHO-Yn-8p/](https://www.instagram.com/p/CNgHO-Yn-8p/)*
 
 ### Ingredients
@@ -29026,7 +30595,7 @@ In a bowl season the sliced fish with salt, shawarma seasoning, cumin and red pa
 
 ---
 
-## 838. Mozzarella and Feta Cheese Börek!
+## 890. Mozzarella and Feta Cheese Börek!
 *Source: [https://www.instagram.com/p/CNVLOTtHunB/](https://www.instagram.com/p/CNVLOTtHunB/)*
 
 ### Ingredients
@@ -29056,7 +30625,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 839. Its all about the magic of the pocket!
+## 891. Its all about the magic of the pocket!
 *Source: [https://www.instagram.com/p/CNP8XgfHbrj/](https://www.instagram.com/p/CNP8XgfHbrj/)*
 
 ### Ingredients
@@ -29091,7 +30660,7 @@ Put it in the preheated oven
 
 ---
 
-## 840. Potatoes & Fresh Herbs Siniya! VEGAN DISH!
+## 892. Potatoes & Fresh Herbs Siniya! VEGAN DISH!
 *Source: [https://www.instagram.com/p/CNGu4OPHeic/](https://www.instagram.com/p/CNGu4OPHeic/)*
 
 ### Ingredients
@@ -29106,7 +30675,7 @@ In a cast iron you put:
 
 ---
 
-## 841. Cinnamon Maple MINI MATZAH BREI!
+## 893. Cinnamon Maple MINI MATZAH BREI!
 *Source: [https://www.instagram.com/p/CNBJNdyHTlV/](https://www.instagram.com/p/CNBJNdyHTlV/)*
 
 ### Ingredients
@@ -29143,7 +30712,7 @@ Put all the ingredients in a bowl and mix them well
 
 ---
 
-## 842. Flourless Chocolate Coconut Cake!
+## 894. Flourless Chocolate Coconut Cake!
 *Source: [https://www.instagram.com/p/CM26HSeHRHm/](https://www.instagram.com/p/CM26HSeHRHm/)*
 
 ### Ingredients
@@ -29182,7 +30751,7 @@ Put the chocolate wafer on top of the cake
 
 ---
 
-## 843. Lemony Chicken Meatballs!
+## 895. Lemony Chicken Meatballs!
 *Source: [https://www.instagram.com/p/CMnId6Inglo/](https://www.instagram.com/p/CMnId6Inglo/)*
 
 ### Ingredients
@@ -29222,7 +30791,7 @@ Cover the pot and cook on low heat for 35-40 minutes
 
 ---
 
-## 844. GLUTEN-FREE DAIRY-FREE APPLE CAKE!
+## 896. GLUTEN-FREE DAIRY-FREE APPLE CAKE!
 *Source: [https://www.instagram.com/p/CMimLaVHaYf/](https://www.instagram.com/p/CMimLaVHaYf/)*
 
 ### Ingredients
@@ -29251,7 +30820,7 @@ Cover the pot and cook on low heat for 35-40 minutes
 
 ---
 
-## 845. 3 INGREDIENTS ORZO RECIPE!!
+## 897. 3 INGREDIENTS ORZO RECIPE!!
 *Source: [https://www.instagram.com/p/CMfQ2Htn5cQ/](https://www.instagram.com/p/CMfQ2Htn5cQ/)*
 
 ### Ingredients
@@ -29273,7 +30842,7 @@ Cover the pot and cook on low heat for 35-40 minutes
 
 ---
 
-## 846. ROASTED BEET SALAD WITH HALLOUMI!
+## 898. ROASTED BEET SALAD WITH HALLOUMI!
 *Source: [https://www.instagram.com/p/CMdXNOgnUra/](https://www.instagram.com/p/CMdXNOgnUra/)*
 
 ### Ingredients
@@ -29308,7 +30877,7 @@ Of the beets
 
 ---
 
-## 847. Pull-Apart Cheese Bourekas!
+## 899. Pull-Apart Cheese Bourekas!
 *Source: [https://www.instagram.com/p/CMYV2Flnd_w/](https://www.instagram.com/p/CMYV2Flnd_w/)*
 
 ### Ingredients
@@ -29342,7 +30911,7 @@ For 25-30 minutes until it’s golden and ready
 
 ---
 
-## 848. My Favorite Roasted Eggplant Salad!
+## 900. My Favorite Roasted Eggplant Salad!
 *Source: [https://www.instagram.com/p/CMQziDgHjYC/](https://www.instagram.com/p/CMQziDgHjYC/)*
 
 ### Ingredients
@@ -29390,7 +30959,7 @@ Using a spoon, pour the dressing on the eggplant and stir gently
 
 ---
 
-## 849. Mini Knotted Rolls! Fluffy with a yummy sesame crust and super easy to make!
+## 901. Mini Knotted Rolls! Fluffy with a yummy sesame crust and super easy to make!
 *Source: [https://www.instagram.com/p/CMLHsaCHw2z/](https://www.instagram.com/p/CMLHsaCHw2z/)*
 
 ### Ingredients
@@ -29436,7 +31005,7 @@ Preparation-
 
 ---
 
-## 850. Mujadara- Green Lentils and Rice with Lots of Caramelized Onions!
+## 902. Mujadara- Green Lentils and Rice with Lots of Caramelized Onions!
 *Source: [https://www.instagram.com/p/CL8OBSXHHBn/](https://www.instagram.com/p/CL8OBSXHHBn/)*
 
 ### Ingredients
@@ -29469,7 +31038,7 @@ On a wide pan over low heat put the oil
 
 ---
 
-## 851. Whats for dinner Juicy Kebabs & Oven Potato Fries!
+## 903. Whats for dinner Juicy Kebabs & Oven Potato Fries!
 *Source: [https://www.instagram.com/p/CL29_A7HLea/](https://www.instagram.com/p/CL29_A7HLea/)*
 
 ### Ingredients
@@ -29496,7 +31065,7 @@ Grill it until it reaches the desired cook level
 
 ---
 
-## 852. Chocolate Rolled Cookies!
+## 904. Chocolate Rolled Cookies!
 *Source: [https://www.instagram.com/p/CLvQxGSHHfs/](https://www.instagram.com/p/CLvQxGSHHfs/)*
 
 ### Instructions
@@ -29507,7 +31076,7 @@ Have a blessed weekend everyone!🙌🏻❤️
 
 ---
 
-## 853. Hamentashen Aka Ozney Haman!
+## 905. Hamentashen Aka Ozney Haman!
 *Source: [https://www.instagram.com/p/CLk8zk6nW9e/](https://www.instagram.com/p/CLk8zk6nW9e/)*
 
 ### Ingredients
@@ -29542,7 +31111,7 @@ Filing- hazelnuts and cacao spread/ Nutella, raspberry jam with coconut and chop
 
 ---
 
-## 854. Banana and Chocolate Chips Muffins!
+## 906. Banana and Chocolate Chips Muffins!
 *Source: [https://www.instagram.com/p/CLctNKxndFQ/](https://www.instagram.com/p/CLctNKxndFQ/)*
 
 ### Ingredients
@@ -29586,7 +31155,7 @@ Add the vanilla extract, sour cream and mashed bananas
 
 ---
 
-## 855. Feta Madness No Problem  Shakshuka with Feta Cheese is a win-win!!!
+## 907. Feta Madness No Problem  Shakshuka with Feta Cheese is a win-win!!!
 *Source: [https://www.instagram.com/p/CLaRWbYnvxC/](https://www.instagram.com/p/CLaRWbYnvxC/)*
 
 ### Ingredients
@@ -29647,7 +31216,7 @@ In a skillet pan on medium heat pour the olive oil
 
 ---
 
-## 856. Cast Iron Challah French Toast!
+## 908. Cast Iron Challah French Toast!
 *Source: [https://www.instagram.com/p/CLPysY0HA46/](https://www.instagram.com/p/CLPysY0HA46/)*
 
 ### Ingredients
@@ -29675,7 +31244,7 @@ In a cast iron pan on medium-low heat put the 1/4 cup of sugar
 
 ---
 
-## 857. Chocolate Chip Buns! They are soft, pillowy, and loaded with chocolate chips
+## 909. Chocolate Chip Buns! They are soft, pillowy, and loaded with chocolate chips
 *Source: [https://www.instagram.com/p/CLLKYVHHF2p/](https://www.instagram.com/p/CLLKYVHHF2p/)*
 
 ### Ingredients
@@ -29722,7 +31291,7 @@ Brush the rolls with beaten egg
 
 ---
 
-## 858. One of my weaknesses is definitely apple desserts!
+## 910. One of my weaknesses is definitely apple desserts!
 *Source: [https://www.instagram.com/p/CK7wiK2nFhg/](https://www.instagram.com/p/CK7wiK2nFhg/)*
 
 ### Instructions
@@ -29731,7 +31300,7 @@ Let me know if you are interested in the recipe
 
 ---
 
-## 859. Date Glazed Kebabs & Potatoes!
+## 911. Date Glazed Kebabs & Potatoes!
 *Source: [https://www.instagram.com/p/CK12po4nFrs/](https://www.instagram.com/p/CK12po4nFrs/)*
 
 ### Ingredients
@@ -29799,7 +31368,7 @@ Mix all the ingredients of the meatballs and knead it for 5 minutes
 
 ---
 
-## 860. Blood Orange Winter Loaf Cake!
+## 912. Blood Orange Winter Loaf Cake!
 *Source: [https://www.instagram.com/p/CKxgV9In_MD/](https://www.instagram.com/p/CKxgV9In_MD/)*
 
 ### Ingredients
@@ -29845,7 +31414,7 @@ Bake it in a preheated oven on 375F for 40 minutes
 
 ---
 
-## 861. Mozzarella Corn muffins!
+## 913. Mozzarella Corn muffins!
 *Source: [https://www.instagram.com/p/CKsS8J1nF7k/](https://www.instagram.com/p/CKsS8J1nF7k/)*
 
 ### Ingredients
@@ -29895,7 +31464,7 @@ Method-
 
 ---
 
-## 862. Roasted Cabbage & Fennel!
+## 914. Roasted Cabbage & Fennel!
 *Source: [https://www.instagram.com/p/CKnJwdUnfPh/](https://www.instagram.com/p/CKnJwdUnfPh/)*
 
 ### Ingredients
@@ -29930,7 +31499,7 @@ In a cast iron pan, on medium heat, heat the olive oil
 
 ---
 
-## 863. Basmati Rice Pilaf with Dried Fruit and Walnuts!
+## 915. Basmati Rice Pilaf with Dried Fruit and Walnuts!
 *Source: [https://www.instagram.com/p/CKh9cbWnMuV/](https://www.instagram.com/p/CKh9cbWnMuV/)*
 
 ### Ingredients
@@ -29994,7 +31563,7 @@ Method-
 
 ---
 
-## 864. Raspberry & Walnut Rugelach!
+## 916. Raspberry & Walnut Rugelach!
 *Source: [https://www.instagram.com/p/CKfSs5ZnSRz/](https://www.instagram.com/p/CKfSs5ZnSRz/)*
 
 ### Ingredients
@@ -30038,7 +31607,7 @@ Bake for 20-25 minutes or until the rugelach are golden
 
 ---
 
-## 865. ISRAELI BOUREKAS - puff pastry filled with mashed golden potatoes and caramelized sweet onion spiced
+## 917. ISRAELI BOUREKAS - puff pastry filled with mashed golden potatoes and caramelized sweet onion spiced
 *Source: [https://www.instagram.com/p/CKVLnANHS30/](https://www.instagram.com/p/CKVLnANHS30/)*
 
 ### Instructions
@@ -30051,7 +31620,7 @@ I am so happy to collaborate with @dufourpastrykitchens - their puff pastry is s
 
 ---
 
-## 866. CITRUSY GOLDEN BEET SALAD!
+## 918. CITRUSY GOLDEN BEET SALAD!
 *Source: [https://www.instagram.com/p/CKKLmkiH1KC/](https://www.instagram.com/p/CKKLmkiH1KC/)*
 
 ### Ingredients
@@ -30106,7 +31675,7 @@ Pour the dressing on the beets
 
 ---
 
-## 867. Today was a rainy day here in Boston and I was in a mood for soup!
+## 919. Today was a rainy day here in Boston and I was in a mood for soup!
 *Source: [https://www.instagram.com/p/CKH6dILH5t5/](https://www.instagram.com/p/CKH6dILH5t5/)*
 
 ### Ingredients
@@ -30145,7 +31714,7 @@ Pour the dressing on the beets
 
 ---
 
-## 868. EASY SAVORY CORN MUFFINS!
+## 920. EASY SAVORY CORN MUFFINS!
 *Source: [https://www.instagram.com/p/CKDBAz9Hsb9/](https://www.instagram.com/p/CKDBAz9Hsb9/)*
 
 ### Ingredients
@@ -30190,7 +31759,7 @@ Method-
 
 ---
 
-## 869. CHOCOLATE TAHINI SWIRLS!
+## 921. CHOCOLATE TAHINI SWIRLS!
 *Source: [https://www.instagram.com/p/CKAnmC2Hzs_/](https://www.instagram.com/p/CKAnmC2Hzs_/)*
 
 ### Ingredients
@@ -30212,7 +31781,7 @@ Method-
 
 ---
 
-## 870. Baked Zucchinis Swirls!
+## 922. Baked Zucchinis Swirls!
 *Source: [https://www.instagram.com/p/CJ42jsFHbBA/](https://www.instagram.com/p/CJ42jsFHbBA/)*
 
 ### Instructions
@@ -30224,7 +31793,7 @@ Method-
 
 ---
 
-## 871. WINNER WINNER SCHNITZEL DINNER!
+## 923. WINNER WINNER SCHNITZEL DINNER!
 *Source: [https://www.instagram.com/p/CJuVuY7HLDQ/](https://www.instagram.com/p/CJuVuY7HLDQ/)*
 
 ### Ingredients
@@ -30251,7 +31820,7 @@ Put it in the refrigerator for half an hour
 
 ---
 
-## 872. Lets start the week with something healthy and delicious! Honey Glazed Brussels Sprouts and Broccoli
+## 924. Lets start the week with something healthy and delicious! Honey Glazed Brussels Sprouts and Broccoli
 *Source: [https://www.instagram.com/p/CJmqHiUnO5X/](https://www.instagram.com/p/CJmqHiUnO5X/)*
 
 ### Ingredients
@@ -30288,7 +31857,7 @@ Put the olive oil and the sesame oil in a pan on medium heat
 
 ---
 
-## 873. Double Chocolate Cookies for a Sweet Day!
+## 925. Double Chocolate Cookies for a Sweet Day!
 *Source: [https://www.instagram.com/p/CJcXtt6HHUJ/](https://www.instagram.com/p/CJcXtt6HHUJ/)*
 
 ### Ingredients
@@ -30316,7 +31885,7 @@ Put the olive oil and the sesame oil in a pan on medium heat
 
 ---
 
-## 874. SIZZLING CHICKEN SHAWARMA!
+## 926. SIZZLING CHICKEN SHAWARMA!
 *Source: [https://www.instagram.com/p/CJZ6FctHPBM/](https://www.instagram.com/p/CJZ6FctHPBM/)*
 
 ### Ingredients
@@ -30360,7 +31929,7 @@ Method-
 
 ---
 
-## 875. Sesame Seeds or Poppyseeds Whats your favorite
+## 927. Sesame Seeds or Poppyseeds Whats your favorite
 *Source: [https://www.instagram.com/p/CJFT-GxH68t/](https://www.instagram.com/p/CJFT-GxH68t/)*
 
 ### Ingredients
@@ -30398,7 +31967,7 @@ In a mixer with a guitar hook, mix on low speed: flour, baking powder, salt, alm
 
 ---
 
-## 876. Yummy Meatballs With Butternut Squash!
+## 928. Yummy Meatballs With Butternut Squash!
 *Source: [https://www.instagram.com/p/CJCYQjOnnCx/](https://www.instagram.com/p/CJCYQjOnnCx/)*
 
 ### Ingredients
@@ -30446,7 +32015,7 @@ Make the meatballs
 
 ---
 
-## 877. Yukon Gold Crispy Potato Roses!
+## 929. Yukon Gold Crispy Potato Roses!
 *Source: [https://www.instagram.com/p/CI9dKhTn3tB/](https://www.instagram.com/p/CI9dKhTn3tB/)*
 
 ### Ingredients
@@ -30459,7 +32028,7 @@ Make the meatballs
 
 ---
 
-## 878. HUMMUS YUMMY HUMMUS - One of my most favorite foods in the world! This simple and smooth hummus topp
+## 930. HUMMUS YUMMY HUMMUS - One of my most favorite foods in the world! This simple and smooth hummus topp
 *Source: [https://www.instagram.com/p/CI4XeJ1nWqm/](https://www.instagram.com/p/CI4XeJ1nWqm/)*
 
 ### Ingredients
@@ -30487,7 +32056,7 @@ Make the meatballs
 
 ---
 
-## 879. Grilled Zucchini with Lemony Garlic Tahini Dressing!
+## 931. Grilled Zucchini with Lemony Garlic Tahini Dressing!
 *Source: [https://www.instagram.com/p/CI19JYyH4xU/](https://www.instagram.com/p/CI19JYyH4xU/)*
 
 ### Ingredients
@@ -30533,7 +32102,7 @@ Stir it well until you will have a unified mixture
 
 ---
 
-## 880. Sweet and Spicy Crispy Cauliflower!
+## 932. Sweet and Spicy Crispy Cauliflower!
 *Source: [https://www.instagram.com/p/CIzSeGlnTLj/](https://www.instagram.com/p/CIzSeGlnTLj/)*
 
 ### Ingredients
@@ -30578,7 +32147,7 @@ In a skillet pan put 1/2 cup of canola oil on medium heat
 
 ---
 
-## 881. Gluten Free - Dairy Free Pears and Chocolate Cake!
+## 933. Gluten Free - Dairy Free Pears and Chocolate Cake!
 *Source: [https://www.instagram.com/p/CIv6KOGnrmG/](https://www.instagram.com/p/CIv6KOGnrmG/)*
 
 ### Ingredients
@@ -30619,7 +32188,7 @@ Bake for 35 minutes or until golden
 
 ---
 
-## 882. I have a special love for beets! These slow roasted beets on a salt bed taste like heaven!
+## 934. I have a special love for beets! These slow roasted beets on a salt bed taste like heaven!
 *Source: [https://www.instagram.com/p/CIt4d5Fnsi7/](https://www.instagram.com/p/CIt4d5Fnsi7/)*
 
 ### Ingredients
@@ -30680,7 +32249,7 @@ Method-
 
 ---
 
-## 883. Hanukkah Potato Latkes!  Made with a LATKE of love!!! yummy potato fritters that can be fried or bak
+## 935. Hanukkah Potato Latkes!  Made with a LATKE of love!!! yummy potato fritters that can be fried or bak
 *Source: [https://www.instagram.com/p/CIo1rLHHvsX/](https://www.instagram.com/p/CIo1rLHHvsX/)*
 
 ### Ingredients
@@ -30723,7 +32292,7 @@ On a baking sheet put parchment paper, spray the parchment paper with oil, place
 
 ---
 
-## 884. GUILT FREE HOME POTATO FRIES!
+## 936. GUILT FREE HOME POTATO FRIES!
 *Source: [https://www.instagram.com/p/CIjzx-ln5Gh/](https://www.instagram.com/p/CIjzx-ln5Gh/)*
 
 ### Ingredients
@@ -30759,7 +32328,7 @@ Season the potatoes with the smoked paprika, salt and garlic powder
 
 ---
 
-## 885. Chocolate Coconut Bombs!
+## 937. Chocolate Coconut Bombs!
 *Source: [https://www.instagram.com/p/CIW3CL2HchT/](https://www.instagram.com/p/CIW3CL2HchT/)*
 
 ### Ingredients
@@ -30806,7 +32375,7 @@ Add the chocolate wafer using a spatula
 
 ---
 
-## 886. Everything Bagel Citrus Salmon!
+## 938. Everything Bagel Citrus Salmon!
 *Source: [https://www.instagram.com/p/CIUP2YOn0Iy/](https://www.instagram.com/p/CIUP2YOn0Iy/)*
 
 ### Ingredients
@@ -30844,7 +32413,7 @@ Put on top some fresh dill and slices of lime
 
 ---
 
-## 887. ARUK - Herb & Potato Patties!
+## 939. ARUK - Herb & Potato Patties!
 *Source: [https://www.instagram.com/p/CIRrUSRHhki/](https://www.instagram.com/p/CIRrUSRHhki/)*
 
 ### Ingredients
@@ -30887,7 +32456,7 @@ mix it well
 
 ---
 
-## 888. Homemade Honey Nut Granola!
+## 940. Homemade Honey Nut Granola!
 *Source: [https://www.instagram.com/p/CIPECpCHUyo/](https://www.instagram.com/p/CIPECpCHUyo/)*
 
 ### Ingredients
@@ -30928,7 +32497,7 @@ Pour the melted butter on the dry ingredients
 
 ---
 
-## 889. Are you a Shakshuka Fan Save this recipe!
+## 941. Are you a Shakshuka Fan Save this recipe!
 *Source: [https://www.instagram.com/p/CIL4vILnlhw/](https://www.instagram.com/p/CIL4vILnlhw/)*
 
 ### Ingredients
@@ -30973,7 +32542,7 @@ Use a skillet pan and pour the olive oil
 
 ---
 
-## 890. CHUCK ROAST STEW WITH CHESTNUT!
+## 942. CHUCK ROAST STEW WITH CHESTNUT!
 *Source: [https://www.instagram.com/p/CICKYX1nwZT/](https://www.instagram.com/p/CICKYX1nwZT/)*
 
 ### Ingredients
@@ -31030,7 +32599,7 @@ Season the chuck with flaky salt and pepper
 
 ---
 
-## 891. Savory Pastries are so YUMMY!
+## 943. Savory Pastries are so YUMMY!
 *Source: [https://www.instagram.com/p/CH8TQQGHrpP/](https://www.instagram.com/p/CH8TQQGHrpP/)*
 
 ### Ingredients
@@ -31074,7 +32643,7 @@ Season the chuck with flaky salt and pepper
 
 ---
 
-## 892. CHOLENT- CHAMIN is a traditional Jewish slow-cooked stew perfect for these cold days!
+## 944. CHOLENT- CHAMIN is a traditional Jewish slow-cooked stew perfect for these cold days!
 *Source: [https://www.instagram.com/p/CHyeArsnAtP/](https://www.instagram.com/p/CHyeArsnAtP/)*
 
 ### Instructions
@@ -31085,7 +32654,7 @@ Let me know in the comments if you want the recipe
 
 ---
 
-## 893. So cold here in BostonBrrrrr! All you need is a bowl of creamy fallsoup to warm you up! Recipe below
+## 945. So cold here in BostonBrrrrr! All you need is a bowl of creamy fallsoup to warm you up! Recipe below
 *Source: [https://www.instagram.com/p/CHvs2Q-nbz2/](https://www.instagram.com/p/CHvs2Q-nbz2/)*
 
 ### Ingredients
@@ -31128,7 +32697,7 @@ Let me know in the comments if you want the recipe
 
 ---
 
-## 894. ROASTED CAULIFLOWER AND KOHLRABI WITH FETA CHEESE AND LEMON-PARSLEY DRESSING! SO YUMMY!
+## 946. ROASTED CAULIFLOWER AND KOHLRABI WITH FETA CHEESE AND LEMON-PARSLEY DRESSING! SO YUMMY!
 *Source: [https://www.instagram.com/p/CHrGw1Lnz7z/](https://www.instagram.com/p/CHrGw1Lnz7z/)*
 
 ### Ingredients
@@ -31144,7 +32713,7 @@ Simply roast cauliflower and Kohlrabi with olive oil and sea salt on 470F until 
 
 ---
 
-## 895. Autumn On A Plate RICE PUDDING!
+## 947. Autumn On A Plate RICE PUDDING!
 *Source: [https://www.instagram.com/p/CHnxqAIn9TN/](https://www.instagram.com/p/CHnxqAIn9TN/)*
 
 ### Ingredients
@@ -31165,7 +32734,7 @@ Simply roast cauliflower and Kohlrabi with olive oil and sea salt on 470F until 
 
 ---
 
-## 896. Spiced Mediterranean Meatballs!
+## 948. Spiced Mediterranean Meatballs!
 *Source: [https://www.instagram.com/p/CHjU_NbHXdm/](https://www.instagram.com/p/CHjU_NbHXdm/)*
 
 ### Ingredients
@@ -31232,7 +32801,7 @@ Pour the date syrup on the meatballs, stir gently
 
 ---
 
-## 897. MAPLE CARAMELIZED PEAR CAKE!
+## 949. MAPLE CARAMELIZED PEAR CAKE!
 *Source: [https://www.instagram.com/p/CHeA7YiHhrB/](https://www.instagram.com/p/CHeA7YiHhrB/)*
 
 ### Ingredients
@@ -31273,7 +32842,7 @@ Lay out the sliced pears on the top with one edge slightly dipped into the cake 
 
 ---
 
-## 898. Mediterranean Style Stir Fry!
+## 950. Mediterranean Style Stir Fry!
 *Source: [https://www.instagram.com/p/CHT1esBnTA7/](https://www.instagram.com/p/CHT1esBnTA7/)*
 
 ### Ingredients
@@ -31319,7 +32888,7 @@ In a cast iron pan put 3 tablespoons of olive oil, sauté the onion and the slic
 
 ---
 
-## 899. My Friday night tradition - Spicy Fish!
+## 951. My Friday night tradition - Spicy Fish!
 *Source: [https://www.instagram.com/p/CHRahR6HoqY/](https://www.instagram.com/p/CHRahR6HoqY/)*
 
 ### Ingredients
@@ -31378,7 +32947,7 @@ Cook for 25 minutes on medium heat
 
 ---
 
-## 900. GREEN TAHINI ROASTED BOK CHOY!
+## 952. GREEN TAHINI ROASTED BOK CHOY!
 *Source: [https://www.instagram.com/p/CHOpUjFnFok/](https://www.instagram.com/p/CHOpUjFnFok/)*
 
 ### Ingredients
@@ -31415,7 +32984,7 @@ Pour the dressing on the roasted bok choy
 
 ---
 
-## 901. One Pot Farro, Chicken & Chickpeas Meal!
+## 953. One Pot Farro, Chicken & Chickpeas Meal!
 *Source: [https://www.instagram.com/p/CHMbR8DnGei/](https://www.instagram.com/p/CHMbR8DnGei/)*
 
 ### Ingredients
@@ -31478,7 +33047,7 @@ On top
 
 ---
 
-## 902. Zaatar & Feta Cheese Pull-Apart Swirls!
+## 954. Zaatar & Feta Cheese Pull-Apart Swirls!
 *Source: [https://www.instagram.com/p/CHD36ufnWra/](https://www.instagram.com/p/CHD36ufnWra/)*
 
 ### Ingredients
@@ -31517,7 +33086,7 @@ In a blender put the flour, yeast and sugar blend it for 2 minutes in a medium s
 
 ---
 
-## 903. HONEY MUSTARD BAKED SALMON!
+## 955. HONEY MUSTARD BAKED SALMON!
 *Source: [https://www.instagram.com/p/CG1Eix0H-pE/](https://www.instagram.com/p/CG1Eix0H-pE/)*
 
 ### Ingredients
@@ -31551,7 +33120,7 @@ Pour the dressing on the fish
 
 ---
 
-## 904. SPIRAL CHEESE BOUREKAS!
+## 956. SPIRAL CHEESE BOUREKAS!
 *Source: [https://www.instagram.com/p/CGvL_BcH_9T/](https://www.instagram.com/p/CGvL_BcH_9T/)*
 
 ### Ingredients
@@ -31583,12 +33152,12 @@ For 25-30 minutes until it’s golden and ready
 
 ---
 
-## 905. The most important ingredient in these BABKAS IS LOVE!
+## 957. The most important ingredient in these BABKAS IS LOVE!
 *Source: [https://www.instagram.com/p/CGgPN96nEaM/](https://www.instagram.com/p/CGgPN96nEaM/)*
 
 ---
 
-## 906. Gluten Free - Dairy Free Apple Cake!
+## 958. Gluten Free - Dairy Free Apple Cake!
 *Source: [https://www.instagram.com/p/CGdxeiHn4X6/](https://www.instagram.com/p/CGdxeiHn4X6/)*
 
 ### Ingredients
@@ -31625,7 +33194,7 @@ Bake for 35 minutes or until golden
 
 ---
 
-## 907. CAST IRON PAN-ROASTED CHICKEN!
+## 959. CAST IRON PAN-ROASTED CHICKEN!
 *Source: [https://www.instagram.com/p/CGYkgs9nfnc/](https://www.instagram.com/p/CGYkgs9nfnc/)*
 
 ### Ingredients
@@ -31666,7 +33235,7 @@ Cook for 5 more minutes
 
 ---
 
-## 908. Honey Glazed Carrots with Mint Tahini!
+## 960. Honey Glazed Carrots with Mint Tahini!
 *Source: [https://www.instagram.com/p/CGONCpQHHPZ/](https://www.instagram.com/p/CGONCpQHHPZ/)*
 
 ### Ingredients
@@ -31696,7 +33265,7 @@ Blend all the ingredients to a smooth mixture
 
 ---
 
-## 909. 3 INGREDIENTS ORZO RECIPE!!
+## 961. 3 INGREDIENTS ORZO RECIPE!!
 *Source: [https://www.instagram.com/p/CGD3mlonIeS/](https://www.instagram.com/p/CGD3mlonIeS/)*
 
 ### Ingredients
@@ -31718,7 +33287,7 @@ This is how you do it- 👩‍🍳
 
 ---
 
-## 910. Oven Roasted Chicken on Veggies!
+## 962. Oven Roasted Chicken on Veggies!
 *Source: [https://www.instagram.com/p/CF4b6c9Hb_U/](https://www.instagram.com/p/CF4b6c9Hb_U/)*
 
 ### Ingredients
@@ -31780,7 +33349,7 @@ Then bake it for another 25 minutes without the aluminum foil
 
 ---
 
-## 911. Broccoli Tabbouleh with Cashews, Herbs and Tahini- Honey Dressing! Its going to be your favorite sal
+## 963. Broccoli Tabbouleh with Cashews, Herbs and Tahini- Honey Dressing! Its going to be your favorite sal
 *Source: [https://www.instagram.com/p/CFvSzuhnM40/](https://www.instagram.com/p/CFvSzuhnM40/)*
 
 ### Ingredients
@@ -31831,7 +33400,7 @@ Add the dressing on top
 
 ---
 
-## 912. Its Pumpkin season and I love it!
+## 964. Its Pumpkin season and I love it!
 *Source: [https://www.instagram.com/p/CFnjhm-HZbJ/](https://www.instagram.com/p/CFnjhm-HZbJ/)*
 
 ### Instructions
@@ -31843,7 +33412,7 @@ Fall time in New England is the most beautiful season of all
 
 ---
 
-## 913. Fennel and Pomegranate salad!
+## 965. Fennel and Pomegranate salad!
 *Source: [https://www.instagram.com/p/CFkl2DHHlzc/](https://www.instagram.com/p/CFkl2DHHlzc/)*
 
 ### Ingredients
@@ -31871,7 +33440,7 @@ Mix it all and enjoy this yummy salad
 
 ---
 
-## 914. Swiss Chard and Eggplant! Perfect Pair
+## 966. Swiss Chard and Eggplant! Perfect Pair
 *Source: [https://www.instagram.com/p/CFdeHDuHFNg/](https://www.instagram.com/p/CFdeHDuHFNg/)*
 
 ### Instructions
@@ -31883,7 +33452,7 @@ Season with lemon juice, salt and pepper
 
 ---
 
-## 915. Step by step how to make your perfect
+## 967. Step by step how to make your perfect
 *Source: [https://www.instagram.com/p/CE5CcaHDZSI/](https://www.instagram.com/p/CE5CcaHDZSI/)*
 
 ### Instructions
@@ -31894,7 +33463,7 @@ Chuck Roast
 
 ---
 
-## 916. Simple food at its best! Stir fry Sunday!
+## 968. Simple food at its best! Stir fry Sunday!
 *Source: [https://www.instagram.com/p/CEhjbb1goKj/](https://www.instagram.com/p/CEhjbb1goKj/)*
 
 ### Instructions
@@ -31905,7 +33474,7 @@ Yummy veggies with chicken tenderloin seasoned with soy sauce, sesame oil, ginge
 
 ---
 
-## 917. Rice Pudding with Figs and Honey!
+## 969. Rice Pudding with Figs and Honey!
 *Source: [https://www.instagram.com/p/CEZl_0uAcFc/](https://www.instagram.com/p/CEZl_0uAcFc/)*
 
 ### Ingredients
@@ -31927,7 +33496,7 @@ Yummy veggies with chicken tenderloin seasoned with soy sauce, sesame oil, ginge
 
 ---
 
-## 918. Blackberries Picking is so much fun!
+## 970. Blackberries Picking is so much fun!
 *Source: [https://www.instagram.com/p/CERn2btgBUU/](https://www.instagram.com/p/CERn2btgBUU/)*
 
 ### Ingredients
@@ -31973,7 +33542,7 @@ Drizzle the honey on top
 
 ---
 
-## 919. Glazed Chicken Skewers with Veggies!
+## 971. Glazed Chicken Skewers with Veggies!
 *Source: [https://www.instagram.com/p/CEFvDA0j1TL/](https://www.instagram.com/p/CEFvDA0j1TL/)*
 
 ### Ingredients
@@ -32012,7 +33581,7 @@ The grill pan should be hot when you put the skewers
 
 ---
 
-## 920. Honey Glazed Rainbow Carrots!
+## 972. Honey Glazed Rainbow Carrots!
 *Source: [https://www.instagram.com/p/CEC66CRg6i4/](https://www.instagram.com/p/CEC66CRg6i4/)*
 
 ### Instructions
@@ -32020,7 +33589,7 @@ The grill pan should be hot when you put the skewers
 
 ---
 
-## 921. Birthday Pancakes for the Birthday Girl! Sweet Noa we love you so much! You are the sunshine of our 
+## 973. Birthday Pancakes for the Birthday Girl! Sweet Noa we love you so much! You are the sunshine of our 
 *Source: [https://www.instagram.com/p/CD_6k1RD-sW/](https://www.instagram.com/p/CD_6k1RD-sW/)*
 
 ### Ingredients
@@ -32028,7 +33597,7 @@ The grill pan should be hot when you put the skewers
 
 ---
 
-## 922. Fried Cauliflower with Tahini!
+## 974. Fried Cauliflower with Tahini!
 *Source: [https://www.instagram.com/p/CD458j8jygk/](https://www.instagram.com/p/CD458j8jygk/)*
 
 ### Ingredients
@@ -32057,12 +33626,12 @@ In a skillet pan put 1/2 cup of canola oil on medium heat
 
 ---
 
-## 923. Caprese Sandwich! Thats my lunch!
+## 975. Caprese Sandwich! Thats my lunch!
 *Source: [https://www.instagram.com/p/CDwlnutgA1h/](https://www.instagram.com/p/CDwlnutgA1h/)*
 
 ---
 
-## 924. Cheese Fritters! 5 minutes recipe!
+## 976. Cheese Fritters! 5 minutes recipe!
 *Source: [https://www.instagram.com/p/CDrhKVDAsBB/](https://www.instagram.com/p/CDrhKVDAsBB/)*
 
 ### Ingredients
@@ -32096,7 +33665,7 @@ fry it from both sides until golden
 
 ---
 
-## 925. 3 ingredient Red Pasta!
+## 977. 3 ingredient Red Pasta!
 *Source: [https://www.instagram.com/p/CDhLI70gr4T/](https://www.instagram.com/p/CDhLI70gr4T/)*
 
 ### Ingredients
@@ -32104,7 +33673,7 @@ fry it from both sides until golden
 
 ---
 
-## 926. My kind of Mezze! CharBroiled Eggplant & Red Peppers with Feta and Zaatar!
+## 978. My kind of Mezze! CharBroiled Eggplant & Red Peppers with Feta and Zaatar!
 *Source: [https://www.instagram.com/p/CDHT4hkAao7/](https://www.instagram.com/p/CDHT4hkAao7/)*
 
 ### Ingredients
@@ -32112,7 +33681,7 @@ fry it from both sides until golden
 
 ---
 
-## 927. Warm Chocolate Rugelach for a Sweet Weekend !
+## 979. Warm Chocolate Rugelach for a Sweet Weekend !
 *Source: [https://www.instagram.com/p/CDE1nSMjeuH/](https://www.instagram.com/p/CDE1nSMjeuH/)*
 
 ### Ingredients
@@ -32120,7 +33689,7 @@ fry it from both sides until golden
 
 ---
 
-## 928. Roasted Red Cabbage Salad with Green Herbs! It is so good and its vegan !
+## 980. Roasted Red Cabbage Salad with Green Herbs! It is so good and its vegan !
 *Source: [https://www.instagram.com/p/CC9rJmWAzA9/](https://www.instagram.com/p/CC9rJmWAzA9/)*
 
 ### Ingredients
@@ -32157,7 +33726,7 @@ Add on top the green herbs and mix it gently
 
 ---
 
-## 929. Want to kick your rice up a notch Try this comforting Iraqi Red Rice! My family simply could not put
+## 981. Want to kick your rice up a notch Try this comforting Iraqi Red Rice! My family simply could not put
 *Source: [https://www.instagram.com/p/CC7Fy99jPvq/](https://www.instagram.com/p/CC7Fy99jPvq/)*
 
 ### Ingredients
@@ -32200,7 +33769,7 @@ Cover and cook for 25 minutes on low heat
 
 ---
 
-## 930. FROZEN SACHLAV & FROZEN PITAYA!
+## 982. FROZEN SACHLAV & FROZEN PITAYA!
 *Source: [https://www.instagram.com/p/CC1wyUsDA-d/](https://www.instagram.com/p/CC1wyUsDA-d/)*
 
 ### Ingredients
@@ -32241,7 +33810,7 @@ Mix it in a blender until its look like a smoothie
 
 ---
 
-## 931. Roasted Beets with Almond Garlic Purée! nondairy vegan !
+## 983. Roasted Beets with Almond Garlic Purée! nondairy vegan !
 *Source: [https://www.instagram.com/p/CCpRrUsAAYj/](https://www.instagram.com/p/CCpRrUsAAYj/)*
 
 ### Ingredients
@@ -32274,7 +33843,7 @@ Add pickled red onion
 
 ---
 
-## 932. Homemade Pickles with Dill and Garlic!
+## 984. Homemade Pickles with Dill and Garlic!
 *Source: [https://www.instagram.com/p/CCojW4TgEYA/](https://www.instagram.com/p/CCojW4TgEYA/)*
 
 ### Ingredients
@@ -32306,7 +33875,7 @@ Add the rest of the dill and garlic
 
 ---
 
-## 933. Pears,Tahini and Chocolate Muffins! Baking is fun with my little helper
+## 985. Pears,Tahini and Chocolate Muffins! Baking is fun with my little helper
 *Source: [https://www.instagram.com/p/CCmLdRsDTqG/](https://www.instagram.com/p/CCmLdRsDTqG/)*
 
 ### Ingredients
@@ -32351,7 +33920,7 @@ Add the almond flour, all purpose flour and baking powder
 
 ---
 
-## 934. Challah French Toast! So yummy!
+## 986. Challah French Toast! So yummy!
 *Source: [https://www.instagram.com/p/CCjR-AJDO5z/](https://www.instagram.com/p/CCjR-AJDO5z/)*
 
 ### Ingredients
@@ -32380,7 +33949,7 @@ Soak the challah slices in the egg mix from both sides
 
 ---
 
-## 935. Oven roasted Beets and deep fried Swiss Chard, topped with crunchy homemade garlic rye bread crouton
+## 987. Oven roasted Beets and deep fried Swiss Chard, topped with crunchy homemade garlic rye bread crouton
 *Source: [https://www.instagram.com/p/CBwQft-jbIm/](https://www.instagram.com/p/CBwQft-jbIm/)*
 
 ### Ingredients
@@ -32414,7 +33983,7 @@ Chop 1 celery stick
 
 ---
 
-## 936. Homemade Naan on a pan with Chickpea chutney and broiled Cauliflower! save this yummy recipe below
+## 988. Homemade Naan on a pan with Chickpea chutney and broiled Cauliflower! save this yummy recipe below
 *Source: [https://www.instagram.com/p/CBtv5hFgyZ_/](https://www.instagram.com/p/CBtv5hFgyZ_/)*
 
 ### Ingredients
@@ -32458,7 +34027,7 @@ Take a non stick pan with 1 tablespoon of oil and put it on medium heat
 
 ---
 
-## 937. This time on Fish Friday- Halibut meatballs with spicy tomato sauce and fresh cilantro! fishdish
+## 989. This time on Fish Friday- Halibut meatballs with spicy tomato sauce and fresh cilantro! fishdish
 *Source: [https://www.instagram.com/p/CBoxrtQjJKG/](https://www.instagram.com/p/CBoxrtQjJKG/)*
 
 ### Ingredients
@@ -32516,7 +34085,7 @@ When it’s ready put cilantro leaves on top of the dish
 
 ---
 
-## 938. This is so yummy and easy to make!
+## 990. This is so yummy and easy to make!
 *Source: [https://www.instagram.com/p/CBjEGoCjrWI/](https://www.instagram.com/p/CBjEGoCjrWI/)*
 
 ### Ingredients
@@ -32541,7 +34110,7 @@ Pour the dressing on the roasted cauliflower and cabbage
 
 ---
 
-## 939. Do you like RICE
+## 991. Do you like RICE
 *Source: [https://www.instagram.com/p/CBgR4O0A2aa/](https://www.instagram.com/p/CBgR4O0A2aa/)*
 
 ### Ingredients
@@ -32576,7 +34145,7 @@ Cook it on low heat for 25 minutes or until the rice is ready
 
 ---
 
-## 940. Whats for dinner
+## 992. Whats for dinner
 *Source: [https://www.instagram.com/p/CBbvLuRgh6u/](https://www.instagram.com/p/CBbvLuRgh6u/)*
 
 ### Ingredients
@@ -32588,7 +34157,7 @@ Beef chuck roast with turmeric rice
 
 ---
 
-## 941. Maple Pear Cake!
+## 993. Maple Pear Cake!
 *Source: [https://www.instagram.com/p/CBRGqnggYAu/](https://www.instagram.com/p/CBRGqnggYAu/)*
 
 ### Instructions
@@ -32596,7 +34165,7 @@ Beef chuck roast with turmeric rice
 
 ---
 
-## 942. Winner winner chicken dinner! Always a BIG hit with my family
+## 994. Winner winner chicken dinner! Always a BIG hit with my family
 *Source: [https://www.instagram.com/p/CBMO_j4jUb9/](https://www.instagram.com/p/CBMO_j4jUb9/)*
 
 ### Ingredients
@@ -32636,7 +34205,7 @@ Mix it and pour on the chicken
 
 ---
 
-## 943. Halibut Shawarma topped with tahini, sumac and green herbs!  recipe below
+## 995. Halibut Shawarma topped with tahini, sumac and green herbs!  recipe below
 *Source: [https://www.instagram.com/p/CBJyQ_HjPMq/](https://www.instagram.com/p/CBJyQ_HjPMq/)*
 
 ### Instructions
@@ -32652,7 +34221,7 @@ Drizzle some olive oil on top and enjoy
 
 ---
 
-## 944. Welcoming the weekend with some heat
+## 996. Welcoming the weekend with some heat
 *Source: [https://www.instagram.com/p/CBERuXhjiPJ/](https://www.instagram.com/p/CBERuXhjiPJ/)*
 
 ### Ingredients
@@ -32679,7 +34248,7 @@ Mix it and spread it on a fresh challah
 
 ---
 
-## 945. Whats the secret to unbelievably juicy meatballs  Recipe below
+## 997. Whats the secret to unbelievably juicy meatballs  Recipe below
 *Source: [https://www.instagram.com/p/CA8yB7QDm6T/](https://www.instagram.com/p/CA8yB7QDm6T/)*
 
 ### Ingredients
@@ -32722,7 +34291,7 @@ Cook them with your favorite tomato sauce for 20 minutes on a medium heat
 
 ---
 
-## 946. Who loves Chocolate
+## 998. Who loves Chocolate
 *Source: [https://www.instagram.com/p/CA561aijLzG/](https://www.instagram.com/p/CA561aijLzG/)*
 
 ### Ingredients
@@ -32730,7 +34299,7 @@ Cook them with your favorite tomato sauce for 20 minutes on a medium heat
 
 ---
 
-## 947. Orzo for lunchtime!
+## 999. Orzo for lunchtime!
 *Source: [https://www.instagram.com/p/CAa9xZGgefk/](https://www.instagram.com/p/CAa9xZGgefk/)*
 
 ### Ingredients
@@ -32758,7 +34327,7 @@ Add the olives and the lemon zest
 
 ---
 
-## 948. I make this eggplant again and again!
+## 1000. I make this eggplant again and again!
 *Source: [https://www.instagram.com/p/CAasl8EgTvt/](https://www.instagram.com/p/CAasl8EgTvt/)*
 
 ### Ingredients
@@ -32781,7 +34350,7 @@ Add the olives and the lemon zest
 
 ---
 
-## 949. Green Spicy Zhoug!
+## 1001. Green Spicy Zhoug!
 *Source: [https://www.instagram.com/p/CAWP-5GA_iq/](https://www.instagram.com/p/CAWP-5GA_iq/)*
 
 ### Ingredients
@@ -32798,7 +34367,7 @@ Should look like a green spread
 
 ---
 
-## 950. Chicken tenderloin in cast iron pan, with thyme, lime and garlic
+## 1002. Chicken tenderloin in cast iron pan, with thyme, lime and garlic
 *Source: [https://www.instagram.com/p/CALhkpmAzPv/](https://www.instagram.com/p/CALhkpmAzPv/)*
 
 ### Ingredients
@@ -32816,7 +34385,7 @@ So good
 
 ---
 
-## 951. In a mood for Zaatar!
+## 1003. In a mood for Zaatar!
 *Source: [https://www.instagram.com/p/CAIrVLOg1G3/](https://www.instagram.com/p/CAIrVLOg1G3/)*
 
 ### Ingredients
@@ -32842,7 +34411,7 @@ Mix the flour, yeast and the sugar for 2 minutes
 
 ---
 
-## 952. Stuffed Peppers- פלפלים ממולאים
+## 1004. Stuffed Peppers- פלפלים ממולאים
 *Source: [https://www.instagram.com/p/CAG1KI9AH70/](https://www.instagram.com/p/CAG1KI9AH70/)*
 
 ### Ingredients
@@ -32883,7 +34452,7 @@ And then cook it for 1- 1.5 hour on low heat
 
 ---
 
-## 953. Homemade Burgers for the Birthday Boy!
+## 1005. Homemade Burgers for the Birthday Boy!
 *Source: [https://www.instagram.com/p/CAEDlptgdvJ/](https://www.instagram.com/p/CAEDlptgdvJ/)*
 
 ### Ingredients
@@ -32904,7 +34473,7 @@ Put it on the grill for your desired level of cook
 
 ---
 
-## 954. Roasted Fennel bulbs with lemon, garlic and dill!
+## 1006. Roasted Fennel bulbs with lemon, garlic and dill!
 *Source: [https://www.instagram.com/p/CAAVtOzgiyR/](https://www.instagram.com/p/CAAVtOzgiyR/)*
 
 ### Ingredients
@@ -32933,7 +34502,7 @@ Put the the oil on a skillet pan on a medium heat
 
 ---
 
-## 955. Eggplant with Sumac ,Cilantro & salsa
+## 1007. Eggplant with Sumac ,Cilantro & salsa
 *Source: [https://www.instagram.com/p/B_yFxF9AfD8/](https://www.instagram.com/p/B_yFxF9AfD8/)*
 
 ### Ingredients
@@ -32955,7 +34524,7 @@ Put the the oil on a skillet pan on a medium heat
 
 ---
 
-## 956. Shakshouka
+## 1008. Shakshouka
 *Source: [https://www.instagram.com/p/B_vG_aAjyzz/](https://www.instagram.com/p/B_vG_aAjyzz/)*
 
 ### Ingredients
@@ -32988,7 +34557,7 @@ Use a skillet and put the olive oil
 
 ---
 
-## 957. Beef Kebab with sumac onions and lots of Tahina on top! Delish!  On top of the kebab -
+## 1009. Beef Kebab with sumac onions and lots of Tahina on top! Delish!  On top of the kebab -
 *Source: [https://www.instagram.com/p/B_s_Lrhg6ex/](https://www.instagram.com/p/B_s_Lrhg6ex/)*
 
 ### Ingredients
@@ -33026,7 +34595,7 @@ Put it on the grill until it reaches the desired level of cook
 
 ---
 
-## 958. Todays dinner Chuck Roast
+## 1010. Todays dinner Chuck Roast
 *Source: [https://www.instagram.com/p/B_iTt41gnlq/](https://www.instagram.com/p/B_iTt41gnlq/)*
 
 ### Instructions
@@ -33036,7 +34605,7 @@ Put it on the grill until it reaches the desired level of cook
 
 ---
 
-## 959. Copped broccoli and red onions salad
+## 1011. Copped broccoli and red onions salad
 *Source: [https://www.instagram.com/p/B_dbrx5Ds_x/](https://www.instagram.com/p/B_dbrx5Ds_x/)*
 
 ### Ingredients
@@ -33048,7 +34617,7 @@ Put it on the grill until it reaches the desired level of cook
 
 ---
 
-## 960. Chuck Roast in the oven
+## 1012. Chuck Roast in the oven
 *Source: [https://www.instagram.com/p/B_a052ogidO/](https://www.instagram.com/p/B_a052ogidO/)*
 
 ### Instructions
