@@ -294,6 +294,24 @@ button {
   gap: 0.5rem;
 }
 
+@media (max-width: 720px) {
+  .filter-chips-track {
+    flex-wrap: nowrap;
+    max-width: 100%;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    scrollbar-width: none;
+  }
+
+  .filter-chips-track::-webkit-scrollbar {
+    display: none;
+  }
+
+  .filter-chip {
+    flex: 0 0 auto;
+  }
+}
+
 .filter-chip {
   display: inline-flex;
   align-items: center;
@@ -437,11 +455,11 @@ button {
 }
 
 .recipe-count {
-  margin: 1.5rem 0 0;
+  margin: 0.85rem 0 0;
   color: var(--muted);
-  font-size: 0.82rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  font-size: 0.84rem;
+  letter-spacing: 0;
+  text-transform: none;
 }
 
 /* Results */
@@ -457,6 +475,7 @@ button {
 .recipe-card {
   border-bottom: 1px solid var(--hairline);
   counter-increment: recipe;
+  scroll-margin-top: 6.5rem;
   transition: background-color 180ms ease;
 }
 

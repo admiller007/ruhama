@@ -358,10 +358,11 @@ export default function App({
     ? allResults.findIndex((recipe) => (recipe.shortcode ?? recipe.name) === openShortcode)
     : -1;
 
-  const visibleResults = useMemo(
-    () => allResults.slice(0, Math.max(visibleCount, openIndex + 1)),
-    [allResults, visibleCount, openIndex]
-  );
+  const visibleResults = useMemo(() => {
+    const page = allResults.slice(0, visibleCount);
+    if (openIndex < visibleCount) return page;
+    return [allResults[openIndex], ...page];
+  }, [allResults, visibleCount, openIndex]);
 
   const browseLinks = useMemo(
     () =>
