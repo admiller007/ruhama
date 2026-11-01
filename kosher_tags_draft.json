@@ -1,0 +1,7102 @@
+{
+  "note": "Draft guesses from ingredient lines. Not confirmed by Ruhama. Do not show as a kashrut ruling.",
+  "generatedFrom": "src/data/recipes.json",
+  "counts": {
+    "meat": 158,
+    "dairy": 177,
+    "pareve": 402,
+    "check": 35,
+    "fish": 33
+  },
+  "recipes": [
+    {
+      "shortcode": "DezODG1iNLy",
+      "name": "ONE PAN GOLDEN ORZO & CABBAGE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DeuIxH2iFal",
+      "name": "COZY BEEF STEW!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Dee0LNhicmu",
+      "name": "IRAQI CHICKEN & LUBIA!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DeMojh4Ccjx",
+      "name": "ONE-PAN MINI MEATBALLS & PTITIM!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DeKFAVliAA2",
+      "name": "CRUNCHY PURPLE SALAD!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Dd9fqh5IJes",
+      "name": "ONE-POT AMBA BEEF & RICE",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Dd6oYG7qsJL",
+      "name": "ORANGE SEMOLINA CAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt",
+        "whipping cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Dd2FHINiQk1",
+      "name": "MY VIRAL OVEN-BAKED SCHNITZEL",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DdXOah6KLrI",
+      "name": "ZUCCHINI CASSEROLE- PASHTIDAT ZUCCHINI!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DdSNBTnC-hu",
+      "name": "DIRTY CABBAGE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DdFE36-C_jz",
+      "name": "FESTIVE CARROT AND LEEKS RICE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DdCoOSNqbZc",
+      "name": "GREEN CUCUMBER APPLE CRUNCH SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DczQ_X_i6Hl",
+      "name": "GREEN HUMMUS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DcwKO0UC0-p",
+      "name": "LEMONY ROASTED CABBAGE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Dcl2-DpCSV9",
+      "name": "ONE-PAN AMBA CHICKEN AND RICE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DcjDuaDOVsf",
+      "name": "ROUND BEEF BOUREKAS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Dcghk0KOGzU",
+      "name": "POMEGRANATE CHICKEN & SWEET POTATOES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DcbZBYLOM0S",
+      "name": "ChallaGanush!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DcL8xaau1bd",
+      "name": "Festive Iraqi-Persian Crispy Rice with Beef!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DcGobDkuRzS",
+      "name": "Rosh Hashanah Simanim Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DbtDqvzORrF",
+      "name": "SUMMER SHAKSHUKA!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DbJmnOgCabX",
+      "name": "SUMMER MEDITERRANEAN CHICKEN SKILLET!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Da01S9bCGj7",
+      "name": "RED CABBAGE AND QUINOA SALAD!",
+      "tag": "dairy",
+      "fish": true,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Daky3SxukMF",
+      "name": "ONE PAN YELLOW CHICKEN AND RICE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DagYz4jinFd",
+      "name": "CHILDHOOD AVOCADO & EGG SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DaQ4NgXCdbz",
+      "name": "EGG NOODLE AND BEEF TAHDIG!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DaBnzveCLYV",
+      "name": "JUICY HOMEMADE SHAWARMA!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DZuu9hKOMlZ",
+      "name": "ROASTED LEMONY CAULIFLOWER AND CHICKPEAS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DZp7nFJiwBE",
+      "name": "TAHINI SUMAC SAUCE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DZpkoXqOf6B",
+      "name": "BAKED IRAQI CHICKEN ARUK!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DZk6hLTivvg",
+      "name": "FLUFFY EGG BITES!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DZXsHlsCpVf",
+      "name": "LEMONY GREEN BEAN & POTATO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DZNTQXwOAlm",
+      "name": "SUMMER TOMATO WHITE BEAN SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DZKveNpOTYW",
+      "name": "LEMONY CHICKEN AND ORZO!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DZDknjJCGSG",
+      "name": "CRUNCHY RED CABBAGE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DY2xLalixbP",
+      "name": "SUMMER LIME CHICKEN DINNER!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DYPiS7VOW-u",
+      "name": "FESTIVE ONE PAN SALMON & VEGGIES!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DYCnIaWu242",
+      "name": "CHICKEN SHAWARMA TRAY BAKE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DX9aw_cuO9F",
+      "name": "SAVORY CORN CASSEROLE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DXxHA_QC2qe",
+      "name": "ONE-PAN TURMERIC CHICKEN, CAULIFLOWER & RICE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DXuz2oFgkmK",
+      "name": "A Creamy Fennel and Cucumber Salad!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DXUWvGbDtp9",
+      "name": "My Favorite Eggplant Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DXHsF2lAvXg",
+      "name": "CUCUMBER & CANNELLINI BEANS SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DXC4uqBgotP",
+      "name": "SHEETPAN AMBA GLAZED FISH w/SNOW PEAS!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DWj229KAgfQ",
+      "name": "BEEF TBEET!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef",
+        "meat"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DWXN28Ggp1C",
+      "name": "SPRING FENNEL AND CITRUS SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DWSDNjvgmUt",
+      "name": "FESTIVE CHICKEN, CARROTS AND LEEKS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DV9blSKAk94",
+      "name": "PASSOVER CABBAGE AND QUINOA SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DVd2T5MjL3a",
+      "name": "ONE-PAN COMFORT MEATBALLS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DVZKqGbDSVn",
+      "name": "CELERY AND ARUGULA SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DVEMTJ2Dpyy",
+      "name": "KADUREI SHOKOLAD- CHOCOLATE BALLS",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "whipping cream",
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DU51F3bjrYv",
+      "name": "ONE-PAN BEEF, CORN AND PTITIM!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DUyWJXkAsbu",
+      "name": "ARUK ARAYES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DUtTt7yAiF6",
+      "name": "Shabbat is calling!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DUlOT3mjgX9",
+      "name": "ROASTED RED CABBAGE AND QUINOA SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DUY8wU2AllN",
+      "name": "BEEF STEW WITH CHICKPEAS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DUTSKWNjpoV",
+      "name": "ORANGE SUMAC CHICKEN DINNER!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DUOLcVQDnlc",
+      "name": "Festive Tu BiShvat Salad!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "halloumi"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DUI-xTkDo1E",
+      "name": "THE BEAUTIFUL CAULIFLOWER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DUGVaoYDjMo",
+      "name": "HALF MOON COOKIES!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DUBuo2Cgglq",
+      "name": "CHICKEN MEATBALLS AND RICE NOODLES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DT0xVzjgrL5",
+      "name": "SALAT AVOCADO!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DTxytLMDtif",
+      "name": "COZY ONE-PAN KEBAB & POTATO!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DTs4wHyAj_l",
+      "name": "MARAK COUSCOUS  COUSCOUS SOUP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DTODJ_9AhBE",
+      "name": "ONE-PAN MEAL FOR BUSY PARENTS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DTJQEQvApFw",
+      "name": "Lemony Zaatar Arugula Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DSXn2jljqQM",
+      "name": "PTITIM AND CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DSTBFyxAo6q",
+      "name": "BE THE LIGHT!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DSGTppvgqM8",
+      "name": "HOLIDAY CHOPPED SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DSBFeNxAj9e",
+      "name": "FAMILY STYLE HANUKKAH LATKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DR2nP1cD7ib",
+      "name": "4 MUST HAVE SPICES if you love my recipes!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions meat"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DRxuIwqjny-",
+      "name": "NOAS FAVORITE RICE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DRiVuiGjmvx",
+      "name": "GREEN BEANS AND POTATOES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DRcjrd-DlfW",
+      "name": "FESTIVE POTATO CASSEROLE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DRZz-CRjm_W",
+      "name": "MOROCCAN STYLE CAULIFLOWER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DRSnSClD_DD",
+      "name": "DAIRY FREE & GF CHOCOLATE CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DRAcNr1Dq0H",
+      "name": "MY FAVORITE BEET SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQ-Q-cIjvJ7",
+      "name": "HERBY CHICKEN CUTLETS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQ4uB7fDjUC",
+      "name": "Saba Kaduris Shakshuka!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQwvXykjnZN",
+      "name": "TAHINI SUMAC CABBAGE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQuyxIVjr6h",
+      "name": "CHERSHI - PUMPKIN SPREAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQo-rV7Dvxu",
+      "name": "EASY ONE PAN DINNER!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQcg1EMD_Yi",
+      "name": "AMBA CHICKEN AND RICE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQaHSwTDiQf",
+      "name": "SPLIT PEA SOUP  PITA BREAD CROUTONS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQW5INTDkC7",
+      "name": "BROCCOLI CHEESE CASSEROLE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "cottage",
+        "feta",
+        "mozzarella",
+        "goat cheese"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQMr-b_Dogg",
+      "name": "Shabbat Shalom!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQKmZgCjuRa",
+      "name": "ONE-PAN PAPRIKA CHICKEN AND POTATO!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQFeA0wDtK1",
+      "name": "PERFECT is so NOT 2025!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DQC4e2oDtU-",
+      "name": "Lemony Herb Skillet Salmon!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DP60nSzDk4t",
+      "name": "Baba Ganoush- Roasted Eggplants with Tahini!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DPton4bDh_s",
+      "name": "IRAQI TBEET!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DPmj9QuDlCl",
+      "name": "A MUST TRY SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DPeYsJtDllI",
+      "name": "HOMEMADE HUMMUS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DPcJnopDv_W",
+      "name": "EASY MEDITERRANEAN GRILLED COD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DPPJRpNjufl",
+      "name": "ONE-PAN TURMERIC CHICKEN AND POTATOES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DPJpvi9jnfg",
+      "name": "PASHTIDA FOR BREAKING THE FAST!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "feta",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DPEvRB4jkO2",
+      "name": "The Most Delicious Egg Noodles!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DO3k9lxDsU5",
+      "name": "HONEY AND APPLE CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DOypxIzDvhp",
+      "name": "Rosh Hashanah Israeli Couscous Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DOwgxw2jk3N",
+      "name": "WARM ROASTED CABBAGE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DOoWYD9Dr1e",
+      "name": "FESTIVE CHICKEN AND FARRO!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DOlgETRjku_",
+      "name": "SLOW-COOKED BEEF AND POTATOES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chuck",
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DObtxR-Dtha",
+      "name": "FESTIVE EGGPLANTS FOR ROSH HASHANAH!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DOMkKdijomz",
+      "name": "COMFORT FOOD IS WHAT WE NEED!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DOJu9biDokv",
+      "name": "ROUND MUSHROOM BOREKAS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DN33ExejscJ",
+      "name": "MY FAMOUS BANANA CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DN1VDDu3KlK",
+      "name": "CABBAGE AND POMEGRANATE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DNyp9AMXNVQ",
+      "name": "BAHARAT CHICKEN DINNER!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DNl6JgvR2HY",
+      "name": "NO CHICKPEA HUMMUS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DNDtTBiIl1T",
+      "name": "CHILDHOOD CHICKEN MEATBALLS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DM-bf03I92P",
+      "name": "MEDITERRANEAN NECTARINE SALAD!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DMxuKU6Ijuu",
+      "name": "RAS EL HANUT CHUCK ROAST!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chuck"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DMslbQ9oRoU",
+      "name": "BAKED FISH SCHNITZEL!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DMnS0s3IyTH",
+      "name": "CRISPY TOFU AND AVOCADO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DMfsYOeoX2Y",
+      "name": "SABA KADURIS RICE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DL7x1FaxWuN",
+      "name": "Come make dinner with me!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DL0iUvzxZ1r",
+      "name": "CUCUMBER YOGURT SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DLpvj9DR2yB",
+      "name": "JUICY CHICKEN ARAYES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DLnjzg5RjKm",
+      "name": "VEGAN POTATO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DLkjpjQxYaR",
+      "name": "SUNSHINE CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DLh6kMqR6tk",
+      "name": "ZUCCHINI-CHEESE FRITTATA!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DLSTdgsxQMQ",
+      "name": "HOMEMADE SHAWARMA!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DLNL60LROc-",
+      "name": "TEL AVIV ICED CAFÉ!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "ice cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DLDkrAyRG1R",
+      "name": "ONE-POT MEATBALLS AND POTATO!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DK2JslhRDSC",
+      "name": "SUMMER SALAD FOR SHABBAT !",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DKpJ2-0xf_1",
+      "name": "Kitchri- Iraqi rice and lentils!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DKhxVJARgnc",
+      "name": "LIMONANA- FROZEN MINT LEMONADE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DKe68MRxrsL",
+      "name": "Zaalouk  Moroccan Eggplant & Tomato Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DKXE-_WRY0Z",
+      "name": "CUCUMBER AND AVOCADO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DKR0eruR6xM",
+      "name": "THE EASIEST NO-BAKE CHEESECAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "whipping cream",
+        "cheese",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DKPW9VfN7_X",
+      "name": "MIDDLE EASTERN PAELLA!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DKNEjXLxEi8",
+      "name": "CHEESE BOUREKAS WITH A TWIST!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "mozzarella",
+        "feta",
+        "heavy cream",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DKKx1OpRH9s",
+      "name": "CHEESE BOUIKOS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "feta",
+        "mozzarella",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DKFMj4YR4a1",
+      "name": "LEMONY POTATO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DJ9helZR2Ip",
+      "name": "MALABI!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DJ49IqkRWc7",
+      "name": "Sautéed Okra over Yogurt !",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DJuYrO3xAF0",
+      "name": "EGG SALAD",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DJpZEK2xBPk",
+      "name": "BEANS AND BEEF STEW!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DJZvd3Fxe8N",
+      "name": "ONE-PAN CHICKEN SHAWARMA!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DJW9ssRRfci",
+      "name": "SALOONA- IRAQI SWEET AND SOUR FISH!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DJSZ-BWR-Ui",
+      "name": "ONE-PAN TURMERIC BEEF RICE WITH CRISPY CABBAGE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DJKCC4jAXda",
+      "name": "Are My Kids Eating Everything I Make",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DJFWwrqR3QL",
+      "name": "BEST FALAFEL!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DI__m4wxS4j",
+      "name": "JUICY BEEF ARAYES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DI9Of5kRdZy",
+      "name": "HALVA SMOOTHIE!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DI36rZQRtfy",
+      "name": "QUICK MATBUCHA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DIwuj4vxGs3",
+      "name": "Msyer- Pickled Vegetable Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DIugSttRk1G",
+      "name": "BAKED-LEMONY HALIBUT!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DIhcZdgRlMK",
+      "name": "PASSOVER IRAQI ARUK!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions ice cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DIbrzV1R1Nv",
+      "name": "MINI MATZAH FRENCH TOAST!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DIRoEN1Rh7A",
+      "name": "VEGAN POTATO GRATIN!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DIPeNhixMdF",
+      "name": "ROASTED EGGPLANTS WITH GREEN SALSA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DIMXOm2xlXA",
+      "name": "PASSOVER IRAQI CHAROSET!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DIBtujrR-JX",
+      "name": "PASSOVER MINI BUNS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DH_gmJfxeMf",
+      "name": "EASY CUCUMBER SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DH8xoJhRR0-",
+      "name": "PASSOVER BEEF CASSEROLE - PASHTIDAT BASAR!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DH6S_TpReAS",
+      "name": "NO-MAYO POTATO SALAD!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "labneh"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DHwBB_nRBda",
+      "name": "PASSOVER APPLE CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DHtzWjqRDSR",
+      "name": "IRAQI QUINOA TBEET!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DHodJniSk_v",
+      "name": "PASSOVER PASHTIDAT ZUCCHINI!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DHjelcvRsH8",
+      "name": "VEGETARIAN CHOPPED LIVER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DHG_qNVxQGW",
+      "name": "PTITIM BOLOGNESE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DG--w_MAGUn",
+      "name": "Ozney Haman - Hamantaschen time!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DGtHLoyRjzw",
+      "name": "I encourage you to watch till the end",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DGeHaEtRDb6",
+      "name": "AMBA TOFU WITH COCONUT CREAM!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DF_R0YTxWzw",
+      "name": "Do you know what you get when you mix tahini and date syrup",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DFvSvi9xt9K",
+      "name": "HONEY SESAME CHICKEN TENDERLOIN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DFd0Wq1Ra7K",
+      "name": "How to make the perfect Tahini!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DFNnvgXRdqj",
+      "name": "ROASTED EGGPLANTS WITH SCHUG!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DFLCezPRbyo",
+      "name": "TOMATO BAKED PARGIOT - CHICKEN THIGHS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DFGnHYuRQik",
+      "name": "SPINACH CASSEROLE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "cottage",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DE5tYgux0yS",
+      "name": "POTATOES AND PEAS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DE0Gj2eRJNV",
+      "name": "LEMONY CHICKPEAS AND SPINACH SOUP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DEpuUksRPbi",
+      "name": "RED CABBAGE SLAW WITH A TIP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DElTBesxTbH",
+      "name": "ZAATAR CHEESE GALETTE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "feta",
+        "ricotta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DEgNk2LxxqJ",
+      "name": "ONE-PAN GROUND BEEF AND RICE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DEc2r80R5sp",
+      "name": "THE EASIEST ONE-PAN DINNER!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DEVtTsEx8aJ",
+      "name": "QUICK PICKLED JALAPEÑOS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DENTxQ2RfFH",
+      "name": "2024 FAVORITE FISH DISH!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DDxIV32xgVi",
+      "name": "ARUK - IRAQI LATKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DDm7JRnRTqn",
+      "name": "FAMILY STYLE LATKE!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DDcjsT4RL5m",
+      "name": "Sfinge- Moroccan Hanukkah doughnuts!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DDaR1vRR7Sx",
+      "name": "BAKED CAULIFLOWER LATKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DDUuxQnxa8M",
+      "name": "SWEET LEVIVOT!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cheese"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DDNAXvMR5ez",
+      "name": "CRISPY SHAWARMA SMASHED POTATOES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DDDCyuQRFOD",
+      "name": "MY KIDS FAVORITE DINNER!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DC4zQAUx2hi",
+      "name": "MAPLE-TAHINI BROCCOLI SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DCrsCGTxfN_",
+      "name": "FAMILY STYLE POTATO BOUREKAS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DCnAMJVR2jB",
+      "name": "FESTIVE DATE ROASTED SQUASH!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DCkRcFgS0iA",
+      "name": "5 MINUTE APPETIZER!",
+      "tag": "dairy",
+      "fish": true,
+      "because": [
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DCfUlYJRXB5",
+      "name": "SPLIT PEA SOUP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DCZ8Bl_xoRo",
+      "name": "SHABBAT SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DCX6eb-xGBB",
+      "name": "PESTO SALMON!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DCFElFORwMc",
+      "name": "SUMAC CHICKEN AND SQUASH!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DB94Kx0xDeI",
+      "name": "FARRO WITH ROASTED BAHARAT SQUASH!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DB1cVrCRZ2r",
+      "name": "ROASTED EGGPLANT AND PEPPER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DBudC5GxmtH",
+      "name": "ONE-PAN RICE, NOODLES AND CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DBrngBMyLlL",
+      "name": "TOFU SHAWARMA SALAD!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions cheese"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DBo47TQRN-G",
+      "name": "SUNDAY SHAKSHUKA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DBeVHrsRDfP",
+      "name": "AMBA-TAHINI CAULIFLOWER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DBcKwO6xj64",
+      "name": "FALL SOUP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DBZlyShxPpt",
+      "name": "PASHTIDAT PASTA - PASTA CASSEROLE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DBMFRi9xsrL",
+      "name": "MALFOUF - IRAQI BAKLAVA CIGARS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DBKFZoHSIAp",
+      "name": "JUICY CHICKEN KEBABS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DA6MujBRSWW",
+      "name": "ORANGE CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DA386ZoyyJ2",
+      "name": "HARISSA-HONEY CHICKEN AND SWEET POTATOES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DAi01J2RpRh",
+      "name": "FIGS AND POMEGRANATE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DARPKuhxHmf",
+      "name": "TURMERIC POTATOES AND PEAS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DAEy_OQx3oq",
+      "name": "COUSCOUS SOUP - MARAK COUSCOUS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C_1dQQwxMlp",
+      "name": "MOROCCAN COOKED OLIVES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C_yp94axHeU",
+      "name": "APPLE CAKE FOR ROSH HASHANAH!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C_wRjK2xqyn",
+      "name": "FAMILY STYLE BEEF BOUREKAS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C_t3NvYtElK",
+      "name": "FISH DISH FOR ROSH HASHANAH!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C_ltauJxJIp",
+      "name": "SHABBAT SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C_jIMk7xR6i",
+      "name": "ROSH HASHANAH BRISKET!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "brisket"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C_f-fcdx262",
+      "name": "BEET AND POMEGRANATE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C_O2IUixy-q",
+      "name": "ONE PAN JERUSALEM GRILL CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C_L9IQcxVyX",
+      "name": "STUFFED PEPPERS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C-_LaAXRQml",
+      "name": "CUCUMBER SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C-77iiyRjhg",
+      "name": "ZUCCHINI CHEESE CASSEROLE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "feta",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C-QHMuUoZBO",
+      "name": "HALLOUMI SALAD!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "halloumi"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C-DYAF_uxtR",
+      "name": "CHEESE AND CORN FRITTERS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C9-NhcpR1JW",
+      "name": "ONE-PAN TURMERIC CHICKEN AND RICE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C9qURhFRjvI",
+      "name": "VEGAN CHALLAH AND BABKA CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C9lUqHSRAYX",
+      "name": "ONE-PAN SALMON AND CABBAGE!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C9ipuwjxC_I",
+      "name": "PARGIYOT AND RED RICE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C9dUBh1Reby",
+      "name": "CABBAGE AND CARROT SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C9VUbOORUwr",
+      "name": "ONE PAN TURMERIC CHICKEN AND PTITIM!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C9THLooxtWU",
+      "name": "SHAVED STEAK WITH GREEN SCHUG!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C9QfIQKxF3N",
+      "name": "BAKED CHICKEN ARUK!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C9K3U6ZRhc2",
+      "name": "ICE CAFÉ WITH A TWIST!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C9I24MixnYW",
+      "name": "SHUK SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C8vSoi9tJKH",
+      "name": "ONE-PAN SUMMER SALMON!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C8sTgH8x866",
+      "name": "LEMONY MOROCCAN MEATBALLS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C8neMGNxARd",
+      "name": "ROASTED ZUCCHINI OVER TZATZIKI!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C8fa0fXy0gA",
+      "name": "ROASTED CAULIFLOWER WITH LEMONY GREEN TAHINI!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C8dEy0vR-Pw",
+      "name": "BANANA PECAN SHAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C8NVnPWRHmQ",
+      "name": "OVEN-BAKED CRISPY SCHNITZEL!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C8LH8qzx2An",
+      "name": "LEMONY ROASTED EGGPLANT AND ZUCCHINI SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C8IiVmARytd",
+      "name": "SHAVUOT 2024",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C8FeFLORzeA",
+      "name": "POTATO CASSEROLE !",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "heavy cream",
+        "mozzarella",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C8DVNdYRybx",
+      "name": "GLUTEN-FREE, DAIRY-FREE STRAWBERRY CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C71_5y-Rn2X",
+      "name": "CHEESE AND ONION PASHTIDA - CASSEROLE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C7sUdgUNzZh",
+      "name": "PIZZA CORN MUFFINS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C7m6G8fR-Lc",
+      "name": "ROASTED EGGPLANTS AND PEPPERS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C7j3EY7xM8h",
+      "name": "KEBAB SCHNITZEL!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C7fJS4dR4rX",
+      "name": "CHEESE BOUIKOS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "feta",
+        "mozzarella",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C7XBEDGxM5O",
+      "name": "FRESH CORN AND AVOCADO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C696-OwNVlV",
+      "name": "EGG NOODLES AND PTITIM!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C63ysocOm72",
+      "name": "DECONSTRUCTED SABICH SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C6uLrRyxVub",
+      "name": "CREAMY FETA CHEESE WITH ROASTED PEPPERS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C6r82CFtXsR",
+      "name": "SUMAC CHICKEN THIGHS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C6bpl34uLJb",
+      "name": "CREAMY SWEET POTATO PASTA!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C6T7en_uDrl",
+      "name": "VEGAN SHAWARMA AKA CAULIFLOWER SHAWARMA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C6M8FOdRL_e",
+      "name": "HONEY CHICKEN TRAY BAKE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C59JuPnR83e",
+      "name": "WARM ROASTED CABBAGE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C54SKhdRbVv",
+      "name": "ROASTED CAULIFLOWER AND LEMONY LEEK!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C51sGKlR3Sb",
+      "name": "ONE-PAN QUINOA AND CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C5q0zEaO8de",
+      "name": "PASSOVER CHOCOLATE BANANA CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C5omtnDxAwh",
+      "name": "KOSHER FOR PASSOVER BAKLAVA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C5jkWIYS1C6",
+      "name": "REFRESHING AVOCADO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C5hVx_YSdaM",
+      "name": "VEGETARIAN CHOPPED LIVER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C5PQS3wxTuG",
+      "name": "MEDITERRANEAN SHEET-PAN CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C5MnXYkxmTR",
+      "name": "SPRING CABBAGE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C5JMCk0Ob7l",
+      "name": "SALAT MAYONNAISE- POTATO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C5Ca2tTxz6l",
+      "name": "MEDITERRANEAN ONE PAN SALMON!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C4_px3xxTr9",
+      "name": "BARLEY SOUP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C49FFSIxx-1",
+      "name": "SUMAC GREEN BEANS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C433BcGxT4d",
+      "name": "FAMILY STYLE CHEESE BOUREKAS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C40rxo9OF4F",
+      "name": "SUMAC ONION!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C4wMasTRY1k",
+      "name": "CRUNCHY TUNA AND CABBAGE SALAD!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C4qwbp4Rrw4",
+      "name": "NOAS FAVORITE RICE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C4gpLltR_Jl",
+      "name": "MOROCCAN FISH WITH A TWIST!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C4d321lxDrD",
+      "name": "ONE PAN ROASTED CHICKEN OVER SWEET POTATOES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C4bPH7NRNXI",
+      "name": "MY SECRET FOR A FLUFFY PTITIM!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C4YtkW-RDLk",
+      "name": "ZAATAR CABBAGE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C4O1oHvxrAt",
+      "name": "MINI RUGELACH!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C4B50CyxLAr",
+      "name": "10 MINUTES PREP - CHICKEN AND POTATO!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C3-y45WR62S",
+      "name": "SUMAC VINAIGRETTE ROASTED EGGPLANTS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C39CC3qNIFs",
+      "name": "ONE-PAN CHICKEN AND BULGUR!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C35mq7pxuoY",
+      "name": "ROASTED POTATOES AND FENNEL!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C3qlqnVxG2J",
+      "name": "NO MESS BEET SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C3dkN2Ex8Ys",
+      "name": "ONE-PAN CHICKEN AND TURMERIC RICE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C3Vj7hZOcl3",
+      "name": "TURMERIC CHICKEN MEATBALLS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C3RDBWPxzyX",
+      "name": "MY KIDS FAVORITE PASTA!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions parmesan"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C3LnmFGxEau",
+      "name": "PASHTIDAT ZUCCHINI - ZUCCHINI CASSEROLE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C3I2lXvxnDD",
+      "name": "ROASTED BRUSSELS OVER HUMMUS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C3D8eSWx2uK",
+      "name": "AVOCADO TAHINI CABBAGE STEAKS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C2-2q1vRPCD",
+      "name": "CHOCOLATE BALLS- KADOREI SHOKOLAD!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C22rW3gxtYX",
+      "name": "ROASTED CAULIFLOWER WITH AVOCADO ZAATAR DRESSING!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C20auH4xkcR",
+      "name": "LEMONY ZAATAR CHICKEN BREAST!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C2vUnqGRC0J",
+      "name": "BAKED TURMERIC RICE AND PEAS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C2svknjRA0S",
+      "name": "SMASHED POTATOES!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C2n5Q7_x68-",
+      "name": "STRAWBERRY ALMOND CAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C2lCOlBRTqz",
+      "name": "ZOES CUCUMBER SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C2dqC84tKLv",
+      "name": "ONE-PAN PTITIM AND SALMON!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C2YX6hXR-oq",
+      "name": "MOROCCAN OLIVES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C2Ss9g7RZGc",
+      "name": "CAKE FOR SHABBAT!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C2IdTc4xXu8",
+      "name": "VEGAN IRAQI CAULIFLOWER TBEET!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C17eOnoRlJa",
+      "name": "MUJADARA - LENTIL AND RICE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C15Yp38xfUZ",
+      "name": "GLUTEN-FREE DAIRY-FREE ORANGE CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C10Id2ExoiF",
+      "name": "MY DADS WINING RICE RECIPE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C1sTLnBRv6T",
+      "name": "VEGAN SHAWARMA AKA CAULIFLOWER SHAWARMA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C1nOtv_RjgG",
+      "name": "JUICY CHICKEN BREAST SHAWARMA!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C1NykfjxFcD",
+      "name": "SUGAR SNAP PEAS AND AVOCADO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C1IdKD4RIf3",
+      "name": "SUMAC BEET SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C1FvSF4xsBn",
+      "name": "WARM TURMERIC CHICKPEAS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C1C8PmNRCgh",
+      "name": "HONEY MUSTARD POTATO CASSEROLE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C1A057jxSxs",
+      "name": "MARAK COUSCOUS - COUSCOUS SOUP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C09ufzSxPbY",
+      "name": "BAKED SUMAC BRIE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "brie"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C02sGLWNVIH",
+      "name": "FESTIVE ROASTED EGGPLANT!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C0zmPSSRUzt",
+      "name": "SHAWARMA SPICED SALMON CUBES!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C0sVPv1teI6",
+      "name": "SWEET LEVIVOT - SWEET LATKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "sour cream",
+        "milk",
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C0m2wGARlxQ",
+      "name": "HANUKKAH LATKES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C0j5R1nOARa",
+      "name": "SHAWARMA SPICED HALIBUT!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C0e3kFqxHsj",
+      "name": "ROASTED EGGPLANT WITH AVOCADO CREAM!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C0PQzkauDfs",
+      "name": "ONE-PAN EGG NOODLES AND CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C0MxApTRVTs",
+      "name": "NY STRIP STEAK WITH GREEN SCHUG!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "C0Aff5qRgSp",
+      "name": "Thanksgiving 2023!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "turkey"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cz9pz_nxJfz",
+      "name": "MOROCCAN SPICED ROASTED CARROTS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cz6tnG-RA_5",
+      "name": "SUMAC ROASTED POTATOES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cz4QTEvxJoY",
+      "name": "HOMEMADE MAPLE NUT GRANOLA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CzuXpFCRRG8",
+      "name": "BAHARAT BULGUR AND CAULIFLOWER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CzrQCbRuJA_",
+      "name": "CHRAIME- MOROCCAN FISH!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Czja5PUuK-T",
+      "name": "SLOW-COOKED LONDON BROIL AND POTATO!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions meat"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CzewObVyY_4",
+      "name": "SCHNITZEL FRIDAY!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CzcMBdpRLHc",
+      "name": "RAS EL HANUT CHICKEN AND SQUASH!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CzXQ9P_RJhk",
+      "name": "CUCUMBER PERSIMMON SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CzRxwBTRyvP",
+      "name": "CITRUSY ROASTED CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CzPK0d5x-X4",
+      "name": "GOLDEN CAULIFLOWER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CzHsm9hRPQ0",
+      "name": "BAKED MEDITERRANEAN FETA PASTA!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "cottage",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CzEycSGxhHB",
+      "name": "SUMAC BAKED POTATO FRIES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cy6Qi9jus6u",
+      "name": "BULGUR AND CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cy3-T26R3JP",
+      "name": "ROASTED RAS EL HANUT CARROTS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CyuFu8sNNmr",
+      "name": "IRAQI POTATO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CyoFDBUOWfo",
+      "name": "COMFORTING FALL SOUP!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CylqlEHuIzC",
+      "name": "BEEF SIRLOIN AND BEAN STEW!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CyjgX-ouWZ-",
+      "name": "This mediterranean roasted butternut squash over creamy chobani Greek yogurt is going to be your new",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cygq_Fuxvhp",
+      "name": "KTZITZOT - CHICKEN MEATBALLS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CyRyXpiNxDc",
+      "name": "ONE PAN CHICKEN AND PTITIM!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CyEkydzR3zf",
+      "name": "LENTIL AND VEGETABLE SOUP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CxydwfdxjpN",
+      "name": "MOROCCAN CAULIFLOWER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CxviEoHOLUY",
+      "name": "FESTIVE KEBAB CASSEROLE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CxjTlHUxt0Q",
+      "name": "ROLLED COOKIES!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CxeIK1JuK5k",
+      "name": "SEMOLINA ORANGE CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CxbkFwXRnjt",
+      "name": "MY FAMOUS CHEESE BOUIKOS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "feta",
+        "mozzarella",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CxWbUfjRWpO",
+      "name": "NOAS FAVORITE RICE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CxMHG2pR9_g",
+      "name": "SUMAC ROASTED CAULIFLOWER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CxJfBoax2pE",
+      "name": "ROUND HONEY BRIOCHE CHALLAH!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CxEbStlxhJW",
+      "name": "HONEY TURMERIC POTATOES AND PEAS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CxBM5OcunmH",
+      "name": "JUICY BISON CHUCK ROAST!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chuck"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cw8ZBX1Rvyl",
+      "name": "WARM ZUCCHINI SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cw5bYAquRB5",
+      "name": "APPLE AND FIG SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cw3CqgBxpev",
+      "name": "RED IRAQI RICE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cw0jkx9OYpo",
+      "name": "HARISSA HONEY GRILLED SALMON!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CwynH4UtNYq",
+      "name": "MOROCCAN COOKED OLIVES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CwnepLMxLAY",
+      "name": "This delicious pasta salad will be the star of any meal!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CwlW2JoIw24",
+      "name": "MOROCCAN CARROT SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CwigzdOI-oZ",
+      "name": "CHARRED EGGPLANT CARPACCIO!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CwYkkkcoTVy",
+      "name": "TURMERIC VEGETABLE SOUP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CwWE7-NIZPN",
+      "name": "ROASTED CAULIFLOWER AND LEMONY LEEK!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CwS1Xb-qzs9",
+      "name": "ZAATAR SWEET POTATO GRATIN!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CwQxWTOI4Ag",
+      "name": "GREEN GODDESS LETTUCE SALAD !",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CwJXJ8voY5a",
+      "name": "BABA GHANOUSH!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CwGUJhToE5A",
+      "name": "I am convinced I can eat this bowl every day, what about you",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cv-WqajgFaO",
+      "name": "LEMONY ZAATAR CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cv7i5ClAQCc",
+      "name": "ONE PAN SALMON AND SUCCOTASH!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CvxbN3sAlO4",
+      "name": "LEMONY SUMAC CHICKEN BREAST!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CvvbTq2AmQ0",
+      "name": "TURMERIC BASMATI RICE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cvh9LkAAXjy",
+      "name": "SMASHED POTATOES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CvfZs_8AnAM",
+      "name": "SABICH SALAD WITH A TWIST!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CvbHhc1Nek5",
+      "name": "ROASTED ZUCCHINI ON LABNEH!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "labneh"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CvYTUXGgbAx",
+      "name": "THE EASIEST SHAKSHUKA EVER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CvV7r4SttbC",
+      "name": "ROASTED EGGPLANTS OVER HUMMUS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CvNVAwcgf1J",
+      "name": "MEDITERRANEAN COUSCOUS AND COD!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CvI1LP2gwag",
+      "name": "BROCCOLI SAVORY PIE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "heavy cream",
+        "cottage",
+        "mozzarella",
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CvFpPvAg2zX",
+      "name": "SUMAC ONIONS BEET SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CvDTpM6AvYc",
+      "name": "CHALLAH BREAD PUDDING!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cu-D0P2A0Nm",
+      "name": "HOMEMADE PITA CHIPS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cu7TORgAKiW",
+      "name": "JERUSALEM GRILL CABBAGE STEAKS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cu2d7bKrzQh",
+      "name": "HEIRLOOM TOMATO SALAD!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cheese"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CuxWOn5AwVG",
+      "name": "HARISSA-ROASTED CARROTS !",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cuphzb5gKS1",
+      "name": "MY MOMS TURMERIC CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cukwirbg2WT",
+      "name": "POTATO SALAD WITH FETA DRESSING!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CuhxlLKAsSQ",
+      "name": "I CAN EAT THIS EVERYDAY!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CucyAlwgQMx",
+      "name": "CRISPY EGGPLANTS WITH TZATZIKI!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CuX_ZCbgFYK",
+      "name": "BBQ HARISSA CHICKEN THIGHS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CuVA5kIuOhI",
+      "name": "Grilled Nectarines with creamy Chobani Greek Yogurt!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CuQCcnzAgB_",
+      "name": "ZAATAR FETA AND GRILLED TOMATO!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CuNLIwOAI2z",
+      "name": "ZATTAR TORTILLA GRILLED CHEESE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CuH2PMPATe7",
+      "name": "MY DADS CILANTRO-JALAPEÑO SPREAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ct9ohtTAaUl",
+      "name": "CRINKLE CUT SWEET POTATOES WITH GREEN DIP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ct4VQgKgYbn",
+      "name": "RAS EL HANUT BEEF HASH!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ct2YoMkAgZL",
+      "name": "TAHINI DRESSING!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CtugsOdgi8g",
+      "name": "SHAWARMA CHICKEN WITH SUMAC ONIONS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ctr-gLXAULB",
+      "name": "BURRATA SUMMER SALAD!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions burrata"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ctm-wYtgGva",
+      "name": "SUMMERY PURPLE POTATOES AND BRUSSELS SPROUTS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "parmesan"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CthnpjwgLIu",
+      "name": "ONE- PAN TURMERIC CHICKEN AND ORZO!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CteYzpJg-T9",
+      "name": "FAMILY STYLE SPINACH AND CHEESE BOUREKAS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CtZ_XT1A0MS",
+      "name": "COLD LEMONY GREEN BEANS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CtR5CLWtJGx",
+      "name": "This is going to be your new favorite summery eggplant dish!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CtMl18hgg63",
+      "name": "HARISSA SALMON KEBAB SKEWERS!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CtISyhKgOnK",
+      "name": "ROASTED FINGERLING POTATO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CtFKaBIg27w",
+      "name": "HOMEMADE HUMMUS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cs7Wsy8AzMh",
+      "name": "CHICKPEA AND AVOCADO MEDITERRANEAN SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cs40O4BATpv",
+      "name": "SAVORY CORN PIE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "feta",
+        "cottage",
+        "parmesan"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CswURZKAVf7",
+      "name": "FENNEL ORANGE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CsthG18gnbF",
+      "name": "MEDITERRANEAN ORZO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CsrCpi0M_RZ",
+      "name": "PRESERVED LEMON ROASTED CAULIFLOWER!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CsjjD_TA9ha",
+      "name": "BAKED FETA AND SUMAC GRAPES !",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CsZemMtAuQN",
+      "name": "SAVORY PULL-APART  CHALLAH!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CsW9itCgYRW",
+      "name": "BBQ JUICY CHICKEN BREAST!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CsSCwgLgLeq",
+      "name": "ONE PAN MEDITERRANEAN GNOCCHI!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions parmesan"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CsFNBTwAG9Y",
+      "name": "BAKED FETA AND COUSCOUS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cr8bGlAgRNf",
+      "name": "SHAVED FENNEL AND STRAWBERRY MEDITERRANEAN SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Crek-0VASFF",
+      "name": "GREEN FALAFEL!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CrZXILAgGjP",
+      "name": "FAMILY STYLE CHEESE BOUREKAS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CrTx444AkUK",
+      "name": "MAKE YOUR OWN FANCY LUNCH!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CrQ9eCYggtW",
+      "name": "ROASTED EGGPLANTS WITH HERBY TAHINI!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CrMqwJLARGO",
+      "name": "GRILLED OKRA AND VINE TOMATOES!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cq86W5-gqCy",
+      "name": "ZUCCHINI WITH FETA AND SUMAC ONIONS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CqomCwbAsnB",
+      "name": "MAYONNAISE POTATO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CqQ6wcwgesp",
+      "name": "SHAKSHUKA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CqL0qRtg1Zw",
+      "name": "SHAWARMA CAULIFLOWER STEAKS WITH TURMERIC TAHINI!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CqJnjNygGu2",
+      "name": "BEET AND PISTACHIO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CqHA_cAALdM",
+      "name": "RATATOUILLE STYLE VEGGIE STEW!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CqEdz5uAdeY",
+      "name": "ROASTED BROCCOLI WITH JALAPEÑO TAHINI!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cp0-ZvRAAC1",
+      "name": "CAULIFLOWER TABBOULEH!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CpyIL4TAAD3",
+      "name": "CHICKPEA AVOCADO TOAST!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CptOqzsg5CY",
+      "name": "SUMAC GRILLED STRAWBERRIES!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CplycX6AhwS",
+      "name": "ZUCCHINILICOUS SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CpdwD5og4wy",
+      "name": "MAKLUBA- IRQI RICE",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CpaqoCxA1Vf",
+      "name": "ONE PAN MOROCCAN COUSCOUS AND SQUASH!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CpV6dklO3k0",
+      "name": "ROASTED PEPPERS SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CpThJtEgYzF",
+      "name": "ROASTED EGGPLANT BOATS WITH FRESH CHICKPEA SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CpOSYRrg6K1",
+      "name": "ROASTED CAULIFLOWER STEAKS OVER SUMAC YOGURT!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CpAP0reIt9p",
+      "name": "DELICIOUS BAKED POTATO SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CovogIMgYon",
+      "name": "Comforting Coleslaw Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CoLUaAqAwQf",
+      "name": "Chicken Breast With Onion Jam!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CoIwrPsgusQ",
+      "name": "TURMERIC RICE AND CAULIFLOWER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CoGS5nrgmWc",
+      "name": "GRILLED VEGGIES AND FETA CHEESE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CoD2HGlAbuX",
+      "name": "ROASTED FENNEL OVER HUMMUS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CoA8RD-g4Ji",
+      "name": "MOZZARELLA WITH PESTO AVOCADO CREAM",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cn709Cogyc8",
+      "name": "SHAWARMA SPICED SALMON!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CnzyClRJiaB",
+      "name": "ONE PAN LEMONY TURMERIC CHICKPEAS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CnpaW1cIRRU",
+      "name": "Harissa Chicken and Potatoes!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CnipeHyI_Di",
+      "name": "SHAWARMA SPICED GRILLED CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CnasCLdK-d3",
+      "name": "ORANGE CAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CnQSwHLqgUY",
+      "name": "RED CABBAGE STEAKS OVER TAHINI YOGURT!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CnK9zOEI873",
+      "name": "SWEET POTATOES WITH A SECRET INGREDIENT!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CnDMBtzKZvp",
+      "name": "Citrus Marinated Chicken Thighs!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CnAbWnAI2mN",
+      "name": "SUMAC -TAHINI ROASTED CAULIFLOWER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cm-aNJ6qvQo",
+      "name": "BASMATI RICE STUFFED PEPPERS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cm7fwLkqnCL",
+      "name": "MUSHROOM FRITTATA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CmuiKhHI8SD",
+      "name": "Cabbage Salad with Zaatar Panko Crumbs!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cmpmyy6I3rv",
+      "name": "ROASTED CORN AND ZUCCHINI !",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CmkMsuDKEQ0",
+      "name": "MEDITERRANEAN BAKED PASTA!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CmfZVY6IBwS",
+      "name": "CAST IRON CAULIFLOWER PIE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "heavy cream",
+        "feta",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CmX0Auog8Vf",
+      "name": "BAKED COD WITH SUMAC CRUST!",
+      "tag": "dairy",
+      "fish": true,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CmUf_RSAGw1",
+      "name": "CAST IRON LATKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CmK2l0jgy4o",
+      "name": "CAST IRON ZUCCHINI PIE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "heavy cream",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CmIXQelA4Yk",
+      "name": "One Pan Chicken Dinner!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CmFjwbUAGNq",
+      "name": "ROASTED EGGPLANTS WITH AVOCADO CREAM!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CmCjLkvgvu0",
+      "name": "SWEET SEMOLINA PORRIDGE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CmADwBcgCQH",
+      "name": "CHOPPED SALAD WITH FETA CHEESE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cl97jrBAYiW",
+      "name": "LIME CILANTRO SAUCE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cl7fErggKAT",
+      "name": "HANUKKAH VIBES!!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cl4y2oegItA",
+      "name": "ZAATAR ROSTED BRUSSELS SPROUTS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Clt4WVjgu1i",
+      "name": "ROASTED EGGPLANTS OVER GREEN YOGURT TAHINI",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ClpYY14A8ff",
+      "name": "SCHNITZEL TIME!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Clm6IhUANNF",
+      "name": "CHICKPEA AND TOMATO CHILI!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ClkSFvmgDfi",
+      "name": "ONE PAN MEDITERRANEAN SALMON!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Clhz34hg3bv",
+      "name": "HONEY MUSTARD ROASTED CABBAGE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CleGoung5E5",
+      "name": "HOMEMADE TORTILLAS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ClXdz6lAejP",
+      "name": "BUTTERY POTATO CASSEROLE!!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ClRWjy1gAOW",
+      "name": "MEDITERRANEAN BAKED COD!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ClMLZLWAyaL",
+      "name": "MY DADS TAHINI ENERGY SNACK!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ClJ9DmMpF5K",
+      "name": "CHICKPEAS AND SWISS CHARD OVER YOGURT!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ClFK7vPAO3V",
+      "name": "CRANBERRY JAM WITH A TWIST!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ClCr5PrghyR",
+      "name": "ROASTED CAULIFLOWER WITH FETA DRESSING!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ck_6bs3A0UR",
+      "name": "FENNEL AND PERSIMMON SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ck64XeLA01T",
+      "name": "BAHARAT BUTTERNUT SQUASH SOUP!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ck4AhmRA_VC",
+      "name": "AVOCADO EGG SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ckv5siqgSdd",
+      "name": "HARISSA HONEY GRILLED CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cko6IhGA2Ka",
+      "name": "ZUCCHINI AND FETA CHEESE PIE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "mozzarella",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CkiZ89PgQnL",
+      "name": "ZAATAR GOLDEN BEETS AND POTATO!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CkUDnJepLRm",
+      "name": "MEDITERRANEAN BAKED FETA AND TOMATO!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CkPErKvJikR",
+      "name": "BUTTERNUT SQUASH KEBABS!!!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CkG1b_Mp7Vu",
+      "name": "ZANGULA-  Iraqi Spiral Fried Dough!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CkBr4_hAPt3",
+      "name": "MY ALL TIME FAVORITE SALAD!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cj_spFMAFFN",
+      "name": "GRILLED FLANK STEAK!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cj6f2VsguYq",
+      "name": "ROASTED NAPA CABBAGE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CjyMHzIAHqy",
+      "name": "HERBY ROASTED EGGPLANTS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CjlwtSuJEnB",
+      "name": "ROASTED FALL VEGGIES",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CjjA1eVJ8ih",
+      "name": "AROMATIC FREEKEH PILAF!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CjYQa7oAUJ5",
+      "name": "HONEY-THAINI BROCCOLI SALAD!!!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CjLVfu3ALCe",
+      "name": "MELT-IN-YOUR-MOUTH CABBAGE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CjBRxHRA8dH",
+      "name": "My Kids Favorite Tomato Pasta!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ci3YHISpDhF",
+      "name": "FAMILY STYLE CHEESH BOREK!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ci0NzgvgPq-",
+      "name": "Just to be honest its the first time I am making a salad with KALE!! I fell in love",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cixlf_4A7mC",
+      "name": "ONE PAN TURMERIC CHICKEN & POTATOES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CitMgvegr9g",
+      "name": "Dont miss out this HARISSA HONEY ROASTED LEEK & SQUASH !",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CipzaQTAD97",
+      "name": "OREGANO LEMONY ROASTED CAULIFLOWER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CilZhfnpW5a",
+      "name": "CHOCOLATE BRIOCHE ROSES CAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CigSAz2JQnU",
+      "name": "HONEY MUSTARD SMASHED POTATOES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CibFw4MJGhG",
+      "name": "Roasted Butternut Squash With Honey Tahini Dressing!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CiNkBLCAOGI",
+      "name": "Baharat Baked Chicken and Rice!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CiDPY7vgC_e",
+      "name": "ROUND PESTO CHALLAH!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ch-wmFNp-_5",
+      "name": "ROASTED RED CABBAGE OVER BEET TZATZIKI!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ChswR5GgQ8b",
+      "name": "Juicy Lemony Chicken Kebabs!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ChnYSnHgaac",
+      "name": "MEDITERRANEAN TOMATO CONFIT",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Chc2COBg-fK",
+      "name": "Juicy Meatballs With Ras El Hanout!  RECIPE",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Chal3Gegklm",
+      "name": "MEDITERRANEAN EGGPLANT AND OLIVE SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ChSuvhiJhKd",
+      "name": "Meatless Monday Calls For Shakshuka!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cg2bh2eosEF",
+      "name": "WHOLE ROASTED CAULIFLOWER with Mustard- Honey dressing",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CgsMr_coJDO",
+      "name": "CHEESE SAMBUSAK",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "feta",
+        "mozzarella",
+        "cheddar",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CgkOZ0KojqM",
+      "name": "NO MESS SCHNITZEL",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CgVOCbAgf3-",
+      "name": "FILLO TART WITH ROASTED PEPPERS AND MOZZARELLA",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CgSOIy6gIwy",
+      "name": "AVOCADO HALLOUMI SALAD",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "halloumi",
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CgLANweAWAT",
+      "name": "SAVORY MOZZARELLA CORN MUFFINS WITH NIGELLA SEEDS",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CgAgiCeg3w0",
+      "name": "ISRAELI COUSCOUS SALAD",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cf7MdxlgoQw",
+      "name": "CHILDHOOD STUFFED PEPPERS",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cf2ONW2pRvj",
+      "name": "EGGPLANT FAN WITH TURMERIC TAHINI",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CfzkussJ7P6",
+      "name": "KOHLRABI CARPACCIO",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CfrIl6hgxDA",
+      "name": "BEEF KEBABS With a SECRET INGREDIENT",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CfKhFibA0Hc",
+      "name": "MEDITERRANEAN CHICKPEA CHILI!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CfFcqgVgqDC",
+      "name": "ROASTED CAULIFLOWER WITH GREEN TAHINI!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ce4svhoAzNR",
+      "name": "Fennel and Strawberry Summer Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CezMWOrgxK9",
+      "name": "PIZZA PITA!!!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CexBp-3g_Z3",
+      "name": "Winner Winner Chicken For Dinner!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CeuKK7xADOO",
+      "name": "CEDAR PLANKED BBQ SALMON!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cer566dg5Pl",
+      "name": "ROASTED POTATOES & TOMATOES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CekCdfvgM82",
+      "name": "SPICY ROASTED EGGPLANTS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CehdbeSgOvN",
+      "name": "Whats for dinner ZUCCHINI FRITTATA!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream",
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CeefANMJT8c",
+      "name": "FRESH CORN SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CecTjMEA5TU",
+      "name": "TAHDIG RICE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CeZqobCJqmY",
+      "name": "Cheese Stuffed Eggplants!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "ricotta",
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CeUcQL6JtPC",
+      "name": "RED CABBAGE AND BEETS SALAD!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CeSCCyFAba2",
+      "name": "My kids asked for STIR-FRY!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CePazZHg3Kg",
+      "name": "EGGPLANTS AND CREMY FETA! YES!!!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta",
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cd_-nk2AD_L",
+      "name": "HOMEMADE HEALTHY ENERGY SNACK!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cdysd5mA5gq",
+      "name": "CABBAGE & CUCUMBER SALAD WITH AVOCADO DRESSING!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CdwVwZ_gIOU",
+      "name": "ROASTED POTATOES WITH ZAATAR!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cdt124jp0a8",
+      "name": "MY KIDS FAVORITE PASTA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CdrjFLwgWEj",
+      "name": "JUICY CHICKEN OVER POTATOES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CdoYKLmJSEN",
+      "name": "MUST SAVE- EGG NOODLES AND RICE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cdbsdx7pUjc",
+      "name": "MUST SAVE- TAHINI BROCCOLI SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CdYuBJQgroe",
+      "name": "YOU ASKED FOR IT!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CdTv_IUgy5f",
+      "name": "Happy and Sweet Mothers Day!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CdQ57CcgWk5",
+      "name": "THIS MAKES ME HAPPY!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CdMetX3g7fc",
+      "name": "If you ask my daughter Noa, this is the best kebabs ever!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CdEwGNLA3_J",
+      "name": "ONE PAN meatlessmonday !",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cc3eJmigcCg",
+      "name": "JUICY GRILLED SALMON!!!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CctkGMap8Bg",
+      "name": "BEST PITA BREAD!!!RECIPE",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CcnaXopg8KO",
+      "name": "NUTTY APPLE CRUMBLE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cciqr8rgr7I",
+      "name": "ALMOND COCONUT GF COOKIES! RECIPE",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CcgInkUggQ3",
+      "name": "CHOCOLATE RICE PUFFED TREATS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CcdkOTWALLT",
+      "name": "SWEET MINI MATZAH BREI!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CcWl6jJA7qi",
+      "name": "3 Hours Of Chuck Roast!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chuck"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CcLGK3luCUq",
+      "name": "GLUTEN-FREE - DAIRY FREE APPLE CAKE!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cb_KcKDgxYG",
+      "name": "BEST CHICKEN EVER!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cb5pYLDAxbz",
+      "name": "EGG SALAD & GOLDEN BEETS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cb3IPSCg9mp",
+      "name": "Eggplants Kebabs Casserole!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cbvbhvkg-0w",
+      "name": "One-Bowl Bundt Cake!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CbspENagMHC",
+      "name": "ISRAELI SPRING SALAD!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CbqNWXZg76o",
+      "name": "Easy Creamy Tomato Pasta!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CbgGURSARYJ",
+      "name": "CARDAMOM PECANS COOKIES!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CbdTpMzAxwl",
+      "name": "LOVE YOUR LIFE & EAT APPLE CAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cba4FKNgyrE",
+      "name": "Quick and Delicious Chicken Shawarma!  RECIPE",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CbGHURXgqll",
+      "name": "CREAM BRÛLÉE",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Ca5wCNKgDh0",
+      "name": "SAVORY CHEESE CORN MUFFINS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CayA9W9gUY4",
+      "name": "MY DADS TURMERIC RICE!!!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cam-oDtA6f2",
+      "name": "BUTTERNUT SQUASH SOUP!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions butter, pecorino"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CafbNNKA7P1",
+      "name": "ZANGULA- A Sweet Iraqi Spiral Fried Dough! One of my childhood favorite PURIM dessert!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CaZaWh0AMGK",
+      "name": "Hamantaschen- Oznei Haman!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream",
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CaFvCU1JlAP",
+      "name": "MOM, I AM HUNGRY!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CZxYN_1J2tR",
+      "name": "SPECIAL B-DAY DINNER FISH SHAWARMA!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CZf3fEVIPqE",
+      "name": "Warm Freekeh Salad Recipe!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CZaOcUKoPxs",
+      "name": "Baked Zucchinis Swirls!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CZXlHXuokEP",
+      "name": "Banana muffins!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CZVq6gjofRP",
+      "name": "PIZZA NIGHT!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CZNJyrNKhCM",
+      "name": "CHOPPED BROCCOLI SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CZKegMuIvqb",
+      "name": "Golden Roasted Cauliflower!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CZH8eg6oHPH",
+      "name": "KEBABS WITH CHICKPEAS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CY7p2HpI6zH",
+      "name": "Wait what SALMON DINNER in 10 minutes!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CY5L-34oa_K",
+      "name": "ORANGE CHOCOLATE CAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CY2gJVuKySU",
+      "name": "CHICKEN SHAWARMA!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CYzGfVMrVYT",
+      "name": "Harissa Apricot Roasted Chicken!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken",
+        "drumsticks"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CYrsk2QIbCH",
+      "name": "ORZO WITH RAISINS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CYpxp5so64R",
+      "name": "Turmeric Lemony Cauliflower Stew!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CYfTKZsorZ8",
+      "name": "Split Pea Soup!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CYXp9tzISrw",
+      "name": "Chocolate Ganache Bundt Cake!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "sour cream",
+        "milk",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CYSeREDKSrU",
+      "name": "Special treat for all the vegetables lovers!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CYH1DcJITHN",
+      "name": "Pan Pita with 3 Ingredients!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CYEnv1mItCU",
+      "name": "Aebleskivers Danish Pancakes!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "ricotta",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CXwikBqJI5v",
+      "name": "Honey Mustard Grilled Salmon!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CXrzX3igZJZ",
+      "name": "BUTTER PECAN COOKIES!!!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CXmnmJpg7xr",
+      "name": "Friday Dinner- Spatchcock Chicken!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CXj_vQrAIdr",
+      "name": "Roasted Pepper Mediterranean Salad!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CXcVsCLAHD4",
+      "name": "Whats For Dinner - Honey Thyme Chicken Tenderloin!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CXKRYX0AU4A",
+      "name": "BLOOD ORANGE UPSIDE DOWN CAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "ricotta",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CXE0cBbp1hM",
+      "name": "EGGPLANT LOVERS - THIS IS FOR YOU!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CW_1DYZg41P",
+      "name": "Crispy Potato Roses!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CW7LAykgssr",
+      "name": "PIZZA BOUREKAS!!!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CW4Lr-AL6Pt",
+      "name": "Latkes Full Of Love!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CW0uXIGA7dt",
+      "name": "Double Chocolate Waffle Brunch!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CWmbw_ygOtt",
+      "name": "GUILT FREE SUFGANIYOT!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "sour cream",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CWi7bwyAueH",
+      "name": "Hanukkah Potato Latkes!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CWZY-S1gC2g",
+      "name": "Mediterranean roasted Delicata squash",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CWOqsZVJF-e",
+      "name": "TURMERIC RICE PILAF WITH DRIED FRUIT!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CWEjelDrQLq",
+      "name": "Quick Mini Apple Doughnuts!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CViymfMpRmv",
+      "name": "Winner Winner Crispy Schnitzel!!!!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CVf7exopQHg",
+      "name": "Dreamy Maple Pear Cake!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "sour cream",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CVdVE4FrNxY",
+      "name": "Vegan Pesto Pasta!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CVagAkoAtEi",
+      "name": "HOMEMADE GARLIC NAAN",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CVYBBtagK1J",
+      "name": "OMG you need to make this!!!!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CVEiDu1AcY_",
+      "name": "FALL COLORED ROASTED PEPPERS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CUp0_GIg41u",
+      "name": "KEBABS WITH A TWIST!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CUdeXNjrChc",
+      "name": "Tiny Twirls of Goodness!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CUYYtu1g87x",
+      "name": "Whats for dinner on a rainy day MEATBALLS!!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "ground meat"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CUVlS9lJVoH",
+      "name": "Its always a good time for Shakshouka!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CUQPJjmgjXr",
+      "name": "Saturday Morning- Savory Muffins!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CUJNTfys7eJ",
+      "name": "HAPPY FIRST DAY OF FALL!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions butter, pecorino"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CT8EmzUgPJ2",
+      "name": "APPLE RICOTTA CAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "ricotta",
+        "milk",
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CT0dUeOA19a",
+      "name": "Chocolate Rolled Cookies!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "sour cream",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CTxjJ1gpYpf",
+      "name": "BUTTER VANILLA MERINGUE COOKIES!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CTkzjwkHqL4",
+      "name": "QUICK  EASY HONEY GARLIC SALMON SKEWERS!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CTYAUkQnSYY",
+      "name": "CRISPY MINI BAKLAVA!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CTOCsC4Hm1C",
+      "name": "CHICKEN THIGHS WITH PEAS & CELERY!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CS7m9pUHwgn",
+      "name": "LETS  COOK TOGETHER !!!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CSw3UA6n9xb",
+      "name": "BLUEBERRY JAM LOVERS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CSt7s4ZHaFa",
+      "name": "HONEY BLUEBERRY MUFFINS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "sour cream",
+        "heavy cream",
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CSPp2x9HFzb",
+      "name": "Cardamom Plum Tarte Tatin!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CSKqyKfnOqj",
+      "name": "Tahini Broccoli Tabbouleh Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CR7xAeBHy2z",
+      "name": "Savory Spring Onions Tart!!!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "cottage",
+        "mozzarella",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CRwXjBcnX-4",
+      "name": "KEBAB MEATBALLS",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CRkjBVmH6tZ",
+      "name": "Fresh Cherry Tomatoes With Basil Infused Oil!!!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions cheese"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CRh8hUAn7WF",
+      "name": "3 INGREDIENTS RICE RECIPE!! This rice dish is so yummy and super easy to make!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CRaMM6Vn-BE",
+      "name": "Caramelized Sweet Potatoes and Chickpeas!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CRSZSqAH-qF",
+      "name": "HONEY MUSTARD SALMON FOR DINNER!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CRM3NWvnSpG",
+      "name": "IRAQI RED RICE that you cant stop eating!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CRHNRzxn5ju",
+      "name": "Focaccia Everyday!!!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions goat cheese"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CRFoLfUnR5T",
+      "name": "VEGGIES FRITTERS",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CQ67CkZH5A2",
+      "name": "Happy Birthday America!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "sour cream",
+        "heavy cream",
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CQzTrbmHO1c",
+      "name": "Summery, Buttery Almond Nectarine Cake!!!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CQpRiiJHwg3",
+      "name": "Mini kebabs with chickpeas!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CQHt5pTHOUd",
+      "name": "Homemade Honey Nut Granola!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions yogurt, butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CP4Fid2nNmi",
+      "name": "Crispy Smashed Potatoes With a Secret Ingredient!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CPygj5JHHs1",
+      "name": "HALVA BROWNIES BITES!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CPmfMq2ngPp",
+      "name": "Semolina Strawberry Chocolate Muffins! dairyfreedessert",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CPTmiaxHQ1B",
+      "name": "Gluten- Free stuffed creamy zucchinis!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CPRjDoSHAIj",
+      "name": "Spring Lemony Freekeh Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CPGejobnW60",
+      "name": "Mini Cheese Zaatar Bourekas!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CO6g73tHVZq",
+      "name": "Beets On Spiced Labane Cheese!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "labane"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "COtfvyOnjvW",
+      "name": "Tonights Dinner - Grilled Salmon!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "COoWCUyHlgE",
+      "name": "No-Bake Mascarpone Cheesecake!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "whipping cream",
+        "mascarpone",
+        "yogurt",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "COeQFq2nflG",
+      "name": "ROASTED EGGPLANT CAPRESE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "COGv_I0nG5B",
+      "name": "BIG ANNOUNCEMENT",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CN3eW0THV4w",
+      "name": "Israeli National Food - FALAFEL IN A PITA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CNqYhyAnCX9",
+      "name": "The cake that always makes me happy!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CNgHO-Yn-8p",
+      "name": "Halibut Shawarma with Green Tahini!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CNVLOTtHunB",
+      "name": "Mozzarella and Feta Cheese Börek!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CNGu4OPHeic",
+      "name": "Potatoes & Fresh Herbs Siniya! VEGAN DISH!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CNBJNdyHTlV",
+      "name": "Cinnamon Maple MINI MATZAH BREI!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CM26HSeHRHm",
+      "name": "Flourless Chocolate Coconut Cake!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CMnId6Inglo",
+      "name": "Lemony Chicken Meatballs!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CMfQ2Htn5cQ",
+      "name": "3 INGREDIENTS ORZO RECIPE!!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CMdXNOgnUra",
+      "name": "ROASTED BEET SALAD WITH HALLOUMI!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "halloumi"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CMYV2Flnd_w",
+      "name": "Pull-Apart Cheese Bourekas!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CMQziDgHjYC",
+      "name": "My Favorite Roasted Eggplant Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CMLHsaCHw2z",
+      "name": "Mini Knotted Rolls! Fluffy with a yummy sesame crust and super easy to make!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CL8OBSXHHBn",
+      "name": "Mujadara- Green Lentils and Rice with Lots of Caramelized Onions!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CL29_A7HLea",
+      "name": "Whats for dinner Juicy Kebabs & Oven Potato Fries!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CLvQxGSHHfs",
+      "name": "Chocolate Rolled Cookies!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CLctNKxndFQ",
+      "name": "Banana and Chocolate Chips Muffins!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "sour cream",
+        "heavy cream",
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CLaRWbYnvxC",
+      "name": "Feta Madness No Problem  Shakshuka with Feta Cheese is a win-win!!!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CLPysY0HA46",
+      "name": "Cast Iron Challah French Toast!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "heavy cream",
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CLLKYVHHF2p",
+      "name": "Chocolate Chip Buns! They are soft, pillowy, and loaded with chocolate chips",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CK7wiK2nFhg",
+      "name": "One of my weaknesses is definitely apple desserts!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CK12po4nFrs",
+      "name": "Date Glazed Kebabs & Potatoes!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "ground meat"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CKxgV9In_MD",
+      "name": "Blood Orange Winter Loaf Cake!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CKsS8J1nF7k",
+      "name": "Mozzarella Corn muffins!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CKnJwdUnfPh",
+      "name": "Roasted Cabbage & Fennel!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CKfSs5ZnSRz",
+      "name": "Raspberry & Walnut Rugelach!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CKVLnANHS30",
+      "name": "ISRAELI BOUREKAS - puff pastry filled with mashed golden potatoes and caramelized sweet onion spiced",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CKKLmkiH1KC",
+      "name": "CITRUSY GOLDEN BEET SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CKH6dILH5t5",
+      "name": "Today was a rainy day here in Boston and I was in a mood for soup!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions butter, parmesan"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CKDBAz9Hsb9",
+      "name": "EASY SAVORY CORN MUFFINS!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CKAnmC2Hzs_",
+      "name": "CHOCOLATE TAHINI SWIRLS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CJ42jsFHbBA",
+      "name": "Baked Zucchinis Swirls!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CJuVuY7HLDQ",
+      "name": "WINNER WINNER SCHNITZEL DINNER!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CJmqHiUnO5X",
+      "name": "Honey Glazed Brussels Sprouts and Broccoli",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CJcXtt6HHUJ",
+      "name": "Double Chocolate Cookies for a Sweet Day!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CJZ6FctHPBM",
+      "name": "SIZZLING CHICKEN SHAWARMA!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CJFT-GxH68t",
+      "name": "Sesame Seeds or Poppyseeds Whats your favorite",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CJCYQjOnnCx",
+      "name": "Yummy Meatballs With Butternut Squash!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "ground meat"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CI9dKhTn3tB",
+      "name": "Yukon Gold Crispy Potato Roses!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CI4XeJ1nWqm",
+      "name": "HUMMUS YUMMY HUMMUS - One of my most favorite foods in the world! This simple and smooth hummus topp",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CI19JYyH4xU",
+      "name": "Grilled Zucchini with Lemony Garlic Tahini Dressing!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CIzSeGlnTLj",
+      "name": "Sweet and Spicy Crispy Cauliflower!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CIv6KOGnrmG",
+      "name": "Gluten Free - Dairy Free Pears and Chocolate Cake!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CIt4d5Fnsi7",
+      "name": "I have a special love for beets! These slow roasted beets on a salt bed taste like heaven!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CIo1rLHHvsX",
+      "name": "Hanukkah Potato Latkes!  Made with a LATKE of love!!! yummy potato fritters that can be fried or bak",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CIjzx-ln5Gh",
+      "name": "GUILT FREE HOME POTATO FRIES!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CIW3CL2HchT",
+      "name": "Chocolate Coconut Bombs!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CIUP2YOn0Iy",
+      "name": "Everything Bagel Citrus Salmon!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CIRrUSRHhki",
+      "name": "ARUK - Herb & Potato Patties!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CIL4vILnlhw",
+      "name": "Are you a Shakshuka Fan Save this recipe!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CICKYX1nwZT",
+      "name": "CHUCK ROAST STEW WITH CHESTNUT!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chuck"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CH8TQQGHrpP",
+      "name": "Savory Pastries are so YUMMY!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "mozzarella",
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CHyeArsnAtP",
+      "name": "CHOLENT- CHAMIN is a traditional Jewish slow-cooked stew perfect for these cold days!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chuck"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CHvs2Q-nbz2",
+      "name": "So cold here in BostonBrrrrr! All you need is a bowl of creamy fallsoup to warm you up! Recipe below",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CHrGw1Lnz7z",
+      "name": "ROASTED CAULIFLOWER AND KOHLRABI WITH FETA CHEESE AND LEMON-PARSLEY DRESSING! SO YUMMY!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CHnxqAIn9TN",
+      "name": "Autumn On A Plate RICE PUDDING!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CHjU_NbHXdm",
+      "name": "Spiced Mediterranean Meatballs!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "ground meat"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CHT1esBnTA7",
+      "name": "Mediterranean Style Stir Fry!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "sirloin"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CHRahR6HoqY",
+      "name": "My Friday night tradition - Spicy Fish!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CHOpUjFnFok",
+      "name": "GREEN TAHINI ROASTED BOK CHOY!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CHMbR8DnGei",
+      "name": "One Pot Farro, Chicken & Chickpeas Meal!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CHD36ufnWra",
+      "name": "Zaatar & Feta Cheese Pull-Apart Swirls!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CGvL_BcH_9T",
+      "name": "SPIRAL CHEESE BOUREKAS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella",
+        "feta",
+        "cottage"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CGYkgs9nfnc",
+      "name": "CAST IRON PAN-ROASTED CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CGONCpQHHPZ",
+      "name": "Honey Glazed Carrots with Mint Tahini!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CF4b6c9Hb_U",
+      "name": "Oven Roasted Chicken on Veggies!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CFvSzuhnM40",
+      "name": "Broccoli Tabbouleh with Cashews, Herbs and Tahini- Honey Dressing! Its going to be your favorite sal",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CFnjhm-HZbJ",
+      "name": "Its Pumpkin season and I love it!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CFkl2DHHlzc",
+      "name": "Fennel and Pomegranate salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CFdeHDuHFNg",
+      "name": "Swiss Chard and Eggplant! Perfect Pair",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CE5CcaHDZSI",
+      "name": "Step by step how to make your perfect",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chuck"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CEhjbb1goKj",
+      "name": "Simple food at its best! Stir fry Sunday!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CEZl_0uAcFc",
+      "name": "Rice Pudding with Figs and Honey!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CERn2btgBUU",
+      "name": "Blackberries Picking is so much fun!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "sour cream",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CEFvDA0j1TL",
+      "name": "Glazed Chicken Skewers with Veggies!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CEC66CRg6i4",
+      "name": "Honey Glazed Rainbow Carrots!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CD_6k1RD-sW",
+      "name": "Birthday Pancakes for the Birthday Girl! Sweet Noa we love you so much! You are the sunshine of our ",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CD458j8jygk",
+      "name": "Fried Cauliflower with Tahini!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CDrhKVDAsBB",
+      "name": "Cheese Fritters! 5 minutes recipe!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cottage",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CDhLI70gr4T",
+      "name": "3 ingredient Red Pasta!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CDHT4hkAao7",
+      "name": "My kind of Mezze! CharBroiled Eggplant & Red Peppers with Feta and Zaatar!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CDE1nSMjeuH",
+      "name": "Warm Chocolate Rugelach for a Sweet Weekend !",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CC9rJmWAzA9",
+      "name": "Roasted Red Cabbage Salad with Green Herbs! It is so good and its vegan !",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CC7Fy99jPvq",
+      "name": "Iraqi Red Rice",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CC1wyUsDA-d",
+      "name": "FROZEN SACHLAV & FROZEN PITAYA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCpRrUsAAYj",
+      "name": "Roasted Beets with Almond Garlic Purée! nondairy vegan !",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCojW4TgEYA",
+      "name": "Homemade Pickles with Dill and Garlic!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCmLdRsDTqG",
+      "name": "Pears,Tahini and Chocolate Muffins! Baking is fun with my little helper",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCjR-AJDO5z",
+      "name": "Challah French Toast! So yummy!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CBwQft-jbIm",
+      "name": "Oven roasted Beets and deep fried Swiss Chard, topped with crunchy homemade garlic rye bread crouton",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CBtv5hFgyZ_",
+      "name": "Homemade Naan on a pan with Chickpea chutney and broiled Cauliflower",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CBoxrtQjJKG",
+      "name": "This time on Fish Friday- Halibut meatballs with spicy tomato sauce and fresh cilantro! fishdish",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions meatballs"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CBjEGoCjrWI",
+      "name": "Roasted cauliflower & cabbage with green tahini",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CBgR4O0A2aa",
+      "name": "Turmeric Rice with fennel",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CBbvLuRgh6u",
+      "name": "Whats for dinner",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CBRGqnggYAu",
+      "name": "Maple Pear Cake!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CBMO_j4jUb9",
+      "name": "Winner winner chicken dinner! Always a BIG hit with my family",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CBJyQ_HjPMq",
+      "name": "Halibut Shawarma topped with tahini, sumac and green herbs!  recipe below",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CBERuXhjiPJ",
+      "name": "Welcoming the weekend with some heat",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CA8yB7QDm6T",
+      "name": "Whats the secret to unbelievably juicy meatballs  Recipe below",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "ground meat"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CA561aijLzG",
+      "name": "Chocolate fudge gluten free cookies",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CAa9xZGgefk",
+      "name": "Orzo for lunchtime!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CAWP-5GA_iq",
+      "name": "Green Spicy Zhoug!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CALhkpmAzPv",
+      "name": "Chicken tenderloin in cast iron pan, with thyme, lime and garlic",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CAIrVLOg1G3",
+      "name": "In a mood for Zaatar!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CAG1KI9AH70",
+      "name": "Stuffed Peppers- פלפלים ממולאים",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CAEDlptgdvJ",
+      "name": "Homemade Burgers for the Birthday Boy!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CAAVtOzgiyR",
+      "name": "Roasted Fennel bulbs with lemon, garlic and dill!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "B_yFxF9AfD8",
+      "name": "Eggplant with Sumac ,Cilantro & salsa",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "B_vG_aAjyzz",
+      "name": "Shakshouka",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "B_s_Lrhg6ex",
+      "name": "Beef Kebab with sumac onions and lots of Tahina on top! Delish!  On top of the kebab -",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "B_iTt41gnlq",
+      "name": "Todays dinner Chuck Roast",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chuck"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "B_dbrx5Ds_x",
+      "name": "Copped broccoli and red onions salad",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "B_a052ogidO",
+      "name": "Chuck Roast in the oven",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chuck",
+        "meat"
+      ],
+      "confirmed": false
+    }
+  ]
+}

@@ -665,6 +665,117 @@ function buildExamples(originals, cleaned, merges) {
   return examples.slice(0, 5);
 }
 
+// A repost that Ruhama gave a new title ("MY MOST VIRAL RECIPE OF 2025") keeps
+// the ingredient list word for word, so the title rule above never pairs it.
+const MIN_REPOST_INGREDIENT_LINES = 4;
+const REPOST_METHOD_CONTAINMENT = 0.8;
+const PROMO_TITLE = /\b(my|your|our|me|i|its|it's|this|that|you|favou?rites?|viral|popular|demand|repeat|of the year|20\d\d|because|what can|as a mom|comfort food|happy|national|for all the|lovers|all about|magic|winning|again|lunch|secret|famous|queen)\b/gi;
+
+function ingredientListKey(lines) {
+  const keys = (lines || [])
+    .map((line) => String(line).toLowerCase().replace(/[^a-z0-9]+/g, " ").trim())
+    .filter(Boolean);
+  return keys.length >= MIN_REPOST_INGREDIENT_LINES ? keys.join("\n") : null;
+}
+
+function methodTokens(recipe) {
+  const words = instructionLines(recipe.instructions).join(" ").toLowerCase().match(/[a-z]{3,}/g) || [];
+  return new Set(words);
+}
+
+function promoScore(recipe) {
+  const name = String(recipe.name || "");
+  return (name.match(PROMO_TITLE) || []).length + (titleNeedsRepair(name) ? 2 : 0);
+}
+
+// Instruction entries that still hold a pasted caption or a whole ingredient
+// block read badly in a card and in the chatbot's answers.
+function messyMethodLines(recipe) {
+  return (recipe.instructions || []).filter(
+    (line) => /\n/.test(String(line)) || /^(recipe|ingredients?)\b/i.test(String(line).trim())
+  ).length;
+}
+
+// A holiday in the title is how people search ("rosh hashanah brisket"), so a
+// copy that names one wins a tie over "HOLIDAY BRISKET!".
+const HOLIDAY_TITLE = /\b(rosh hashanah|yom kippur|sukkot|hanukkah|chanukah|tu bishvat|purim|hamantaschen|passover|pesach|shavuot)\b/i;
+
+function pickRepostKeeper(recipes, members) {
+  return [...members].sort((left, right) => {
+    const promo = promoScore(recipes[left]) - promoScore(recipes[right]);
+    if (promo !== 0) return promo;
+    const holiday = Number(HOLIDAY_TITLE.test(recipes[right].name)) - Number(HOLIDAY_TITLE.test(recipes[left].name));
+    if (holiday !== 0) return holiday;
+    const messy = messyMethodLines(recipes[left]) - messyMethodLines(recipes[right]);
+    if (messy !== 0) return messy;
+    return left - right; // newest first in the source list
+  })[0];
+}
+
+export function mergeRenamedReposts(recipes) {
+  const groups = new Map();
+  recipes.forEach((recipe, index) => {
+    const key = ingredientListKey(recipe.ingredients);
+    if (!key) return;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(index);
+  });
+
+  const methods = recipes.map((recipe) => methodTokens(recipe));
+  const dropped = new Set();
+  const merges = [];
+  const leftForReview = [];
+
+  for (const members of groups.values()) {
+    if (members.length < 2) continue;
+    const keep = pickRepostKeeper(recipes, members);
+    const same = [];
+    const unsure = [];
+    for (const index of members) {
+      if (index === keep) continue;
+      const eitherEmpty = methods[keep].size === 0 || methods[index].size === 0;
+      const overlap = eitherEmpty ? 1 : containment(methods[keep], methods[index]);
+      (overlap >= REPOST_METHOD_CONTAINMENT ? same : unsure).push({ index, overlap });
+    }
+    if (same.length > 0) {
+      for (const { index } of same) dropped.add(index);
+      merges.push({
+        kept: { name: recipes[keep].name, shortcode: recipes[keep].shortcode, index: keep },
+        dropped: same.map(({ index, overlap }) => ({
+          name: recipes[index].name,
+          shortcode: recipes[index].shortcode,
+          index,
+          methodOverlap: Number(overlap.toFixed(3))
+        }))
+      });
+    }
+    if (unsure.length > 0) {
+      leftForReview.push({
+        kept: { name: recipes[keep].name, shortcode: recipes[keep].shortcode },
+        alsoKept: unsure.map(({ index, overlap }) => ({
+          name: recipes[index].name,
+          shortcode: recipes[index].shortcode,
+          methodOverlap: Number(overlap.toFixed(3))
+        }))
+      });
+    }
+  }
+
+  merges.sort((a, b) => a.kept.index - b.kept.index);
+  return { merges, leftForReview, dropped };
+}
+
+export function dropEmptyPosts(recipes) {
+  const removed = [];
+  const kept = recipes.filter((recipe) => {
+    const empty = !(recipe.ingredients || []).some((line) => String(line).trim())
+      && !(recipe.instructions || []).some((line) => String(line).trim());
+    if (empty) removed.push({ name: recipe.name, shortcode: recipe.shortcode });
+    return !empty;
+  });
+  return { recipes: kept, removed };
+}
+
 export function cleanRecipes(recipes) {
   const originals = recipes.map((recipe) => structuredClone(recipe));
   let doubledWords = 0;
@@ -712,12 +823,15 @@ export function cleanRecipes(recipes) {
     });
   const revealed = clusterDuplicates(titled.map((item) => item.recipe));
   const titleFixes = [];
-  const kept = titled
+  const titledKept = titled
     .filter((_, index) => !revealed.dropped.has(index))
     .map((item) => {
       if (item.fix) titleFixes.push(item.fix);
       return orderRecord(item.recipe);
     });
+  const reposts = mergeRenamedReposts(titledKept);
+  const empty = dropEmptyPosts(titledKept.filter((_, index) => !reposts.dropped.has(index)));
+  const kept = empty.recipes;
   const examples = buildExamples(originals, kept, merges);
   const sectionHeadings = countSectionHeadings(kept);
 
@@ -763,6 +877,18 @@ export function cleanRecipes(recipes) {
           merges: revealed.merges
         }
       },
+      renamedReposts: {
+        clustersMerged: reposts.merges.length,
+        recordsRemoved: reposts.dropped.size,
+        rule: `Word-for-word the same ingredient list (${MIN_REPOST_INGREDIENT_LINES}+ lines) under a different title, and at least ${REPOST_METHOD_CONTAINMENT * 100}% of the method words shared. The copy kept is the one whose title reads most like a dish name, then one that names a holiday, then the one with cleaner steps, then the newest. Same ingredients with a different method are kept and listed for review.`,
+        merges: reposts.merges,
+        leftForReview: reposts.leftForReview
+      },
+      emptyPosts: {
+        recordsRemoved: empty.removed.length,
+        rule: "A post with no ingredient and no instruction lines is a photo or a story, not a recipe, and is removed.",
+        removed: empty.removed
+      },
       sectionHeadings,
       examples
     }
@@ -786,6 +912,12 @@ function main() {
     }
     if (report.titleFixes.count === 0 && previous?.titleFixes?.count > 0) {
       report.titleFixes = previous.titleFixes;
+    }
+    if (report.renamedReposts.recordsRemoved === 0 && previous?.renamedReposts?.recordsRemoved > 0) {
+      report.renamedReposts = previous.renamedReposts;
+    }
+    if (report.emptyPosts.recordsRemoved === 0 && previous?.emptyPosts?.recordsRemoved > 0) {
+      report.emptyPosts = previous.emptyPosts;
     }
   } catch {
     // no earlier report to keep
@@ -816,6 +948,9 @@ function main() {
     methodBleedRemoved: report.instructionSplits.methodBleedLinesRemoved,
     titleFixes: report.titleFixes.changes,
     titleDuplicatesRemoved: report.titleFixes.duplicatesRemoved,
+    renamedRepostsRemoved: report.renamedReposts.recordsRemoved,
+    renamedRepostsLeftForReview: report.renamedReposts.leftForReview.length,
+    emptyPostsRemoved: report.emptyPosts.recordsRemoved,
     sectionHeadings: {
       ingredients: report.sectionHeadings.ingredients,
       instructions: report.sectionHeadings.instructions,
