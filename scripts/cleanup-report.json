@@ -2585,8 +2585,8 @@
     "numberedStepLinesRemovedFromIngredients": 0,
     "numberedStepLinesAppendedToInstructions": 0,
     "numberedStepLinesAlreadyInInstructions": 0,
-    "emojiOnlyLinesRemoved": 1,
-    "linesWithEmojiStripped": 39
+    "emojiOnlyLinesRemoved": 0,
+    "linesWithEmojiStripped": 0
   },
   "instructionSplits": {
     "recordsSplit": 86,
