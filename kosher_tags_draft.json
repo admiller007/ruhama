@@ -2,13 +2,89 @@
   "note": "Draft guesses from ingredient lines. Not confirmed by Ruhama. Do not show as a kashrut ruling.",
   "generatedFrom": "src/data/recipes.json",
   "counts": {
-    "meat": 158,
-    "dairy": 177,
-    "pareve": 402,
-    "check": 35,
-    "fish": 33
+    "meat": 174,
+    "dairy": 198,
+    "pareve": 424,
+    "check": 40,
+    "fish": 36
   },
   "recipes": [
+    {
+      "shortcode": "Dfpikg1CTr1",
+      "name": "PTITIM (MAC)AND CHEESE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "heavy cream",
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Dfm7IFciJUk",
+      "name": "GOLDEN WHOLE ROASTED CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Dfip136CmiT",
+      "name": "LEMONY GREEN BEAN SALAD!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DfXbTMyiA4L",
+      "name": "JUICY LEMONY BASIL CHICKEN!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DfU5kc-Cnd5",
+      "name": "POTATO & CHEESE OMELETTE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DfSVoCEivTh",
+      "name": "FALL BARLEY SOUP!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DfDiK6SiqIY",
+      "name": "ONE-PAN KTZITZOT AND POTATOES!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "meatballs",
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DfAoTQOihz2",
+      "name": "SALAT AVOCADO!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
     {
       "shortcode": "DezODG1iNLy",
       "name": "ONE PAN GOLDEN ORZO & CABBAGE!",
@@ -123,6 +199,16 @@
       "confirmed": false
     },
     {
+      "shortcode": "Dc1MBGdi7yK",
+      "name": "APPLE AND HONEY BAKLAVA!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions butter"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "DczQ_X_i6Hl",
       "name": "GREEN HUMMUS!",
       "tag": "pareve",
@@ -205,6 +291,26 @@
       "confirmed": false
     },
     {
+      "shortcode": "DboRJEIigkZ",
+      "name": "ONE PAN CHICKEN POTATOS AND PEAS!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DbYTK6zOyVT",
+      "name": "FESTIVE BEEF STUFFED ARTICHOKE!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "beef"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "DbJmnOgCabX",
       "name": "SUMMER MEDITERRANEAN CHICKEN SKILLET!",
       "tag": "meat",
@@ -221,6 +327,16 @@
       "fish": true,
       "because": [
         "feta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Daxp5yRuCR7",
+      "name": "EVERYDAY APPLE CAKE!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "milk"
       ],
       "confirmed": false
     },
@@ -512,6 +628,14 @@
       "confirmed": false
     },
     {
+      "shortcode": "DUon4xSgpVf",
+      "name": "MY DADS GREEN SCHUG!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
       "shortcode": "DUlOT3mjgX9",
       "name": "ROASTED RED CABBAGE AND QUINOA SALAD!",
       "tag": "pareve",
@@ -579,14 +703,6 @@
       "confirmed": false
     },
     {
-      "shortcode": "DT0xVzjgrL5",
-      "name": "SALAT AVOCADO!",
-      "tag": "pareve",
-      "fish": false,
-      "because": [],
-      "confirmed": false
-    },
-    {
       "shortcode": "DTxytLMDtif",
       "name": "COZY ONE-PAN KEBAB & POTATO!",
       "tag": "meat",
@@ -601,6 +717,14 @@
       "name": "MARAK COUSCOUS  COUSCOUS SOUP!",
       "tag": "pareve",
       "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DTiRr8UjgyC",
+      "name": "MOROCCAN FISH!",
+      "tag": "pareve",
+      "fish": true,
       "because": [],
       "confirmed": false
     },
@@ -1477,6 +1601,14 @@
       "confirmed": false
     },
     {
+      "shortcode": "DHL-mohRXDF",
+      "name": "SHABBAT SALAD - BEETS AND ARUGULA!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
       "shortcode": "DHG_qNVxQGW",
       "name": "PTITIM BOLOGNESE!",
       "tag": "meat",
@@ -1569,6 +1701,14 @@
         "cottage",
         "mozzarella"
       ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "DE7tx8nR60P",
+      "name": "SHABBAT SALAD WITH SUMAC-ORANGE DRESSING!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
       "confirmed": false
     },
     {
@@ -3232,6 +3372,14 @@
       "confirmed": false
     },
     {
+      "shortcode": "Cwqjp7hxOU4",
+      "name": "MOROCCAN FISH BALLS!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
       "shortcode": "CwnepLMxLAY",
       "name": "This delicious pasta salad will be the star of any meal!",
       "tag": "dairy",
@@ -3980,6 +4128,14 @@
       "confirmed": false
     },
     {
+      "shortcode": "CoViC0vARaW",
+      "name": "SIMPLY THE BEST AVOCADO TOAST!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
       "shortcode": "CoLUaAqAwQf",
       "name": "Chicken Breast With Onion Jam!",
       "tag": "meat",
@@ -4597,6 +4753,16 @@
       "confirmed": false
     },
     {
+      "shortcode": "Ciim2Zzpp1l",
+      "name": "GRILLED TOMATOES AND RICOTTA!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "ricotta"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "CigSAz2JQnU",
       "name": "HONEY MUSTARD SMASHED POTATOES!",
       "tag": "pareve",
@@ -4657,6 +4823,17 @@
       "tag": "pareve",
       "fish": false,
       "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "ChksYEpgKYa",
+      "name": "SWEET CARDAMOM GRILLED FIGS!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "yogurt"
+      ],
       "confirmed": false
     },
     {
@@ -4941,6 +5118,26 @@
       "confirmed": false
     },
     {
+      "shortcode": "Cd6cST5J_y2",
+      "name": "Ricotta-Pesto & Heirloom Tomato Salad!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "ricotta"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "Cd1COvvgGKH",
+      "name": "Pizza dough!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions feta"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "Cdysd5mA5gq",
       "name": "CABBAGE & CUCUMBER SALAD WITH AVOCADO DRESSING!",
       "tag": "pareve",
@@ -5108,11 +5305,40 @@
       "confirmed": false
     },
     {
+      "shortcode": "CcTM3Dng2EB",
+      "name": "Chicken Shawarma and Turmeric Rice Tahdig!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CcOIQPsAeLo",
+      "name": "Moroccan Style Tomato Confit!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
       "shortcode": "CcLGK3luCUq",
       "name": "GLUTEN-FREE - DAIRY FREE APPLE CAKE!",
       "tag": "pareve",
       "fish": false,
       "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CcD2gnWAIfj",
+      "name": "My favorite apple cake!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "sour cream",
+        "butter"
+      ],
       "confirmed": false
     },
     {
@@ -5204,12 +5430,32 @@
       "confirmed": false
     },
     {
+      "shortcode": "CbS4dK5glTJ",
+      "name": "SABICH SALAD!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "yogurt"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "CbGHURXgqll",
       "name": "CREAM BRÛLÉE",
       "tag": "dairy",
       "fish": false,
       "because": [
         "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CbDUJJ4AHG9",
+      "name": "Savory Hamentashen Galette!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
       ],
       "confirmed": false
     },
@@ -5284,6 +5530,16 @@
       "tag": "pareve",
       "fish": false,
       "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CZdPSHoq7z1",
+      "name": "White Wine–Braised Chicken!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
       "confirmed": false
     },
     {
@@ -5596,6 +5852,25 @@
       "confirmed": false
     },
     {
+      "shortcode": "CV-vjF0AKqE",
+      "name": "MOROCCAN FISH PATTIES!",
+      "tag": "pareve",
+      "fish": true,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CV1UXtPg2j3",
+      "name": "Cinnamon Rolls!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "CViymfMpRmv",
       "name": "Winner Winner Crispy Schnitzel!!!!",
       "tag": "meat",
@@ -5645,6 +5920,14 @@
         "cottage",
         "mozzarella"
       ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CVTuqmpFktz",
+      "name": "Chocolate Babka!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
       "confirmed": false
     },
     {
@@ -6049,6 +6332,16 @@
       "confirmed": false
     },
     {
+      "shortcode": "COY3MlQnPhb",
+      "name": "Heirloom Tomato Salad!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "cheese"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "COGv_I0nG5B",
       "name": "BIG ANNOUNCEMENT",
       "tag": "pareve",
@@ -6062,6 +6355,16 @@
       "tag": "pareve",
       "fish": false,
       "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CNyD7yanWxB",
+      "name": "Honey Thyme Chicken Tenderloin!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
       "confirmed": false
     },
     {
@@ -6199,6 +6502,14 @@
     {
       "shortcode": "CLvQxGSHHfs",
       "name": "Chocolate Rolled Cookies!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CLpkv6onMz-",
+      "name": "Warm Freekeh Vegan Salad!",
       "tag": "pareve",
       "fish": false,
       "because": [],
@@ -6370,6 +6681,16 @@
       "confirmed": false
     },
     {
+      "shortcode": "CJpJADdnLIf",
+      "name": "Apple tart with almond cream!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "CJmqHiUnO5X",
       "name": "Honey Glazed Brussels Sprouts and Broccoli",
       "tag": "check",
@@ -6398,6 +6719,14 @@
       "because": [
         "chicken"
       ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CJKGwHNH33P",
+      "name": "Stuffed Tomatoes and Eggplants!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
       "confirmed": false
     },
     {
@@ -6470,6 +6799,17 @@
       "confirmed": false
     },
     {
+      "shortcode": "CIrc3NjnWS2",
+      "name": "LAHMACUN - Mediterranean Meat Pizza!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "meat",
+        "ground meat"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "CIo1rLHHvsX",
       "name": "Hanukkah Potato Latkes!  Made with a LATKE of love!!! yummy potato fritters that can be fried or bak",
       "tag": "pareve",
@@ -6484,6 +6824,16 @@
       "fish": false,
       "because": [
         "method mentions sour cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CIhHsezHOqt",
+      "name": "Chicken Meatballs with Peas and Carrots!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
       ],
       "confirmed": false
     },
@@ -6520,12 +6870,31 @@
       "confirmed": false
     },
     {
+      "shortcode": "CIKCFUlnx_A",
+      "name": "Vegan Aromatic Potato & Batata Gratin!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
       "shortcode": "CICKYX1nwZT",
       "name": "CHUCK ROAST STEW WITH CHESTNUT!",
       "tag": "meat",
       "fish": false,
       "because": [
         "chuck"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CH_t1hAnTkn",
+      "name": "Hot from-the-oven fluffy Brioche Buns!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk"
       ],
       "confirmed": false
     },
@@ -6651,6 +7020,14 @@
       "confirmed": false
     },
     {
+      "shortcode": "CGao9OtnBI4",
+      "name": "Apple Galette!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
       "shortcode": "CGYkgs9nfnc",
       "name": "CAST IRON PAN-ROASTED CHICKEN!",
       "tag": "meat",
@@ -6753,6 +7130,16 @@
       "confirmed": false
     },
     {
+      "shortcode": "CEJ9mYOgwZZ",
+      "name": "Mini Challah Brioche!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions butter"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "CEFvDA0j1TL",
       "name": "Glazed Chicken Skewers with Veggies!",
       "tag": "meat",
@@ -6771,6 +7158,16 @@
       "confirmed": false
     },
     {
+      "shortcode": "CEAhgaUgGg-",
+      "name": "Za’atar Focaccia!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions cheese"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "CD_6k1RD-sW",
       "name": "Birthday Pancakes for the Birthday Girl! Sweet Noa we love you so much! You are the sunshine of our ",
       "tag": "pareve",
@@ -6779,8 +7176,24 @@
       "confirmed": false
     },
     {
+      "shortcode": "CD7h7hkj2oG",
+      "name": "Five Spices Chickpea Stew!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
       "shortcode": "CD458j8jygk",
       "name": "Fried Cauliflower with Tahini!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CDz1EXCA2WP",
+      "name": "Chocolate Coconut Birthday Cake!",
       "tag": "pareve",
       "fish": false,
       "because": [],
@@ -6798,11 +7211,51 @@
       "confirmed": false
     },
     {
+      "shortcode": "CDkC5eZgzgY",
+      "name": "Bonfire Potato!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "sour cream"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "CDhLI70gr4T",
       "name": "3 ingredient Red Pasta!",
       "tag": "pareve",
       "fish": false,
       "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CDZ8_ytAQ1s",
+      "name": "Vegan Crispy Chocolate Rugelach!",
+      "tag": "check",
+      "fish": false,
+      "because": [
+        "method mentions butter, cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CDZZxu7jFBW",
+      "name": "Lemony Chicken Tenderloin!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CDNLeS0Awen",
+      "name": "Chicken Tenderloins over Ratatouille!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
       "confirmed": false
     },
     {
@@ -6819,6 +7272,27 @@
       "tag": "pareve",
       "fish": false,
       "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CDCqKCjAUkI",
+      "name": "Slow cooked Bone-In Short Ribs!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "short ribs"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CDAHUocgvo9",
+      "name": "Bite Size Apricot Brioche!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "milk"
+      ],
       "confirmed": false
     },
     {
@@ -6843,6 +7317,25 @@
       "tag": "pareve",
       "fish": false,
       "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCzZdzWjxSk",
+      "name": "Summer Salad!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCuRNL6gZsY",
+      "name": "Mediterranean Meatballs with Chickpeas, Celery and Red Peppers!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "meatballs",
+        "ground meat"
+      ],
       "confirmed": false
     },
     {
@@ -6877,6 +7370,91 @@
       "tag": "pareve",
       "fish": false,
       "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCeZfioAAc7",
+      "name": "Chocolate & Almond Butter Babka!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCZlAsCAeS4",
+      "name": "Lemony Zucchini Tuna Cakes!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCW9B4FDAGj",
+      "name": "Roasted Chicken with Beets!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCUc7F-Avz5",
+      "name": "Mini Corn Bagels in 20 minutes!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "mozzarella"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCRdUVpgun6",
+      "name": "Raw Zucchini with Turmeric Tahini dressing, dill and mint leaves!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CCHxGkcg5M4",
+      "name": "Mini Sticky Buns!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter",
+        "heavy cream"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CB60LO9AfHW",
+      "name": "Chicken tenderloin with spaghetti zucchini in a honey mustard dressing!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CB3HsVQAM-a",
+      "name": "Pasta Bolognese!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CByqOmTgVVi",
+      "name": "Mini Babka Rolls!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
       "confirmed": false
     },
     {
@@ -6984,8 +7562,26 @@
       "confirmed": false
     },
     {
+      "shortcode": "CAqyNiqjeRB",
+      "name": "Potato Galette with Caramelized Onions!",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
+      "confirmed": false
+    },
+    {
       "shortcode": "CAa9xZGgefk",
       "name": "Orzo for lunchtime!",
+      "tag": "pareve",
+      "fish": false,
+      "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "CAYjlwsD3m_",
+      "name": "ARUK - Iraqi Zucchini Herb Patties!",
       "tag": "pareve",
       "fish": false,
       "because": [],
@@ -7041,6 +7637,16 @@
       "tag": "pareve",
       "fish": false,
       "because": [],
+      "confirmed": false
+    },
+    {
+      "shortcode": "B_0QwGgA3If",
+      "name": "Homemade Tortillas/ Lafa",
+      "tag": "dairy",
+      "fish": false,
+      "because": [
+        "butter"
+      ],
       "confirmed": false
     },
     {

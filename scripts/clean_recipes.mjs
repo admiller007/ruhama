@@ -13,7 +13,11 @@
  *    "it it") are collapsed. Recipe wording is otherwise left alone.
  * 3. Ingredient or instruction lines that contain no letters or numbers
  *    (emoji-only leftovers) are removed. Emoji stuck to a real line are stripped
- *    and the words are left as written.
+ *    and the words are left as written. A pictograph removed from between two
+ *    words leaves a space, so the words do not run together. An exclamation or
+ *    question pictograph in that spot (‼️ ⁉️ ❗ ❕ ❓ ❔) leaves ": ", the same
+ *    separator her section labels use. Lone skin-tone modifiers
+ *    U+1F3FB–U+1F3FF are removed with the other emoji.
  * 4. An instruction block that is clearly "Ingredients- … Method- …" is split.
  *    Ingredient lines move into `ingredients` only when they are not already
  *    there. Method lines become `instructions`. Lines that are not part of that
@@ -156,12 +160,46 @@ function isEmojiOnly(line) {
   return !/[\p{L}\p{N}]/u.test(trimmed);
 }
 
+const SKIN_TONE = /[\u{1F3FB}-\u{1F3FF}]/u;
+// Exclamation and question marks she uses as a colon between a label and the next word.
+const SEPARATOR_PICTO = /[\u203C\u2049\u2753\u2754\u2755\u2757]/u;
+
+function isStripChar(ch) {
+  return (
+    /\p{Extended_Pictographic}/u.test(ch) ||
+    ch === "\uFE0F" ||
+    ch === "\u200D" ||
+    SKIN_TONE.test(ch)
+  );
+}
+
+function isWordChar(ch) {
+  return Boolean(ch) && /[\p{L}\p{N}]/u.test(ch);
+}
+
 function stripEmoji(text) {
-  return text
-    .replace(/\p{Extended_Pictographic}/gu, "")
-    .replace(/[\uFE0F\u200D]/g, "")
-    .replace(/[ \t]{2,}/g, " ")
-    .trim();
+  const chars = Array.from(text);
+  let out = "";
+  for (let i = 0; i < chars.length; ) {
+    if (!isStripChar(chars[i])) {
+      out += chars[i];
+      i += 1;
+      continue;
+    }
+    let sawSeparator = false;
+    let sawOther = false;
+    let j = i;
+    while (j < chars.length && isStripChar(chars[j])) {
+      if (SEPARATOR_PICTO.test(chars[j])) sawSeparator = true;
+      else if (chars[j] !== "\uFE0F") sawOther = true;
+      j += 1;
+    }
+    if (isWordChar(out.slice(-1)) && isWordChar(chars[j])) {
+      out += sawSeparator && !sawOther ? ": " : " ";
+    }
+    i = j;
+  }
+  return out.replace(/[ \t]{2,}/g, " ").trim();
 }
 
 function cleanTextFields(recipe) {

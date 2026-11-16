@@ -1,6 +1,6 @@
 {
-  "inputCount": 848,
-  "outputCount": 772,
+  "inputCount": 912,
+  "outputCount": 836,
   "duplicates": {
     "clustersMerged": 121,
     "recordsRemoved": 160,
@@ -3044,13 +3044,13 @@
         "kept": {
           "name": "EASY ONE PAN DINNER!",
           "shortcode": "DQo-rV7Dvxu",
-          "index": 86
+          "index": 99
         },
         "dropped": [
           {
             "name": "ONE-PAN RECIPE OF THE YEAR",
             "shortcode": "DS5scVgjzeS",
-            "index": 68,
+            "index": 81,
             "methodOverlap": 1
           }
         ]
@@ -3059,13 +3059,13 @@
         "kept": {
           "name": "IRAQI TBEET!",
           "shortcode": "DPton4bDh_s",
-          "index": 95
+          "index": 108
         },
         "dropped": [
           {
             "name": "My Favorite Shabbat Dinner- IRAQI TBEET!",
             "shortcode": "DY7aoZcilHA",
-            "index": 35,
+            "index": 47,
             "methodOverlap": 1
           }
         ]
@@ -3074,13 +3074,13 @@
         "kept": {
           "name": "ONE-PAN TURMERIC CHICKEN AND POTATOES!",
           "shortcode": "DPPJRpNjufl",
-          "index": 99
+          "index": 112
         },
         "dropped": [
           {
             "name": "MY MOST VIRAL RECIPE OF 2025",
             "shortcode": "DS2l7LWDh00",
-            "index": 69,
+            "index": 82,
             "methodOverlap": 1
           }
         ]
@@ -3089,13 +3089,13 @@
         "kept": {
           "name": "FESTIVE CHICKEN AND FARRO!",
           "shortcode": "DOoWYD9Dr1e",
-          "index": 105
+          "index": 118
         },
         "dropped": [
           {
             "name": "MEDITERRANEAN CHICKEN AND FARRO!",
             "shortcode": "CwgLsckIdCw",
-            "index": 387,
+            "index": 403,
             "methodOverlap": 1
           }
         ]
@@ -3104,13 +3104,13 @@
         "kept": {
           "name": "SLOW-COOKED BEEF AND POTATOES!",
           "shortcode": "DOlgETRjku_",
-          "index": 106
+          "index": 119
         },
         "dropped": [
           {
             "name": "ONE POT CHUCK ROAST AND POTATOES!",
             "shortcode": "DAOR7pURAxP",
-            "index": 219,
+            "index": 234,
             "methodOverlap": 1
           }
         ]
@@ -3119,13 +3119,13 @@
         "kept": {
           "name": "BAHARAT CHICKEN DINNER!",
           "shortcode": "DNyp9AMXNVQ",
-          "index": 112
+          "index": 125
         },
         "dropped": [
           {
             "name": "ON REPEAT IN MY HOUSE",
             "shortcode": "DTd1pCRgtpb",
-            "index": 65,
+            "index": 78,
             "methodOverlap": 1
           }
         ]
@@ -3134,13 +3134,13 @@
         "kept": {
           "name": "CUCUMBER AND AVOCADO SALAD!",
           "shortcode": "DKXE-_WRY0Z",
-          "index": 135
+          "index": 148
         },
         "dropped": [
           {
             "name": "FENNEL AND AVOCADO SALAD!",
             "shortcode": "C7KPrEix6V-",
-            "index": 261,
+            "index": 276,
             "methodOverlap": 1
           }
         ]
@@ -3149,13 +3149,13 @@
         "kept": {
           "name": "ROASTED EGGPLANTS WITH GREEN SALSA!",
           "shortcode": "DIPeNhixMdF",
-          "index": 159
+          "index": 172
         },
         "dropped": [
           {
             "name": "ROASTED EGGPLANTS WITH TOMATO SALSA!",
             "shortcode": "CwA_7CEg__E",
-            "index": 395,
+            "index": 411,
             "methodOverlap": 0.862
           }
         ]
@@ -3164,13 +3164,13 @@
         "kept": {
           "name": "ROASTED EGGPLANT AND PEPPER!",
           "shortcode": "DB1cVrCRZ2r",
-          "index": 206
+          "index": 221
         },
         "dropped": [
           {
             "name": "ROASTED EGGPLANT AND PEPPER SALAD!",
             "shortcode": "C4G-lSWRuuA",
-            "index": 294,
+            "index": 309,
             "methodOverlap": 1
           }
         ]
@@ -3179,19 +3179,19 @@
         "kept": {
           "name": "SUNDAY SHAKSHUKA!",
           "shortcode": "DBo47TQRN-G",
-          "index": 209
+          "index": 224
         },
         "dropped": [
           {
             "name": "SHAKSHUKA TIME!",
             "shortcode": "C30zWqLxXO4",
-            "index": 299,
+            "index": 314,
             "methodOverlap": 1
           },
           {
             "name": "BEST SHAKSHUKA EVER!",
             "shortcode": "Cx8tJ5TxUfN",
-            "index": 367,
+            "index": 382,
             "methodOverlap": 1
           }
         ]
@@ -3200,13 +3200,13 @@
         "kept": {
           "name": "MALFOUF - IRAQI BAKLAVA CIGARS!",
           "shortcode": "DBMFRi9xsrL",
-          "index": 213
+          "index": 228
         },
         "dropped": [
           {
             "name": "MALFOUF - IRAQI BAKLAVA!",
             "shortcode": "C1-V43nRKUa",
-            "index": 318,
+            "index": 333,
             "methodOverlap": 1
           }
         ]
@@ -3215,25 +3215,25 @@
         "kept": {
           "name": "APPLE CAKE FOR ROSH HASHANAH!",
           "shortcode": "C_yp94axHeU",
-          "index": 222
+          "index": 237
         },
         "dropped": [
           {
             "name": "GLUTEN-FREE DAIRY-FREE APPLE CAKE!",
             "shortcode": "DLGEM9ORyvH",
-            "index": 128,
+            "index": 141,
             "methodOverlap": 0.982
           },
           {
             "name": "YOUR 2024 FAVORITE APPLE CAKE!",
             "shortcode": "DEQBK7hRcwh",
-            "index": 187,
+            "index": 202,
             "methodOverlap": 1
           },
           {
             "name": "MY FAVORITE APPLE CAKE!",
             "shortcode": "C6pH_s-xvJh",
-            "index": 266,
+            "index": 281,
             "methodOverlap": 1
           }
         ]
@@ -3242,19 +3242,19 @@
         "kept": {
           "name": "ROSH HASHANAH BRISKET!",
           "shortcode": "C_jIMk7xR6i",
-          "index": 226
+          "index": 241
         },
         "dropped": [
           {
             "name": "HOLIDAY BRISKET!",
             "shortcode": "DIHT7YFR9gw",
-            "index": 161,
+            "index": 174,
             "methodOverlap": 1
           },
           {
             "name": "FESTIVE BRISKET!",
             "shortcode": "C5y7k5BRDFk",
-            "index": 273,
+            "index": 288,
             "methodOverlap": 1
           }
         ]
@@ -3263,13 +3263,13 @@
         "kept": {
           "name": "OVEN-BAKED CRISPY SCHNITZEL!",
           "shortcode": "C8NVnPWRHmQ",
-          "index": 249
+          "index": 264
         },
         "dropped": [
           {
             "name": "By popular demand OVEN-BAKED SCHNITZEL!",
             "shortcode": "DRzv8l_jiAW",
-            "index": 75,
+            "index": 88,
             "methodOverlap": 1
           }
         ]
@@ -3278,13 +3278,13 @@
         "kept": {
           "name": "POTATO CASSEROLE !",
           "shortcode": "C8FeFLORzeA",
-          "index": 252
+          "index": 267
         },
         "dropped": [
           {
             "name": "POTATO PASHTIDA!",
             "shortcode": "C4WiTzjxRSs",
-            "index": 292,
+            "index": 307,
             "methodOverlap": 1
           }
         ]
@@ -3293,13 +3293,13 @@
         "kept": {
           "name": "PASSOVER CHOCOLATE BANANA CAKE!",
           "shortcode": "C5q0zEaO8de",
-          "index": 274
+          "index": 289
         },
         "dropped": [
           {
             "name": "EASY CHOCOLATE BANANA CAKE!",
             "shortcode": "CzCix6nx8X4",
-            "index": 356,
+            "index": 371,
             "methodOverlap": 1
           }
         ]
@@ -3308,19 +3308,19 @@
         "kept": {
           "name": "SPRING CABBAGE SALAD!",
           "shortcode": "C5MnXYkxmTR",
-          "index": 279
+          "index": 294
         },
         "dropped": [
           {
             "name": "One of your 2024 favorites crunchy cabbage salad!",
             "shortcode": "DD-UJuSx75b",
-            "index": 189,
+            "index": 204,
             "methodOverlap": 1
           },
           {
             "name": "MY WINNING CABBAGE SALAD!",
             "shortcode": "C7-NovORFkZ",
-            "index": 254,
+            "index": 269,
             "methodOverlap": 1
           }
         ]
@@ -3329,13 +3329,13 @@
         "kept": {
           "name": "BARLEY SOUP!",
           "shortcode": "C4_px3xxTr9",
-          "index": 282
+          "index": 297
         },
         "dropped": [
           {
             "name": "COMFORTING BARLEY SOUP!",
             "shortcode": "C0u2G_FxE4w",
-            "index": 332,
+            "index": 347,
             "methodOverlap": 1
           }
         ]
@@ -3344,13 +3344,13 @@
         "kept": {
           "name": "ONE PAN ROASTED CHICKEN OVER SWEET POTATOES!",
           "shortcode": "C4d321lxDrD",
-          "index": 289
+          "index": 304
         },
         "dropped": [
           {
             "name": "ONE PAN CHICKEN OVER SWEET POTATOES!",
             "shortcode": "C0UpbSnRpu4",
-            "index": 337,
+            "index": 352,
             "methodOverlap": 0.918
           }
         ]
@@ -3359,13 +3359,13 @@
         "kept": {
           "name": "ZAATAR CABBAGE SALAD!",
           "shortcode": "C4YtkW-RDLk",
-          "index": 291
+          "index": 306
         },
         "dropped": [
           {
             "name": "CABBAGE SALAD WITH ZAATAR-SUMAC CRUMBS!",
             "shortcode": "CxY5pa5xLwm",
-            "index": 373,
+            "index": 388,
             "methodOverlap": 1
           }
         ]
@@ -3374,13 +3374,13 @@
         "kept": {
           "name": "NO MESS BEET SALAD!",
           "shortcode": "C3qlqnVxG2J",
-          "index": 300
+          "index": 315
         },
         "dropped": [
           {
             "name": "SUMAC BEET SALAD!",
             "shortcode": "Czza_I9xXYF",
-            "index": 344,
+            "index": 359,
             "methodOverlap": 1
           }
         ]
@@ -3389,13 +3389,13 @@
         "kept": {
           "name": "PASHTIDAT ZUCCHINI - ZUCCHINI CASSEROLE!",
           "shortcode": "C3LnmFGxEau",
-          "index": 304
+          "index": 319
         },
         "dropped": [
           {
             "name": "ZUCCHINI PASHTIDA ZUCCHINI CASSEROLE!",
             "shortcode": "CzUp8sNRgbF",
-            "index": 351,
+            "index": 366,
             "methodOverlap": 1
           }
         ]
@@ -3404,19 +3404,19 @@
         "kept": {
           "name": "CAKE FOR SHABBAT!",
           "shortcode": "C2Ss9g7RZGc",
-          "index": 316
+          "index": 331
         },
         "dropped": [
           {
             "name": "As a mom to a child who is allergic to dairy, I wanted to share a dairy-free option for Shavuot!",
             "shortcode": "DKSQp1FREZS",
-            "index": 136,
+            "index": 149,
             "methodOverlap": 1
           },
           {
             "name": "WHAT CAN YOU MAKE WITH TWO RIPE BANANAS",
             "shortcode": "Cwa47fJI3zW",
-            "index": 388,
+            "index": 404,
             "methodOverlap": 1
           }
         ]
@@ -3425,13 +3425,13 @@
         "kept": {
           "name": "SUGAR SNAP PEAS AND AVOCADO SALAD!",
           "shortcode": "C1NykfjxFcD",
-          "index": 324
+          "index": 339
         },
         "dropped": [
           {
             "name": "SNAP PEAS AND AVOCADO SALAD!",
             "shortcode": "CvqKzlrAFkv",
-            "index": 400,
+            "index": 416,
             "methodOverlap": 1
           }
         ]
@@ -3440,13 +3440,13 @@
         "kept": {
           "name": "CITRUSY ROASTED CHICKEN!",
           "shortcode": "CzRxwBTRyvP",
-          "index": 352
+          "index": 367
         },
         "dropped": [
           {
             "name": "OREGANO CITRUSY ROASTED CHICKEN!",
             "shortcode": "Cl2R101ARh7",
-            "index": 510,
+            "index": 527,
             "methodOverlap": 0.884
           }
         ]
@@ -3455,13 +3455,13 @@
         "kept": {
           "name": "ONE PAN CHICKEN AND PTITIM!",
           "shortcode": "CyRyXpiNxDc",
-          "index": 365
+          "index": 380
         },
         "dropped": [
           {
             "name": "Comfort food because this is what we need right now",
             "shortcode": "DK7QYKox8gw",
-            "index": 130,
+            "index": 143,
             "methodOverlap": 1
           }
         ]
@@ -3470,13 +3470,13 @@
         "kept": {
           "name": "WARM ZUCCHINI SALAD!",
           "shortcode": "Cw8ZBX1Rvyl",
-          "index": 379
+          "index": 394
         },
         "dropped": [
           {
             "name": "Warm Zucchini And Green Herbs Salad!",
             "shortcode": "Cm5JaZmq_lH",
-            "index": 493,
+            "index": 510,
             "methodOverlap": 0.814
           }
         ]
@@ -3485,13 +3485,13 @@
         "kept": {
           "name": "GREEN GODDESS LETTUCE SALAD !",
           "shortcode": "CwQxWTOI4Ag",
-          "index": 392
+          "index": 408
         },
         "dropped": [
           {
             "name": "GREEN GODDESS LETTUCE HEARTS!",
             "shortcode": "CqbrIDVACs6",
-            "index": 457,
+            "index": 473,
             "methodOverlap": 1
           }
         ]
@@ -3500,13 +3500,13 @@
         "kept": {
           "name": "BABA GHANOUSH!",
           "shortcode": "CwJXJ8voY5a",
-          "index": 393
+          "index": 409
         },
         "dropped": [
           {
             "name": "BABA GANOUSH!",
             "shortcode": "Cs9-4JtAmr3",
-            "index": 437,
+            "index": 453,
             "methodOverlap": 1
           }
         ]
@@ -3515,13 +3515,13 @@
         "kept": {
           "name": "HARISSA-ROASTED CARROTS !",
           "shortcode": "CuxWOn5AwVG",
-          "index": 413
+          "index": 429
         },
         "dropped": [
           {
             "name": "HARISSA- HONEY ROASTED CARROTS!",
             "shortcode": "ClzZdx6AiIh",
-            "index": 511,
+            "index": 528,
             "methodOverlap": 1
           }
         ]
@@ -3530,13 +3530,13 @@
         "kept": {
           "name": "POTATO SALAD WITH FETA DRESSING!",
           "shortcode": "Cukwirbg2WT",
-          "index": 415
+          "index": 431
         },
         "dropped": [
           {
             "name": "POTATO SALAD WITH MUSTARD FETA DRESSING",
             "shortcode": "CfmnFUIJLVg",
-            "index": 583,
+            "index": 602,
             "methodOverlap": 1
           }
         ]
@@ -3545,13 +3545,13 @@
         "kept": {
           "name": "BBQ HARISSA CHICKEN THIGHS!",
           "shortcode": "CuX_ZCbgFYK",
-          "index": 418
+          "index": 434
         },
         "dropped": [
           {
             "name": "BBQ MANGO HARISSA CHICKEN THIGHS",
             "shortcode": "CgIRIveA19C",
-            "index": 576,
+            "index": 595,
             "methodOverlap": 1
           }
         ]
@@ -3560,13 +3560,13 @@
         "kept": {
           "name": "ZAATAR FETA AND GRILLED TOMATO!",
           "shortcode": "CuQCcnzAgB_",
-          "index": 420
+          "index": 436
         },
         "dropped": [
           {
             "name": "BAKED ZAATAR FETA AND TOMATOES!",
             "shortcode": "Cnkw6aPoLI3",
-            "index": 482,
+            "index": 499,
             "methodOverlap": 1
           }
         ]
@@ -3575,13 +3575,13 @@
         "kept": {
           "name": "CRINKLE CUT SWEET POTATOES WITH GREEN DIP!",
           "shortcode": "Ct9ohtTAaUl",
-          "index": 423
+          "index": 439
         },
         "dropped": [
           {
             "name": "ROASTED SWEET POTATOES WITH GREEN TAHINI DIP!",
             "shortcode": "CrjlRJ6g7PO",
-            "index": 449,
+            "index": 465,
             "methodOverlap": 1
           }
         ]
@@ -3590,13 +3590,13 @@
         "kept": {
           "name": "ONE- PAN TURMERIC CHICKEN AND ORZO!",
           "shortcode": "CthnpjwgLIu",
-          "index": 429
+          "index": 445
         },
         "dropped": [
           {
             "name": "Turmeric Chicken and Orzo!",
             "shortcode": "CnVTid9KdK1",
-            "index": 486,
+            "index": 503,
             "methodOverlap": 1
           }
         ]
@@ -3605,13 +3605,13 @@
         "kept": {
           "name": "SAVORY CORN PIE!",
           "shortcode": "Cs40O4BATpv",
-          "index": 439
+          "index": 455
         },
         "dropped": [
           {
             "name": "FAMILY FAVORITE- CORN PIE!",
             "shortcode": "Cy_ezHLxyvh",
-            "index": 357,
+            "index": 372,
             "methodOverlap": 1
           }
         ]
@@ -3620,13 +3620,13 @@
         "kept": {
           "name": "ZUCCHINI WITH FETA AND SUMAC ONIONS!",
           "shortcode": "Cq86W5-gqCy",
-          "index": 455
+          "index": 471
         },
         "dropped": [
           {
             "name": "ROASTED ZUCCHINI WITH FETA AND SUMAC ONIONS!",
             "shortcode": "CnffpBPIy6h",
-            "index": 484,
+            "index": 501,
             "methodOverlap": 1
           }
         ]
@@ -3635,13 +3635,13 @@
         "kept": {
           "name": "SHAWARMA CAULIFLOWER STEAKS WITH TURMERIC TAHINI!",
           "shortcode": "CqL0qRtg1Zw",
-          "index": 459
+          "index": 475
         },
         "dropped": [
           {
             "name": "CAULIFLOWER STEAKS WITH TURMERIC TAHINI!",
             "shortcode": "CmaDpECqP_o",
-            "index": 498,
+            "index": 515,
             "methodOverlap": 1
           }
         ]
@@ -3650,19 +3650,19 @@
         "kept": {
           "name": "CAULIFLOWER TABBOULEH!",
           "shortcode": "Cp0-ZvRAAC1",
-          "index": 463
+          "index": 479
         },
         "dropped": [
           {
             "name": "CAULIFLOWER FETA SALAD",
             "shortcode": "ChH-WLDoeo1",
-            "index": 567,
+            "index": 586,
             "methodOverlap": 1
           },
           {
             "name": "CAULIFLOWER LOVERS THIS IS FOR YOU!",
             "shortcode": "Cd9K2gjgCfi",
-            "index": 601,
+            "index": 620,
             "methodOverlap": 1
           }
         ]
@@ -3671,13 +3671,13 @@
         "kept": {
           "name": "ROASTED CAULIFLOWER STEAKS OVER SUMAC YOGURT!",
           "shortcode": "CpOSYRrg6K1",
-          "index": 471
+          "index": 487
         },
         "dropped": [
           {
             "name": "Mediterranean Cauliflower Steaks!",
             "shortcode": "Ceo4hr9ANXp",
-            "index": 591,
+            "index": 610,
             "methodOverlap": 0.934
           }
         ]
@@ -3686,13 +3686,13 @@
         "kept": {
           "name": "DELICIOUS BAKED POTATO SALAD!",
           "shortcode": "CpAP0reIt9p",
-          "index": 472
+          "index": 488
         },
         "dropped": [
           {
             "name": "BAKED POTATO SALAD!",
             "shortcode": "CjrGZmogqg3",
-            "index": 537,
+            "index": 554,
             "methodOverlap": 1
           }
         ]
@@ -3701,13 +3701,13 @@
         "kept": {
           "name": "Chicken Breast With Onion Jam!",
           "shortcode": "CoLUaAqAwQf",
-          "index": 474
+          "index": 491
         },
         "dropped": [
           {
             "name": "Chicken Shawarma With Onion Jam!",
             "shortcode": "Cidue5VpZea",
-            "index": 551,
+            "index": 569,
             "methodOverlap": 1
           }
         ]
@@ -3716,13 +3716,13 @@
         "kept": {
           "name": "GRILLED VEGGIES AND FETA CHEESE!",
           "shortcode": "CoGS5nrgmWc",
-          "index": 476
+          "index": 493
         },
         "dropped": [
           {
             "name": "GRILLED VEGGIES AND FETA!",
             "shortcode": "CiYf90TppE8",
-            "index": 553,
+            "index": 571,
             "methodOverlap": 1
           }
         ]
@@ -3731,13 +3731,13 @@
         "kept": {
           "name": "ONE PAN LEMONY TURMERIC CHICKPEAS!",
           "shortcode": "CnzyClRJiaB",
-          "index": 480
+          "index": 497
         },
         "dropped": [
           {
             "name": "LEMONY TURMERIC CHICKPEAS!",
             "shortcode": "CiJAvlhpFtJ",
-            "index": 555,
+            "index": 573,
             "methodOverlap": 1
           }
         ]
@@ -3746,13 +3746,13 @@
         "kept": {
           "name": "Harissa Chicken and Potatoes!",
           "shortcode": "CnpaW1cIRRU",
-          "index": 481
+          "index": 498
         },
         "dropped": [
           {
             "name": "Harissa Spatchcock Chicken and Potatoes!",
             "shortcode": "Ch8jxxvA5MN",
-            "index": 558,
+            "index": 576,
             "methodOverlap": 1
           }
         ]
@@ -3761,13 +3761,13 @@
         "kept": {
           "name": "RED CABBAGE STEAKS OVER TAHINI YOGURT!",
           "shortcode": "CnQSwHLqgUY",
-          "index": 487
+          "index": 504
         },
         "dropped": [
           {
             "name": "RED CABBAGE STEAKS WITH TAHINI YOGURT",
             "shortcode": "CgCvVN7gXeI",
-            "index": 577,
+            "index": 596,
             "methodOverlap": 1
           }
         ]
@@ -3776,13 +3776,13 @@
         "kept": {
           "name": "SWEET POTATOES WITH A SECRET INGREDIENT!",
           "shortcode": "CnK9zOEI873",
-          "index": 488
+          "index": 505
         },
         "dropped": [
           {
             "name": "ROASTED SWEET POTATOES WITH A SECRET INGREDIENT",
             "shortcode": "CjRCJiqA1S-",
-            "index": 541,
+            "index": 558,
             "methodOverlap": 1
           }
         ]
@@ -3791,13 +3791,13 @@
         "kept": {
           "name": "ROASTED CORN AND ZUCCHINI !",
           "shortcode": "Cmpmyy6I3rv",
-          "index": 495
+          "index": 512
         },
         "dropped": [
           {
             "name": "SUMMERY ROASTED CORN AND ZUCCHINI",
             "shortcode": "Ch0Xr_9JFb9",
-            "index": 560,
+            "index": 578,
             "methodOverlap": 1
           }
         ]
@@ -3806,13 +3806,13 @@
         "kept": {
           "name": "MEDITERRANEAN BAKED PASTA!",
           "shortcode": "CmkMsuDKEQ0",
-          "index": 496
+          "index": 513
         },
         "dropped": [
           {
             "name": "Mediterranean Feta Pasta",
             "shortcode": "CgwoJjbIxqj",
-            "index": 570,
+            "index": 589,
             "methodOverlap": 1
           }
         ]
@@ -3821,13 +3821,13 @@
         "kept": {
           "name": "ROASTED CAULIFLOWER WITH FETA DRESSING!",
           "shortcode": "ClCr5PrghyR",
-          "index": 523
+          "index": 540
         },
         "dropped": [
           {
             "name": "ZAATAR ROASTED CAULIFLOWER WITH FETA DRESSING",
             "shortcode": "Ch3Whf3Ab8L",
-            "index": 559,
+            "index": 577,
             "methodOverlap": 1
           }
         ]
@@ -3836,19 +3836,19 @@
         "kept": {
           "name": "ROASTED CAULIFLOWER WITH GREEN TAHINI!",
           "shortcode": "CfFcqgVgqDC",
-          "index": 585
+          "index": 604
         },
         "dropped": [
           {
             "name": "MY FAMOUS VEGAN CAULIFLOWER!",
             "shortcode": "CmPjrGVALmm",
-            "index": 501,
+            "index": 518,
             "methodOverlap": 1
           },
           {
             "name": "THE QUEEN OF ALL  ROASTED CAULIFLOWER WITH GREEN TAHINI!!! RECIPE",
             "shortcode": "ChVG7NRAM_q",
-            "index": 565,
+            "index": 584,
             "methodOverlap": 1
           }
         ]
@@ -3857,13 +3857,13 @@
         "kept": {
           "name": "FRESH CORN SALAD!",
           "shortcode": "CeefANMJT8c",
-          "index": 594
+          "index": 613
         },
         "dropped": [
           {
             "name": "SUMMER CORN KERNELS SALAD!",
             "shortcode": "CSnaVlonrfP",
-            "index": 696,
+            "index": 726,
             "methodOverlap": 1
           }
         ]
@@ -3872,13 +3872,13 @@
         "kept": {
           "name": "RED CABBAGE AND BEETS SALAD!",
           "shortcode": "CeUcQL6JtPC",
-          "index": 597
+          "index": 616
         },
         "dropped": [
           {
             "name": "MY FAVORITE RED CABBAGE SALAD!",
             "shortcode": "ChDMbi1oueP",
-            "index": 568,
+            "index": 587,
             "methodOverlap": 1
           }
         ]
@@ -3887,13 +3887,13 @@
         "kept": {
           "name": "CABBAGE & CUCUMBER SALAD WITH AVOCADO DRESSING!",
           "shortcode": "Cdysd5mA5gq",
-          "index": 602
+          "index": 623
         },
         "dropped": [
           {
             "name": "MY FAVORITE GREEN CABBAGE SALAD!",
             "shortcode": "CtKPq5fARU5",
-            "index": 434,
+            "index": 450,
             "methodOverlap": 1
           }
         ]
@@ -3902,13 +3902,13 @@
         "kept": {
           "name": "BEST PITA BREAD!!!RECIPE",
           "shortcode": "CctkGMap8Bg",
-          "index": 615
+          "index": 636
         },
         "dropped": [
           {
             "name": "Its all about the magic of the pocket!",
             "shortcode": "CNP8XgfHbrj",
-            "index": 730,
+            "index": 762,
             "methodOverlap": 1
           }
         ]
@@ -3917,13 +3917,13 @@
         "kept": {
           "name": "Hamantaschen- Oznei Haman!",
           "shortcode": "CaZaWh0AMGK",
-          "index": 637
+          "index": 663
         },
         "dropped": [
           {
             "name": "Hamentashen Aka Ozney Haman!",
             "shortcode": "CLk8zk6nW9e",
-            "index": 743,
+            "index": 776,
             "methodOverlap": 0.932
           }
         ]
@@ -3932,13 +3932,13 @@
         "kept": {
           "name": "TURMERIC RICE PILAF WITH DRIED FRUIT!",
           "shortcode": "CWOqsZVJF-e",
-          "index": 672
+          "index": 699
         },
         "dropped": [
           {
             "name": "Basmati Rice Pilaf with Dried Fruit and Walnuts!",
             "shortcode": "CKh9cbWnMuV",
-            "index": 753,
+            "index": 786,
             "methodOverlap": 1
           }
         ]
@@ -3947,13 +3947,13 @@
         "kept": {
           "name": "Dreamy Maple Pear Cake!",
           "shortcode": "CVf7exopQHg",
-          "index": 675
+          "index": 704
         },
         "dropped": [
           {
             "name": "MAPLE CARAMELIZED PEAR CAKE!",
             "shortcode": "CHeA7YiHhrB",
-            "index": 786,
+            "index": 825,
             "methodOverlap": 1
           }
         ]
@@ -3962,13 +3962,13 @@
         "kept": {
           "name": "APPLE RICOTTA CAKE!",
           "shortcode": "CT8EmzUgPJ2",
-          "index": 687
+          "index": 717
         },
         "dropped": [
           {
             "name": "Apple Ricotta Crumb Cake!",
             "shortcode": "COMFF4vHewa",
-            "index": 723,
+            "index": 754,
             "methodOverlap": 1
           }
         ]
@@ -3977,13 +3977,13 @@
         "kept": {
           "name": "No-Bake Mascarpone Cheesecake!",
           "shortcode": "COoWCUyHlgE",
-          "index": 721
+          "index": 751
         },
         "dropped": [
           {
             "name": "Happy National Cheesecake Day!",
             "shortcode": "CR9rE5WHkwR",
-            "index": 699,
+            "index": 729,
             "methodOverlap": 1
           }
         ]
@@ -3992,13 +3992,13 @@
         "kept": {
           "name": "Israeli National Food - FALAFEL IN A PITA!",
           "shortcode": "CN3eW0THV4w",
-          "index": 726
+          "index": 757
         },
         "dropped": [
           {
             "name": "For All The FALAFEL LOVERS!",
             "shortcode": "CN5QbfEH6EL",
-            "index": 725,
+            "index": 756,
             "methodOverlap": 0.921
           }
         ]
@@ -4007,13 +4007,13 @@
         "kept": {
           "name": "Everything Bagel Citrus Salmon!",
           "shortcode": "CIUP2YOn0Iy",
-          "index": 776
+          "index": 813
         },
         "dropped": [
           {
             "name": "HONEY MUSTARD BAKED SALMON!",
             "shortcode": "CG1Eix0H-pE",
-            "index": 792,
+            "index": 831,
             "methodOverlap": 0.864
           }
         ]
@@ -4022,13 +4022,13 @@
         "kept": {
           "name": "Eggplant with Sumac ,Cilantro & salsa",
           "shortcode": "B_yFxF9AfD8",
-          "index": 842
+          "index": 906
         },
         "dropped": [
           {
             "name": "I make this eggplant again and again!",
             "shortcode": "CAasl8EgTvt",
-            "index": 835,
+            "index": 897,
             "methodOverlap": 1
           }
         ]
@@ -4103,60 +4103,240 @@
     ]
   },
   "sectionHeadings": {
-    "ingredients": 28,
-    "instructions": 11,
-    "total": 39,
+    "ingredients": 103,
+    "instructions": 41,
+    "total": 144,
     "examples": [
       {
         "where": "ingredients",
-        "name": "BEET AND PISTACHIO SALAD!",
-        "shortcode": "CqJnjNygGu2",
-        "line": "Crushed spices-"
+        "name": "GOLDEN WHOLE ROASTED CHICKEN!",
+        "shortcode": "Dfm7IFciJUk",
+        "line": "For the sauce:"
       },
       {
         "where": "ingredients",
-        "name": "RATATOUILLE STYLE VEGGIE STEW!",
-        "shortcode": "CqHA_cAALdM",
-        "line": "Red sauce-"
+        "name": "GOLDEN WHOLE ROASTED CHICKEN!",
+        "shortcode": "Dfm7IFciJUk",
+        "line": "For the pan:"
       },
       {
         "where": "ingredients",
-        "name": "ROASTED FENNEL OVER HUMMUS!",
-        "shortcode": "CoD2HGlAbuX",
-        "line": "Hummus ingredients-"
+        "name": "GOLDEN WHOLE ROASTED CHICKEN!",
+        "shortcode": "Dfm7IFciJUk",
+        "line": "For garnish:"
       },
       {
         "where": "ingredients",
-        "name": "BASMATI RICE STUFFED PEPPERS!",
-        "shortcode": "Cm-aNJ6qvQo",
-        "line": "Filling for the peppers-"
+        "name": "LEMONY GREEN BEAN SALAD!",
+        "shortcode": "Dfip136CmiT",
+        "line": "Lemony sumac onion dressing:"
       },
       {
         "where": "ingredients",
-        "name": "BASMATI RICE STUFFED PEPPERS!",
-        "shortcode": "Cm-aNJ6qvQo",
-        "line": "Tomatoes sauce-"
-      },
-      {
-        "where": "instructions",
-        "name": "ZANGULA-  Iraqi Spiral Fried Dough!",
-        "shortcode": "CkG1b_Mp7Vu",
-        "line": "For the dough-"
+        "name": "JUICY LEMONY BASIL CHICKEN!",
+        "shortcode": "DfXbTMyiA4L",
+        "line": "Lemony basil sauce:"
       },
       {
         "where": "ingredients",
-        "name": "HONEY-THAINI BROCCOLI SALAD!!!",
-        "shortcode": "CjYQa7oAUJ5",
-        "line": "Honey-Tahini dressing-"
+        "name": "FALL BARLEY SOUP!",
+        "shortcode": "DfSVoCEivTh",
+        "line": "Garnish:"
       },
       {
         "where": "ingredients",
-        "name": "ONE PAN TURMERIC CHICKEN & POTATOES!",
-        "shortcode": "Cixlf_4A7mC",
-        "line": "Turmeric sauce-"
+        "name": "ONE-PAN KTZITZOT AND POTATOES!",
+        "shortcode": "DfDiK6SiqIY",
+        "line": "Ingredients for the pan:"
+      },
+      {
+        "where": "ingredients",
+        "name": "ONE-PAN KTZITZOT AND POTATOES!",
+        "shortcode": "DfDiK6SiqIY",
+        "line": "For the green herb mixture:"
       }
     ],
     "lines": [
+      {
+        "where": "ingredients",
+        "name": "GOLDEN WHOLE ROASTED CHICKEN!",
+        "shortcode": "Dfm7IFciJUk",
+        "line": "For the sauce:"
+      },
+      {
+        "where": "ingredients",
+        "name": "GOLDEN WHOLE ROASTED CHICKEN!",
+        "shortcode": "Dfm7IFciJUk",
+        "line": "For the pan:"
+      },
+      {
+        "where": "ingredients",
+        "name": "GOLDEN WHOLE ROASTED CHICKEN!",
+        "shortcode": "Dfm7IFciJUk",
+        "line": "For garnish:"
+      },
+      {
+        "where": "ingredients",
+        "name": "LEMONY GREEN BEAN SALAD!",
+        "shortcode": "Dfip136CmiT",
+        "line": "Lemony sumac onion dressing:"
+      },
+      {
+        "where": "ingredients",
+        "name": "JUICY LEMONY BASIL CHICKEN!",
+        "shortcode": "DfXbTMyiA4L",
+        "line": "Lemony basil sauce:"
+      },
+      {
+        "where": "ingredients",
+        "name": "FALL BARLEY SOUP!",
+        "shortcode": "DfSVoCEivTh",
+        "line": "Garnish:"
+      },
+      {
+        "where": "ingredients",
+        "name": "ONE-PAN KTZITZOT AND POTATOES!",
+        "shortcode": "DfDiK6SiqIY",
+        "line": "Ingredients for the pan:"
+      },
+      {
+        "where": "ingredients",
+        "name": "ONE-PAN KTZITZOT AND POTATOES!",
+        "shortcode": "DfDiK6SiqIY",
+        "line": "For the green herb mixture:"
+      },
+      {
+        "where": "ingredients",
+        "name": "ONE-PAN KTZITZOT AND POTATOES!",
+        "shortcode": "DfDiK6SiqIY",
+        "line": "For the tomato sauce:"
+      },
+      {
+        "where": "ingredients",
+        "name": "ONE-PAN KTZITZOT AND POTATOES!",
+        "shortcode": "DfDiK6SiqIY",
+        "line": "For garnish:"
+      },
+      {
+        "where": "ingredients",
+        "name": "APPLE AND HONEY BAKLAVA!",
+        "shortcode": "Dc1MBGdi7yK",
+        "line": "For the baklava-"
+      },
+      {
+        "where": "ingredients",
+        "name": "APPLE AND HONEY BAKLAVA!",
+        "shortcode": "Dc1MBGdi7yK",
+        "line": "For the apple cider syrup-"
+      },
+      {
+        "where": "ingredients",
+        "name": "APPLE AND HONEY BAKLAVA!",
+        "shortcode": "Dc1MBGdi7yK",
+        "line": "Pan size-"
+      },
+      {
+        "where": "ingredients",
+        "name": "ONE PAN CHICKEN POTATOS AND PEAS!",
+        "shortcode": "DboRJEIigkZ",
+        "line": "Ingredients for the pan:"
+      },
+      {
+        "where": "ingredients",
+        "name": "ONE PAN CHICKEN POTATOS AND PEAS!",
+        "shortcode": "DboRJEIigkZ",
+        "line": "Ingredients for the sauce:"
+      },
+      {
+        "where": "ingredients",
+        "name": "FESTIVE BEEF STUFFED ARTICHOKE!",
+        "shortcode": "DbYTK6zOyVT",
+        "line": "For the pan-"
+      },
+      {
+        "where": "ingredients",
+        "name": "FESTIVE BEEF STUFFED ARTICHOKE!",
+        "shortcode": "DbYTK6zOyVT",
+        "line": "Vegetables for the beef mixture-"
+      },
+      {
+        "where": "ingredients",
+        "name": "FESTIVE BEEF STUFFED ARTICHOKE!",
+        "shortcode": "DbYTK6zOyVT",
+        "line": "Seasoning for the beef-"
+      },
+      {
+        "where": "ingredients",
+        "name": "FESTIVE BEEF STUFFED ARTICHOKE!",
+        "shortcode": "DbYTK6zOyVT",
+        "line": "Tomato sauce-"
+      },
+      {
+        "where": "ingredients",
+        "name": "FESTIVE BEEF STUFFED ARTICHOKE!",
+        "shortcode": "DbYTK6zOyVT",
+        "line": "Garnish-"
+      },
+      {
+        "where": "ingredients",
+        "name": "EVERYDAY APPLE CAKE!",
+        "shortcode": "Daxp5yRuCR7",
+        "line": "Topping:"
+      },
+      {
+        "where": "ingredients",
+        "name": "MOROCCAN FISH!",
+        "shortcode": "DTiRr8UjgyC",
+        "line": "Red oil ingredients:"
+      },
+      {
+        "where": "instructions",
+        "name": "MOROCCAN FISH!",
+        "shortcode": "DTiRr8UjgyC",
+        "line": "Garnish:"
+      },
+      {
+        "where": "ingredients",
+        "name": "SHABBAT SALAD - BEETS AND ARUGULA!",
+        "shortcode": "DHL-mohRXDF",
+        "line": "Dressing ingredients:"
+      },
+      {
+        "where": "ingredients",
+        "name": "SHABBAT SALAD WITH SUMAC-ORANGE DRESSING!",
+        "shortcode": "DE7tx8nR60P",
+        "line": "Sumac-orange dressing ingredients:"
+      },
+      {
+        "where": "ingredients",
+        "name": "MOROCCAN FISH BALLS!",
+        "shortcode": "Cwqjp7hxOU4",
+        "line": "Fish mixture ingredients-"
+      },
+      {
+        "where": "ingredients",
+        "name": "MOROCCAN FISH BALLS!",
+        "shortcode": "Cwqjp7hxOU4",
+        "line": "Seasoning for the fish mixture-"
+      },
+      {
+        "where": "ingredients",
+        "name": "MOROCCAN FISH BALLS!",
+        "shortcode": "Cwqjp7hxOU4",
+        "line": "Seasoning for the pan-"
+      },
+      {
+        "where": "ingredients",
+        "name": "MOROCCAN FISH BALLS!",
+        "shortcode": "Cwqjp7hxOU4",
+        "line": "Red sauce ingredients-"
+      },
+      {
+        "where": "instructions",
+        "name": "MOROCCAN FISH BALLS!",
+        "shortcode": "Cwqjp7hxOU4",
+        "line": "Preparing the red sauce-"
+      },
       {
         "where": "ingredients",
         "name": "BEET AND PISTACHIO SALAD!",
@@ -4231,6 +4411,12 @@
       },
       {
         "where": "ingredients",
+        "name": "SWEET CARDAMOM GRILLED FIGS!",
+        "shortcode": "ChksYEpgKYa",
+        "line": "Garnish-"
+      },
+      {
+        "where": "ingredients",
         "name": "ISRAELI COUSCOUS SALAD",
         "shortcode": "CgAgiCeg3w0",
         "line": "Lemony Za’atar Dressing-"
@@ -4273,9 +4459,75 @@
       },
       {
         "where": "ingredients",
+        "name": "Chicken Shawarma and Turmeric Rice Tahdig!",
+        "shortcode": "CcTM3Dng2EB",
+        "line": "Ingredients for the rice:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chicken Shawarma and Turmeric Rice Tahdig!",
+        "shortcode": "CcTM3Dng2EB",
+        "line": "Ingredients for the shawarma:"
+      },
+      {
+        "where": "instructions",
+        "name": "Chicken Shawarma and Turmeric Rice Tahdig!",
+        "shortcode": "CcTM3Dng2EB",
+        "line": "Preparing the rice-"
+      },
+      {
+        "where": "instructions",
+        "name": "Chicken Shawarma and Turmeric Rice Tahdig!",
+        "shortcode": "CcTM3Dng2EB",
+        "line": "Preparing the shawarma-"
+      },
+      {
+        "where": "ingredients",
         "name": "EGG SALAD & GOLDEN BEETS!",
         "shortcode": "Cb5pYLDAxbz",
         "line": "Ingredients for the egg salad -"
+      },
+      {
+        "where": "ingredients",
+        "name": "SABICH SALAD!",
+        "shortcode": "CbS4dK5glTJ",
+        "line": "Yogurt Tahini dressing-"
+      },
+      {
+        "where": "instructions",
+        "name": "SABICH SALAD!",
+        "shortcode": "CbS4dK5glTJ",
+        "line": "Dressing for the eggplants-"
+      },
+      {
+        "where": "instructions",
+        "name": "SABICH SALAD!",
+        "shortcode": "CbS4dK5glTJ",
+        "line": "In a bowl put -"
+      },
+      {
+        "where": "instructions",
+        "name": "SABICH SALAD!",
+        "shortcode": "CbS4dK5glTJ",
+        "line": "On a nice plate -"
+      },
+      {
+        "where": "ingredients",
+        "name": "Savory Hamentashen Galette!",
+        "shortcode": "CbDUJJ4AHG9",
+        "line": "For the dough:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Savory Hamentashen Galette!",
+        "shortcode": "CbDUJJ4AHG9",
+        "line": "Potatoes:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Savory Hamentashen Galette!",
+        "shortcode": "CbDUJJ4AHG9",
+        "line": "Onions:"
       },
       {
         "where": "ingredients",
@@ -4327,6 +4579,54 @@
       },
       {
         "where": "ingredients",
+        "name": "MOROCCAN FISH PATTIES!",
+        "shortcode": "CV-vjF0AKqE",
+        "line": "Spices for the fish mixture-"
+      },
+      {
+        "where": "ingredients",
+        "name": "MOROCCAN FISH PATTIES!",
+        "shortcode": "CV-vjF0AKqE",
+        "line": "Tomato sauce -"
+      },
+      {
+        "where": "ingredients",
+        "name": "Cinnamon Rolls!",
+        "shortcode": "CV1UXtPg2j3",
+        "line": "Topping-"
+      },
+      {
+        "where": "instructions",
+        "name": "Cinnamon Rolls!",
+        "shortcode": "CV1UXtPg2j3",
+        "line": "Start with the Yeast-"
+      },
+      {
+        "where": "instructions",
+        "name": "Cinnamon Rolls!",
+        "shortcode": "CV1UXtPg2j3",
+        "line": "brush the buns with -"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chocolate Babka!",
+        "shortcode": "CVTuqmpFktz",
+        "line": "להתחיל בשמרים-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chocolate Babka!",
+        "shortcode": "CVTuqmpFktz",
+        "line": "מלית השוקולד-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chocolate Babka!",
+        "shortcode": "CVTuqmpFktz",
+        "line": "מי סוכר לעוגה-"
+      },
+      {
+        "where": "ingredients",
         "name": "APPLE RICOTTA CAKE!",
         "shortcode": "CT8EmzUgPJ2",
         "line": "Walnut Crumble-"
@@ -4357,6 +4657,18 @@
       },
       {
         "where": "ingredients",
+        "name": "Warm Freekeh Vegan Salad!",
+        "shortcode": "CLpkv6onMz-",
+        "line": "Dressing-"
+      },
+      {
+        "where": "instructions",
+        "name": "Warm Freekeh Vegan Salad!",
+        "shortcode": "CLpkv6onMz-",
+        "line": "Meanwhile-"
+      },
+      {
+        "where": "ingredients",
         "name": "CITRUSY GOLDEN BEET SALAD!",
         "shortcode": "CKKLmkiH1KC",
         "line": "Beets-"
@@ -4380,6 +4692,66 @@
         "line": "Building the salad-"
       },
       {
+        "where": "ingredients",
+        "name": "Apple tart with almond cream!",
+        "shortcode": "CJpJADdnLIf",
+        "line": "Ingredients for the apple tart-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Apple tart with almond cream!",
+        "shortcode": "CJpJADdnLIf",
+        "line": "Almond Cream-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Apple tart with almond cream!",
+        "shortcode": "CJpJADdnLIf",
+        "line": "Apples -"
+      },
+      {
+        "where": "instructions",
+        "name": "Apple tart with almond cream!",
+        "shortcode": "CJpJADdnLIf",
+        "line": "Building the tart-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Stuffed Tomatoes and Eggplants!",
+        "shortcode": "CJKGwHNH33P",
+        "line": "Tomatoes sauce:"
+      },
+      {
+        "where": "instructions",
+        "name": "Stuffed Tomatoes and Eggplants!",
+        "shortcode": "CJKGwHNH33P",
+        "line": "Filling for the tomatoes and eggplants-"
+      },
+      {
+        "where": "ingredients",
+        "name": "LAHMACUN - Mediterranean Meat Pizza!",
+        "shortcode": "CIrc3NjnWS2",
+        "line": "Let’s start with the yeast-"
+      },
+      {
+        "where": "ingredients",
+        "name": "LAHMACUN - Mediterranean Meat Pizza!",
+        "shortcode": "CIrc3NjnWS2",
+        "line": "Ingredients for the dough-"
+      },
+      {
+        "where": "ingredients",
+        "name": "LAHMACUN - Mediterranean Meat Pizza!",
+        "shortcode": "CIrc3NjnWS2",
+        "line": "Ingredients for the meat-"
+      },
+      {
+        "where": "instructions",
+        "name": "LAHMACUN - Mediterranean Meat Pizza!",
+        "shortcode": "CIrc3NjnWS2",
+        "line": "Preparation of the Lahmacun-"
+      },
+      {
         "where": "instructions",
         "name": "Hanukkah Potato Latkes!  Made with a LATKE of love!!! yummy potato fritters that can be fried or bak",
         "shortcode": "CIo1rLHHvsX",
@@ -4390,6 +4762,264 @@
         "name": "Hanukkah Potato Latkes!  Made with a LATKE of love!!! yummy potato fritters that can be fried or bak",
         "shortcode": "CIo1rLHHvsX",
         "line": "Baking-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chicken Meatballs with Peas and Carrots!",
+        "shortcode": "CIhHsezHOqt",
+        "line": "Ingredients for the chicken mixture-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chicken Meatballs with Peas and Carrots!",
+        "shortcode": "CIhHsezHOqt",
+        "line": "Seasoning for the chicken mixture-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chicken Meatballs with Peas and Carrots!",
+        "shortcode": "CIhHsezHOqt",
+        "line": "For the pot-"
+      },
+      {
+        "where": "instructions",
+        "name": "Hot from-the-oven fluffy Brioche Buns!",
+        "shortcode": "CH_t1hAnTkn",
+        "line": "Start with the Yeast-"
+      },
+      {
+        "where": "instructions",
+        "name": "Hot from-the-oven fluffy Brioche Buns!",
+        "shortcode": "CH_t1hAnTkn",
+        "line": "brush the buns with -"
+      },
+      {
+        "where": "ingredients",
+        "name": "Apple Galette!",
+        "shortcode": "CGao9OtnBI4",
+        "line": "לבצק-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Apple Galette!",
+        "shortcode": "CGao9OtnBI4",
+        "line": "התפוחים-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Apple Galette!",
+        "shortcode": "CGao9OtnBI4",
+        "line": "קרם האגוזים-"
+      },
+      {
+        "where": "instructions",
+        "name": "Apple Galette!",
+        "shortcode": "CGao9OtnBI4",
+        "line": "במחבת רחבה על חום בינוני -"
+      },
+      {
+        "where": "ingredients",
+        "name": "Mini Challah Brioche!",
+        "shortcode": "CEJ9mYOgwZZ",
+        "line": "מתחילים עם התפחת השמרים-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Mini Challah Brioche!",
+        "shortcode": "CEJ9mYOgwZZ",
+        "line": "חומרים לבצק:"
+      },
+      {
+        "where": "instructions",
+        "name": "Za’atar Focaccia!",
+        "shortcode": "CEAhgaUgGg-",
+        "line": "In the blender put-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chocolate Coconut Birthday Cake!",
+        "shortcode": "CDz1EXCA2WP",
+        "line": "Decorations-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Vegan Crispy Chocolate Rugelach!",
+        "shortcode": "CDZ8_ytAQ1s",
+        "line": "Chocolate filling-"
+      },
+      {
+        "where": "instructions",
+        "name": "Lemony Chicken Tenderloin!",
+        "shortcode": "CDZZxu7jFBW",
+        "line": "In a small bowl add-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chicken Tenderloins over Ratatouille!",
+        "shortcode": "CDNLeS0Awen",
+        "line": "Ratatouille-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Bite Size Apricot Brioche!",
+        "shortcode": "CDAHUocgvo9",
+        "line": "Apricot Almond Cream filling-"
+      },
+      {
+        "where": "instructions",
+        "name": "Bite Size Apricot Brioche!",
+        "shortcode": "CDAHUocgvo9",
+        "line": "Start with the Yeast-"
+      },
+      {
+        "where": "instructions",
+        "name": "Bite Size Apricot Brioche!",
+        "shortcode": "CDAHUocgvo9",
+        "line": "Put in a small pot:"
+      },
+      {
+        "where": "instructions",
+        "name": "Summer Salad!",
+        "shortcode": "CCzZdzWjxSk",
+        "line": "Put in a bowl:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Mediterranean Meatballs with Chickpeas, Celery and Red Peppers!",
+        "shortcode": "CCuRNL6gZsY",
+        "line": "Meatballs ingredients-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Mediterranean Meatballs with Chickpeas, Celery and Red Peppers!",
+        "shortcode": "CCuRNL6gZsY",
+        "line": "Sauce ingredients-"
+      },
+      {
+        "where": "instructions",
+        "name": "Mediterranean Meatballs with Chickpeas, Celery and Red Peppers!",
+        "shortcode": "CCuRNL6gZsY",
+        "line": "In a small bowl mix:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chocolate & Almond Butter Babka!",
+        "shortcode": "CCeZfioAAc7",
+        "line": "Chocolate almond butter filling :"
+      },
+      {
+        "where": "instructions",
+        "name": "Chocolate & Almond Butter Babka!",
+        "shortcode": "CCeZfioAAc7",
+        "line": "Let’s start with the yeast -"
+      },
+      {
+        "where": "instructions",
+        "name": "Lemony Zucchini Tuna Cakes!",
+        "shortcode": "CCZlAsCAeS4",
+        "line": "טיגון-"
+      },
+      {
+        "where": "instructions",
+        "name": "Lemony Zucchini Tuna Cakes!",
+        "shortcode": "CCZlAsCAeS4",
+        "line": "בתנור-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Roasted Chicken with Beets!",
+        "shortcode": "CCW9B4FDAGj",
+        "line": "Dressing-"
+      },
+      {
+        "where": "instructions",
+        "name": "Raw Zucchini with Turmeric Tahini dressing, dill and mint leaves!",
+        "shortcode": "CCRdUVpgun6",
+        "line": "Dressing-"
+      },
+      {
+        "where": "instructions",
+        "name": "Raw Zucchini with Turmeric Tahini dressing, dill and mint leaves!",
+        "shortcode": "CCRdUVpgun6",
+        "line": "In a bowl mix:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Mini Sticky Buns!",
+        "shortcode": "CCHxGkcg5M4",
+        "line": "Yeast-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Mini Sticky Buns!",
+        "shortcode": "CCHxGkcg5M4",
+        "line": "Cinnamon filling-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Mini Sticky Buns!",
+        "shortcode": "CCHxGkcg5M4",
+        "line": "Caramel Pecan sauce-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Chicken tenderloin with spaghetti zucchini in a honey mustard dressing!",
+        "shortcode": "CB60LO9AfHW",
+        "line": "Honey mustard dressing:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Mini Babka Rolls!",
+        "shortcode": "CByqOmTgVVi",
+        "line": "Yeast-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Mini Babka Rolls!",
+        "shortcode": "CByqOmTgVVi",
+        "line": "Meanwhile make the Chocolate filling:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Mini Babka Rolls!",
+        "shortcode": "CByqOmTgVVi",
+        "line": "Let’s make the Chocolate sauce-"
+      },
+      {
+        "where": "instructions",
+        "name": "Mini Babka Rolls!",
+        "shortcode": "CByqOmTgVVi",
+        "line": "In a mixer -"
+      },
+      {
+        "where": "instructions",
+        "name": "Mini Babka Rolls!",
+        "shortcode": "CByqOmTgVVi",
+        "line": "Meanwhile make the Chocolate filling:"
+      },
+      {
+        "where": "instructions",
+        "name": "Mini Babka Rolls!",
+        "shortcode": "CByqOmTgVVi",
+        "line": "Let’s make the Chocolate sauce-"
+      },
+      {
+        "where": "ingredients",
+        "name": "Potato Galette with Caramelized Onions!",
+        "shortcode": "CAqyNiqjeRB",
+        "line": "For the dough:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Potato Galette with Caramelized Onions!",
+        "shortcode": "CAqyNiqjeRB",
+        "line": "Potato:"
+      },
+      {
+        "where": "ingredients",
+        "name": "Potato Galette with Caramelized Onions!",
+        "shortcode": "CAqyNiqjeRB",
+        "line": "Onions:"
       }
     ]
   },
