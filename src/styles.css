@@ -783,6 +783,15 @@ details[open] > .recipe-details > .recipe-details-inner {
   font-size: 0.95rem;
 }
 
+.empty-note a {
+  color: inherit;
+  text-underline-offset: 0.18em;
+}
+
+.empty-note a:hover {
+  color: var(--accent);
+}
+
 .source-link {
   position: relative;
   display: inline-flex;

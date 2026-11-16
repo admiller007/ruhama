@@ -84,6 +84,8 @@ export function RecipeCard({
   const highlightQuery = recipe.highlightTerms || searchQuery;
   const meta = cardMeta(recipe.cleanIngredients, recipe.macros, highlightQuery);
   const facts = recipeFacts(recipe);
+  const instagramFallback =
+    recipe.cleanIngredients.length === 0 && instructions.length === 0 && Boolean(recipe.url);
 
   const renderHighlightedText = (text: string) =>
     splitHighlightSegments(text, highlightQuery).map((segment, index) =>
@@ -114,7 +116,13 @@ export function RecipeCard({
                 <span className="match-reason">{recipe.matchLabel}</span>
               ) : null}
               {recipe.matchLabel && meta ? <span className="meta-dot"> · </span> : null}
-              {meta ? renderHighlightedText(meta) : recipe.matchLabel ? null : 'No ingredients listed'}
+              {meta
+                ? renderHighlightedText(meta)
+                : recipe.matchLabel
+                  ? null
+                  : instagramFallback
+                    ? "Full recipe is on Ruhama's Instagram post"
+                    : 'No ingredients listed'}
             </p>
           </div>
           <div className="card-actions">
@@ -179,51 +187,61 @@ export function RecipeCard({
               </dl>
             )}
 
-            <div className="recipe-columns">
-              <div className="recipe-column">
-                <h3>Ingredients</h3>
-                {recipe.cleanIngredients.length === 0 ? (
-                  <p className="empty-note">No ingredients listed.</p>
-                ) : (
-                  <ul className="ingredient-list">
-                    {groupLines(recipe.cleanIngredients).map((group, groupIndex) => (
-                      <li key={`${recipeKey}-ingredient-group-${groupIndex}`} className="line-group">
-                        {group.heading ? <p className="recipe-subhead">{group.heading}</p> : null}
-                        {group.items.length > 0 ? (
-                          <ul>
-                            {group.items.map((ingredient, index) => (
-                              <li key={`${recipeKey}-ingredient-${groupIndex}-${index}`}>{ingredient}</li>
-                            ))}
-                          </ul>
-                        ) : null}
-                      </li>
-                    ))}
-                  </ul>
-                )}
-              </div>
+            {instagramFallback ? (
+              <p className="empty-note">
+                Full recipe is on{' '}
+                <a href={recipe.url} target="_blank" rel="noreferrer">
+                  Ruhama's Instagram post
+                  <span className="visually-hidden"> (opens in a new tab)</span>
+                </a>
+              </p>
+            ) : (
+              <div className="recipe-columns">
+                <div className="recipe-column">
+                  <h3>Ingredients</h3>
+                  {recipe.cleanIngredients.length === 0 ? (
+                    <p className="empty-note">No ingredients listed.</p>
+                  ) : (
+                    <ul className="ingredient-list">
+                      {groupLines(recipe.cleanIngredients).map((group, groupIndex) => (
+                        <li key={`${recipeKey}-ingredient-group-${groupIndex}`} className="line-group">
+                          {group.heading ? <p className="recipe-subhead">{group.heading}</p> : null}
+                          {group.items.length > 0 ? (
+                            <ul>
+                              {group.items.map((ingredient, index) => (
+                                <li key={`${recipeKey}-ingredient-${groupIndex}-${index}`}>{ingredient}</li>
+                              ))}
+                            </ul>
+                          ) : null}
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                </div>
 
-              <div className="recipe-column">
-                <h3>Instructions</h3>
-                {instructions.length === 0 ? (
-                  <p className="empty-note">No instructions listed.</p>
-                ) : (
-                  <div className="instruction-flow">
-                    {groupLines(instructions).map((group, groupIndex) => (
-                      <div key={`${recipeKey}-step-group-${groupIndex}`}>
-                        {group.heading ? <p className="recipe-subhead">{group.heading}</p> : null}
-                        {group.items.length > 0 ? (
-                          <ol className="instruction-list">
-                            {group.items.map((step, index) => (
-                              <li key={`${recipeKey}-step-${groupIndex}-${index}`}>{step}</li>
-                            ))}
-                          </ol>
-                        ) : null}
-                      </div>
-                    ))}
-                  </div>
-                )}
+                <div className="recipe-column">
+                  <h3>Instructions</h3>
+                  {instructions.length === 0 ? (
+                    <p className="empty-note">No instructions listed.</p>
+                  ) : (
+                    <div className="instruction-flow">
+                      {groupLines(instructions).map((group, groupIndex) => (
+                        <div key={`${recipeKey}-step-group-${groupIndex}`}>
+                          {group.heading ? <p className="recipe-subhead">{group.heading}</p> : null}
+                          {group.items.length > 0 ? (
+                            <ol className="instruction-list">
+                              {group.items.map((step, index) => (
+                                <li key={`${recipeKey}-step-${groupIndex}-${index}`}>{step}</li>
+                              ))}
+                            </ol>
+                          ) : null}
+                        </div>
+                      ))}
+                    </div>
+                  )}
+                </div>
               </div>
-            </div>
+            )}
 
             {recipe.url ? (
               <a
