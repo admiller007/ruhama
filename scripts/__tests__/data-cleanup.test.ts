@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 // @ts-expect-error plain .mjs script without type declarations
-import { clusterDuplicates, dropEmptyPosts, mergeRenamedReposts } from "../clean_recipes.mjs";
+import { dropEmptyPosts, mergeRenamedReposts } from "../clean_recipes.mjs";
 // @ts-expect-error plain .mjs script without type declarations
 import { tagRecipe } from "../tag_kosher.mjs";
 
@@ -53,30 +53,6 @@ describe("mergeRenamedReposts", () => {
       { name: "B", ingredients: short, instructions: method }
     ];
     expect(mergeRenamedReposts(recipes).dropped.size).toBe(0);
-  });
-});
-
-describe("clusterDuplicates", () => {
-  it("keeps a later post of the same dish when it adds a step", () => {
-    const recipes = [
-      {
-        name: "LEMONY CHICKEN AND ORZO!",
-        shortcode: "new",
-        ingredients,
-        instructions: ["Place all the sauce ingredients in a measuring cup and mix well.", ...method]
-      },
-      { name: "LEMONY CHICKEN AND ORZO!", shortcode: "old", ingredients, instructions: method }
-    ];
-    expect(clusterDuplicates(recipes).dropped.size).toBe(0);
-  });
-
-  it("still merges a same-title repost whose method matches", () => {
-    const recipes = [
-      { name: "TURMERIC CHICKEN AND ONIONS!", shortcode: "new", ingredients, instructions: method },
-      { name: "TURMERIC CHICKEN AND ONIONS!", shortcode: "old", ingredients, instructions: method }
-    ];
-    const { dropped } = clusterDuplicates(recipes);
-    expect([...dropped]).toEqual([1]);
   });
 });
 

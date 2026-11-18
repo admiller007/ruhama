@@ -23,10 +23,9 @@
  *    there. Method lines become `instructions`. Lines that are not part of that
  *    labeled block are left alone.
  * 5. Near-duplicate reposts are merged. Two records are the same recipe only when
- *    their normalized titles match, their ingredient lists overlap strongly, and
- *    their instruction lines match. The newest record is kept when it is roughly
- *    as complete as the fullest copy; otherwise the fullest copy is kept. A later
- *    post that adds a step is left in place. Unsure pairs are left untouched.
+ *    their normalized titles match and their ingredient lists overlap strongly.
+ *    The newest record is kept when it is roughly as complete as the fullest copy;
+ *    otherwise the fullest copy is kept. Unsure pairs are left untouched.
  * 6. A title that is a sign-off, a call to action, or a sentence rather than a
  *    dish name is replaced with the first dish-like line already in that title
  *    or, when the title has none, in the caption. Nothing is invented. A title
@@ -596,10 +595,6 @@ function similarEnough(titleMode, leftTokens, rightTokens) {
   return overlap >= threshold;
 }
 
-function instructionKey(recipe) {
-  return instructionLines(recipe.instructions).map(compareText).join("\n");
-}
-
 function canMergePair(recipes, tokenSets, left, right) {
   const leftTitle = normalizeTitle(recipes[left].name);
   const rightTitle = normalizeTitle(recipes[right].name);
@@ -612,12 +607,10 @@ function canMergePair(recipes, tokenSets, left, right) {
 
   const tokenCount = leftKey.split(" ").filter(Boolean).length;
   if (!sameTitle && tokenCount < 3) return false;
-  if (!similarEnough(sameTitle ? "exact" : "reordered", tokenSets[left], tokenSets[right])) return false;
-  // A later post of the same dish that adds a step is a new record, not a copy to drop.
-  return instructionKey(recipes[left]) === instructionKey(recipes[right]);
+  return similarEnough(sameTitle ? "exact" : "reordered", tokenSets[left], tokenSets[right]);
 }
 
-export function clusterDuplicates(recipes) {
+function clusterDuplicates(recipes) {
   const tokenSets = recipes.map((recipe) => ingredientTokens(recipe.ingredients));
   const consumed = new Set();
   const merges = [];
@@ -892,7 +885,7 @@ export function cleanRecipes(recipes) {
       duplicates: {
         clustersMerged: merges.length,
         recordsRemoved: dropped.size,
-        rule: `Same normalized title and ingredient containment >= ${SAME_TITLE_CONTAINMENT}, or the same title words in another order (3+ words) and containment >= ${REORDERED_TITLE_CONTAINMENT}. Both sides need at least ${MIN_OVERLAP_TOKENS} content ingredient tokens, and the instruction lines must match. Newest copy is kept when it has at least 80% of the fullest copy's ingredient+instruction lines. A later post that adds a step is left in place.`,
+        rule: `Same normalized title and ingredient containment >= ${SAME_TITLE_CONTAINMENT}, or the same title words in another order (3+ words) and containment >= ${REORDERED_TITLE_CONTAINMENT}. Both sides need at least ${MIN_OVERLAP_TOKENS} content ingredient tokens. Newest copy is kept when it has at least 80% of the fullest copy's ingredient+instruction lines.`,
         merges
       },
       ingredients: {

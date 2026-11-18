@@ -2,7 +2,7 @@
   "note": "Draft guesses from ingredient lines. Not confirmed by Ruhama. Do not show as a kashrut ruling.",
   "generatedFrom": "src/data/recipes.json",
   "counts": {
-    "meat": 174,
+    "meat": 173,
     "dairy": 197,
     "pareve": 422,
     "check": 44,
@@ -439,16 +439,6 @@
       "tag": "pareve",
       "fish": false,
       "because": [],
-      "confirmed": false
-    },
-    {
-      "shortcode": "DZKveNpOTYW",
-      "name": "LEMONY CHICKEN AND ORZO!",
-      "tag": "meat",
-      "fish": false,
-      "because": [
-        "chicken"
-      ],
       "confirmed": false
     },
     {
