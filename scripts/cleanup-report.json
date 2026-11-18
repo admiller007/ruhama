@@ -1,6 +1,6 @@
 {
-  "inputCount": 912,
-  "outputCount": 836,
+  "inputCount": 837,
+  "outputCount": 837,
   "duplicates": {
     "clustersMerged": 121,
     "recordsRemoved": 160,
@@ -4103,10 +4103,28 @@
     ]
   },
   "sectionHeadings": {
-    "ingredients": 103,
+    "ingredients": 106,
     "instructions": 41,
-    "total": 144,
+    "total": 147,
     "examples": [
+      {
+        "where": "ingredients",
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
+        "line": "For the sauce:"
+      },
+      {
+        "where": "ingredients",
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
+        "line": "Garnish:"
+      },
+      {
+        "where": "ingredients",
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
+        "line": "Pan size:"
+      },
       {
         "where": "ingredients",
         "name": "GOLDEN WHOLE ROASTED CHICKEN!",
@@ -4136,27 +4154,27 @@
         "name": "JUICY LEMONY BASIL CHICKEN!",
         "shortcode": "DfXbTMyiA4L",
         "line": "Lemony basil sauce:"
+      }
+    ],
+    "lines": [
+      {
+        "where": "ingredients",
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
+        "line": "For the sauce:"
       },
       {
         "where": "ingredients",
-        "name": "FALL BARLEY SOUP!",
-        "shortcode": "DfSVoCEivTh",
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
         "line": "Garnish:"
       },
       {
         "where": "ingredients",
-        "name": "ONE-PAN KTZITZOT AND POTATOES!",
-        "shortcode": "DfDiK6SiqIY",
-        "line": "Ingredients for the pan:"
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
+        "line": "Pan size:"
       },
-      {
-        "where": "ingredients",
-        "name": "ONE-PAN KTZITZOT AND POTATOES!",
-        "shortcode": "DfDiK6SiqIY",
-        "line": "For the green herb mixture:"
-      }
-    ],
-    "lines": [
       {
         "where": "ingredients",
         "name": "GOLDEN WHOLE ROASTED CHICKEN!",

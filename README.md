@@ -17,9 +17,9 @@ python3 scripts/update_recipes.py \
 
 ## Cleaning a local copy
 
-`scripts/clean_recipes.mjs` rewrites both JSON files in place. It drops reposts when the normalized title and ingredient lists clearly match, moves numbered steps out of the ingredient list, splits an instruction that is clearly labeled Ingredients and Method, strips emoji clutter from those lines, and collapses accidental doubled words (`of of`). Run `node scripts/clean_recipes.mjs --dry-run` to preview. The merge log is `scripts/cleanup-report.json`.
+`scripts/clean_recipes.mjs` rewrites both JSON files in place. It drops reposts when the normalized title and ingredient lists clearly match and the instruction lines are the same. A later post that adds a step stays. It also moves numbered steps out of the ingredient list, splits an instruction that is clearly labeled Ingredients and Method, strips emoji clutter from those lines, and collapses accidental doubled words (`of of`). Run `node scripts/clean_recipes.mjs --dry-run` to preview. The merge log is `scripts/cleanup-report.json`.
 
-It also merges a repost that kept the ingredient list word for word under a new title ("MY MOST VIRAL RECIPE OF 2025"), keeping the copy whose title names the dish, and removes posts with no ingredients and no steps. Copies with the same ingredients but a different method are kept and listed under `renamedReposts.leftForReview` in the report.
+It also merges a repost that kept the ingredient list word for word under a new title ("MY MOST VIRAL RECIPE OF 2025"), keeping the copy whose title names the dish, and removes posts with no ingredients, no steps, and no link. A post that still links to Instagram stays, so the card can open the original. Copies with the same ingredients but a different method are kept and listed under `renamedReposts.leftForReview` in the report.
 
 ## Meat, dairy or pareve (draft)
 

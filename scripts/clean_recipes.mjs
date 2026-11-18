@@ -23,9 +23,10 @@
  *    there. Method lines become `instructions`. Lines that are not part of that
  *    labeled block are left alone.
  * 5. Near-duplicate reposts are merged. Two records are the same recipe only when
- *    their normalized titles match and their ingredient lists overlap strongly.
- *    The newest record is kept when it is roughly as complete as the fullest copy;
- *    otherwise the fullest copy is kept. Unsure pairs are left untouched.
+ *    their normalized titles match, their ingredient lists overlap strongly, and
+ *    their instruction lines match. The newest record is kept when it is roughly
+ *    as complete as the fullest copy; otherwise the fullest copy is kept. A later
+ *    post that adds a step is left in place. Unsure pairs are left untouched.
  * 6. A title that is a sign-off, a call to action, or a sentence rather than a
  *    dish name is replaced with the first dish-like line already in that title
  *    or, when the title has none, in the caption. Nothing is invented. A title
@@ -595,6 +596,10 @@ function similarEnough(titleMode, leftTokens, rightTokens) {
   return overlap >= threshold;
 }
 
+function instructionKey(recipe) {
+  return instructionLines(recipe.instructions).map(compareText).join("\n");
+}
+
 function canMergePair(recipes, tokenSets, left, right) {
   const leftTitle = normalizeTitle(recipes[left].name);
   const rightTitle = normalizeTitle(recipes[right].name);
@@ -607,10 +612,12 @@ function canMergePair(recipes, tokenSets, left, right) {
 
   const tokenCount = leftKey.split(" ").filter(Boolean).length;
   if (!sameTitle && tokenCount < 3) return false;
-  return similarEnough(sameTitle ? "exact" : "reordered", tokenSets[left], tokenSets[right]);
+  if (!similarEnough(sameTitle ? "exact" : "reordered", tokenSets[left], tokenSets[right])) return false;
+  // A later post of the same dish that adds a step is a new record, not a copy to drop.
+  return instructionKey(recipes[left]) === instructionKey(recipes[right]);
 }
 
-function clusterDuplicates(recipes) {
+export function clusterDuplicates(recipes) {
   const tokenSets = recipes.map((recipe) => ingredientTokens(recipe.ingredients));
   const consumed = new Set();
   const merges = [];
@@ -808,6 +815,10 @@ export function dropEmptyPosts(recipes) {
   const kept = recipes.filter((recipe) => {
     const empty = !(recipe.ingredients || []).some((line) => String(line).trim())
       && !(recipe.instructions || []).some((line) => String(line).trim());
+    // Parsed-empty cards that still link to Instagram stay. The card points
+    // at the post instead of showing a recipe. A post with no link and no
+    // text is a photo or a story and is removed.
+    if (empty && String(recipe.url || "").trim()) return true;
     if (empty) removed.push({ name: recipe.name, shortcode: recipe.shortcode });
     return !empty;
   });
@@ -881,7 +892,7 @@ export function cleanRecipes(recipes) {
       duplicates: {
         clustersMerged: merges.length,
         recordsRemoved: dropped.size,
-        rule: `Same normalized title and ingredient containment >= ${SAME_TITLE_CONTAINMENT}, or the same title words in another order (3+ words) and containment >= ${REORDERED_TITLE_CONTAINMENT}. Both sides need at least ${MIN_OVERLAP_TOKENS} content ingredient tokens. Newest copy is kept when it has at least 80% of the fullest copy's ingredient+instruction lines.`,
+        rule: `Same normalized title and ingredient containment >= ${SAME_TITLE_CONTAINMENT}, or the same title words in another order (3+ words) and containment >= ${REORDERED_TITLE_CONTAINMENT}. Both sides need at least ${MIN_OVERLAP_TOKENS} content ingredient tokens, and the instruction lines must match. Newest copy is kept when it has at least 80% of the fullest copy's ingredient+instruction lines. A later post that adds a step is left in place.`,
         merges
       },
       ingredients: {
@@ -924,7 +935,7 @@ export function cleanRecipes(recipes) {
       },
       emptyPosts: {
         recordsRemoved: empty.removed.length,
-        rule: "A post with no ingredient and no instruction lines is a photo or a story, not a recipe, and is removed.",
+        rule: "A post with no ingredient lines, no instruction lines, and no link is a photo or a story, not a recipe, and is removed. A post that still links to Instagram stays, so the card can open the original.",
         removed: empty.removed
       },
       sectionHeadings,
