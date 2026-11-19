@@ -2,13 +2,23 @@
   "note": "Draft guesses from ingredient lines. Not confirmed by Ruhama. Do not show as a kashrut ruling.",
   "generatedFrom": "src/data/recipes.json",
   "counts": {
-    "meat": 174,
-    "dairy": 198,
-    "pareve": 424,
-    "check": 40,
+    "meat": 173,
+    "dairy": 197,
+    "pareve": 422,
+    "check": 44,
     "fish": 36
   },
   "recipes": [
+    {
+      "shortcode": "Dfz9J9RC28i",
+      "name": "LEMONY CHICKEN AND ORZO!",
+      "tag": "meat",
+      "fish": false,
+      "because": [
+        "chicken"
+      ],
+      "confirmed": false
+    },
     {
       "shortcode": "Dfpikg1CTr1",
       "name": "PTITIM (MAC)AND CHEESE!",
@@ -429,16 +439,6 @@
       "tag": "pareve",
       "fish": false,
       "because": [],
-      "confirmed": false
-    },
-    {
-      "shortcode": "DZKveNpOTYW",
-      "name": "LEMONY CHICKEN AND ORZO!",
-      "tag": "meat",
-      "fish": false,
-      "because": [
-        "chicken"
-      ],
       "confirmed": false
     },
     {
@@ -5156,9 +5156,11 @@
     {
       "shortcode": "Cdt124jp0a8",
       "name": "MY KIDS FAVORITE PASTA!",
-      "tag": "pareve",
+      "tag": "check",
       "fish": false,
-      "because": [],
+      "because": [
+        "no ingredient list"
+      ],
       "confirmed": false
     },
     {
@@ -5275,11 +5277,10 @@
     {
       "shortcode": "CcgInkUggQ3",
       "name": "CHOCOLATE RICE PUFFED TREATS!",
-      "tag": "dairy",
+      "tag": "check",
       "fish": false,
       "because": [
-        "butter",
-        "heavy cream"
+        "no ingredient list"
       ],
       "confirmed": false
     },
@@ -5297,10 +5298,10 @@
     {
       "shortcode": "CcWl6jJA7qi",
       "name": "3 Hours Of Chuck Roast!",
-      "tag": "meat",
+      "tag": "check",
       "fish": false,
       "because": [
-        "chuck"
+        "no ingredient list"
       ],
       "confirmed": false
     },
@@ -7223,9 +7224,11 @@
     {
       "shortcode": "CDhLI70gr4T",
       "name": "3 ingredient Red Pasta!",
-      "tag": "pareve",
+      "tag": "check",
       "fish": false,
-      "because": [],
+      "because": [
+        "no ingredient list"
+      ],
       "confirmed": false
     },
     {
@@ -7360,7 +7363,7 @@
       "tag": "check",
       "fish": false,
       "because": [
-        "method mentions butter"
+        "no ingredient list"
       ],
       "confirmed": false
     },
@@ -7601,7 +7604,7 @@
       "tag": "check",
       "fish": false,
       "because": [
-        "method mentions chicken"
+        "no ingredient list"
       ],
       "confirmed": false
     },

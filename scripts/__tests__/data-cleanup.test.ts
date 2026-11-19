@@ -65,6 +65,20 @@ describe("dropEmptyPosts", () => {
     expect(recipes.map((recipe: { name: string }) => recipe.name)).toEqual(["Soup"]);
     expect(removed).toHaveLength(1);
   });
+
+  it("keeps an empty post that still links to the original", () => {
+    const { recipes, removed } = dropEmptyPosts([
+      {
+        name: "Pasta",
+        url: "https://www.instagram.com/p/abc/",
+        ingredients: [],
+        instructions: []
+      },
+      { name: "Shabbat Shalom", ingredients: [], instructions: [] }
+    ]);
+    expect(recipes.map((recipe: { name: string }) => recipe.name)).toEqual(["Pasta"]);
+    expect(removed.map((recipe: { name: string }) => recipe.name)).toEqual(["Shabbat Shalom"]);
+  });
 });
 
 describe("tagRecipe", () => {

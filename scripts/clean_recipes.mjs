@@ -808,6 +808,10 @@ export function dropEmptyPosts(recipes) {
   const kept = recipes.filter((recipe) => {
     const empty = !(recipe.ingredients || []).some((line) => String(line).trim())
       && !(recipe.instructions || []).some((line) => String(line).trim());
+    // Parsed-empty cards that still link to Instagram stay. The card points
+    // at the post instead of showing a recipe. A post with no link and no
+    // text is a photo or a story and is removed.
+    if (empty && String(recipe.url || "").trim()) return true;
     if (empty) removed.push({ name: recipe.name, shortcode: recipe.shortcode });
     return !empty;
   });
@@ -924,7 +928,7 @@ export function cleanRecipes(recipes) {
       },
       emptyPosts: {
         recordsRemoved: empty.removed.length,
-        rule: "A post with no ingredient and no instruction lines is a photo or a story, not a recipe, and is removed.",
+        rule: "A post with no ingredient lines, no instruction lines, and no link is a photo or a story, not a recipe, and is removed. A post that still links to Instagram stays, so the card can open the original.",
         removed: empty.removed
       },
       sectionHeadings,

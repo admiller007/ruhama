@@ -1,11 +1,30 @@
 {
-  "inputCount": 912,
+  "inputCount": 836,
   "outputCount": 836,
   "duplicates": {
-    "clustersMerged": 121,
-    "recordsRemoved": 160,
+    "clustersMerged": 122,
+    "recordsRemoved": 161,
     "rule": "Same normalized title and ingredient containment >= 0.92, or the same title words in another order (3+ words) and containment >= 0.95. Both sides need at least 4 content ingredient tokens. Newest copy is kept when it has at least 80% of the fullest copy's ingredient+instruction lines.",
     "merges": [
+      {
+        "kept": {
+          "name": "LEMONY CHICKEN AND ORZO!",
+          "shortcode": "Dfz9J9RC28i",
+          "index": 0,
+          "completeness": 29
+        },
+        "dropped": [
+          {
+            "name": "LEMONY CHICKEN AND ORZO!",
+            "shortcode": "DZKveNpOTYW",
+            "index": 46,
+            "completeness": 25,
+            "ingredientOverlap": 1
+          }
+        ],
+        "keptNewest": true,
+        "minOverlapWithKept": 1
+      },
       {
         "kept": {
           "name": "BEEF STEW WITH CHICKPEAS!",
@@ -4103,10 +4122,28 @@
     ]
   },
   "sectionHeadings": {
-    "ingredients": 103,
+    "ingredients": 106,
     "instructions": 41,
-    "total": 144,
+    "total": 147,
     "examples": [
+      {
+        "where": "ingredients",
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
+        "line": "For the sauce:"
+      },
+      {
+        "where": "ingredients",
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
+        "line": "Garnish:"
+      },
+      {
+        "where": "ingredients",
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
+        "line": "Pan size:"
+      },
       {
         "where": "ingredients",
         "name": "GOLDEN WHOLE ROASTED CHICKEN!",
@@ -4136,27 +4173,27 @@
         "name": "JUICY LEMONY BASIL CHICKEN!",
         "shortcode": "DfXbTMyiA4L",
         "line": "Lemony basil sauce:"
+      }
+    ],
+    "lines": [
+      {
+        "where": "ingredients",
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
+        "line": "For the sauce:"
       },
       {
         "where": "ingredients",
-        "name": "FALL BARLEY SOUP!",
-        "shortcode": "DfSVoCEivTh",
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
         "line": "Garnish:"
       },
       {
         "where": "ingredients",
-        "name": "ONE-PAN KTZITZOT AND POTATOES!",
-        "shortcode": "DfDiK6SiqIY",
-        "line": "Ingredients for the pan:"
+        "name": "LEMONY CHICKEN AND ORZO!",
+        "shortcode": "Dfz9J9RC28i",
+        "line": "Pan size:"
       },
-      {
-        "where": "ingredients",
-        "name": "ONE-PAN KTZITZOT AND POTATOES!",
-        "shortcode": "DfDiK6SiqIY",
-        "line": "For the green herb mixture:"
-      }
-    ],
-    "lines": [
       {
         "where": "ingredients",
         "name": "GOLDEN WHOLE ROASTED CHICKEN!",
